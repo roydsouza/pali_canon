@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian runtime state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+
+# Editor swap files
+*.swp
+*.tmp
