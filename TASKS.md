@@ -22,6 +22,7 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
 - [x] Implement a CSS snippet in `.obsidian/snippets/` to allow toggling translations on/off → `pali-translation-toggle.css` (enable in Obsidian Appearance settings; hotkey via Settings → Hotkeys)
 - [x] Install Simsapa Dhamma Reader + Obsidian plugin for double-click Pali word lookup (DPD)
 - [x] Install Dataview plugin for metadata queries across the vault
+- [x] Install Templater plugin; hotkey `Templater: Insert toggle_translations` toggles translation CSS
 - [x] Create templates folder with mula/atthakatha/tika sutta templates
 - [x] Initialize git repository with `.gitignore`
 - [x] Scaffold Khuddaka Nikāya, Abhidhamma Piṭaka, and Vinaya Piṭaka folder structures

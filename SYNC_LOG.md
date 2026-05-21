@@ -2,6 +2,17 @@
 
 This log tracks sync states and key technical context for agent pairs working on the Pali Canon Vault.
 
+## [2026-05-21 14:00:00-07:00] - Templater Translation Toggle (Claude Code)
+
+### Accomplishments
+- **Templater plugin** (v2.20.5) installed and configured. `enabled_templates_hotkeys` in `data.json` registers the command `Templater: Insert toggle_translations` as a hotkey-assignable Obsidian command.
+- **Toggle template** at `templates/toggle_translations.md` — executes JS to flip the `pali-translation-toggle` CSS snippet on/off with no content inserted into the active note.
+- **Hotkey**: user assigns via Settings → Hotkeys → search `toggle` → `Templater: Insert toggle_translations`.
+- **`.gitignore`** updated: Templater's `data.json` is now tracked (holds hotkey config); other plugins' `data.json` remain ignored.
+
+### Current State
+- Full infrastructure is operational: Simsapa DPD lookup, Dataview, translation toggle, git, templates, and folder scaffolding for all three piṭakas.
+
 ## [2026-05-21 13:30:00-07:00] - Vault Infrastructure Overhaul (Claude Code)
 
 ### Accomplishments
