@@ -1,0 +1,180 @@
+---
+id: DHP_22
+title_pali: Nirayavagga
+title_en: Hell
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+text: dhammapada
+vagga: 22
+verse_range: "306–319"
+tags:
+  - dhammapada
+---
+
+# Dhammapada — Chapter 22: Nirayavagga
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+
+## Nirayavagga — Hell
+*Verses 306–319*
+
+### 306. *Sundarīparibbājikāvatthu*
+
+**Abhūtavādī nirayaṁ upeti,**  
+*A liar goes to hell,*
+**Yo vāpi katvā na karomi cāha;**  
+*as does one who denies what they did.*
+**Ubhopi te pecca samā bhavanti,**  
+*Both are equal in the hereafter,*
+**Nihīnakammā manujā parattha.**  
+*those men of base deeds.*
+
+### 307. *Duccaritaphalapīḷitavatthu*
+
+**Kāsāvakaṇṭhā bahavo,**  
+*Many who wear a scrap of ocher cloth*
+**pāpadhammā asaññatā;**  
+*are unrestrained and wicked.*
+**Pāpā pāpehi kammehi,**  
+*Being wicked, they are reborn in hell*
+**nirayaṁ te upapajjare.**  
+*due to their bad deeds.*
+
+### 308. *Vaggumudātīriyabhikkhuvatthu*
+
+**Seyyo ayoguḷo bhutto,**  
+*It’d be better for the immoral and unrestrained*
+**tatto aggisikhūpamo;**  
+*to eat an iron ball,*
+**Yañce bhuñjeyya dussīlo,**  
+*scorching, like a burning flame,*
+**raṭṭhapiṇḍamasaññato.**  
+*than to eat the nation’s alms.*
+
+### 309. *Khemakaseṭṭhiputtavatthu*
+
+**Cattāri ṭhānāni naro pamatto,**  
+*Four things befall a heedless man*
+**Āpajjati paradārūpasevī;**  
+*who sleeps with another’s wife:*
+**Apuññalābhaṁ na nikāmaseyyaṁ,**  
+*wickedness, poor sleep,*
+**Nindaṁ tatīyaṁ nirayaṁ catutthaṁ.**  
+*ill-repute, and rebirth in hell.*
+
+### 310.
+
+**Apuññalābho ca gatī ca pāpikā,**  
+*He accrues wickedness and is reborn in a bad place,*
+**Bhītassa bhītāya ratī ca thokikā;**  
+*all so a frightened couple <j>may snatch a moment’s pleasure,*
+**Rājā ca daṇḍaṁ garukaṁ paṇeti,**  
+*for which rulers impose a heavy punishment.*
+**Tasmā naro paradāraṁ na seve.**  
+*That’s why a man should not <j>sleep with another’s wife.*
+
+### 311. *Dubbacabhikkhuvatthu*
+
+**Kuso yathā duggahito,**  
+*When kusa grass is wrongly grasped*
+**hatthamevānukantati;**  
+*it only cuts the hand.*
+**Sāmaññaṁ dupparāmaṭṭhaṁ,**  
+*So too, the ascetic life, when wrongly taken,*
+**nirayāyupakaḍḍhati.**  
+*drags you to hell.*
+
+### 312.
+
+**Yaṁ kiñci sithilaṁ kammaṁ,**  
+*Any lax act,*
+**saṅkiliṭṭhañca yaṁ vataṁ;**  
+*any corrupt observance,*
+**Saṅkassaraṁ brahmacariyaṁ,**  
+*or suspicious spiritual life,*
+**na taṁ hoti mahapphalaṁ.**  
+*is not very fruitful.*
+
+### 313.
+
+**Kayirā ce kayirāthenaṁ,**  
+*If one is to do what should be done,*
+**daḷhamenaṁ parakkame;**  
+*one should staunchly strive.*
+**Sithilo hi paribbājo,**  
+*For the life gone forth when laxly led*
+**bhiyyo ākirate rajaṁ.**  
+*just stirs up dust all the more.*
+
+### 314. *Issāpakataitthivatthu*
+
+**Akataṁ dukkaṭaṁ seyyo,**  
+*A bad deed is better left undone,*
+**pacchā tappati dukkaṭaṁ;**  
+*for it will plague you later on.*
+**Katañca sukataṁ seyyo,**  
+*A good deed is better done,*
+**yaṁ katvā nānutappati.**  
+*one that does not plague you.*
+
+### 315. *Sambahulabhikkhuvatthu*
+
+**Nagaraṁ yathā paccantaṁ,**  
+*As a frontier city*
+**guttaṁ santarabāhiraṁ;**  
+*is guarded inside and out,*
+**Evaṁ gopetha attānaṁ,**  
+*so you should ward yourselves—*
+**khaṇo vo mā upaccagā;**  
+*don’t let the moment pass you by.*
+**Khaṇātītā hi socanti,**  
+*For if you miss your moment*
+**nirayamhi samappitā.**  
+*you’ll grieve when sent to hell.*
+
+### 316. *Nigaṇṭhavatthu*
+
+**Alajjitāye lajjanti,**  
+*Unashamed of what is shameful,*
+**lajjitāye na lajjare;**  
+*ashamed of what is not shameful;*
+**Micchādiṭṭhisamādānā,**  
+*beings who uphold wrong view*
+**sattā gacchanti duggatiṁ.**  
+*go to a bad place.*
+
+### 317.
+
+**Abhaye bhayadassino,**  
+*Seeing danger where there is none,*
+**bhaye cābhayadassino;**  
+*and blind to the actual danger,*
+**Micchādiṭṭhisamādānā,**  
+*beings who uphold wrong view*
+**sattā gacchanti duggatiṁ.**  
+*go to a bad place.*
+
+### 318. *Titthiyasāvakavatthu*
+
+**Avajje vajjamatino,**  
+*Seeing fault where there is none,*
+**vajje cāvajjadassino;**  
+*and blind to the actual fault,*
+**Micchādiṭṭhisamādānā,**  
+*beings who uphold wrong view*
+**sattā gacchanti duggatiṁ.**  
+*go to a bad place.*
+
+### 319.
+
+**Vajjañca vajjato ñatvā,**  
+*Knowing a fault as a fault*
+**avajjañca avajjato;**  
+*and the faultless as faultless,*
+**Sammādiṭṭhisamādānā,**  
+*beings who uphold right view*
+**sattā gacchanti suggatiṁ.**  
+*go to a good place.*
+**Nirayavaggo dvāvīsatimo.**  
+

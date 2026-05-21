@@ -2,6 +2,20 @@
 
 This log tracks sync states and key technical context for agent pairs working on the Pali Canon Vault.
 
+## [2026-05-21 14:30:00-07:00] - Dhammapada Mūla Complete (Claude Code)
+
+### Accomplishments
+- **Dhammapada mūla**: All 26 vaggas (423 verses, ~17,600 words) fetched from SuttaCentral API and generated as interleaved Pali/English files. Bhikkhu Sujato translation.
+- **Files**: `mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga.md` through `dhp_26_brahmanavagga.md` + `INDEX.md`.
+- **Format**: Each verse has verse number, optional vatthu (origin story name) as italic subhead, then Pali (bold) / English (italic) line pairs. Vagga-end colophons preserved from canonical tradition.
+- **Tags**: Meditation-focused chapters (2, 3, 7, 14, 20, 25) tagged `meditation`; ethics/precepts chapters (1, 9, 10, 17, 18, 19) tagged `precepts`.
+- **Fetch script**: `scratch/generate_dhammapada.py` — reusable for re-fetching or adapting to other Khuddaka texts.
+- **Khuddaka INDEX**: Updated to list Dhammapada as complete.
+
+### Current State
+- Dhammapada mūla layer is complete. Commentary (Dhammapada-aṭṭhakathā) and sub-commentary not yet added.
+- Next: Dhammapada commentary (origin stories), then Abhidhamma or MN expansion.
+
 ## [2026-05-21 14:00:00-07:00] - Templater Translation Toggle (Claude Code)
 
 ### Accomplishments

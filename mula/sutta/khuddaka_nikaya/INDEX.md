@@ -12,10 +12,6 @@ The Khuddaka Nikāya ("Collection of Minor Works") is the fifth and largest nik�
 
 ## Migrated Texts
 
-*None yet.*
-
-## Planned Texts
-
-| File | Title | Status |
-|---|---|---|
-| dhp.md | Dhammapada | Planned |
+| Text | Title | Verses | Status |
+|---|---|---|---|
+| [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX\|Dhammapada]] | Sayings of the Dhamma | 423 (26 chapters) | Complete — Sujato translation |

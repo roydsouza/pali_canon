@@ -30,7 +30,14 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
 - [ ] Maintain the link validation script to verify vault health as new files are added
 - [ ] Add Dataview query blocks to nikaya INDEX files for live sutta lists
 
-### 4. Expansion of Other Nikāyas (Future Phases)
+### 4. Dhammapada (Khuddaka Nikāya)
+- [x] Generate all 26 vaggas (423 verses) from SuttaCentral — Bhikkhu Sujato translation
+- [x] Interleaved mula files: `mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_*.md` through `dhp_26_*.md`
+- [ ] Dhammapada-aṭṭhakathā (commentary) — famous origin stories for each verse
+- [ ] Dhammapada Tīkā (sub-commentary)
+- [ ] Cross-link vagga files to relevant mātikā entries
+
+### 5. Expansion of Other Nikāyas (Future Phases)
 - [ ] Dīgha Nikāya (Dīgha Nikāya Sutta, Commentary, Sub-commentary)
 - [ ] Saṃyutta Nikāya (Saṃyutta Nikāya Sutta, Commentary, Sub-commentary)
 - [ ] Aṅguttara Nikāya (Aṅguttara Nikāya Sutta, Commentary, Sub-commentary)
