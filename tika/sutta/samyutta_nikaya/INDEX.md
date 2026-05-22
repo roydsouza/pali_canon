@@ -20,3 +20,4 @@ layer: tika
 | [[sn22|SN22]] | [[sn22_tik|Khandhasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 8,841 |
 | [[sn56|SN56]] | [[sn56_tik|Saccasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,689 |
 | [[sn47|SN47]] | [[sn47_tik|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 6,123 |
+| [[sn45|SN45]] | [[sn45_tik|Maggasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 3,007 |

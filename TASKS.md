@@ -1,7 +1,7 @@
 # Project Tasks Checklist
 
 This file tracks the roadmap and pending tasks for the Pali Canon Vault.
-**Last updated**: 2026-05-22 (Claude Code session — SN 12, 22, 35, 56 completed)
+**Last updated**: 2026-05-22 (SN 45 Maggasaṃyutta migration completed)
 
 ---
 
@@ -52,6 +52,7 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 - [x] SN 12 (Nidānasaṃyutta) — 18 suttas (20,504w) / 475¶ (22,013w) / 463¶ (21,458w); Mātikā: dependent_origination, four_noble_truths
 - [x] SN 22 (Khandhasaṃyutta) — 18 suttas (23,613w) / 400¶ (13,968w) / 408¶ (8,841w); Mātikā: five_aggregates, three_marks
 - [x] SN 35 (Saḷāyatanasaṃyutta) — 23 suttas (10,082w) / 590¶ (20,030w) / 484¶ (10,316w); Mātikā: five_spiritual_faculties, dependent_origination
+- [x] SN 45 (Maggasaṃyutta) — 20 suttas (7,202w) / 124¶ (3,463w) / 126¶ (3,007w); §-anchors + callouts done; Mātikā: noble_eightfold_path
 - [x] SN 46 (Bojjhaṅgasaṃyutta) — 56 suttas (23,919w) / 180¶ (6,062w) / 175¶ (5,545w); Mātikā: seven_awakening_factors
 - [x] SN 47 (Satipaṭṭhānasaṃyutta) — 16 suttas (9,504w) / 220¶ (9,325w) / 149¶ (6,123w); §-anchors + callouts done; Mātikā: four_foundations_of_mindfulness
 - [x] SN 54 (Ānāpānasaṃyutta) — 20 suttas (11,648w) / 45¶ (2,018w) / 40¶ (1,393w); Mātikā: four_foundations_of_mindfulness
@@ -85,7 +86,6 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 ## Pending Work
 
 ### SN — Remaining High-Value Saṃyuttas
-- [ ] **SN 45 (Maggasaṃyutta)** — CSCD: `s0305a.att0.xml` / `s0305t.tik0.xml` — **Recommended #1**
 - [ ] **SN 55 (Sotāpattisaṃyutta)** — CSCD: `s0305a.att10.xml` / `s0305t.tik10.xml` — **Recommended #2**
 - [ ] **SN 48 (Indriyasaṃyutta)** — CSCD: `s0305a.att3.xml` / `s0305t.tik3.xml` — **Recommended #5**
 - [ ] SN 51 (Iddhipādasaṃyutta) — CSCD: `s0305a.att6.xml` / `s0305t.tik6.xml` — lower priority
@@ -123,8 +123,8 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 
 ### Cross-linking — Paragraph Level
 - [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for 20+ suttas — pattern in `scratch/crosslink_mn118.py`
-      Currently done: MN 118, DN 9, DN 15 only
-      Candidates: MN 10, MN 36, DN 22, SN 46, all SN saṃyuttas
+      Currently done: MN 118, DN 9, DN 15, SN 45, SN 47 only
+      Candidates: MN 10, MN 36, DN 22, SN 46, all other SN saṃyuttas
 
 ### Infrastructure
 - [ ] Dataview query blocks in nikaya INDEX files for live sutta lists

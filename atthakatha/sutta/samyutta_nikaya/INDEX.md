@@ -20,3 +20,4 @@ layer: atthakatha
 | [[sn22|SN22]] | [[sn22_att|Khandhasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 13,968 |
 | [[sn56|SN56]] | [[sn56_att|Saccasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 2,413 |
 | [[sn47|SN47]] | [[sn47_att|Satipaṭṭhānasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 9,325 |
+| [[sn45|SN45]] | [[sn45_att|Maggasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 3,463 |

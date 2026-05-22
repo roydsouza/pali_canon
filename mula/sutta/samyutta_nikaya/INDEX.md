@@ -20,3 +20,4 @@ layer: mula
 | [[sn22|SN22]] | Khandhasaṃyutta | 23,613 |
 | [[sn56|SN56]] | Saccasaṃyutta | 6,469 |
 | [[sn47|SN47]] | Satipaṭṭhānasaṃyutta | 9,504 |
+| [[sn45|SN45]] | Maggasaṃyutta | 7,202 |

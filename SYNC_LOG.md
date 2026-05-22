@@ -1,6 +1,31 @@
 # Sync Log
 
+## [2026-05-22 — SN 45 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**SN 45 (Maggasaṃyutta) Migration**
+- **Mūla**: 20 selected suttas (7,202 words) in [[sn45]]. Pali text interleaved with Bhikkhu Sujato's English translation.
+- **Atthakathā**: 124 paragraphs (3,463 words) in [[sn45_att]] parsed from tipitaka.org CSCD XML file `s0305a.att0.xml`.
+- **Ṭīkā**: 126 paragraphs (3,007 words) in [[sn45_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik0.xml`.
+- **Mātikā Integration**: Added `[[sn45|SN 45: Maggasaṃyutta]]` under Canonical References in [[noble_eightfold_path]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in [[sn45]] pointing to specific commentary and sub-commentary paragraph anchors.
+  - Prepended `### §NNN` headers and added bidirectional navigation links between Mūla, Atthakathā, and Ṭīkā layers for the 4 key suttas:
+    - **SN 45.2** (Upaḍḍhasutta) ↔ Atthakathā & Ṭīkā §1-2
+    - **SN 45.3** (Sāriputtasutta) ↔ Atthakathā & Ṭīkā §3
+    - **SN 45.8** (Vibhaṅgasutta) ↔ Atthakathā & Ṭīkā §8
+    - **SN 45.139** (Tathāgatasutta) ↔ Atthakathā & Ṭīkā §139
+- **Index and Status Updates**:
+  - Confirmed and verified rows in `mula/sutta/samyutta_nikaya/INDEX.md`, `atthakatha/sutta/samyutta_nikaya/INDEX.md`, and `tika/sutta/samyutta_nikaya/INDEX.md`.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+  - Updated `TASKS.md` checklists, marking SN 45 tasks complete and updating next order priority.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links.
+
+---
+
 ## [2026-05-22 — SN 47 Migration and Cross-linking (Antigravity)]
+
 
 ### Session Accomplishments
 

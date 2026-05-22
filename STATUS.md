@@ -6,9 +6,9 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Suttas Complete | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 104 individual suttas + SN12/22/35/47/56 (91 selected) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 104 individual suttas + 26 DhpA chapters + SN12/22/35/47/56 (1,838¶) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | 104 individual suttas + SN12/22/35/47/56 (1,604¶) | MN, DN, SN, AN | CSCD Pali |
+| **Mūla (Root Texts)** | 104 individual suttas + SN12/22/35/45/47/56 (111 selected) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 104 individual suttas + 26 DhpA chapters + SN12/22/35/45/47/56 (1,962¶) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | 104 individual suttas + SN12/22/35/45/47/56 (1,730¶) | MN, DN, SN, AN | CSCD Pali |
 | **Mātikā (Doctrinal Lists)** | 16 lists | — | Pali/English, cross-linked |
 
 ---
@@ -39,13 +39,14 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | DN 15 Mahānidānasutta | ✅ 6,706w | ✅ 138¶ + 80 notes | ✅ 122¶ | ✅ Full §-anchors & Mātikā |
 | DN 22 Mahāsatipaṭṭhānasutta | ✅ 8,892w | ✅ 293¶ + 78 notes | ✅ 236¶ | Mātikā |
 
-### Saṃyutta Nikāya (Connected Discourses) — 167 suttas (7 saṃyuttas)
+### Saṃyutta Nikāya (Connected Discourses) — 187 suttas (8 saṃyuttas)
 
 | Saṃyutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
 | SN 12 Nidānasaṃyutta (18 selected) | ✅ 20,504w | ✅ 475¶ (22,013w) | ✅ 463¶ (21,458w) | Mātikā |
 | SN 22 Khandhasaṃyutta (18 selected) | ✅ 23,613w | ✅ 400¶ (13,968w) | ✅ 408¶ (8,841w) | Mātikā |
 | SN 35 Saḷāyatanasaṃyutta (23 selected) | ✅ 10,082w | ✅ 590¶ (20,030w) | ✅ 484¶ (10,316w) | Mātikā |
+| SN 45 Maggasaṃyutta (20 selected) | ✅ 7,202w | ✅ 124¶ (3,463w) | ✅ 126¶ (3,007w) | ✅ 4 suttas full §-anchors & Mātikā |
 | SN 46 Bojjhaṅgasaṃyutta (56 suttas) | ✅ 23,919w | ✅ 180¶ | ✅ 175¶ | Mātikā |
 | SN 47 Satipaṭṭhānasaṃyutta (16 selected) | ✅ 9,504w | ✅ 220¶ (9,325w) | ✅ 149¶ (6,123w) | ✅ 4 suttas full §-anchors & Mātikā |
 | SN 54 Ānāpānasaṃyutta (20 suttas) | ✅ 11,648w | ✅ 45¶ | ✅ 40¶ | Mātikā |
