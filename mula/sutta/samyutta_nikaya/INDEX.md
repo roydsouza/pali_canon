@@ -16,3 +16,4 @@ layer: mula
 | [[sn46|SN46]] | Bojjhaṅgasaṃyutta | 23,919 |
 | [[sn54|SN54]] | Ānāpānasaṃyutta | 11,648 |
 | [[sn35|SN35]] | Saḷāyatanasaṃyutta | 10,082 |
+| [[sn12|SN12]] | Nidānasaṃyutta | 20,504 |

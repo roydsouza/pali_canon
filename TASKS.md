@@ -45,7 +45,7 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
 - [ ] Build a script to automatically parse VRI XML files for commentaries and sub-commentaries of other Nikāyas
 - [ ] Maintain the link validation script to verify vault health as new files are added
 - [ ] Add Dataview query blocks to nikaya INDEX files for live sutta lists
-- [ ] Add missing **Related Texts** navigation lines to MN 119 and MN 121 (currently only have Navigation line)
+- [x] Add missing **Related Texts** navigation lines to MN 119 and MN 121 — done; also added Mātikā links to both
 
 ### 4. Dhammapada (Khuddaka Nikāya)
 - [x] Generate all 26 vaggas (423 verses) from SuttaCentral — Bhikkhu Sujato translation
@@ -73,7 +73,7 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
         - dhp_24_tanhavagga_att.md — 12 stories (13,836 words)
         - dhp_26_brahmanavagga_att.md — 40 stories (38,581 words)
         Script: `scratch/generate_dhammapada_att_remaining.py`
-- [ ] Dhammapada Tīkā (sub-commentary)
+- [ ] Dhammapada Tīkā (sub-commentary) — **BLOCKED**: s0502t.tik*.xml returns 404 on tipitaka.org; CSCD does not include the Dhammapada-ṭīkā online. Would need offline CSCD CD-ROM or alternative source.
 - [x] Cross-link vagga files to relevant mātikā entries — done for 6 chapters:
       dhp_02 → four_foundations_of_mindfulness; dhp_10 → five_precepts;
       dhp_14 → three_refuges, four_noble_truths; dhp_17 → three_unwholesome_roots;
@@ -119,7 +119,8 @@ These high-value meditation suttas are the recommended next batch. All three lay
 
 ### 7. Expansion of Other Nikāyas (Future Phases)
 - [ ] **Dīgha Nikāya** — expand beyond DN 2; scaffold full INDEX with all 34 suttas
-- [ ] **Saṃyutta Nikāya** — scaffold full INDEX (2,889 suttas in 56 saṃyuttas); priority: SN 12, 35 (SN 46 + 54 done)
+- [x] **SN 12 (Nidānasaṃyutta)** — 18 selected suttas (20,504w), att (475¶, 22,013w), tīkā (463¶, 21,458w); Mātikā: dependent_origination, four_noble_truths
+- [ ] **Saṃyutta Nikāya** — scaffold full INDEX (2,889 suttas in 56 saṃyuttas); priority: SN 22 (Khandhavagga) next (SN 12, 35, 46, 54 done)
 - [ ] **Aṅguttara Nikāya** — scaffold full INDEX (2,308 suttas in 11 nipātas); priority: AN 4, 5, 9, 10
 - [ ] **Khuddaka Nikāya** — beyond Dhammapada: Udāna, Itivuttaka, Sutta Nipāta, Thera/Therīgāthā
 - [ ] **Abhidhamma Piṭaka** — Dhammasaṅgaṇī, Vibhaṅga (mātikā cross-links)

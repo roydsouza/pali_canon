@@ -16,3 +16,4 @@ layer: tika
 | [[sn46|SN46]] | [[sn46_tik|Bojjhaṅgasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 5,545 |
 | [[sn54|SN54]] | [[sn54_tik|Ānāpānasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,393 |
 | [[sn35|SN35]] | [[sn35_tik|Saḷāyatanasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 10,316 |
+| [[sn12|SN12]] | [[sn12_tik|Nidānasaṃyuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 21,458 |

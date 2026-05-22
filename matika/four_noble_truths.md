@@ -30,3 +30,4 @@ type: matika
 * [[mn118|MN 118: Ānāpānasatisutta]] — briefly referenced under the awakening factors / dhamma contemplation
 * [[mn36|MN 36: Mahāsaccakasutta]] — realised in the third vijjā (āsavakkhaya knowledge) during the night of the Buddha's awakening; "idaṁ dukkhan... samudayo... nirodho... dukkhanirodhagāminī paṭipadā"
 * [[dhp_14_buddhavagga|Dhp Ch. 14: Buddhavagga (The Buddha)]] — v. 190-192: going for refuge to the Triple Gem leads to seeing "cattāri ariyasaccāni" with wisdom; the knowledge of the truths and the Noble Eightfold Path are presented as the fruit of taking refuge
+* [[sn12|SN 12: Nidānasaṃyutta]] — the second truth (samudaya) is unpacked in full through the 12-link dependent origination chain; the third truth (nirodha) is demonstrated through the cessation of each link; SN 12.65 (Nagarasūpamā) narrates the Buddha's discovery of the ancient path as the direct counterpart of the truths
