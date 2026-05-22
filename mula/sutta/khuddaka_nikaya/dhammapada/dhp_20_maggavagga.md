@@ -16,6 +16,7 @@ tags:
 # Dhammapada — Chapter 20: Maggavagga
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] · [[three_marks|Three Marks of Existence]]
 
 ## Maggavagga — The Path
 *Verses 273–289*

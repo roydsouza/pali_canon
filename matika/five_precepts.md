@@ -26,3 +26,4 @@ type: matika
 
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (practicing mindfulness requires a foundation of ethical conduct, though not explicitly detailed in the sutta itself)
+* [[dhp_10_dandavagga|Dhp Ch. 10: Daṇḍavagga (The Rod)]] — the first precept (non-harm / ahimsa) is the central theme; v. 129-132 state that all beings fear the rod, and one who does not harm knowing this finds happiness; v. 133-145 extend the principle through rebirth consequences of harm

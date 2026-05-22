@@ -23,3 +23,4 @@ type: matika
 
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (referenced in the commentary and sub-commentary under insight-meditation on impermanence)
+* [[dhp_20_maggavagga|Dhp Ch. 20: Maggavagga (The Path)]] — v. 277-279 state all three marks explicitly and sequentially: "sabbe saṅkhārā aniccā" (all formations are impermanent), "sabbe saṅkhārā dukkhā" (all formations are suffering), "sabbe dhammā anattā" (all phenomena are non-self); seeing each with wisdom leads to disenchantment and the path to purity

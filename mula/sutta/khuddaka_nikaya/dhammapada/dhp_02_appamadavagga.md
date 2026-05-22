@@ -16,6 +16,7 @@ tags:
 # Dhammapada — Chapter 2: Appamādavagga
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]]
 
 ## Appamādavagga — Heedfulness
 *Verses 21–32*

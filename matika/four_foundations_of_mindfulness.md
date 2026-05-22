@@ -32,3 +32,4 @@ type: matika
 * [[mn44|MN 44: Cūḷavedallasutta]] — satipaṭṭhānā listed as the basis (nimitta) for samādhi; Dhammadinnā explains the relationship between the foundations and the three training categories
 * [[mn119|MN 119: Kāyagatāsatisutta]] — devoted entirely to kāyagatāsati (the first foundation, body contemplation): 14 objects, four jhānas, and the ten benefits of sustained bodily mindfulness
 * [[an4_41|AN 4.41: Samādhibhāvanāsutta]] — the third mode of samādhi development (sati-sampajañña) directly implements the four foundations; mindfulness and awareness as the path to knowing arising and passing away of feelings
+* [[dhp_02_appamadavagga|Dhp Ch. 2: Appamādavagga (Heedfulness)]] — "appamādo amatapadaṁ" (v. 21): heedfulness is the path to the deathless; the entire chapter equates appamāda with sati-practice and its abandonment with the death of insight

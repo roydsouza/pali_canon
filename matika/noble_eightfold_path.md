@@ -45,3 +45,4 @@ type: matika
 * [[mn111|MN 111: Anupadasutta]] — Sāriputta's mastery described as perfection in noble sīla, samādhi, paññā, and vimutti — the path realised through one-by-one sequential jhāna investigation
 * [[mn119|MN 119: Kāyagatāsatisutta]] — Sammāsati (Right Mindfulness) developed through kāyagatāsati; the sutta shows bodily mindfulness as the direct implementation of the first foundation
 * [[an4_41|AN 4.41: Samādhibhāvanāsutta]] — Sammāsamādhi (Right Concentration) in its four developmental modes: pleasant abiding, divine eye, mindfulness-awareness, and ending of the āsavā
+* [[dhp_20_maggavagga|Dhp Ch. 20: Maggavagga (The Path)]] — v. 273: "Maggānaṭṭhaṅgiko seṭṭho" (of all paths, the Noble Eightfold Path is the best); v. 274 names sammādiṭṭhi, sammāvāyāmo, sammāsati explicitly; the chapter frames the path as the only route to purification

@@ -16,6 +16,7 @@ tags:
 # Dhammapada — Chapter 17: Kodhavagga
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Mātikā**: [[three_unwholesome_roots|Three Unwholesome Roots]]
 
 ## Kodhavagga — Anger
 *Verses 221–234*

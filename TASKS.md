@@ -74,7 +74,10 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
         - dhp_26_brahmanavagga_att.md — 40 stories (38,581 words)
         Script: `scratch/generate_dhammapada_att_remaining.py`
 - [ ] Dhammapada Tīkā (sub-commentary)
-- [ ] Cross-link vagga files to relevant mātikā entries
+- [x] Cross-link vagga files to relevant mātikā entries — done for 6 chapters:
+      dhp_02 → four_foundations_of_mindfulness; dhp_10 → five_precepts;
+      dhp_14 → three_refuges, four_noble_truths; dhp_17 → three_unwholesome_roots;
+      dhp_20 → noble_eightfold_path, three_marks; dhp_24 → dependent_origination, three_unwholesome_roots
 
 ### 5. Next Meditation Sutta Tranche (Phase 2)
 

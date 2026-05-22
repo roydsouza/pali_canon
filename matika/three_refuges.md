@@ -23,3 +23,4 @@ type: matika
 
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (practitioners of breathing mindfulness establish their training in refuge in the Buddha and the Dhamma)
+* [[dhp_14_buddhavagga|Dhp Ch. 14: Buddhavagga (The Buddha)]] — v. 188-192 contrast worldly refuges (mountains, forests, trees) with the supreme refuge: "Yo ca buddhañca dhammañca saṅghañca saraṇaṁ gato" and the resulting vision of the Four Noble Truths and the Noble Eightfold Path

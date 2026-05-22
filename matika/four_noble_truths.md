@@ -29,3 +29,4 @@ type: matika
 * [[mn10#4.5. The Truths|MN 10: Satipaṭṭhānasutta §4.5]] — shorter parallel; the four truths as the final object of dhammānupassanā
 * [[mn118|MN 118: Ānāpānasatisutta]] — briefly referenced under the awakening factors / dhamma contemplation
 * [[mn36|MN 36: Mahāsaccakasutta]] — realised in the third vijjā (āsavakkhaya knowledge) during the night of the Buddha's awakening; "idaṁ dukkhan... samudayo... nirodho... dukkhanirodhagāminī paṭipadā"
+* [[dhp_14_buddhavagga|Dhp Ch. 14: Buddhavagga (The Buddha)]] — v. 190-192: going for refuge to the Triple Gem leads to seeing "cattāri ariyasaccāni" with wisdom; the knowledge of the truths and the Noble Eightfold Path are presented as the fruit of taking refuge

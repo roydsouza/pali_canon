@@ -16,6 +16,7 @@ tags:
 # Dhammapada — Chapter 14: Buddhavagga
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Mātikā**: [[three_refuges|Three Refuges]] · [[four_noble_truths|Four Noble Truths]]
 
 ## Buddhavagga — The Buddha
 *Verses 179–196*

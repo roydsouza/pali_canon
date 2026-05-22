@@ -16,6 +16,7 @@ tags:
 # Dhammapada — Chapter 10: Daṇḍavagga
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]]
+**Mātikā**: [[five_precepts|Five Precepts]]
 
 ## Daṇḍavagga — The Rod
 *Verses 129–145*
