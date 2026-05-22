@@ -31,3 +31,4 @@ type: matika
 * [[dn22#4.2. The Aggregates|DN 22: Mahāsatipaṭṭhānasutta §4.2]] — same section; identical treatment
 * [[mn43|MN 43: Mahāvedallasutta]] — Sāriputta and Mahākoṭṭhita analyse consciousness, feeling, and perception in detail; distinguishes viññāṇa from paññā
 * [[mn118|MN 118: Ānāpānasatisutta]] — referenced throughout the four tetrads: body/form, feelings, mind/consciousness, and dhammas/mental formations
+* [[mn44|MN 44: Cūḷavedallasutta]] — the five grasping aggregates (pañcupādānakkhandhā) identified as "substantial reality" (sakkāya); desire and greed for the aggregates defined as the grasping itself

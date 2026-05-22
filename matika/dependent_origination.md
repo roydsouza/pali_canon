@@ -42,3 +42,4 @@ type: matika
 ## Canonical References
 * [[dn15|DN 15: Mahānidāna Sutta]] (The locus classicus for the detailed analysis and mutual conditioning of name-and-form and consciousness)
 * [[mn118|MN 118: Ānāpānasati Sutta]] (referenced implicitly in the section on contemplation of feeling and mind, and commentarial discussions on the cessation of suffering)
+* [[mn43|MN 43: Mahāvedallasutta]] — avijjā and taṇhā identified as the two bonds (saṃyojana) that keep beings roaming in saṃsāra; cessation of avijjā and taṇhā leads to liberation; the sutta's discussion of feeling and consciousness touches the central links of the chain

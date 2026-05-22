@@ -27,3 +27,4 @@ Also known as the Four Divine Abodes or Immeasurables.
 
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (practitioners cultivate equanimity / upekkhā as the seventh awakening factor, which stabilizes the mind during meditation)
+* [[mn52|MN 52: Aṭṭhakanāgarasutta]] — all four brahmavihārā (mettā, karuṇā, muditā, upekkhā) presented as independent "doors to the deathless" alongside the four jhānas and three formless attainments; radiating each immeasurable to all directions and entering signless immersion leads to liberation

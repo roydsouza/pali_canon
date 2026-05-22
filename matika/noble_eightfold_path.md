@@ -40,3 +40,8 @@ type: matika
 * [[an5_28|AN 5.28: Pañcaṅgikasutta]] — Sammāsamādhi; defines the "noble right concentration with five factors" — the jhāna accompanied by the five factors of pīti and sukha suffusing the body, a mind of pure light, and direct knowledge
 * [[an9_36|AN 9.36: Jhānasutta]] — Sammāsamādhi; each of the nine attainments enables direct knowledge of specific phenomena and release of the corresponding defilements
 * [[an10_2_6|AN 10.2–6: Ānisaṃsasuttāni]] — the complete path (sīla→samādhi→paññā→liberation); five suttas showing the cascading benefits of ethical conduct leading through concentration to final liberation
+* [[mn43|MN 43: Mahāvedallasutta]] — Sammādiṭṭhi (Right View) examined in detail: its two conditions (hearing the true dhamma, wise attention), and the five supports that make it fruitful
+* [[mn44|MN 44: Cūḷavedallasutta]] — the Noble Eightfold Path twice explicitly enumerated; the three training categories (sīla, samādhi, paññā) derived from the path; four right exertions as prerequisites for immersion
+* [[mn111|MN 111: Anupadasutta]] — Sāriputta's mastery described as perfection in noble sīla, samādhi, paññā, and vimutti — the path realised through one-by-one sequential jhāna investigation
+* [[mn119|MN 119: Kāyagatāsatisutta]] — Sammāsati (Right Mindfulness) developed through kāyagatāsati; the sutta shows bodily mindfulness as the direct implementation of the first foundation
+* [[an4_41|AN 4.41: Samādhibhāvanāsutta]] — Sammāsamādhi (Right Concentration) in its four developmental modes: pleasant abiding, divine eye, mindfulness-awareness, and ending of the āsavā

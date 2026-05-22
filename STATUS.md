@@ -21,14 +21,14 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 |---|---|---|---|---|
 | MN 10 Satipaṭṭhānasutta | ✅ 5,721w | ✅ 362¶ + 49 notes | ✅ 232¶ | Mātikā |
 | MN 20 Vitakkasaṇṭhānasutta | ✅ 1,798w | ✅ 40¶ + 11 notes | ✅ 26¶ | Mātikā |
-| MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | — |
-| MN 43 Mahāvedallasutta | ✅ 3,877w | ✅ 60¶ + 30 notes | ✅ 54¶ | — |
-| MN 44 Cūḷavedallasutta | ✅ 3,096w | ✅ 39¶ + 27 notes | ✅ 40¶ | — |
-| MN 52 Aṭṭhakanāgarasutta | ✅ 1,696w | ✅ 14¶ + 14 notes | ✅ 10¶ | — |
-| MN 111 Anupadasutta | ✅ 2,272w | ✅ 26¶ + 18 notes | ✅ 38¶ | — |
-| MN 118 Ānāpānasatisutta | ✅ 3,522w | ✅ 18¶ | ✅ 16¶ | ✅ Full §-anchors |
-| MN 119 Kāyagatāsatisutta | ✅ 4,967w | ✅ 10¶ + 18 notes | ✅ 8¶ | — |
-| MN 121 Cūḷasuññatasutta | ✅ 2,760w | ✅ 13¶ + 15 notes | ✅ 11¶ | — |
+| MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | Mātikā |
+| MN 43 Mahāvedallasutta | ✅ 3,877w | ✅ 60¶ + 30 notes | ✅ 54¶ | Mātikā |
+| MN 44 Cūḷavedallasutta | ✅ 3,096w | ✅ 39¶ + 27 notes | ✅ 40¶ | Mātikā |
+| MN 52 Aṭṭhakanāgarasutta | ✅ 1,696w | ✅ 14¶ + 14 notes | ✅ 10¶ | Mātikā |
+| MN 111 Anupadasutta | ✅ 2,272w | ✅ 26¶ + 18 notes | ✅ 38¶ | Mātikā |
+| MN 118 Ānāpānasatisutta | ✅ 3,522w | ✅ 18¶ | ✅ 16¶ | ✅ Full §-anchors & Mātikā |
+| MN 119 Kāyagatāsatisutta | ✅ 4,967w | ✅ 10¶ + 18 notes | ✅ 8¶ | Mātikā |
+| MN 121 Cūḷasuññatasutta | ✅ 2,760w | ✅ 13¶ + 15 notes | ✅ 11¶ | Nav fixed |
 
 ### Dīgha Nikāya (Long Discourses) — 4 suttas
 
@@ -51,7 +51,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | Sutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
 | AN 3.100 Loṇakapallasutta | ✅ 1,681w | ✅ 37¶ | ✅ 12¶ | Mātikā |
-| AN 4.41 Samādhibhāvanāsutta | ✅ 745w | ✅ 15¶ | ✅ 18¶ | — |
+| AN 4.41 Samādhibhāvanāsutta | ✅ 745w | ✅ 15¶ | ✅ 18¶ | Mātikā |
 | AN 4.123–126 Nānākaraṇasuttāni (4) | ✅ 2,607w | ✅ 22¶ | ✅ 10¶ | Mātikā |
 | AN 5.28 Pañcaṅgikasutta | ✅ 2,312w | ✅ 31¶ | ✅ 35¶ | Mātikā |
 | AN 9.36 Jhānasutta | ✅ 2,177w | ✅ 28¶ | ✅ 11¶ | Mātikā |

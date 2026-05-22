@@ -28,3 +28,4 @@ type: matika
 * [[dn22#4.5. The Truths|DN 22: Mahāsatipaṭṭhānasutta §4.5]] — the most extensive canonical treatment; §4.5.1–4 covers each truth in full with the Noble Eightfold Path as the fourth
 * [[mn10#4.5. The Truths|MN 10: Satipaṭṭhānasutta §4.5]] — shorter parallel; the four truths as the final object of dhammānupassanā
 * [[mn118|MN 118: Ānāpānasatisutta]] — briefly referenced under the awakening factors / dhamma contemplation
+* [[mn36|MN 36: Mahāsaccakasutta]] — realised in the third vijjā (āsavakkhaya knowledge) during the night of the Buddha's awakening; "idaṁ dukkhan... samudayo... nirodho... dukkhanirodhagāminī paṭipadā"

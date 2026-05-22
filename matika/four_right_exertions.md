@@ -29,3 +29,4 @@ These four aspects constitute the factor of Right Effort (*Sammā Vāyāma*) in 
 ## Canonical References
 * [[mn20|MN 20: Vitakkasaṇṭhānasutta]] — five practical methods for applying the second and third exertions: abandoning arisen unwholesome thoughts and preventing their re-arising
 * [[mn118|MN 118: Ānāpānasatisutta]] — energy (viriya) is actively applied through ānāpānasati to transition from mindfulness to the seven awakening factors
+* [[mn44|MN 44: Cūḷavedallasutta]] — the four right exertions (cattāro sammappadhānā) listed as prerequisites for immersion (samādhinimittā); Dhammadinnā explains their role in the three training categories

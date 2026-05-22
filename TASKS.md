@@ -45,6 +45,7 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
 - [ ] Build a script to automatically parse VRI XML files for commentaries and sub-commentaries of other Nikāyas
 - [ ] Maintain the link validation script to verify vault health as new files are added
 - [ ] Add Dataview query blocks to nikaya INDEX files for live sutta lists
+- [ ] Add missing **Related Texts** navigation lines to MN 119 and MN 121 (currently only have Navigation line)
 
 ### 4. Dhammapada (Khuddaka Nikāya)
 - [x] Generate all 26 vaggas (423 verses) from SuttaCentral — Bhikkhu Sujato translation
@@ -126,6 +127,16 @@ These high-value meditation suttas are the recommended next batch. All three lay
 - [x] Cross-link Dependent Origination mātikā to DN 15 (Paṭṭhāna deferred — awaiting Abhidhamma phase)
 - [x] Cross-link Seven Awakening Factors → sn46, mn10, dn22, mn118, an3_100, an9_36 (done)
 - [x] Cross-link Noble Eightfold Path → dn22§4.5.4, mn118, an3_100, an4_123_126, an5_28, an9_36, an10_2_6 (done; MN 141 deferred — not yet migrated)
+- [x] Add Mātikā reverse links for Phase 2 suttas:
+      - MN 36 → four_noble_truths ✓
+      - MN 43 → five_aggregates, noble_eightfold_path, dependent_origination ✓
+      - MN 44 → five_aggregates, noble_eightfold_path, four_right_exertions, four_foundations_of_mindfulness ✓
+      - MN 52 → four_sublime_states ✓
+      - MN 111 → noble_eightfold_path ✓
+      - MN 119 → four_foundations_of_mindfulness, noble_eightfold_path (+ Related Texts line added) ✓
+      - MN 121 → Related Texts line added; no mātikā entry (suññatā has no current list) ✓
+      - AN 4.41 → four_foundations_of_mindfulness, noble_eightfold_path (+ Related Texts line added) ✓
+- [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for Phase 2+ suttas — currently only done for MN 118, DN 9, DN 15; 20+ suttas remain without paragraph-level cross-navigation
 
 ## Orthogonal Buddhist Lists (Mātika)
 - [x] Create `matika/INDEX.md` index file
