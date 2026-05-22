@@ -1,5 +1,153 @@
 # Sync Log
 
+## [2026-05-22 — HANDOFF NOTE + Full Session Summary (Claude Code → next agent)]
+
+### Context for Incoming Agent
+
+This vault is an Obsidian study vault for the Pali Canon (Roy Peter's personal meditation study tool). The primary goal is **meditation practice**, secondary goal is **precepts study**. Every new sutta added should serve one of those goals. Roy actively studies in Obsidian and uses Simsapa DPD for Pali word lookups.
+
+The vault has a strict three-layer structure: **mūla** (root text, interleaved Pali/English), **atthakathā** (commentary, CSCD Pali), **tīkā** (sub-commentary, CSCD Pali). Every sutta should have all three. Mātikā (doctrinal lists) form a cross-cutting network linking sutta files by doctrine.
+
+**Always run `python3 scratch/validate_links.py` before committing.** 124 files, 1,144 wikilinks, must be 0 errors.
+
+**Always update TASKS.md and SYNC_LOG.md** before ending a session. Roy checks both.
+
+---
+
+### Session Accomplishments (2026-05-22)
+
+**SN 35 (Saḷāyatanasaṃyutta)** — all three layers
+- Mūla: 23 suttas (10,082w); att: 590¶ (20,030w) from `s0304a.att0.xml`; tīkā: 484¶ (10,316w) from `s0304t.tik0.xml`
+- Key suttas: aniccā group (sn35.1–10), Fire Sermon / Āditta (sn35.28), Gaddulabaddha (sn35.95), liberation suttas
+- Mātikā: `five_spiritual_faculties` + `dependent_origination` → sn35
+
+**Dhammapada ṭīkā — BLOCKED**
+- All `s0502t.tik*.xml` return 404; CSCD online does not publish the Dhammapada-ṭīkā
+- The Dhammapada-aṭṭhakathā Pali IS available at `s0502a.att1–att9` (~1.6MB) but already have English version
+- Would need offline CSCD CD-ROM or alternative Pali source
+
+**SN 12 (Nidānasaṃyutta)** — all three layers
+- Mūla: 18 suttas (20,504w); att: 475¶ (22,013w) from `s0302a.att0.xml`; tīkā: 463¶ (21,458w) from `s0302t.tik0.xml`
+- Key suttas: DO formula (sn12.1–2), Kaccānagotta (sn12.15), Upanisā (sn12.23), ancient city (sn12.65), Susīma (sn12.70)
+- Mātikā: `dependent_origination` + `four_noble_truths` → sn12
+
+**SN 22 (Khandhasaṃyutta)** — all three layers
+- Mūla: 18 suttas (23,613w); att: 400¶ (13,968w) from `s0303a.att0.xml`; tīkā: 408¶ (8,841w) from `s0303t.tik0.xml`
+- Key suttas: burden simile (sn22.22), Anattalakkhaṇa (sn22.59), foam simile (sn22.95), Yamaka (sn22.85), Vakkali (sn22.87), Khemaka (sn22.89)
+- Mātikā: `five_aggregates` + `three_marks` → sn22
+
+**SN 56 (Saccasaṃyutta)** — all three layers
+- Mūla: 16 suttas (6,469w); att: 153¶ (2,413w) from `s0305a.att11.xml`; tīkā: 100¶ (1,689w) from `s0305t.tik11.xml`
+- Key suttas: Dhammacakkappavattana (sn56.11 — the First Discourse), Koṭigāma (sn56.20), siṃsapā leaves (sn56.31), blind turtle (sn56.47–48)
+- Mātikā: `four_noble_truths` + `noble_eightfold_path` → sn56
+
+**Housekeeping**
+- MN 119 + MN 121 Related Texts nav lines added (were missing)
+- TASKS.md fully rewritten — clean, comprehensive, prioritised
+- All mātikā reverse links updated throughout session
+- Git: 4 feat commits + 2 chore commits this session
+
+---
+
+### Current Vault State (2026-05-22 end of session)
+
+| Metric | Value |
+|---|---|
+| Total markdown files | 124 |
+| Total wikilinks validated | 1,144 |
+| Mūla suttas | 104 individual + 6 SN saṃyuttas (117 selected) |
+| Atthakathā texts | 104 individual + 26 DhpA + 6 SN saṃyuttas |
+| Ṭīkā texts | 104 individual + 6 SN saṃyuttas |
+| Mātikā lists | 16 (all cross-linked) |
+| Git commits | clean, on main |
+
+**SN coverage**: SN 12, 22, 35, 46, 54, 56 — six saṃyuttas, covering all five major doctrinal pillars (DO, aggregates, sense bases, bojjhaṅgas/ānāpāna, four truths)
+
+---
+
+### CSCD File Mapping Reference (tipitaka.org/romn/cscd/)
+
+This is the most non-obvious technical knowledge. File naming: `s{NN}{NN}{a|t}.{att|tik}{N}.xml` where `a`=mūla/atthakathā source, `t`=tīkā source.
+
+**Dīgha Nikāya (s0101–s0102)**
+- DN 2: att=`s0101a.att2.xml`, tik=`s0101t.tik2.xml`
+- DN 9: att=`s0101a.att9.xml`, tik=`s0101t.tik9.xml`
+- DN 15: att=`s0102a.att1.xml`, tik=`s0102t.tik1.xml`
+- DN 22: att=`s0102a.att8.xml`, tik=`s0102t.tik8.xml` (entire file)
+- DN 16 (Mahāparinibbāna): probe `s0102a.att0.xml` or `s0102a.att2.xml`
+
+**Majjhima Nikāya (s0201–s0203)**
+- MN 10, 20: `s0201t.tik1.xml`, `s0201t.tik2.xml`
+- MN 36, 43, 44: `s0201a.att4.xml`, `s0201a.att5.xml`
+- MN 111, 119, 121: `s0203a.att1.xml`, `s0203t.tik1/2.xml`
+
+**Saṃyutta Nikāya**
+- Sagāthāvagga (s0301): SN 1–11
+- Nidānavagga (s0302): SN 12 att=`s0302a.att0.xml` (507KB), tik=`s0302t.tik0.xml` (588KB); entire file = SN 12 only
+- Khandavagga (s0303): SN 22 att=`s0303a.att0.xml` (343KB), tik=`s0303t.tik0.xml` (273KB); att1-att11 = SN 23-34
+- Saḷāyatanavagga (s0304): SN 35 att=`s0304a.att0.xml` (476KB), tik=`s0304t.tik0.xml` (323KB)
+- Mahāvagga (s0305) — each file = one saṃyutta:
+  - att0/tik0 = SN 45 (Maggasaṃyutta, 92/93KB)
+  - att1/tik1 = SN 46 (Bojjhaṅgasaṃyutta, confirmed)
+  - att2/tik2 = SN 47 (Satipaṭṭhānasaṃyutta, 212/171KB — **large, substantive**)
+  - att3/tik3 = SN 48 (Indriyasaṃyutta, 73KB each)
+  - att4/tik4 = SN 49 (Sammappadhānasaṃyutta, tiny ~1KB stub)
+  - att5/tik5 = SN 50 (Balasaṃyutta, tiny ~1KB stub)
+  - att6/tik6 = SN 51 (Iddhipādasaṃyutta, 47/62KB)
+  - att7/tik7 = SN 52 (Anuruddhasaṃyutta, 6KB each)
+  - att8/tik8 = SN 53 (Jhānasaṃyutta, tiny ~1KB stub)
+  - att9/tik9 = SN 54 (Ānāpānasaṃyutta, confirmed)
+  - att10/tik10 = SN 55 (Sotāpattisaṃyutta, 68/55KB)
+  - att11/tik11 = SN 56 (Saccasaṃyutta, confirmed)
+
+**Aṅguttara Nikāya (s0401–s0404)**
+- s0402a spans AN 2+3+4; s0403a spans AN 5; s0404a spans AN 8+9+10
+- Tīkā mirrors att exactly (s040Xt.tikN = s040Xa.attN)
+- Specific: an3_100→att28, an4_123_126→att48, an5_28→att2, an9_36→att13, an10_2_6→att15
+
+**Khuddaka Nikāya (s0501–s0519)**
+- s0501 = Khuddakapāṭha, s0502 = Dhammapada, s0505 = Suttanipāta
+- Dhammapada att available (s0502a.att1–att9, ~1.6MB total); ṭīkā NOT available (all 404)
+- Udāna: probe s0503; Itivuttaka: probe s0504
+
+---
+
+### Technical Patterns Established
+
+**Generating a new SN saṃyutta** — copy any of `scratch/generate_sn{12|22|35|56}_*.py`, change:
+- `slug`, `sutta_code`, `pali_title`, `en_title`
+- `sc_ids` list (SuttaCentral IDs like `sn47.1`)
+- `cscd_file` in att/tik scripts
+- `**Mātikā**:` line in `build_samyutta_file()`
+Run mūla first, then att+tik in parallel (`& wait`).
+
+**After generating** — always:
+1. Add mātikā reverse links (edit relevant `matika/*.md` files)
+2. Run `python3 scratch/validate_links.py`
+3. Update STATUS.md (SN saṃyutta count + word counts)
+4. Update TASKS.md (mark done, update mātikā inventory)
+5. Update SYNC_LOG.md
+6. Commit with conventional `feat:` message
+
+**SuttaCentral API**: `https://suttacentral.net/api/bilarasuttas/{sc_id}/sujato`
+- SN has 3 metadata keys (`:0.1`, `:0.2`, `:0.3`); prefer `:0.3` for sutta title, `:0.2` fallback
+- Some IDs return `{'msg': 'Not Found'}` — the `except` block in `render_sutta` handles gracefully
+
+**CSCD XML**: UTF-16 encoded. Decode: `try raw.decode('utf-16'); except raw.decode('utf-8', errors='replace')`
+- `<p rend="chapter">` / `<p rend="section">` = section headings
+- `<hi rend="paranum">N</hi>` = paragraph number
+- `<hi rend="bold">` = key term (convert to `**bold**`)
+- `<pb .../>` = page break (strip)
+
+---
+
+### Recommended Next Action (for incoming agent)
+
+**Start with SN 47 (Satipaṭṭhānasaṃyutta)**. It's the most meditation-relevant gap: the Four Foundations of Mindfulness saṃyutta. Files are confirmed (att2=212KB, tik2=171KB). Script pattern is identical to SN 56 — just change the slug, CSCD filenames, sc_ids, and mātikā line. The four_foundations_of_mindfulness mātikā currently lists SN 54 as its SN source; SN 47 is the primary one and should be added.
+
+Suggested sc_ids for SN 47 mūla:
+`sn47.1` (Ambapāla), `sn47.2`, `sn47.4`, `sn47.7`, `sn47.8`, `sn47.9` (the Island simile / atta-dīpa), `sn47.10` (Bhikkhunupassaya), `sn47.11–13`, `sn47.19`, `sn47.20`, `sn47.35`, `sn47.36`, `sn47.42`, `sn47.46`
+
 ## [2026-05-22 — SN 22 + SN 56 Migration (Claude Code)]
 
 ### Accomplishments
