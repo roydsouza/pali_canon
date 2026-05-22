@@ -33,3 +33,4 @@ These five qualities are also referred to as the Five Powers (*Pañcabala*) when
 * [[mn118|MN 118: Ānāpānasatisutta]] — ānāpānasati directly cultivates and fulfills all five spiritual faculties through the progression of the four foundations and seven awakening factors
 * [[an4_123_126|AN 4.123–126: Nānākaraṇasuttāni]] — Samādhindriya; the four suttas on differences between meditators examine how the same absorption level leads to varying rebirths depending on the depth of samādhi and paññā
 * [[an10_2_6|AN 10.2–6: Ānisaṃsasuttāni]] — the sīla→samādhi→paññā chain in these five benefit-suttas traces the sequential arising of all five spiritual faculties from the basis of saddha (confidence in the teaching)
+* [[sn35|SN 35: Saḷāyatanasaṃyutta]] — the six sense bases (āyatanā) as the domain in which the five spiritual faculties are applied to produce dispassion and liberation; the aniccā/dukkha/anattā contemplation of the āyatanā directly exercises paññindriya

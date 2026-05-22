@@ -98,7 +98,7 @@ These high-value meditation suttas are the recommended next batch. All three lay
 - [x] DN 15: Mahānidānasutta — dependent origination in detail (mūla 6,706w, att 10,236w, tīkā 7,693w)
 
 **Saṃyutta Nikāya — samādhi and bojjhaṅga:**
-- [ ] SN 35 (Saḷāyatanasaṃyutta): selected suttas on the six sense bases
+- [x] SN 35 (Saḷāyatanasaṃyutta): 23 selected suttas on the six sense bases — mūla (10,082w), att (590¶, 20,030w), tīkā (484¶, 10,316w); Mātikā: five_spiritual_faculties, dependent_origination
 - [x] SN 46 (Bojjhaṅgasaṃyutta) — mūla (56 suttas, 23,919w), att (180¶, 6,062w), tīkā (175¶, 5,545w)
 - [x] SN 54 (Ānāpānasaṃyutta) — mūla (20 suttas, 11,648w), att (45¶, 2,018w), tīkā (40¶, 1,393w)
 
