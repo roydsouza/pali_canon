@@ -32,3 +32,4 @@ type: matika
 * [[mn43|MN 43: Mahāvedallasutta]] — Sāriputta and Mahākoṭṭhita analyse consciousness, feeling, and perception in detail; distinguishes viññāṇa from paññā
 * [[mn118|MN 118: Ānāpānasatisutta]] — referenced throughout the four tetrads: body/form, feelings, mind/consciousness, and dhammas/mental formations
 * [[mn44|MN 44: Cūḷavedallasutta]] — the five grasping aggregates (pañcupādānakkhandhā) identified as "substantial reality" (sakkāya); desire and greed for the aggregates defined as the grasping itself
+* [[sn22|SN 22: Khandhasaṃyutta]] — the primary canonical locus for the five aggregates; sn22.22 (Bhāra) names them as the burden; sn22.59 (Anattalakkhaṇa) applies aniccā/dukkha/anattā to all five in the second discourse ever given; sn22.95 (Phena) compares form to foam, feeling to bubbles, perception to a mirage, formations to a plantain trunk, consciousness to a conjurer's trick
