@@ -121,7 +121,8 @@ These high-value meditation suttas are the recommended next batch. All three lay
 - [ ] **Dīgha Nikāya** — expand beyond DN 2; scaffold full INDEX with all 34 suttas
 - [x] **SN 12 (Nidānasaṃyutta)** — 18 selected suttas (20,504w), att (475¶, 22,013w), tīkā (463¶, 21,458w); Mātikā: dependent_origination, four_noble_truths
 - [x] **SN 22 (Khandhasaṃyutta)** — 18 selected suttas (23,613w), att (400¶, 13,968w), tīkā (408¶, 8,841w); Mātikā: five_aggregates, three_marks
-- [ ] **Saṃyutta Nikāya** — scaffold full INDEX (2,889 suttas in 56 saṃyuttas); priority: SN 56 (Saccasaṃyutta) next (SN 12, 22, 35, 46, 54 done)
+- [x] **SN 56 (Saccasaṃyutta)** — 16 selected suttas (6,469w), att (153¶, 2,413w), tīkā (100¶, 1,689w); Mātikā: four_noble_truths, noble_eightfold_path
+- [ ] **Saṃyutta Nikāya** — remaining priorities: SN 45 (Maggasaṃyutta), SN 47 (Satipaṭṭhānasaṃyutta) (SN 12, 22, 35, 46, 54, 56 done)
 - [ ] **Aṅguttara Nikāya** — scaffold full INDEX (2,308 suttas in 11 nipātas); priority: AN 4, 5, 9, 10
 - [ ] **Khuddaka Nikāya** — beyond Dhammapada: Udāna, Itivuttaka, Sutta Nipāta, Thera/Therīgāthā
 - [ ] **Abhidhamma Piṭaka** — Dhammasaṅgaṇī, Vibhaṅga (mātikā cross-links)
@@ -175,5 +176,6 @@ These high-value meditation suttas are the recommended next batch. All three lay
       - sn35 → five_spiritual_faculties, dependent_origination ✓
       - sn12 → dependent_origination, four_noble_truths ✓
       - sn22 → five_aggregates, three_marks ✓
+      - sn56 → four_noble_truths, noble_eightfold_path ✓
 - [ ] Continue linking as new suttas are added; Abhidhamma pending
 

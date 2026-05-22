@@ -18,3 +18,4 @@ layer: mula
 | [[sn35|SN35]] | Saḷāyatanasaṃyutta | 10,082 |
 | [[sn12|SN12]] | Nidānasaṃyutta | 20,504 |
 | [[sn22|SN22]] | Khandhasaṃyutta | 23,613 |
+| [[sn56|SN56]] | Saccasaṃyutta | 6,469 |

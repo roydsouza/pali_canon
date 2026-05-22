@@ -1,6 +1,34 @@
 # Sync Log
 
-## [2026-05-22 — SN 35, SN 12 Migration + Dhammapada ṭīkā Investigation (Claude Code)
+## [2026-05-22 — SN 22 + SN 56 Migration (Claude Code)]
+
+### Accomplishments
+
+**SN 22 (Khandhasaṃyutta) — all three layers**
+- Mūla: 18 selected suttas (23,613w) — Bhāra/burden (sn22.22), Anattalakkhaṇa (sn22.59), foam simile (sn22.95), Yamaka (sn22.85), Vakkali (sn22.87), Khemaka (sn22.89), Gaddulabaddha (sn22.99)
+- Atthakathā: 400 paragraphs (13,968w) from CSCD `s0303a.att0.xml`
+- Ṭīkā: 408 paragraphs (8,841w) from CSCD `s0303t.tik0.xml`
+- Mātikā: `five_aggregates.md` and `three_marks.md` updated with reverse links → sn22
+- Scripts: `generate_sn22_mula.py`, `generate_sn22_att.py`, `generate_sn22_tik.py`
+
+**SN 56 (Saccasaṃyutta) — all three layers**
+- Mūla: 16 selected suttas (6,469w) — Dhammacakkappavattana (sn56.11), Koṭigāma (sn56.20), siṃsapā leaves (sn56.31), simile suttas, blind-turtle/chiggaḷa (sn56.47-48)
+- Atthakathā: 153 paragraphs (2,413w) from CSCD `s0305a.att11.xml`
+- Ṭīkā: 100 paragraphs (1,689w) from CSCD `s0305t.tik11.xml`
+- Mātikā: `four_noble_truths.md` and `noble_eightfold_path.md` updated with reverse links → sn56
+- Scripts: `generate_sn56_mula.py`, `generate_sn56_att.py`, `generate_sn56_tik.py`
+
+**CSCD File Mapping Discovered**
+- SN Mahāvagga s0305: saṃyuttas 1-12 map to att0/tik0 through att11/tik11
+  - att0/tik0=SN45, att1/tik1=SN46, att2/tik2=SN47, att3/tik3=SN48, att9/tik9=SN54, att10/tik10=SN55, att11/tik11=SN56
+- SN Khandavagga s0303: att0/tik0=SN22 (343KB att / 273KB tik, full saṃyutta)
+
+### Current State
+- SN now covers: SN 12, 22, 35, 46, 54, 56 — six saṃyuttas, 151 selected suttas
+- 1,113+ wikilinks validated clean
+- Next candidates: SN 45 (Maggasaṃyutta), SN 47 (Satipaṭṭhānasaṃyutta), or pivot to Vinaya/KN
+
+## [2026-05-22 — SN 35, SN 12 Migration + Dhammapada ṭīkā Investigation (Claude Code)]
 
 ### Accomplishments
 

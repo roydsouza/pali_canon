@@ -39,13 +39,14 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | DN 15 Mahānidānasutta | ✅ 6,706w | ✅ 138¶ + 80 notes | ✅ 122¶ | ✅ Full §-anchors & Mātikā |
 | DN 22 Mahāsatipaṭṭhānasutta | ✅ 8,892w | ✅ 293¶ + 78 notes | ✅ 236¶ | Mātikā |
 
-### Saṃyutta Nikāya (Connected Discourses) — 135 suttas (5 saṃyuttas)
+### Saṃyutta Nikāya (Connected Discourses) — 151 suttas (6 saṃyuttas)
 
 | Saṃyutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
 | SN 12 Nidānasaṃyutta (18 selected) | ✅ 20,504w | ✅ 475¶ (22,013w) | ✅ 463¶ (21,458w) | Mātikā |
 | SN 22 Khandhasaṃyutta (18 selected) | ✅ 23,613w | ✅ 400¶ (13,968w) | ✅ 408¶ (8,841w) | Mātikā |
 | SN 35 Saḷāyatanasaṃyutta (23 selected) | ✅ 10,082w | ✅ 590¶ (20,030w) | ✅ 484¶ (10,316w) | Mātikā |
+| SN 56 Saccasaṃyutta (16 selected) | ✅ 6,469w | ✅ 153¶ (2,413w) | ✅ 100¶ (1,689w) | Mātikā |
 | SN 46 Bojjhaṅgasaṃyutta (56 suttas) | ✅ 23,919w | ✅ 180¶ | ✅ 175¶ | Mātikā |
 | SN 54 Ānāpānasaṃyutta (20 suttas) | ✅ 11,648w | ✅ 45¶ | ✅ 40¶ | Mātikā |
 
