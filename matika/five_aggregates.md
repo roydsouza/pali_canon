@@ -26,6 +26,7 @@ type: matika
 * Related: [[dependent_origination|Dependent Origination]] (aggregator components correspond to nama-rupa and vinnana links)
 
 ## Canonical References
+* [[dn9|DN 9: Poṭṭhapādasutta]] — detailed discussion on the cessation and progressive refinement of perception (saññā) and its relation to the self (attā)
 * [[mn10#4.2. The Aggregates|MN 10: Satipaṭṭhānasutta §4.2]] — the five aggregates as objects of dhammānupassanā; understanding "this is form, its arising, its passing away"
 * [[dn22#4.2. The Aggregates|DN 22: Mahāsatipaṭṭhānasutta §4.2]] — same section; identical treatment
 * [[mn43|MN 43: Mahāvedallasutta]] — Sāriputta and Mahākoṭṭhita analyse consciousness, feeling, and perception in detail; distinguishes viññāṇa from paññā

@@ -2,6 +2,24 @@
 
 This log tracks sync states and key technical context for agent pairs working on the Pali Canon Vault.
 
+## [2026-05-21 23:15:00-07:00] - DN 9 & DN 15: All Three Layers with Cross-Links and Mātikā (Claude Code & Antigravity)
+
+### Accomplishments
+- **DN 9 & DN 15 Mūla Layer**: Interleaved Pali/English files generated: `dn9.md` (8,837w) and `dn15.md` (6,706w) under `mula/sutta/digha_nikaya/`.
+- **DN 9 & DN 15 Atthakathā Layer**: Commentary files generated under `atthakatha/sutta/digha_nikaya/`: `dn9_att.md` (5,978w, 67 Sujato notes) and `dn15_att.md` (10,236w, 80 Sujato notes). Sumaṅgalavilāsinī commentaries mapped from `s0101a.att9.xml` and `s0102a.att1.xml`.
+- **DN 9 & DN 15 Ṭīkā Layer**: Sub-commentary files generated under `tika/sutta/digha_nikaya/`: `dn9_tik.md` (4,057w) and `dn15_tik.md` (7,693w). Sumaṅgalavilāsinī-ṭīkā mapped from `s0101t.tik9.xml` and `s0102t.tik1.xml`.
+- **Cross-linking**: Applied paragraph-level headings (`### §NNN`) to commentaries and sub-commentaries, collapsible callout panels (`> [!info]- Commentary — ...`) in Mūla files, and sub-commentary links (`> [!abstract]- Tīkā §NNN`) in commentary files using `scratch/crosslink_dn9_dn15.py`.
+- **Mātikā Doctrinal List Integration**:
+  - DN 15 linked from `dependent_origination.md` and reverse link added in `dn15.md`.
+  - DN 9 linked from `five_aggregates.md` and reverse link added in `dn9.md`.
+- **Tracking & Index Updates**:
+  - Root `INDEX.md` and Nikāya `INDEX.md` files updated to reflect the new counts (4 active DN suttas, 104 total migrated suttas).
+  - `STATUS.md` and `TASKS.md` updated and completed.
+
+### Current State
+- DN 9 and DN 15 are fully migrated across all three layers (Mūla, Atthakathā, Ṭīkā), cross-linked, and integrated into the Mātikā.
+- All links within the main Nikāyas are verified to be fully valid.
+
 ## [2026-05-21 23:00:00-07:00] - AN Batch: 5 Suttas All Three Layers + Mātikā Phase 2 (Claude Code)
 
 ### Accomplishments

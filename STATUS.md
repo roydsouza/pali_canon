@@ -6,9 +6,9 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Suttas Complete | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | ~102 individual suttas | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | ~102 individual suttas + 26 DhpA chapters | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | ~102 individual suttas | MN, DN, SN, AN | CSCD Pali |
+| **Mūla (Root Texts)** | 104 individual suttas | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 104 individual suttas + 26 DhpA chapters | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | 104 individual suttas | MN, DN, SN, AN | CSCD Pali |
 | **Mātikā (Doctrinal Lists)** | 16 lists | — | Pali/English, cross-linked |
 
 ---
@@ -30,11 +30,13 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | MN 119 Kāyagatāsatisutta | ✅ 4,967w | ✅ 10¶ + 18 notes | ✅ 8¶ | — |
 | MN 121 Cūḷasuññatasutta | ✅ 2,760w | ✅ 13¶ + 15 notes | ✅ 11¶ | — |
 
-### Dīgha Nikāya (Long Discourses) — 2 suttas
+### Dīgha Nikāya (Long Discourses) — 4 suttas
 
 | Sutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
 | DN 2 Sāmaññaphalasutta | ✅ 17,701w | ✅ 394¶ + 141 notes | ✅ 259¶ | Mātikā |
+| DN 9 Poṭṭhapādasutta | ✅ 8,837w | ✅ 57¶ + 67 notes | ✅ 72¶ | ✅ Full §-anchors & Mātikā |
+| DN 15 Mahānidānasutta | ✅ 6,706w | ✅ 138¶ + 80 notes | ✅ 122¶ | ✅ Full §-anchors & Mātikā |
 | DN 22 Mahāsatipaṭṭhānasutta | ✅ 8,892w | ✅ 293¶ + 78 notes | ✅ 236¶ | Mātikā |
 
 ### Saṃyutta Nikāya (Connected Discourses) — 76 suttas (2 saṃyuttas)

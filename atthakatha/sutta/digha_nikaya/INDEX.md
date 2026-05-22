@@ -15,3 +15,5 @@ layer: atthakatha
 |---|---|---|---|---|
 | [[dn2\|DN 2]] | [[dn2_att\|Sāmaññaphalasuttavaṇṇanā]] | Sumaṅgalavilāsinī (CSCD) | 141 Sujato annotations | 22,452 |
 | [[dn22|DN22]] | [[dn22_att|Mahāsatipaṭṭhānasuttavaṇṇanā]] | CSCD | 78 Sujato notes | 14,411 |
+| [[dn9|DN9]] | [[dn9_att|Poṭṭhapādasuttavaṇṇanā]] | CSCD | 67 Sujato notes | 5,978 |
+| [[dn15|DN15]] | [[dn15_att|Mahānidānasuttavaṇṇanā]] | CSCD | 80 Sujato notes | 10,236 |

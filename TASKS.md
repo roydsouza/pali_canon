@@ -90,8 +90,8 @@ These high-value meditation suttas are the recommended next batch. All three lay
 
 **Dīgha Nikāya — long discourses:**
 - [x] DN 22: Mahāsatipaṭṭhānasutta — mūla (8,892w), att (293¶+78 notes, 14,411w), tīkā (236¶, 12,626w)
-- [ ] DN 9: Poṭṭhapādasutta — consciousness, self, cessation of perception
-- [ ] DN 15: Mahānidānasutta — dependent origination in detail
+- [x] DN 9: Poṭṭhapādasutta — consciousness, self, cessation of perception (mūla 8,837w, att 5,978w, tīkā 4,057w)
+- [x] DN 15: Mahānidānasutta — dependent origination in detail (mūla 6,706w, att 10,236w, tīkā 7,693w)
 
 **Saṃyutta Nikāya — samādhi and bojjhaṅga:**
 - [ ] SN 35 (Saḷāyatanasaṃyutta): selected suttas on the six sense bases
@@ -123,7 +123,7 @@ These high-value meditation suttas are the recommended next batch. All three lay
 ### 8. Abhidhamma & Mātikā Integration
 - [ ] Add Abhidhammatthasaṅgaha mūla (English: Bhikkhu Bodhi's "Comprehensive Manual")
 - [ ] Cross-link Five Aggregates mātikā to Abhidhamma Khandhavibhaṅga (deferred — awaiting Abhidhamma phase)
-- [ ] Cross-link Dependent Origination mātikā to DN 15 and Paṭṭhāna (deferred — DN 15 not yet migrated)
+- [x] Cross-link Dependent Origination mātikā to DN 15 (Paṭṭhāna deferred — awaiting Abhidhamma phase)
 - [x] Cross-link Seven Awakening Factors → sn46, mn10, dn22, mn118, an3_100, an9_36 (done)
 - [x] Cross-link Noble Eightfold Path → dn22§4.5.4, mn118, an3_100, an4_123_126, an5_28, an9_36, an10_2_6 (done; MN 141 deferred — not yet migrated)
 
@@ -155,6 +155,6 @@ These high-value meditation suttas are the recommended next batch. All three lay
       - four_noble_truths → dn22§4.5, mn10§4.5, mn118
       - four_right_exertions → mn20, mn118
       - five_aggregates → mn10§4.2, dn22§4.2, mn43, mn118
-      - Reverse (Mātikā:) lines added to: mn10, dn22, mn118, dn2, sn46, sn54, an3_100, an4_123_126, an5_28, an9_36, an10_2_6
-- [ ] Continue linking as new suttas are added (dependent_origination → DN 15 when migrated; five_aggregates → Abhidhamma)
+      - Reverse (Mātikā:) lines added to: mn10, dn22, mn118, dn2, sn46, sn54, an3_100, an4_123_126, an5_28, an9_36, an10_2_6, dn9, dn15
+- [ ] Continue linking as new suttas are added (dependent_origination → DN 15 done; five_aggregates → DN 9 done; Abhidhamma pending)
 

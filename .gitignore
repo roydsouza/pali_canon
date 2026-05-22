@@ -10,3 +10,7 @@
 # Editor swap files
 *.swp
 *.tmp
+
+# Python cache
+__pycache__/
+*.pyc

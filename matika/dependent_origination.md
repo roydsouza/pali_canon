@@ -40,4 +40,5 @@ type: matika
 * Related: [[five_aggregates|Five Aggregates]] (links 3, 4, 5, 6 correspond to consciousness, form, and feeling)
 
 ## Canonical References
+* [[dn15|DN 15: Mahānidāna Sutta]] (The locus classicus for the detailed analysis and mutual conditioning of name-and-form and consciousness)
 * [[mn118|MN 118: Ānāpānasati Sutta]] (referenced implicitly in the section on contemplation of feeling and mind, and commentarial discussions on the cessation of suffering)

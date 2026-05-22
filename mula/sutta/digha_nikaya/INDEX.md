@@ -15,4 +15,6 @@ The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range
 | Sutta | Pali Title | English | Words |
 |---|---|---|---|
 | [[dn2\|DN 2]] | Sāmaññaphalasutta | The Fruits of the Ascetic Life | 17,701 |
-| [[dn22|DN22]] | Mahāsatipaṭṭhānasutta | 8,892 |
+| [[dn22|DN 22]] | Mahāsatipaṭṭhānasutta | The Great Discourse on Mindfulness | 8,892 |
+| [[dn9|DN 9]] | Poṭṭhapādasutta | With Poṭṭhapāda | 8,837 |
+| [[dn15|DN 15]] | Mahānidānasutta | The Great Discourse on Causation | 6,706 |
