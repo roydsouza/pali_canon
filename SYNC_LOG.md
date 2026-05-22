@@ -1,5 +1,29 @@
 # Sync Log
 
+## [2026-05-22 — SN 47 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**SN 47 (Satipaṭṭhānasaṃyutta) Migration**
+- **Mūla**: 16 selected suttas (9,504 words) in [[sn47]]. Pali text interleaved with Bhikkhu Sujato's English translation.
+- **Atthakathā**: 220 paragraphs (9,325 words) in [[sn47_att]] parsed from tipitaka.org CSCD XML file `s0305a.att2.xml`.
+- **Ṭīkā**: 149 paragraphs (6,123 words) in [[sn47_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik2.xml`.
+- **Mātikā Integration**: Added `[[sn47|SN 47: Satipaṭṭhānasaṃyutta]]` under Canonical References in [[four_foundations_of_mindfulness]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in [[sn47]] pointing to specific commentary and sub-commentary paragraph anchors.
+  - Prepended `### §NNN` headers and added bidirectional navigation links between Mūla, Atthakathā, and Ṭīkā layers for the 4 key suttas:
+    - **SN 47.1** (Ambapālisutta) ↔ Atthakathā & Ṭīkā §367
+    - **SN 47.8** (Sūdasutta) ↔ Atthakathā & Ṭīkā §374
+    - **SN 47.9** (Gilānasutta) ↔ Atthakathā & Ṭīkā §375
+    - **SN 47.20** (Janapadakalyāṇīsutta) ↔ Atthakathā & Ṭīkā §386
+- **Index and Status Updates**:
+  - Confirmed and verified rows in `mula/sutta/samyutta_nikaya/INDEX.md`, `atthakatha/sutta/samyutta_nikaya/INDEX.md`, and `tika/sutta/samyutta_nikaya/INDEX.md`.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+  - Updated `TASKS.md` checklists, marking SN 47 tasks complete and updating next order priority.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links (127 files, 1181 wikilinks, all valid).
+
+---
+
 ## [2026-05-22 — HANDOFF NOTE + Full Session Summary (Claude Code → next agent)]
 
 ### Context for Incoming Agent
