@@ -1,5 +1,46 @@
 # Sync Log
 
+## [2026-05-22 — SN 35, SN 12 Migration + Dhammapada ṭīkā Investigation (Claude Code)
+
+### Accomplishments
+
+**SN 35 (Saḷāyatanasaṃyutta) — all three layers**
+- Mūla: 23 selected suttas (10,082w) — aniccā group (sn35.1–10), the All (sn35.23), Fire Sermon / Āditta (sn35.28), burning group, Gaddulabaddha (sn35.95), simile suttas, liberation suttas
+- Atthakathā: 590 paragraphs (20,030w) from CSCD `s0304a.att0.xml`
+- Ṭīkā: 484 paragraphs (10,316w) from CSCD `s0304t.tik0.xml`
+- Mātikā: `five_spiritual_faculties.md` and `dependent_origination.md` updated with reverse links → sn35
+- Scripts: `generate_sn35_mula.py`, `generate_sn35_att.py`, `generate_sn35_tik.py`
+
+**Dhammapada ṭīkā — BLOCKED**
+- Probed all `s0502t.tik*.xml` variants on tipitaka.org — all return 404
+- CSCD online does NOT include the Dhammapada-ṭīkā (Paramattha-dīpanī)
+- The Dhammapada-aṭṭhakathā Pali IS available (s0502a.att1–att9, ~1.6MB total) but we already have the English version
+- Blocked unless offline CSCD CD-ROM or alternative source is provided
+
+**SN 12 (Nidānasaṃyutta) — all three layers**
+- Mūla: 18 selected suttas (20,504w) — DO formula (sn12.1–2), Kaccānagotta (sn12.15), Upanisā (sn12.23), son's flesh simile (sn12.63), ancient city / nagarasūpamā (sn12.65), Susīma (sn12.70)
+- Atthakathā: 475 paragraphs (22,013w) from CSCD `s0302a.att0.xml`
+- Ṭīkā: 463 paragraphs (21,458w) from CSCD `s0302t.tik0.xml`
+- Both att0 and tik0 confirmed as exclusively Nidānasaṃyutta (no section extraction needed)
+- Mātikā: `dependent_origination.md` and `four_noble_truths.md` updated with reverse links → sn12
+- Scripts: `generate_sn12_mula.py`, `generate_sn12_att.py`, `generate_sn12_tik.py`
+
+**Housekeeping**
+- `mn119.md` and `mn121.md`: Related Texts nav lines added (done previous session, TASKS.md now updated)
+- TASKS.md §8 mātikā inventory updated: sn35, sn12 reverse links logged
+- STATUS.md updated: SN table now shows 4 saṃyuttas (SN 12, 35, 46, 54), 117 selected suttas
+
+### CSCD File Mapping Discovered
+- KN Dhammapada = `s0502` (confirmed by fetching att0.xml — shows "Dhammapada-aṭṭhakathā")
+- KN Suttanipāta = `s0505` (confirmed by fetching att0.xml — shows "Suttanipāta-aṭṭhakathā")
+- SN Nidānavagga = `s0302` (att0 + tik0 are exclusively SN 12, 507KB + 588KB)
+
+### Current State
+- 1,082 wikilinks validated clean. Git tree clean (2 commits this session).
+- Next: SN 22 (Khandhavagga / Khandhasaṃyutta) — five aggregates; CSCD = `s0303`
+
+
+
 This log tracks sync states and key technical context for agent pairs working on the Pali Canon Vault.
 
 ## [2026-05-21 23:30:00-07:00] - Link Validator Fixes & Verification (Antigravity)

@@ -170,6 +170,8 @@ These high-value meditation suttas are the recommended next batch. All three lay
       - four_noble_truths → dn22§4.5, mn10§4.5, mn118
       - four_right_exertions → mn20, mn118
       - five_aggregates → mn10§4.2, dn22§4.2, mn43, mn118
-      - Reverse (Mātikā:) lines added to: mn10, dn22, mn118, dn2, sn46, sn54, an3_100, an4_123_126, an5_28, an9_36, an10_2_6, dn9, dn15
-- [ ] Continue linking as new suttas are added (dependent_origination → DN 15 done; five_aggregates → DN 9 done; Abhidhamma pending)
+      - Reverse (Mātikā:) lines added to: mn10, dn22, mn118, dn2, sn46, sn54, an3_100, an4_123_126, an5_28, an9_36, an10_2_6, dn9, dn15, sn35, sn12
+      - sn35 → five_spiritual_faculties, dependent_origination ✓
+      - sn12 → dependent_origination, four_noble_truths ✓
+- [ ] Continue linking as new suttas are added; add sn22 → five_aggregates when migrated; Abhidhamma pending
 
