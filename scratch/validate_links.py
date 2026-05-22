@@ -4,13 +4,14 @@ import re
 import sys
 
 VAULT_DIR = "/Users/rds/pali_canon"
-EXCLUDE_DIRS = {".git", ".obsidian", "scratch", "templates", "khuddaka_nikaya"}
+EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates"}
+EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates", "khuddaka_nikaya"}
 
-def get_markdown_files(vault_dir):
+def get_markdown_files(vault_dir, exclude_dirs):
     md_files = []
     for root, dirs, files in os.walk(vault_dir):
         # Exclude specified directories
-        dirs[:] = [d for d in dirs if d not in EXCLUDE_DIRS]
+        dirs[:] = [d for d in dirs if d not in exclude_dirs]
         for file in files:
             if file.endswith(".md"):
                 md_files.append(os.path.join(root, file))
@@ -41,7 +42,8 @@ def parse_headers_and_anchors(filepath):
     return headers
 
 def validate_vault():
-    md_files = get_markdown_files(VAULT_DIR)
+    all_files = get_markdown_files(VAULT_DIR, EXCLUDE_INDEX_DIRS)
+    scan_files = get_markdown_files(VAULT_DIR, EXCLUDE_SCAN_DIRS)
     
     # Map from relative path from vault root (no ext), and filename (no ext) to absolute path
     # e.g., "mula/sutta/digha_nikaya/dn9" -> "/Users/rds/pali_canon/mula/sutta/digha_nikaya/dn9.md"
@@ -49,7 +51,7 @@ def validate_vault():
     path_map = {}
     file_map = {}
     
-    for filepath in md_files:
+    for filepath in all_files:
         rel_path = os.path.relpath(filepath, VAULT_DIR)
         rel_no_ext = os.path.splitext(rel_path)[0]
         filename_no_ext = os.path.splitext(os.path.basename(filepath))[0]
@@ -66,7 +68,7 @@ def validate_vault():
 
     # Pre-parse headers for all files to check anchor resolution
     file_headers = {}
-    for filepath in md_files:
+    for filepath in all_files:
         file_headers[filepath] = parse_headers_and_anchors(filepath)
 
     # Wikilink pattern: [[target]] or [[target|label]]
@@ -76,7 +78,7 @@ def validate_vault():
     errors = []
     total_links_checked = 0
     
-    for filepath in md_files:
+    for filepath in scan_files:
         rel_src = os.path.relpath(filepath, VAULT_DIR)
         with open(filepath, "r", encoding="utf-8") as f:
             for line_num, line in enumerate(f, 1):
@@ -164,7 +166,7 @@ def validate_vault():
                                     "error": f"Anchor '#{anchor}' not found in target '{os.path.relpath(target_file, VAULT_DIR)}'"
                                 })
 
-    print(f"Validated {len(md_files)} markdown files.")
+    print(f"Validated {len(scan_files)} markdown files.")
     print(f"Checked {total_links_checked} wikilinks.")
     
     if errors:
