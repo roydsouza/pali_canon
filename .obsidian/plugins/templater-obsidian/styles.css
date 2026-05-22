@@ -221,6 +221,6 @@ textarea.templater-prompt-input:focus {
 }
 
 li.CodeMirror-hint-active {
-    background: #0088ff;
+    background: #08f;
     color: white;
 }

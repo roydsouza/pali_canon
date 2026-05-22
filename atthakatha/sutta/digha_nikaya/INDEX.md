@@ -1,0 +1,17 @@
+---
+type: index
+pitaka: sutta
+nikaya: digha
+layer: atthakatha
+---
+
+# Dīgha Nikāya — Atthakatha
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakatha]] / [[atthakatha/sutta/INDEX|Sutta]]
+
+## Migrated Texts
+
+| Sutta | Commentary | Pali Source | Notes | Words |
+|---|---|---|---|---|
+| [[dn2\|DN 2]] | [[dn2_att\|Sāmaññaphalasuttavaṇṇanā]] | Sumaṅgalavilāsinī (CSCD) | 141 Sujato annotations | 22,452 |
+| [[dn22|DN22]] | [[dn22_att|Mahāsatipaṭṭhānasuttavaṇṇanā]] | CSCD | 78 Sujato notes | 14,411 |

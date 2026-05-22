@@ -16,11 +16,17 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 
 ### 8. Ānāpānassatisuttavaṇṇanā
 
+
+### §144
+
 **144. Pubbenāti nissakke karaṇavacanaṃ.**  
 *144. "Pubbenā" is an instrumental case used in the sense of ablative separation.*  
 
 **‘‘Aparaṃ visesa’’nti vuttattā visesavisayo ca pubbasaddoti āha – ‘‘sīlaparipūraṇādito pubbavisesato’’ti.**  
 *Since the phrase "subsequent distinction" (aparaṃ visesaṃ) is spoken, the word pubba (former) is used in reference to distinction; therefore it is said: "sīlaparipūraṇādito pubbavisesato" (from the former distinction, such as the purification of virtue).*  
+
+
+### §145
 
 **145. Āraddho yathānusiṭṭhaṃ paṭipattiyā ārādhito.**  
 *145. "Āraddho" (satisfied) means pleased by practice in accordance with the instruction.*  
@@ -64,6 +70,9 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 **Ekassa dinnopi sabbesaṃ dinnoyeva hoti, tasmā sutasutaṭṭhāneyeva ekamāsaṃ vasitvā osariṃsu.**  
 *"Ekassa dinnopi sabbesaṃ dinnoyeva hoti" (even if given to one, it is given to all): therefore, they stayed for one month in their respective places and then assembled.*  
 
+
+### §146
+
 **146. Alanti yuttaṃ, opāyikanti attho, ‘‘alameva nibbinditu’’ntiādīsu (dī. ni. 2.272; saṃ. ni. 2.124, 128, 134, 143) viya.**  
 *146. "Alaṃ" means suitable, having the meaning of appropriate, as in "it is indeed suitable to become disenchanted" etc. (Dīgha Nikāya 2.272; Saṃyutta Nikāya 2.124, etc.).*  
 
@@ -72,6 +81,9 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 
 **Tenāha ‘‘pātheyya’’nti.**  
 *For this reason it is said: "pātheyyaṃ" (provisions for a journey).*  
+
+
+### §147
 
 **147. Vipassanā kathitāti aniccasaññāmukheneva vipassanābhāvanā kathitā.**  
 *147. "Vipassanā kathitā" (insight is spoken of) means the development of insight is spoken of through the gateway of the perception of impermanence itself.*  
@@ -84,6 +96,9 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 
 **Tenāha ‘‘tasmā’’tiādi.**  
 *For this reason he said: "tasmā" (therefore) and so forth.*  
+
+
+### §149
 
 **149. Sabbatthāti sabbavāresu.**  
 *149. "Sabbatthā" means in all sections.*  
@@ -202,6 +217,9 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 **Vuttañhetaṃ bhagavatā ‘‘dhammāpi kho, bhikkhave, pahātabbā, pageva adhammā’’ti (ma. ni. 1.240).**  
 *For this is stated by the Blessed One: "Even good states (dhammas) are to be given up, how much more bad states (adhammas)" (Majjhima Nikāya 1.240).*  
 
+
+### §150
+
 **150. Aniccādivasenapavicinatīti aniccādippakārehi vicinati passati.**  
 *150. "Aniccādivasena pavicinati" (investigates by way of impermanence etc.) means he investigates and sees by way of modes such as impermanence.*  
 
@@ -240,6 +258,9 @@ commentary_file: /atthakatha/sutta/majjhima_nikaya/mn118_att.md
 
 **Nānārasalakkhaṇāti nānākiccā ceva nānāsabhāvā ca.**  
 *"Nānārasalakkhaṇā" means having both different functions (kicca) and different individual natures (sabhāva).*  
+
+
+### §152
 
 **152. Vuttatthāneva sabbāsavasuttavaṇṇanāyaṃ (ma. ni. aṭṭha. 27) ānāpānārammaṇā aparāparaṃ pavattasatiyo ārammaṇasīsena tadārammaṇā dhammā gahitā, tā panekasantāne lokiyacittasampayuttāti lokiyā, tā vaḍḍhamānā lokiyaṃ catubbidhampi satipaṭṭhānaṃ paripūrenti.**  
 *152. "Vuttatthāneva" (have the meanings already stated) in the explanation of the Sabbāsava Sutta (Majjhima Nikāya Commentary 27): the repeated mindfulnesses having the in-breaths and out-breaths as object are taken under the heading of the object, and the states having that as object. Since they are associated with mundane minds in a single continuity, they are mundane; when developing, they fulfill the mundane fourfold foundation of mindfulness.*  

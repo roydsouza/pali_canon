@@ -25,4 +25,6 @@ type: matika
 * Related: [[dependent_origination|Dependent Origination]] (explains the second truth, the origin of suffering, in detail)
 
 ## Canonical References
-* [[mn118|MN 118: Ānāpānasati Sutta]] (briefly referenced under the awakening factors / dhamma contemplation)
+* [[dn22#4.5. The Truths|DN 22: Mahāsatipaṭṭhānasutta §4.5]] — the most extensive canonical treatment; §4.5.1–4 covers each truth in full with the Noble Eightfold Path as the fourth
+* [[mn10#4.5. The Truths|MN 10: Satipaṭṭhānasutta §4.5]] — shorter parallel; the four truths as the final object of dhammānupassanā
+* [[mn118|MN 118: Ānāpānasatisutta]] — briefly referenced under the awakening factors / dhamma contemplation

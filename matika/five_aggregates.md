@@ -26,4 +26,7 @@ type: matika
 * Related: [[dependent_origination|Dependent Origination]] (aggregator components correspond to nama-rupa and vinnana links)
 
 ## Canonical References
-* [[mn118|MN 118: Ānāpānasati Sutta]] (referenced throughout the four tetrads: contemplation of body/form, feelings, mind/consciousness, and dhammas/mental formations)
+* [[mn10#4.2. The Aggregates|MN 10: Satipaṭṭhānasutta §4.2]] — the five aggregates as objects of dhammānupassanā; understanding "this is form, its arising, its passing away"
+* [[dn22#4.2. The Aggregates|DN 22: Mahāsatipaṭṭhānasutta §4.2]] — same section; identical treatment
+* [[mn43|MN 43: Mahāvedallasutta]] — Sāriputta and Mahākoṭṭhita analyse consciousness, feeling, and perception in detail; distinguishes viññāṇa from paññā
+* [[mn118|MN 118: Ānāpānasatisutta]] — referenced throughout the four tetrads: body/form, feelings, mind/consciousness, and dhammas/mental formations

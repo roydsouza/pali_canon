@@ -27,4 +27,5 @@ These four aspects constitute the factor of Right Effort (*Sammā Vāyāma*) in 
 * Related: [[seven_awakening_factors|Seven Awakening Factors]] (corresponds to developing and maintaining wholesome mental states)
 
 ## Canonical References
-* [[mn118|MN 118: Ānāpānasati Sutta]] (practitioners actively apply energy / viriya to transition from mindfulness of breathing to the cultivation of the factors of awakening)
+* [[mn20|MN 20: Vitakkasaṇṭhānasutta]] — five practical methods for applying the second and third exertions: abandoning arisen unwholesome thoughts and preventing their re-arising
+* [[mn118|MN 118: Ānāpānasatisutta]] — energy (viriya) is actively applied through ānāpānasati to transition from mindfulness to the seven awakening factors

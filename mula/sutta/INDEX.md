@@ -4,23 +4,15 @@
 
 This directory contains the Sutta Piṭaka (Discourse Collection) canonical texts, categorized by Nikaya (Collection).
 
-## Subordinate Directories
+## Nikāyas
 
-*   **Dīgha Nikāya** *(Planned)*
-    *   *Description*: Long Discourses.
-    *   *Status*: *Not started*.
-*   **[[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]**
-    *   *Description*: Middle Length Discourses.
-    *   *Status*: **Active**. Sutta 118 migrated.
-*   **Saṃyutta Nikāya** *(Planned)*
-    *   *Description*: Connected Discourses.
-    *   *Status*: *Not started*.
-*   **Aṅguttara Nikāya** *(Planned)*
-    *   *Description*: Numerical Discourses.
-    *   *Status*: *Not started*.
-*   **Khuddaka Nikāya** *(Planned)*
-    *   *Description*: Minor Collection.
-    *   *Status*: *Not started*.
+| Nikāya | Description | Status |
+|---|---|---|
+| [[mula/sutta/digha_nikaya/INDEX\|Dīgha Nikāya]] | Long Discourses (34 suttas) | Active — DN 2 migrated |
+| [[mula/sutta/majjhima_nikaya/INDEX\|Majjhima Nikāya]] | Middle Length Discourses (152 suttas) | Active — MN 10, 20, 118, 119, 121 migrated |
+| Saṃyutta Nikāya | Connected Discourses | Planned |
+| [[mula/sutta/anguttara_nikaya/INDEX\|Aṅguttara Nikāya]] | Numbered Discourses | Active — AN 4.41 migrated |
+| [[mula/sutta/khuddaka_nikaya/INDEX\|Khuddaka Nikāya]] | Minor Collection | Active — Dhammapada (423 verses) complete |
 
 ---
 *Back to [[mula/INDEX|Mūla Index]]*

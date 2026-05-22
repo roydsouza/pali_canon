@@ -29,4 +29,7 @@ These five qualities are also referred to as the Five Powers (*Pañcabala*) when
 * Related: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] (primarily cultivates the faculty of mindfulness, which balances the others)
 
 ## Canonical References
-* [[mn118|MN 118: Ānāpānasati Sutta]] (mindfulness of breathing directly cultivates and fulfills all five spiritual faculties through the progression of the four foundations of mindfulness and seven factors of awakening)
+* [[sn46|SN 46: Bojjhaṅgasaṃyutta]] — the bojjhaṅgas and the indriyas share the factors of sati, viriya, and samādhi; SN 46.51 on nutriment discusses how these qualities mutually support each other
+* [[mn118|MN 118: Ānāpānasatisutta]] — ānāpānasati directly cultivates and fulfills all five spiritual faculties through the progression of the four foundations and seven awakening factors
+* [[an4_123_126|AN 4.123–126: Nānākaraṇasuttāni]] — Samādhindriya; the four suttas on differences between meditators examine how the same absorption level leads to varying rebirths depending on the depth of samādhi and paññā
+* [[an10_2_6|AN 10.2–6: Ānisaṃsasuttāni]] — the sīla→samādhi→paññā chain in these five benefit-suttas traces the sequential arising of all five spiritual faculties from the basis of saddha (confidence in the teaching)

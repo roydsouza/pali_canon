@@ -4,49 +4,82 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Overall Progress Metrics
 
-| Category | Migrated Suttas | Interleaved / Translated | Total Suttas in Nikāya | % Complete |
-|---|---|---|---|---|
-| **Mūla (Root Suttas)** | 1 | 1 | 152 | 0.66% |
-| **Atthakathā (Commentaries)** | 1 | 1 | 152 | 0.66% |
-| **Tīkā (Sub-commentaries)** | 1 | 1 | 152 | 0.66% |
+| Layer | Suttas Complete | Nikāyas Active | Notes |
+|---|---|---|---|
+| **Mūla (Root Texts)** | ~102 individual suttas | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | ~102 individual suttas + 26 DhpA chapters | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | ~102 individual suttas | MN, DN, SN, AN | CSCD Pali |
+| **Mātikā (Doctrinal Lists)** | 16 lists | — | Pali/English, cross-linked |
 
 ---
 
 ## Migrated Texts Catalog
 
-### Majjhima Nikāya 118 (Ānāpānasati Sutta)
+### Majjhima Nikāya (Middle Discourses) — 10 suttas
 
-*   **Mūla Sutta**: [mn118.md](file:///Users/rds/pali_canon/mula/sutta/majjhima_nikaya/mn118.md)
-    *   *Status*: **Completed** (3,522 words).
-    *   *Details*: Segment-by-segment interleaving using Bhikkhu Sujato's translation.
-*   **Commentary (Atthakathā)**: [mn118_att.md](file:///Users/rds/pali_canon/atthakatha/sutta/majjhima_nikaya/mn118_att.md)
-    *   *Status*: **Completed** (3,389 words).
-    *   *Details*: Original sentence-by-sentence translation.
-*   **Sub-commentary (Tīkā)**: [mn118_tik.md](file:///Users/rds/pali_canon/tika/sutta/majjhima_nikaya/mn118_tik.md)
-    *   *Status*: **Completed** (2,650 words).
-    *   *Details*: Original sentence-by-sentence translation.
+| Sutta | Mūla | Att | Tīkā | Cross-links |
+|---|---|---|---|---|
+| MN 10 Satipaṭṭhānasutta | ✅ 5,721w | ✅ 362¶ + 49 notes | ✅ 232¶ | Mātikā |
+| MN 20 Vitakkasaṇṭhānasutta | ✅ 1,798w | ✅ 40¶ + 11 notes | ✅ 26¶ | Mātikā |
+| MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | — |
+| MN 43 Mahāvedallasutta | ✅ 3,877w | ✅ 60¶ + 30 notes | ✅ 54¶ | — |
+| MN 44 Cūḷavedallasutta | ✅ 3,096w | ✅ 39¶ + 27 notes | ✅ 40¶ | — |
+| MN 52 Aṭṭhakanāgarasutta | ✅ 1,696w | ✅ 14¶ + 14 notes | ✅ 10¶ | — |
+| MN 111 Anupadasutta | ✅ 2,272w | ✅ 26¶ + 18 notes | ✅ 38¶ | — |
+| MN 118 Ānāpānasatisutta | ✅ 3,522w | ✅ 18¶ | ✅ 16¶ | ✅ Full §-anchors |
+| MN 119 Kāyagatāsatisutta | ✅ 4,967w | ✅ 10¶ + 18 notes | ✅ 8¶ | — |
+| MN 121 Cūḷasuññatasutta | ✅ 2,760w | ✅ 13¶ + 15 notes | ✅ 11¶ | — |
+
+### Dīgha Nikāya (Long Discourses) — 2 suttas
+
+| Sutta | Mūla | Att | Tīkā | Cross-links |
+|---|---|---|---|---|
+| DN 2 Sāmaññaphalasutta | ✅ 17,701w | ✅ 394¶ + 141 notes | ✅ 259¶ | Mātikā |
+| DN 22 Mahāsatipaṭṭhānasutta | ✅ 8,892w | ✅ 293¶ + 78 notes | ✅ 236¶ | Mātikā |
+
+### Saṃyutta Nikāya (Connected Discourses) — 76 suttas (2 saṃyuttas)
+
+| Saṃyutta | Mūla | Att | Tīkā | Cross-links |
+|---|---|---|---|---|
+| SN 46 Bojjhaṅgasaṃyutta (56 suttas) | ✅ 23,919w | ✅ 180¶ | ✅ 175¶ | Mātikā |
+| SN 54 Ānāpānasaṃyutta (20 suttas) | ✅ 11,648w | ✅ 45¶ | ✅ 40¶ | Mātikā |
+
+### Aṅguttara Nikāya (Numerical Discourses) — 14 suttas
+
+| Sutta | Mūla | Att | Tīkā | Cross-links |
+|---|---|---|---|---|
+| AN 3.100 Loṇakapallasutta | ✅ 1,681w | ✅ 37¶ | ✅ 12¶ | Mātikā |
+| AN 4.41 Samādhibhāvanāsutta | ✅ 745w | ✅ 15¶ | ✅ 18¶ | — |
+| AN 4.123–126 Nānākaraṇasuttāni (4) | ✅ 2,607w | ✅ 22¶ | ✅ 10¶ | Mātikā |
+| AN 5.28 Pañcaṅgikasutta | ✅ 2,312w | ✅ 31¶ | ✅ 35¶ | Mātikā |
+| AN 9.36 Jhānasutta | ✅ 2,177w | ✅ 28¶ | ✅ 11¶ | Mātikā |
+| AN 10.2–6 Ānisaṃsasuttāni (5) | ✅ 2,956w | ✅ 16¶ | ✅ 59¶ | Mātikā |
+
+### Khuddaka Nikāya — Dhammapada
+
+| Component | Status | Details |
+|---|---|---|
+| Mūla (26 vaggas, 423 verses) | ✅ ~17,600w | Sujato translation |
+| Aṭṭhakathā (26 chapters) | ✅ ~498,000w | 294 origin stories (Ānandajoti/Burlingame) |
+| Ṭīkā | ❌ Not started | — |
 
 ---
 
 ## Vault Infrastructure Status
 
 *   **Vault Index**: [INDEX.md](file:///Users/rds/pali_canon/INDEX.md) (Operational)
-*   **Branch Indices**:
-    *   Mūla: [mula/INDEX.md](file:///Users/rds/pali_canon/mula/INDEX.md) | [mula/sutta/INDEX.md](file:///Users/rds/pali_canon/mula/sutta/INDEX.md) | [mula/sutta/majjhima_nikaya/INDEX.md](file:///Users/rds/pali_canon/mula/sutta/majjhima_nikaya/INDEX.md)
-    *   Commentary: [atthakatha/INDEX.md](file:///Users/rds/pali_canon/atthakatha/INDEX.md) | [atthakatha/sutta/INDEX.md](file:///Users/rds/pali_canon/atthakatha/sutta/INDEX.md) | [atthakatha/sutta/majjhima_nikaya/INDEX.md](file:///Users/rds/pali_canon/atthakatha/sutta/majjhima_nikaya/INDEX.md)
-    *   Sub-commentary: [tika/INDEX.md](file:///Users/rds/pali_canon/tika/INDEX.md) | [tika/sutta/INDEX.md](file:///Users/rds/pali_canon/tika/sutta/INDEX.md) | [tika/sutta/majjhima_nikaya/INDEX.md](file:///Users/rds/pali_canon/tika/sutta/majjhima_nikaya/INDEX.md)
-    *   Mātika: [matika/INDEX.md](file:///Users/rds/pali_canon/matika/INDEX.md)
-*   **Formatting Guidelines**:
-    *   Obsidian-compatible frontmatter headers configured for all files.
-    *   Relative wikilinks mapped cleanly for unambiguous resolution.
-    *   Line break double spaces appended to Pali segments/sentences.
+*   **Obsidian Plugins**: Simsapa DPD, Dataview, Templater (all configured)
+*   **CSS Toggle**: Translation toggle for pure Pali reading
+*   **Templates**: Mūla, Atthakathā, Tīkā sutta templates
+*   **Git**: Local repository initialized (no remote)
+*   **Scripts**: 17 reusable Python scripts in `scratch/`
 
 ---
 
-## Mātika (Buddhist Lists)
+## Mātikā (Buddhist Lists)
 
 *   **Mātika Index**: [matika/INDEX.md](file:///Users/rds/pali_canon/matika/INDEX.md)
-    *   *Status*: **Completed** (16 lists total).
+    *   *Status*: **Completed** (16 lists total, cross-linked to canonical sources).
 *   **Migrated Lists**:
     *   [[four_noble_truths|Four Noble Truths (Cattāri Ariyasaccāni)]]
     *   [[noble_eightfold_path|Noble Eightfold Path (Ariyo Aṭṭhaṅgiko Maggo)]]

@@ -16,6 +16,9 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 
 ### 8. Ānāpānassatisuttavaṇṇanā
 
+
+### §144
+
 **144. Evaṃ me sutanti ānāpānassatisuttaṃ.**  
 *144. "Evaṁ me sutaṁ" (Thus have I heard) refers to the Ānāpānasati Sutta.*
 
@@ -33,6 +36,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 
 **Uḷāraṃ pubbenāparaṃ visesaṃ jānantīti sīlaparipūraṇādito pubbavisesato uḷārataraṃ aparaṃ kasiṇaparikammādivisesaṃ jānantīti attho.**  
 *"Uḷāraṃ pubbenāparaṃ visesaṃ jānanti" (realized a higher distinction than they had before) means they realized a higher subsequent distinction, such as the preparation for kasina meditation, which is superior to the initial distinction consisting of the purification of virtue.*
+
+> [!abstract]- Tīkā §144
+> [[mn118_tik#§144|Papañcasūdanī-ṭīkā §144]]
+
+
+### §145
 
 **145. Āraddhoti tuṭṭho.**  
 *145. "Āraddho" (satisfied) means pleased.*
@@ -97,6 +106,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 **Tato samāhitena cittena saṅkhāre sammasitvā keci sotāpattiphalaṃ…pe… keci arahattaṃ sacchikariṃsu. Ayaṃ aparo uḷāro viseso nāma.**  
 *Then, with concentrated minds, contemplating formations, some realized the fruit of stream-entry... pe ... some realized Arahantship—this is the "subsequent higher distinction."*
 
+> [!abstract]- Tīkā §145
+> [[mn118_tik#§145|Papañcasūdanī-ṭīkā §145]]
+
+
+### §146
+
 **146. Alanti yuttaṃ.**  
 *146. "Alaṃ" means fitting or worthy.*
 
@@ -111,6 +126,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 
 **‘‘Puṭaṃsenā’’tipi pāṭho, tassattho – puṭo aṃse assāti puṭaṃso, tena puṭaṃsena, aṃse pātheyyapuṭaṃ vahantenāpīti vuttaṃ hoti.**  
 *There is also the reading puṭaṃsena, meaning: one who has a bag on his shoulder is puṭaṃsa; by that puṭaṃsa, it is meant "even carrying the provision-bag on one's shoulder."*
+
+> [!abstract]- Tīkā §146
+> [[mn118_tik#§146|Papañcasūdanī-ṭīkā §146]]
+
+
+### §147
 
 **147. Idāni evarūpehi caraṇehi samannāgatā ettha bhikkhū atthīti dassetuṃ santi, bhikhāvetiādimāha.**  
 *147. Now, to show that there are monks here endowed with such conduct, he said "santi, bhikkhave" (there are, monks...) and so forth.*
@@ -135,6 +156,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 
 **Idaṃ pana ānāpānakammaṭṭhānaṃ sabbākārena visuddhimagge vitthāritaṃ, tasmā tattha vuttanayenevassa pāḷittho ca bhāvanānayo ca veditabbo.**  
 *This meditation subject of mindfulness of breathing is explained in all aspects in the Visuddhimagga; therefore, its textual meaning and method of development should be understood in the way stated there.*
+
+> [!abstract]- Tīkā §147
+> [[mn118_tik#§147|Papañcasūdanī-ṭīkā §147]]
+
+
+### §149
 
 **149. Kāyaññatarantī pathavīkāyādīsu catūsu kāyesu aññataraṃ vadāmi, vāyo kāyaṃ vadāmīti attho.**  
 *149. "Kāyaññataraṃ" (an aspect of the body) means: "I speak of one of the four bodies such as the earth-body, namely the wind-body (vāyo-kāya)."*
@@ -244,6 +271,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 **Tasmātihā, bhikhāveti yasmā aniccānupassī assasissāmītiādinā nayena pavatto na kevalaṃ nīvaraṇādidhamme, abhijjhādomanassasīsena pana vuttānaṃ dhammānaṃ pahānañāṇampi paññāya disvā ajjhupekkhitā hoti, tasmā ‘‘dhammesu dhammānupassī tasmiṃ samaye bhikkhu viharatī’’ti veditabbo.**  
 *"Tasmātiha, bhikkhave" (that is why, monks): since one proceeding in the way of "breathing in observing impermanence" etc. sees with wisdom not only the states of hindrances etc., but also the knowledge of giving up those states mentioned under the heading of covetousness and displeasure, and watches over them with equanimity, therefore it should be understood: "At that time a mendicant is meditating by observing an aspect of principles."*
 
+> [!abstract]- Tīkā §149
+> [[mn118_tik#§149|Papañcasūdanī-ṭīkā §149]]
+
+
+### §150
+
 **150. Pavicinatīti aniccādivasena pavicinati.**  
 *150. "Pavicinati" (investigates) means investigates by way of impermanence etc.*
 
@@ -271,6 +304,12 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 **Ettāvatā kiṃ kathitaṃ? Ekacittakkhaṇikā nānārasalakkhaṇā vipassanāsambojjhaṅgā nāma kathitā.**  
 *What is declared by this much? The factors of awakening of insight, which exist in a single mind-moment and have different functions and characteristics, are declared.*
 
+> [!abstract]- Tīkā §150
+> [[mn118_tik#§150|Papañcasūdanī-ṭīkā §150]]
+
+
+### §152
+
 **152. Vivekanissantintiādīni vuttatthāneva.**  
 *152. "Vivekanissitaṃ" (rely on seclusion) etc. have the meanings already stated.*
 
@@ -287,3 +326,6 @@ sub_commentary_file: /tika/sutta/majjhima_nikaya/mn118_tik.md
 *\*Here ends the Explanation of the Ānāpānasati Sutta from the Majjhima Nikāya Commentary, Papañcasūdanī.\**
 
 ***Ānāpānassatisuttavaṇṇanā niṭṭhitā.***  
+
+> [!abstract]- Tīkā §152
+> [[mn118_tik#§152|Papañcasūdanī-ṭīkā §152]]
