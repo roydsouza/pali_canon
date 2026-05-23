@@ -37,6 +37,7 @@ layer: atthakatha
 | [[an11_2|AN 11.2]] | [[an11_2_att|Cetanākaraṇīyasuttavaṇṇanā]] | CSCD | — | 117 |
 | [[an11_3|AN 11.3]] | [[an11_3_5_att|Upanisasuttattayavaṇṇanā]] | CSCD | — | 103 |
 | [[an1_1_10|AN 1.1–10]] | [[an1_1_10_att|1. Rūpādivaggavaṇṇanā]] | CSCD | — | 3,650 |
+| [[an1_11_20|AN 1.11–20]] | [[an1_11_20_att|2. Nīvaraṇappahānavaggavaṇṇanā]] | CSCD | — | 3,416 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
