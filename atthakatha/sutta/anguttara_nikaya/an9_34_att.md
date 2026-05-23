@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §34
 
 > [!abstract]- Tīkā §34
-> [[an9_34_tik#§34|Sub-commentary §34]]
+> [[an9_34_tik|Sub-commentary §34]]
 
 (34) Tatiye **udāyī**ti lāḷudāyitthero. **Etadeva khvetthā**ti etadeva kho ettha. **Kāmasahagatā**ti kāmanissitā. **Samudācarantī**ti manodvāre sañcaranti. **Ābādhāyā**ti ābādhanāya pīḷanāya. **Pariyāyenā**ti kāraṇena. Evaṃ sabbavāresu attho veditabbo. Imasmiṃ sutte avedayitasukhaṃ nāma kathitaṃ.
 

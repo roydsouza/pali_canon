@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §63
 
 > [!abstract]- Tīkā §63
-> [[an8_63_tik#§63|Sub-commentary §63]]
+> [[an8_63_tik|Sub-commentary §63]]
 
 (63) Tatiye **evamevā**ti nikkāraṇeneva. Yathā vā ayaṃ yācati, evameva. **Moghapurisā**ti mūḷhapurisā tucchapurisā. **Ajjhesantī**ti yācanti. **Anubandhitabba**nti iriyāpathānugamanena anubandhitabbaṃ maṃ na vijahitabbaṃ maññanti. Ājānanatthaṃ apasādento evamāha. Esa kira bhikkhu ovāde dinnepi pamādameva anuyuñjati, dhammaṃ sutvā tattheva vasati, samaṇadhammaṃ kātuṃ na icchati. Tasmā bhagavā evaṃ apasādetvā puna yasmā so arahattassa upanissayasampanno , tasmā taṃ ovadanto **tasmātiha te bhikkhu evaṃ sikkhitabba**ntiādimāha. Tattha **ajjhattaṃ me cittaṃ ṭhitaṃ bhavissati susaṇṭhitaṃ, na ca uppannā pāpakā akusalā dhammā cittaṃ pariyādāya ṭhassantī**ti iminā tāvassa ovādena niyakajjhattavasena cittekaggatāmatto mūlasamādhi vutto.
 

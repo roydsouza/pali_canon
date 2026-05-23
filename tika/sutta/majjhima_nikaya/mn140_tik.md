@@ -83,7 +83,7 @@ Raññā paṇṇākāraṃ uddissa katapūjāsakkārassa amaccato sutattā **pa
 ### §347
 
 > [!abstract]- Atthakathā §347
-> [[mn140_att#§347|Commentary §347]]
+> [[mn140_att|Commentary §347]]
 
 (347) **Pubbe****vuttāna**nti, ‘‘caturādhiṭṭhāno, yattha ṭhitaṃ maññassavā nappavattantī’’ti (ma. ni. 3.343) evaṃ pubbe vuttānaṃ.
 

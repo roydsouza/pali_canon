@@ -49,7 +49,7 @@ Maggāmaggakathāvaṇṇanā
 ### §520
 
 > [!abstract]- Atthakathā §520
-> [[dn13_att#§520|Commentary §520]]
+> [[dn13_att|Commentary §520]]
 
 (520) **‘‘Jaṅghacāra’’**nti caṅkamato ito cito ca caraṇamāha. So hi jaṅghāsu kilamathavinodanattho cāroti tathā vutto. Tenāha ‘‘anucaṅkamantānaṃ anuvicarantāna’’nti. **Tenā**ti ubhosupi anucaṅkamanānuvicāraṇānaṃ labbhanato. Sahāyā hi te aññamañña sabhāgavuttikā. ‘‘Maggo’’ti icchitaṭṭhānaṃ ujukaṃ maggati upagacchati etenāti maggo, ujumaggo. Tadañño amaggo, tasmiṃ **magge ca amagge ca. Paṭipada**nti brahmalokagāmimaggassa pubbabhāgapaṭipadaṃ.
 
@@ -91,7 +91,7 @@ Ye pāḷiyaṃ ‘‘addhariyā brāhmaṇā’’tiādinā vuttā. Addharo nā
 ### §532
 
 > [!abstract]- Atthakathā §532
-> [[dn13_att#§532|Commentary §532]]
+> [[dn13_att|Commentary §532]]
 
 (532) **Idha pana kiṃ vattabba**nti imasmiṃ pana appaccakkhabhūtassa brahmuno sahabyatāya maggadesane tevijjānaṃ kiṃ vattabbaṃ atthi, ye paccakkhabhūtānampi candimasūriyānaṃ sahabyatāya maggaṃ desetuṃ na sakkontīti adhippāyo. **‘‘Yatthā’’**ti ‘‘idha panā’’ti vuttamevatthaṃ paccāmasati.
 
@@ -140,7 +140,7 @@ Saṃsandanakathāvaṇṇanā
 ### §550
 
 > [!abstract]- Atthakathā §550
-> [[dn13_att#§550|Commentary §550]]
+> [[dn13_att|Commentary §550]]
 
 (550) Itthipariggahe sati purisassa pañcakāmaguṇapariggaho paripuṇṇo eva hotīti vuttaṃ **‘‘sapariggahoti itthipariggahena sapariggaho’’**ti. **‘‘Itthipariggahena apariggaho’’**ti ca idaṃ tevijjabrāhmaṇesu dissamānapariggahānaṃ duṭṭhullatamapariggahābhāvadassanaṃ. Evaṃbhūtānaṃ tevijjānaṃ brāhmaṇānaṃ kā brahmunā saṃsandanā, brahmā pana sabbena sabbaṃ apariggahoti. **Veracittena avero,** kuto etassa verappayogoti adhippāyo. **Cittagelaññasaṅkhātenā**ti cittuppādagelaññasaññitena, tenassa sabbarūpakāyagelaññabhāvo vutto hoti. **Byāpajjhenā**ti dukkhena. **Uddhaccakukkuccādīhī**ti **ādi**-saddena tadekaṭṭhā saṃkilesadhammā saṅgayhanti. Appaṭipattihetubhūtāya vicikicchāya sati na kadāci cittaṃ purisassa vase vattati, pahīnāya pana siyā vasavattananti āha **‘‘vicikicchāya abhāvato cittaṃ vase vattetī’’**ti. **Cittagatikā**ti cittavasikā, tenāha **cittassa vase vattantī’’**ti. **Na tādiso**ti brāhmaṇā viya cittavasiko na hoti, atha kho vasībhūtajjhānābhiññatāya cittaṃ attano vase vattetīti **vasavattī.**
 
@@ -174,7 +174,7 @@ Brahmalokamaggadesanāvaṇṇanā
 ### §556
 
 > [!abstract]- Atthakathā §556
-> [[dn13_att#§556|Commentary §556]]
+> [[dn13_att|Commentary §556]]
 
 (556) Yassa atisayena balaṃ atthi, so **‘‘balavā’’**ti vuttoti āha **‘‘balasampanno’’**ti. Saṅkhaṃ dhamayatīti **saṅkhadhamako,** taṃ dhamayitvā tato saddapavattako. **Appanāva vaṭṭati** paṭipakkhato sammadeva cetaso vimuttibhāvato.
 

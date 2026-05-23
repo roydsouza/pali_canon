@@ -32,4 +32,23 @@ The vault is divided into four primary segments. Click on each section below to 
     *   `scratch/`: Contains internal XML and JSON raw assets, download scripts, and utility modules. (Not indexed).
 
 ---
+
+## Reading Tools
+
+### Translation Toggle — `Cmd+R`
+
+Press **`Cmd+R`** to show or hide the English translations. This lets you read the Pali alone or with the interleaved English.
+
+- **Pali-only mode**: English translations (italic lines) are hidden. Good for reading or reciting Pali directly.
+- **Pali + English mode**: Both lines visible side by side. Good for study or when checking meaning.
+
+The toggle remembers its state across notes within the session. Restart Obsidian resets to whatever state was last saved.
+
+### Pali Word Lookup — double-click
+
+**Double-click any Pali word** to open the Digital Pāli Dictionary (DPD) sidebar. It shows the word's definition, grammatical form, root, and sutta references. See [[SIMSAPA-DPD]] for full details and troubleshooting.
+
+The Simsapa desktop app must be running for lookups to work.
+
+---
 *Created and maintained as a structured database for Buddhist studies.*

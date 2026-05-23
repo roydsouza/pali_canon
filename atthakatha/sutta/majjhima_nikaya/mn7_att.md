@@ -142,7 +142,7 @@ Imasmiṃ pana ṭhāne ime kilesā sotāpattimaggavajjhā vā hontu, sesamaggav
 ### §73
 
 > [!abstract]- Tīkā §73
-> [[mn7_tik#§73|Sub-commentary §73]]
+> [[mn7_tik|Sub-commentary §73]]
 
 (73) **Yato****kho, bhikkhave**ti ettha **yato**ti yamhi kāle. **Pahīno hotī**ti anāgāmimaggakkhaṇe pahānaṃ sandhāyevāha.
 

@@ -102,7 +102,7 @@ Tato vāseṭṭho ‘‘ubhinnampi amhākaṃ kathā aniyyānikāva, imasmiñca
 ### §522
 
 > [!abstract]- Tīkā §522
-> [[dn13_tik#§522|Sub-commentary §522]]
+> [[dn13_tik|Sub-commentary §522]]
 
 (522) **Ettha bho gotamā**ti etasmiṃ maggāmagge. **Viggaho vivādo**tiādīsu pubbuppattiko viggaho. Aparabhāge vivādo. Duvidhopi eso nānāācariyānaṃ vādato nānāvādo.
 
@@ -170,7 +170,7 @@ Aciravatīnadīupamākathā
 ### §548
 
 > [!abstract]- Tīkā §548
-> [[dn13_tik#§548|Sub-commentary §548]]
+> [[dn13_tik|Sub-commentary §548]]
 
 (548) **Āvaraṇā**tiādīsu āvarantīti **āvaraṇā.** Nivārentīti **nīvaraṇā.** Onandhantīti **onāhanā.** Pariyonandhantīti **pariyonāhanā.** Kāmacchandādīnaṃ vitthārakathā visuddhimaggato gahetabbā.
 

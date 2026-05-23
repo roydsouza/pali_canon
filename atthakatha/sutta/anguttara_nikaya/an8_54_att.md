@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §54
 
 > [!abstract]- Tīkā §54
-> [[an8_54_tik#§54|Sub-commentary §54]]
+> [[an8_54_tik|Sub-commentary §54]]
 
 (54) Catutthe **byagghapajjā**ti idamassa paveṇi nāma vasena ālapanaṃ. Tassa hi pubbapurisā byagghapathe jātāti tasmiṃ kule manussā byagghapajjāti vuccanti. **Issatthenā**ti issāsakammena. **Tatrupāyāyā**ti ‘‘imasmiṃ kāle idaṃ nāma kātuṃ vaṭṭatī’’ti jānane upāyabhūtāya. **Vuddhasīlino**ti vaḍḍhitasīlā vuddhasamācārā. **Āya**nti āgamanaṃ. **Nāccogāḷha**nti nātimahantaṃ. **Nātihīna**nti nātikasiraṃ. **Pariyādāyā**ti gahetvā khepetvā. Tattha yassa vayato diguṇo āyo, tassa vayo āyaṃ pariyādātuṃ na sakkoti.
 
