@@ -29,4 +29,5 @@ type: matika
 * [[udana#Ud 8.1|Ud 8.1, 8.2, 8.3, 8.4: Nibbānapaṭisaṃyutta Suttas]] — Describe the unconditioned (*asaṅkhata*), unborn, unmade, and unformed, representing the total cessation of *dukkha* and release from the conditioned marks of existence.
 * [[snp1.3|Snp 1.3: Khaggavisāṇasutta]] — verses repeatedly stress the impermanence and suffering inherent in relationships and attachments, pointing to solitude as the way to perceive the arising and passing of formations and cultivate dispassion (virāga).
 * [[an10_60|AN 10.60: Girimānandasutta]] — features the perceptions of impermanence (anicca-saññā) and non-self (anatta-saññā) as the first two of the ten perceptions for healing, directing the meditator to contemplate impermanence and non-self in the five aggregates.
+* [[dn1|DN 1: Brahmajālasutta]] — the 62 speculative views (diṭṭhi) systematically catalogued are all forms of self-view (attā-diṭṭhi); the sutta demonstrates how clinging to any view of self or world contradicts the three marks, particularly anattā.
 

@@ -16,6 +16,7 @@ tags:
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]
 **Related Texts**: [[dn1_att|Commentary (Atthakathā)]] | [[dn1_tik|Sub-commentary (Tīkā)]]
+**Mātikā**: [[three_marks|Three Marks]] · [[dependent_origination|Dependent Origination]]
 
 ## Brahmajālasutta
 *The Prime Net*

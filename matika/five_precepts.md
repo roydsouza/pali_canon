@@ -31,4 +31,5 @@ type: matika
 * [[udana#Ud 2.3|Ud 2.3: Daṇḍa Sutta]] — Illustrates the first precept (abstaining from taking life/harming) through the Buddha's intervention when boys beat a snake, noting that seeking one's own happiness by harming others leads to no happiness hereafter.
 * [[snp1.6|Snp 1.6: Parābhavasutta]] — outlines how ethical failures (such as anger, pride, and violating the precepts) lead to a person's downfall.
 * [[snp1.7|Snp 1.7: Vasalasutta]] — teaches that a person becomes an outcast or a noble one through their ethical conduct and actions (kamma), not by birth.
+* [[dn16|DN 16: Mahāparinibbānasutta]] — in his final journey, the Buddha delivers the discourse on the benefits of ethical conduct (*sīla*) at Pāṭaligāma, highlighting how an ethical person obtains great wealth, good reputation, and enters a good rebirth.
 

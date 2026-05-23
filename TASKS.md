@@ -1,21 +1,18 @@
 # Project Tasks Checklist
 
-This file tracks the roadmap and pending tasks for the Pali Canon Vault.
-**Last updated**: 2026-05-22 (DN expansion complete: DN 1, DN 16, DN 21 all three layers)
+This file tracks granular task progress for the Pali Canon Vault.
+See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
+**Last updated**: 2026-05-22
 
 ---
 
-## Recommended Next Order (for incoming agent)
+## Phase 0 — Get Well (FROM-CLAUDE.md Issues)
 
-Priority is based on: (1) meditation-practice relevance, (2) strong mātikā connections not yet filled, (3) CSCD files already confirmed available.
-
-1. **Udāna (KN)** — 80 short inspired utterances; available on SuttaCentral (`ud1.1`–`ud8.10`); Pali poetic, high density of key teachings; no CSCD needed for mūla
-2. **Sutta Nipāta (KN)** — Classic early poetry: Metta Sutta (Snp 1.8), Rhinoceros (Snp 1.3), Aṭṭhakavagga; SuttaCentral `snp1.1`–`snp5.19`
-3. **DN expansion** — DN 16 (Mahāparinibbāna, large — 6 chapters), DN 21 (Sakkapañha), DN 1 (Brahmajāla); scripts already exist for DN layer generation
-4. **AN expansion** — AN 7, 8, 11 nipātas have nothing; AN 1 (one-thing suttas, very short); consult `scratch/generate_an_mula.py` pattern
-5. **Vinaya Piṭaka** — Bhikkhu Pātimokkha (227 rules); Bhikkhu Thanissaro translation freely available; cross-link to `matika/five_precepts.md`
-6. **New mātikā lists** — Ten fetters (dasa saṃyojanā), seven purifications (satta visuddhi); would connect naturally to SN 55 (sotāpatti) and path material
-7. **§-anchor cross-links** — paragraph-level mūla↔att↔tīkā for remaining suttas; pattern established in `scratch/crosslink_mn118.py`; 20+ suttas still lack this
+- [x] **A. Commit protocol** — Establish commit-after-each-sutta discipline; document in ROADMAP.md ✅ (protocol written)
+- [x] **C. STATUS.md script count** — Update "17 reusable Python scripts" to actual count (~94); categorize by type
+- [x] **D. TASKS.md Snp entry** — Clarify remaining Snp scope: Chapters 2 (14 suttas), 3 (12), 4 (16), 5 (16+)
+- [x] **E. DN mātikā links** — Add forward mātikā links to DN 1, 16, 21 + reverse links in mātikā files
+- [ ] **B. scratch/ cleanup** — *Deferred to after Phase 8*: move generators to `scratch/generators/`, archive inspect/test scripts
 
 ---
 
@@ -105,7 +102,11 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 - [ ] SN 51 (Iddhipādasaṃyutta) — CSCD: `s0305a.att6.xml` / `s0305t.tik6.xml` — lower priority
 
 ### Khuddaka Nikāya — Beyond Dhammapada
-- [ ] **Sutta Nipāta** — SuttaCentral IDs: `snp1.1`–`snp5.19` (Uragavagga/Chapter 1 complete: 12 suttas)
+- [ ] **Sutta Nipāta** — Remaining chapters (Chapter 1 Uragavagga complete: 12 suttas with mūla + att)
+      - [ ] Chapter 2 Cūḷavagga (14 suttas: snp2.1–snp2.14) — includes Ratana, Maṅgala (paritta)
+      - [ ] Chapter 3 Mahāvagga (12 suttas: snp3.1–snp3.12) — Pabbajjā, Sela, Dvayatānupassanā
+      - [ ] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
+      - [ ] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
 - [ ] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112`
 - [ ] Thera/Therīgāthā — short verses, SuttaCentral available
 

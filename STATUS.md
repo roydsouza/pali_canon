@@ -101,7 +101,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 *   **CSS Toggle**: Translation toggle for pure Pali reading
 *   **Templates**: Mūla, Atthakathā, Tīkā sutta templates
 *   **Git**: Local repository initialized (no remote)
-*   **Scripts**: 17 reusable Python scripts in `scratch/`
+*   **Scripts**: 94 Python scripts in `scratch/` (49 generators, 7 crosslinkers, 25 inspectors, 7 tests, 6 utilities)
 
 ---
 

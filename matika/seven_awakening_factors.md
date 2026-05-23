@@ -37,3 +37,4 @@ type: matika
 * [[mn118|MN 118: Ānāpānasatisutta]] — explicitly details how the four foundations of mindfulness, developed through ānāpānasati, fulfill the seven factors of awakening
 * [[an3_100|AN 3.100: Loṇakapallasutta]] — the developed mind (mahāpphala kamma) capable of transcending kamma implies cultivation of bojjhaṅgā; the sutta's contrast of undeveloped vs. vast/developed mind is the frame within which the factors operate
 * [[an9_36|AN 9.36: Jhānasutta]] — each of the nine progressive attainments (four jhānas, four formless attainments, cessation) produces insight into a specific group of phenomena, enabling abandonment of defilements; the bojjhaṅgā support each level
+* [[dn16|DN 16: Mahāparinibbānasutta]] — the Buddha's summary teachings at Vesāli include the bojjhaṅgā among the 37 bodhipakkhiya-dhammā; these factors are part of the doctrinal legacy the Buddha leaves to the Saṅgha.
