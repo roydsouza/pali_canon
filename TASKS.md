@@ -77,6 +77,10 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] Itivuttaka Mūla — all 4 nipātas, 112 suttas; Bhikkhu Sujato translation
 - [x] Itivuttaka Atthakathā — all 4 nipātas, 112 suttas (1166 paragraphs); CSCD Paramatthadīpanī
 - [x] Itivuttaka Mātikā cross-links — linked to four_noble_truths, three_marks, noble_eightfold_path, three_unwholesome_roots, five_hindrances, ten_fetters, four_sublime_states, five_precepts, four_foundations_of_mindfulness, five_aggregates
+- [x] Theragāthā Mūla — 21 nipātas, 203 poems; Bhikkhu Sujato translation
+- [x] Theragāthā Mātikā cross-links — linked to noble_eightfold_path, four_sublime_states
+- [x] Therīgāthā Mūla — 16 nipātas, 73 poems; Bhikkhu Sujato translation
+- [x] Therīgāthā Mātikā cross-links — linked to four_foundations_of_mindfulness, four_sublime_states
 
 ### Vault Infrastructure
 - [x] CSS translation toggle (`pali-translation-toggle.css`)
@@ -111,7 +115,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
       - [x] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
       - [x] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
 - [x] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112` (112 suttas complete in mūla + att)
-- [ ] Thera/Therīgāthā — short verses, SuttaCentral available
+- [x] Thera/Therīgāthā — 203 Theragāthā poems + 73 Therīgāthā poems complete in mūla
 
 ### Dīgha Nikāya — Expansion
 - [x] DN 16 (Mahāparinibbāna) — 35,942w / att / tik; §-anchors done (2026-05-22)

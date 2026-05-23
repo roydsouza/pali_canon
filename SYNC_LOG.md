@@ -1,5 +1,21 @@
 # Sync Log
 
+## [2026-05-23 — Phase 8: Theragāthā and Therīgāthā Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Theragāthā and Therīgāthā Migration (Phase 8)**
+- **Mūla**: Generated 203 new Theragāthā suttas under `mula/sutta/khuddaka_nikaya/theragatha/` and 73 new Therīgāthā suttas under `mula/sutta/khuddaka_nikaya/therigatha/` (276 poems total) with interleaved Pali/English (Sujato).
+- **Index Integration**:
+  - Rebuilt Theragāthā and Therīgāthā index tables.
+  - Updated parent indexes under Khuddaka Nikāya.
+- **Status Updates**:
+  - Updated `STATUS.md` metrics table.
+  - Updated `TASKS.md` checklists.
+- **Verification**: Ran `python3 scratch/validate_links.py` to confirm 0 broken links (867 files, 10736 wikilinks, all valid).
+
+---
+
 ## [2026-05-23 — Phase 7: Itivuttaka Complete (Antigravity)]
 
 ### Session Accomplishments
