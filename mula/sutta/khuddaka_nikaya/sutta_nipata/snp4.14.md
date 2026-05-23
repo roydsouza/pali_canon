@@ -36,7 +36,7 @@ tags:
 *not grasping anything in this world?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 2
 
@@ -52,7 +52,7 @@ tags:
 *any internal cravings.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 3
 
@@ -66,7 +66,7 @@ tags:
 *for that is not quenching, say the good.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 4
 
@@ -80,7 +80,7 @@ tags:
 *they wouldn’t keep justifying themselves.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 5
 
@@ -94,7 +94,7 @@ tags:
 *there’s no picking up, whence putting down?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 6
 
@@ -108,7 +108,7 @@ tags:
 *a mendicant would make <j>no pretension regarding anything.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 7
 
@@ -122,7 +122,7 @@ tags:
 *the monastic code and immersion in samādhi.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 8
 
@@ -136,7 +136,7 @@ tags:
 *nor possessive about anything in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 9
 
@@ -150,7 +150,7 @@ tags:
 *nor tremble in the face of dangers.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 10
 
@@ -164,7 +164,7 @@ tags:
 *nor worry about not getting them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 11
 
@@ -178,7 +178,7 @@ tags:
 *in quiet places to sit and rest.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 12
 
@@ -192,7 +192,7 @@ tags:
 *and sex and ornamentation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 13
 
@@ -206,7 +206,7 @@ tags:
 *work as a doctor, or treat an impacted fetus.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 14
 
@@ -220,7 +220,7 @@ tags:
 *anger, and slander.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 15
 
@@ -234,7 +234,7 @@ tags:
 *nor cajole people from desire for profit.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 16
 
@@ -248,7 +248,7 @@ tags:
 *nor speak argumentatively.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 17
 
@@ -262,7 +262,7 @@ tags:
 *because of livelihood, wisdom, or precepts and vows.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 18
 
@@ -276,7 +276,7 @@ tags:
 *for the virtuous do not retaliate.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 19
 
@@ -290,7 +290,7 @@ tags:
 *they’d not be negligent in Gotama’s bidding.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 
 ### Section 20
 
@@ -305,5 +305,5 @@ tags:
 *Tuvaṭakasuttaṁ cuddasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.14_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp4.14_att|Commentary]]
 

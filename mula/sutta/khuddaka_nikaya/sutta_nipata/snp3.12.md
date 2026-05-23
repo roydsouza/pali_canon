@@ -36,7 +36,7 @@ tags:
 *Then the Buddha looked around the Saṅgha of mendicants, who were so very silent. He addressed them:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 2
 
@@ -48,7 +48,7 @@ tags:
 *And what pairs do they speak of?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 3
 
@@ -62,7 +62,7 @@ tags:
 *enlightenment in this very life, or if there’s residue left behind, non-return.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 4
 
@@ -72,7 +72,7 @@ tags:
 *Then the Holy One, the Teacher, went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 5
 
@@ -90,7 +90,7 @@ tags:
 *that leads to the stilling of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 6
 
@@ -104,7 +104,7 @@ tags:
 *they continue to be reborn and grow old.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 7
 
@@ -122,7 +122,7 @@ tags:
 *that leads to the stilling of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 8
 
@@ -136,7 +136,7 @@ tags:
 *they don’t continue to be reborn and grow old.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 9
 
@@ -156,7 +156,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 10
 
@@ -174,7 +174,7 @@ tags:
 *contemplating the inception of suffering and rebirth.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 11
 
@@ -194,7 +194,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 12
 
@@ -208,7 +208,7 @@ tags:
 *that destination due only to ignorance.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 13
 
@@ -222,7 +222,7 @@ tags:
 *do not proceed to a future life.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 14
 
@@ -240,7 +240,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 15
 
@@ -254,7 +254,7 @@ tags:
 *there is no origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 16
 
@@ -272,7 +272,7 @@ tags:
 *For those who truly know this,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 17
 
@@ -286,7 +286,7 @@ tags:
 *do not proceed to a future life.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 18
 
@@ -304,7 +304,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 19
 
@@ -318,7 +318,7 @@ tags:
 *there is no origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 20
 
@@ -332,7 +332,7 @@ tags:
 *is hungerless, quenched.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 21
 
@@ -350,7 +350,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 22
 
@@ -364,7 +364,7 @@ tags:
 *are far from the ending of fetters.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 23
 
@@ -378,7 +378,7 @@ tags:
 *they are hungerless, quenched.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 24
 
@@ -396,7 +396,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 25
 
@@ -410,7 +410,7 @@ tags:
 *both internally and externally—*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 26
 
@@ -428,7 +428,7 @@ tags:
 *is hungerless, quenched.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 27
 
@@ -446,7 +446,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 28
 
@@ -460,7 +460,7 @@ tags:
 *but don’t escape transmigration.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 29
 
@@ -474,7 +474,7 @@ tags:
 *a mendicant would wander mindful.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 30
 
@@ -492,7 +492,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 31
 
@@ -506,7 +506,7 @@ tags:
 *this is the origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 32
 
@@ -520,7 +520,7 @@ tags:
 *do not proceed to a future life.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 33
 
@@ -538,7 +538,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 34
 
@@ -552,7 +552,7 @@ tags:
 *there is no origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 35
 
@@ -566,7 +566,7 @@ tags:
 *one is freed with respects to instigation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 36
 
@@ -580,7 +580,7 @@ tags:
 *there’ll be no more future lives for them.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 37
 
@@ -598,7 +598,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 38
 
@@ -612,7 +612,7 @@ tags:
 *there is no origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 39
 
@@ -626,7 +626,7 @@ tags:
 *one is independent of all sustenance.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 40
 
@@ -640,7 +640,7 @@ tags:
 *a knowledge master cannot be reckoned.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 41
 
@@ -658,7 +658,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§41|Commentary §41]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 42
 
@@ -672,7 +672,7 @@ tags:
 *there is no origination of suffering.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§42|Commentary §42]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 43
 
@@ -690,7 +690,7 @@ tags:
 *a mendicant would wander mindful.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§43|Commentary §43]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 44
 
@@ -708,7 +708,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§44|Commentary §44]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 45
 
@@ -722,7 +722,7 @@ tags:
 *without escaping transmigration.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§45|Commentary §45]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 46
 
@@ -736,7 +736,7 @@ tags:
 *a mendicant would wander mindful.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§46|Commentary §46]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 47
 
@@ -754,7 +754,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§47|Commentary §47]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 48
 
@@ -768,7 +768,7 @@ tags:
 *they return in future lives.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§48|Commentary §48]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 49
 
@@ -782,7 +782,7 @@ tags:
 *they are conquerors of death.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§49|Commentary §49]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 50
 
@@ -800,7 +800,7 @@ tags:
 *Then the Teacher went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§50|Commentary §50]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 51
 
@@ -814,7 +814,7 @@ tags:
 *imagining this is truth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§51|Commentary §51]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 52
 
@@ -828,7 +828,7 @@ tags:
 *for the ephemeral is deceptive by nature.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§52|Commentary §52]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 53
 
@@ -842,7 +842,7 @@ tags:
 *they are hungerless, quenched.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§53|Commentary §53]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 54
 
@@ -866,7 +866,7 @@ tags:
 *Then the Holy One, the Teacher, went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§54|Commentary §54]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 55
 
@@ -880,7 +880,7 @@ tags:
 *as long as you can say that they exist.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§55|Commentary §55]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 56
 
@@ -894,7 +894,7 @@ tags:
 *is deemed as suffering for them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§56|Commentary §56]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 57
 
@@ -908,7 +908,7 @@ tags:
 *contradicts the whole world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§57|Commentary §57]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 58
 
@@ -922,7 +922,7 @@ tags:
 *the noble ones know as happiness.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§58|Commentary §58]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 59
 
@@ -936,7 +936,7 @@ tags:
 *blackness for those who don’t see.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§59|Commentary §59]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 60
 
@@ -950,7 +950,7 @@ tags:
 *those fools inexpert in the teaching.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§60|Commentary §60]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 61
 
@@ -964,7 +964,7 @@ tags:
 *this teaching isn’t easy for them to understand.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§61|Commentary §61]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 62
 
@@ -978,7 +978,7 @@ tags:
 *the undefiled are fully extinguished.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§62|Commentary §62]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 63
 
@@ -991,7 +991,7 @@ tags:
 *Dvayatānupassanāsuttaṁ dvādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§63|Commentary §63]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 64
 
@@ -1005,7 +1005,7 @@ tags:
 *Mahāvaggo tatiyo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§64|Commentary §64]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 65
 
@@ -1016,7 +1016,7 @@ tags:
 *selo sallañca vuccati.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§65|Commentary §65]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 
 ### Section 66
 
@@ -1026,5 +1026,5 @@ tags:
 *Mahāvaggoti vuccatīti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.12_att#§66|Commentary §66]]
+> - **Commentary (Atthakathā)**: [[snp3.12_att|Commentary]]
 

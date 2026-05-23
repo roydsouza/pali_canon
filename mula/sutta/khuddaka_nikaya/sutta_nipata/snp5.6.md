@@ -38,7 +38,7 @@ tags:
 *I shall train myself for extinguishment.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *and train yourself for extinguishment.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *release me, Sakyan, from my indecisions.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 4
 
@@ -82,7 +82,7 @@ tags:
 *you shall cross this flood.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 5
 
@@ -96,7 +96,7 @@ tags:
 *unobstructed as space itself.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 6
 
@@ -112,7 +112,7 @@ tags:
 *may cross over clinging in the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 7
 
@@ -126,7 +126,7 @@ tags:
 *may cross over clinging in the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 
 ### Section 8
 
@@ -143,5 +143,5 @@ tags:
 *Dhotakamāṇavapucchā pañcamī.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.6_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.6_att|Commentary]]
 

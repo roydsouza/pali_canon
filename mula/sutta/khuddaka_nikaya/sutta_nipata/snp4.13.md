@@ -36,7 +36,7 @@ tags:
 *or do some also win praise for that?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *looking for sanctuary in the land of no dispute.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *since they do not believe <j>based on the seen or the heard?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *Claiming to be skilled, they are led on to future lives.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *like one who has lost their caravan <j>while journeying far from home.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *live detached, fostering peace.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *not rid of craving for life after life.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 8
 
@@ -134,7 +134,7 @@ tags:
 *why would they tremble? For what would they pray?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 9
 
@@ -148,7 +148,7 @@ tags:
 *for they all claim to be an expert?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 10
 
@@ -162,7 +162,7 @@ tags:
 *each saying their own conventions are the truth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 11
 
@@ -176,7 +176,7 @@ tags:
 *while forcefully advocating their own.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 12
 
@@ -190,7 +190,7 @@ tags:
 *and purity would be specific to them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 13
 
@@ -204,7 +204,7 @@ tags:
 *for they see no other doctrine as best.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 14
 
@@ -218,7 +218,7 @@ tags:
 *Overlooking what matters, <j>they say purity comes from another.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 15
 
@@ -232,7 +232,7 @@ tags:
 *for those who are skilled say this is no way to purity.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 16
 
@@ -246,7 +246,7 @@ tags:
 *they talk of purity in accord with what they saw there.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 17
 
@@ -260,7 +260,7 @@ tags:
 *they look on when others grasp.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 18
 
@@ -274,7 +274,7 @@ tags:
 *they don’t grasp when others grasp.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 19
 
@@ -288,7 +288,7 @@ tags:
 *not clinging to the world, <j>nor reproaching themselves.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 
 ### Section 20
 
@@ -303,5 +303,5 @@ tags:
 *Mahābyūhasuttaṁ terasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.13_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp4.13_att|Commentary]]
 

@@ -33,7 +33,7 @@ tags:
 *Then the lay follower Dhammika, together with five hundred lay followers, went up to the Buddha, bowed, sat down to one side, and addressed him in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 2
 
@@ -47,7 +47,7 @@ tags:
 *and the lay followers staying at home?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 3
 
@@ -61,7 +61,7 @@ tags:
 *for you are the Buddha most excellent, they say.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 4
 
@@ -75,7 +75,7 @@ tags:
 *and immaculate, you shine on the whole world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 5
 
@@ -89,7 +89,7 @@ tags:
 *left consoled, saying ‘Excellent!’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 6
 
@@ -103,7 +103,7 @@ tags:
 *and hearing you he too was consoled.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 7
 
@@ -117,7 +117,7 @@ tags:
 *like a standing man next to a sprinter.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 8
 
@@ -131,7 +131,7 @@ tags:
 *and others too who think themselves debaters.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 9
 
@@ -145,7 +145,7 @@ tags:
 *O Best of Buddhas, tell us!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 10
 
@@ -159,7 +159,7 @@ tags:
 *like gods listening to the fine words of Vāsava.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 11
 
@@ -173,7 +173,7 @@ tags:
 *would adopt the deportment <j>proper to a renunciate.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 12
 
@@ -187,7 +187,7 @@ tags:
 *which is why the Buddhas avoid it.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 13
 
@@ -201,7 +201,7 @@ tags:
 *and enter for the morning meal at the right time.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 14
 
@@ -215,7 +215,7 @@ tags:
 *from outside things, keeping themselves collected.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 15
 
@@ -229,7 +229,7 @@ tags:
 *not dividing or blaming.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 16
 
@@ -243,7 +243,7 @@ tags:
 *for they send their mind over there far away.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 17
 
@@ -257,7 +257,7 @@ tags:
 *a disciple of outstanding wisdom would use these after appraisal.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 18
 
@@ -271,7 +271,7 @@ tags:
 *like a droplet on a lotus-leaf.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 19
 
@@ -285,7 +285,7 @@ tags:
 *the whole of the mendicant’s practice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 20
 
@@ -299,7 +299,7 @@ tags:
 *frail or firm that there are in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 21
 
@@ -313,7 +313,7 @@ tags:
 *they’d avoid <em>all</em> theft.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 22
 
@@ -327,7 +327,7 @@ tags:
 *they’d not transgress with another’s partner.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 23
 
@@ -341,7 +341,7 @@ tags:
 *they’d avoid <em>all</em> untruths.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 24
 
@@ -355,7 +355,7 @@ tags:
 *knowing that ends in intoxication.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 25
 
@@ -369,7 +369,7 @@ tags:
 *the maddening, deluding frolic of fools.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 26
 
@@ -383,7 +383,7 @@ tags:
 *and don’t eat at night, the wrong time.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 27
 
@@ -397,7 +397,7 @@ tags:
 *explained by the Buddha, <j>who has gone to suffering’s end.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 28
 
@@ -411,7 +411,7 @@ tags:
 *as well as on the fortnightly special displays,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 29
 
@@ -425,7 +425,7 @@ tags:
 *to the mendicant Saṅgha as is fitting.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 30
 
@@ -441,7 +441,7 @@ tags:
 *Cūḷavaggo dutiyo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 31
 
@@ -452,7 +452,7 @@ tags:
 *nāvā kiṁsīlamuṭṭhānaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 
 ### Section 32
 
@@ -462,5 +462,5 @@ tags:
 *cūḷavagganti cuddasāti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.14_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp2.14_att|Commentary]]
 

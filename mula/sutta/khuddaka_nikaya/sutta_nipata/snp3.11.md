@@ -35,7 +35,7 @@ tags:
 *waving streamers in exuberant exaltation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *Why take up streamers and whirl them about?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *What marvel have the celestials seen <j>that they so rejoice?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *quickly dispel my doubt, good fellows!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 5
 
@@ -91,7 +91,7 @@ tags:
 *That’s why we’re so happy, in such excellent spirits.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *roaring like a mighty lion, lord of beasts.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *“Where is the boy? I too wish to see him!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 8
 
@@ -133,7 +133,7 @@ tags:
 *dazzling with glory, of peerless beauty.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 9
 
@@ -147,7 +147,7 @@ tags:
 *seeing him, he was joyful, brimming with happiness.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 10
 
@@ -161,7 +161,7 @@ tags:
 *but none could see who held <j>the chowries or the parasols.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 11
 
@@ -175,7 +175,7 @@ tags:
 *he received him, elated and happy.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 12
 
@@ -189,7 +189,7 @@ tags:
 *“He is supreme, the best of men!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 13
 
@@ -203,7 +203,7 @@ tags:
 *“Surely there will be no threat to the boy?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 14
 
@@ -217,7 +217,7 @@ tags:
 *not in the least; set your minds at ease.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 15
 
@@ -231,7 +231,7 @@ tags:
 *his spiritual path will become widespread.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 16
 
@@ -245,7 +245,7 @@ tags:
 *That’s why I’m so upset and distraught—<j>it’s a disaster for me!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 17
 
@@ -259,7 +259,7 @@ tags:
 *he encouraged him in the teaching <j>of the one who bore the unequaled burden.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 18
 
@@ -273,7 +273,7 @@ tags:
 *lead the spiritual life under that Blessed One.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 19
 
@@ -287,7 +287,7 @@ tags:
 *he waited anticipating the Victor, <j>guarding his senses.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 20
 
@@ -303,7 +303,7 @@ tags:
 *The introductory verses are finished.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 21
 
@@ -317,7 +317,7 @@ tags:
 *who has gone beyond all things:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 22
 
@@ -331,7 +331,7 @@ tags:
 *of sagacity, the ultimate state.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 23
 
@@ -347,7 +347,7 @@ tags:
 *Brace yourself; stay strong!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 24
 
@@ -361,7 +361,7 @@ tags:
 *wander peaceful and humble.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 25
 
@@ -375,7 +375,7 @@ tags:
 *let them not seduce you!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 26
 
@@ -389,7 +389,7 @@ tags:
 *to living creatures firm or frail.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 27
 
@@ -403,7 +403,7 @@ tags:
 *neither kill nor incite to kill.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 28
 
@@ -417,7 +417,7 @@ tags:
 *they’d cross over this abyss.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 29
 
@@ -431,7 +431,7 @@ tags:
 *desireless, one is quenched.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 30
 
@@ -445,7 +445,7 @@ tags:
 *the sage would take their seat.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 31
 
@@ -459,7 +459,7 @@ tags:
 *filling themselves with bliss.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 32
 
@@ -473,7 +473,7 @@ tags:
 *nor offerings brought from the village.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 33
 
@@ -487,7 +487,7 @@ tags:
 *nor would they speak suggestively.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 34
 
@@ -501,7 +501,7 @@ tags:
 *they return right to the tree.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 35
 
@@ -515,7 +515,7 @@ tags:
 *nor look down upon the giver.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 36
 
@@ -529,7 +529,7 @@ tags:
 *nor having gone once do they fall away.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 37
 
@@ -543,7 +543,7 @@ tags:
 *no fever is found in them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 38
 
@@ -557,7 +557,7 @@ tags:
 *be restrained regarding your stomach.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 39
 
@@ -571,7 +571,7 @@ tags:
 *committed to the spiritual life.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 40
 
@@ -587,7 +587,7 @@ tags:
 *you’ll light up the ten directions.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 41
 
@@ -601,7 +601,7 @@ tags:
 *conscience and faith all the more.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§41|Commentary §41]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 42
 
@@ -615,7 +615,7 @@ tags:
 *while silent flow the great rivers.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§42|Commentary §42]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 43
 
@@ -629,7 +629,7 @@ tags:
 *the wise like a brimfull lake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§43|Commentary §43]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 44
 
@@ -643,7 +643,7 @@ tags:
 *knowing, he speaks much.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§44|Commentary §44]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 
 ### Section 45
 
@@ -658,5 +658,5 @@ tags:
 *Nālakasuttaṁ ekādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.11_att#§45|Commentary §45]]
+> - **Commentary (Atthakathā)**: [[snp3.11_att|Commentary]]
 

@@ -36,7 +36,7 @@ tags:
 *they believe in the notion <j>that there is one who observes purity.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *their view betrays them as one who asserts thus.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *letting go what was picked up, <j>without creating anything new here.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *grabbing and releasing a branch.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *does not visit various teachers, being of vast wisdom.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *how could anyone in this world judge them?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *they long for nothing in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 
 ### Section 8
 
@@ -135,5 +135,5 @@ tags:
 *Suddhaṭṭhakasuttaṁ catutthaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.4_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.4_att|Commentary]]
 

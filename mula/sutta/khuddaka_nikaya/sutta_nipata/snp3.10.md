@@ -35,7 +35,7 @@ tags:
 *“Sir, Sāriputta and Moggallāna have corrupt wishes. They’ve fallen under the sway of corrupt wishes.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *they’re good monks.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 3
 
@@ -69,7 +69,7 @@ tags:
 *they’re good monks.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 4
 
@@ -85,7 +85,7 @@ tags:
 *He was reborn in the Pink Lotus hell because of his resentment for Sāriputta and Moggallāna.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 5
 
@@ -101,7 +101,7 @@ tags:
 *Then he bowed and respectfully circled the Buddha, keeping him on his right side, before vanishing right there.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 6
 
@@ -111,7 +111,7 @@ tags:
 *idamavoca, bhikkhave, brahmā sahampati, idaṁ vatvā maṁ padakkhiṇaṁ katvā tatthevantaradhāyī”ti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 7
 
@@ -129,7 +129,7 @@ tags:
 *“It’s possible,” said the Buddha.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 8
 
@@ -163,7 +163,7 @@ tags:
 *Then the Holy One, the Teacher, went on to say:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 9
 
@@ -177,7 +177,7 @@ tags:
 *when they say bad words.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 10
 
@@ -191,7 +191,7 @@ tags:
 *you’ll never find happiness that way.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 11
 
@@ -207,7 +207,7 @@ tags:
 *is to hate the holy ones.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 12
 
@@ -221,7 +221,7 @@ tags:
 *having aimed bad words and thoughts at them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 13
 
@@ -235,7 +235,7 @@ tags:
 *those men of base deeds.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 14
 
@@ -249,7 +249,7 @@ tags:
 *like fine dust thrown upwind.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 15
 
@@ -263,7 +263,7 @@ tags:
 *stingy, addicted to backbiting.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 16
 
@@ -277,7 +277,7 @@ tags:
 *quiet now, for you are bound for hell.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 17
 
@@ -291,7 +291,7 @@ tags:
 *you’ll go to the pit for a long time.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 18
 
@@ -305,7 +305,7 @@ tags:
 *sees suffering in themselves.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 19
 
@@ -319,7 +319,7 @@ tags:
 *is like a red-hot iron ball.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 20
 
@@ -333,7 +333,7 @@ tags:
 *they enter a blazing mass of fire.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 21
 
@@ -347,7 +347,7 @@ tags:
 *which spreads about them like a fog.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 22
 
@@ -361,7 +361,7 @@ tags:
 *writhing in the masses of fire.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 23
 
@@ -375,7 +375,7 @@ tags:
 *everything they touch there hurts them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 24
 
@@ -389,7 +389,7 @@ tags:
 *for all around are the same kind of pots.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 25
 
@@ -403,7 +403,7 @@ tags:
 *they stab it, slashing back and forth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 26
 
@@ -417,7 +417,7 @@ tags:
 *the wicked who have done wicked deeds.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 27
 
@@ -431,7 +431,7 @@ tags:
 *while hawks and crows attack them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 28
 
@@ -445,7 +445,7 @@ tags:
 *a person ought do their duty without fail.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 29
 
@@ -459,7 +459,7 @@ tags:
 *plus another twelve hundred times ten million years—*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 
 ### Section 30
 
@@ -474,5 +474,5 @@ tags:
 *Kokālikasuttaṁ dasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.10_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.10_att|Commentary]]
 

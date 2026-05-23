@@ -36,7 +36,7 @@ tags:
 *which is why they’ve no barrenness at all.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *you’d speak according to your notion.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *since they speak on themselves of their own accord.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *who have no pretensions about anything in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *they become dependent on that, <j>relying on unstable peace.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *ditches one teaching and takes up another.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *by what path would they go? They are not involved.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 
 ### Section 8
 
@@ -135,5 +135,5 @@ tags:
 *Duṭṭhaṭṭhakasuttaṁ tatiyaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.3_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.3_att|Commentary]]
 

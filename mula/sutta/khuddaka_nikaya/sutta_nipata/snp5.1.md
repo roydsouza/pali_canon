@@ -36,7 +36,7 @@ tags:
 *aspiring to nothingness.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *getting by on gleanings and fruit.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *he performed a great sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *another brahmin arrived.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *and asked for five hundred coins.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *and said the following.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *I don’t have five hundred coins.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 8
 
@@ -134,7 +134,7 @@ tags:
 *let your head explode in seven!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 9
 
@@ -148,7 +148,7 @@ tags:
 *Bāvari became distressed.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 10
 
@@ -162,7 +162,7 @@ tags:
 *he could not enjoy absorption.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 11
 
@@ -176,7 +176,7 @@ tags:
 *and said the following.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 12
 
@@ -190,7 +190,7 @@ tags:
 *he has no knowledge at all.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 13
 
@@ -204,7 +204,7 @@ tags:
 *about heads and head-splitting.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 14
 
@@ -218,7 +218,7 @@ tags:
 *it is the Victors who have vision.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 15
 
@@ -232,7 +232,7 @@ tags:
 *Please tell me, goddess.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 16
 
@@ -246,7 +246,7 @@ tags:
 *a Sakyan, and a beacon.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 17
 
@@ -264,7 +264,7 @@ tags:
 *he is freed with the ending of attachments.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 18
 
@@ -278,7 +278,7 @@ tags:
 *he will answer you.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 19
 
@@ -292,7 +292,7 @@ tags:
 *and he was filled to brimming with joy.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 20
 
@@ -310,7 +310,7 @@ tags:
 *to the Awakened One, best of men?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 21
 
@@ -324,7 +324,7 @@ tags:
 *that captain of men understands head-splitting.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 22
 
@@ -338,7 +338,7 @@ tags:
 *Listen to what I say.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 23
 
@@ -356,7 +356,7 @@ tags:
 *and see the best of men.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 24
 
@@ -370,7 +370,7 @@ tags:
 *so we can recognize him.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 25
 
@@ -384,7 +384,7 @@ tags:
 *complete and in order.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 26
 
@@ -398,7 +398,7 @@ tags:
 *there is no third.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 27
 
@@ -412,7 +412,7 @@ tags:
 *he shall govern by principle.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 28
 
@@ -426,7 +426,7 @@ tags:
 *with veil cast off, supreme.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 29
 
@@ -440,7 +440,7 @@ tags:
 *but do so only in your mind!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 30
 
@@ -454,7 +454,7 @@ tags:
 *the questions in your mind.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 31
 
@@ -468,7 +468,7 @@ tags:
 *Puṇṇaka and Mettagū,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 32
 
@@ -482,7 +482,7 @@ tags:
 *and Jatukaṇṇī the astute,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 33
 
@@ -496,7 +496,7 @@ tags:
 *and Piṅgiya the great seer.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 34
 
@@ -510,7 +510,7 @@ tags:
 *were redolent with the potential <j>of their past deeds.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 35
 
@@ -524,7 +524,7 @@ tags:
 *with their dreadlocks and hides.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 36
 
@@ -538,7 +538,7 @@ tags:
 *and Vedisa, and Vanasa.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 37
 
@@ -552,7 +552,7 @@ tags:
 *and the homestead at Kusinārā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 38
 
@@ -566,7 +566,7 @@ tags:
 *fair and delightful.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 39
 
@@ -580,7 +580,7 @@ tags:
 *they quickly climbed the mountain.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 40
 
@@ -594,7 +594,7 @@ tags:
 *like a lion roaring in the jungle.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 41
 
@@ -608,7 +608,7 @@ tags:
 *when it has come into its fullness.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§41|Commentary §41]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 42
 
@@ -622,7 +622,7 @@ tags:
 *and asked this question in his mind.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§42|Commentary §42]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 43
 
@@ -636,7 +636,7 @@ tags:
 *and how many he teaches.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§43|Commentary §43]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 44
 
@@ -650,7 +650,7 @@ tags:
 *He is a master of the three Vedas,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§44|Commentary §44]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 45
 
@@ -664,7 +664,7 @@ tags:
 *and has reached proficiency in his own teaching.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§45|Commentary §45]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 46
 
@@ -678,7 +678,7 @@ tags:
 *let us doubt no longer!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§46|Commentary §46]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 47
 
@@ -692,7 +692,7 @@ tags:
 *know them as this, young man.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§47|Commentary §47]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 48
 
@@ -706,7 +706,7 @@ tags:
 *with cupped palms, wondered:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§48|Commentary §48]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 49
 
@@ -720,7 +720,7 @@ tags:
 *To whom does the Buddha reply?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§49|Commentary §49]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 50
 
@@ -734,7 +734,7 @@ tags:
 *and so, O seer, dispel our doubt.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§50|Commentary §50]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 51
 
@@ -748,7 +748,7 @@ tags:
 *and enthusiasm and energy.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§51|Commentary §51]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 52
 
@@ -762,7 +762,7 @@ tags:
 *and fell with his head to the Buddha’s feet.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§52|Commentary §52]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 53
 
@@ -776,7 +776,7 @@ tags:
 *bows to your feet, O Clear-eyed One!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§53|Commentary §53]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 54
 
@@ -790,7 +790,7 @@ tags:
 *May you live long, young man.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§54|Commentary §54]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 55
 
@@ -804,7 +804,7 @@ tags:
 *whatever you want.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§55|Commentary §55]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 
 ### Section 56
 
@@ -820,5 +820,5 @@ tags:
 *The introductory verses are finished.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.1_att#§56|Commentary §56]]
+> - **Commentary (Atthakathā)**: [[snp5.1_att|Commentary]]
 

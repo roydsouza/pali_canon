@@ -40,7 +40,7 @@ tags:
 *the giving up of rebirth and old age here.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.17_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.17_att|Commentary]]
 
 ### Section 2
 
@@ -56,7 +56,7 @@ tags:
 *give up form so as not to be reborn.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.17_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.17_att|Commentary]]
 
 ### Section 3
 
@@ -74,7 +74,7 @@ tags:
 *the giving up of rebirth and old age here.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.17_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.17_att|Commentary]]
 
 ### Section 4
 
@@ -91,5 +91,5 @@ tags:
 *Piṅgiyamāṇavapucchā soḷasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.17_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.17_att|Commentary]]
 

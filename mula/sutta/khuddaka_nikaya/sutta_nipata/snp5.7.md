@@ -38,7 +38,7 @@ tags:
 *depending on which I may cross this flood.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *watch day and night for the ending of craving.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 3
 
@@ -70,7 +70,7 @@ tags:
 *might they remain there without travelling on?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 4
 
@@ -86,7 +86,7 @@ tags:
 *they might remain there without travelling on.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 5
 
@@ -100,7 +100,7 @@ tags:
 *would the consciousness of that sort pass away?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 6
 
@@ -116,7 +116,7 @@ tags:
 *comes to an end and cannot be reckoned.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 7
 
@@ -130,7 +130,7 @@ tags:
 *for truly you understand this matter.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 
 ### Section 8
 
@@ -147,5 +147,5 @@ tags:
 *Upasīvamāṇavapucchā chaṭṭhī.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.7_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.7_att|Commentary]]
 

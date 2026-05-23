@@ -42,7 +42,7 @@ tags:
 *so this may occur no further.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.11_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.11_att|Commentary]]
 
 ### Section 2
 
@@ -58,7 +58,7 @@ tags:
 *I shall tell you an island, Kappa.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.11_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.11_att|Commentary]]
 
 ### Section 3
 
@@ -72,7 +72,7 @@ tags:
 *the ending of old age and death.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.11_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.11_att|Commentary]]
 
 ### Section 4
 
@@ -87,5 +87,5 @@ tags:
 *Kappamāṇavapucchā dasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.11_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.11_att|Commentary]]
 

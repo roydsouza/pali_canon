@@ -36,7 +36,7 @@ tags:
 *tell me please, where do they come from?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 2
 
@@ -52,7 +52,7 @@ tags:
 *and when disputes have arisen there is slander.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 3
 
@@ -66,7 +66,7 @@ tags:
 *a man has for the next life?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 4
 
@@ -80,7 +80,7 @@ tags:
 *a man has for the next life.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 5
 
@@ -94,7 +94,7 @@ tags:
 *and other things spoken of by the Ascetic?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 6
 
@@ -108,7 +108,7 @@ tags:
 *a personage makes evaluations in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 7
 
@@ -122,7 +122,7 @@ tags:
 *it is from knowledge <j>that the Ascetic speaks of these things.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 8
 
@@ -136,7 +136,7 @@ tags:
 *tell me where they spring from.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 9
 
@@ -150,7 +150,7 @@ tags:
 *I tell you they spring from there.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 10
 
@@ -164,7 +164,7 @@ tags:
 *When what vanishes do contacts not strike?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 11
 
@@ -178,7 +178,7 @@ tags:
 *when form vanishes, contacts don’t strike.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 12
 
@@ -192,7 +192,7 @@ tags:
 *I think we ought to know these things.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 13
 
@@ -206,7 +206,7 @@ tags:
 *for judgments due to proliferation spring from perception.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 14
 
@@ -222,7 +222,7 @@ tags:
 *Or do they say it is something else?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 15
 
@@ -236,7 +236,7 @@ tags:
 *speak of an occasion when there is no residue.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 
 ### Section 16
 
@@ -251,5 +251,5 @@ tags:
 *Kalahavivādasuttaṁ ekādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.11_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.11_att|Commentary]]
 

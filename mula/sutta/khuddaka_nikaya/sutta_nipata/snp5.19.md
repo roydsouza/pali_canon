@@ -40,7 +40,7 @@ tags:
 *why would he speak falsely?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *conceit and contempt.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *the rightly-named one, brahmin, is revered by me.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 4
 
@@ -82,7 +82,7 @@ tags:
 *like a swan come to a great river.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 5
 
@@ -98,7 +98,7 @@ tags:
 *all that just fostered speculation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 6
 
@@ -112,7 +112,7 @@ tags:
 *Gotama, vast in intelligence.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 7
 
@@ -126,7 +126,7 @@ tags:
 *to which there is no compare.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 8
 
@@ -140,7 +140,7 @@ tags:
 *from Gotama, vast in intelligence?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 9
 
@@ -154,7 +154,7 @@ tags:
 *to which there is no compare.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 10
 
@@ -168,7 +168,7 @@ tags:
 *from Gotama, vast in intelligence.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 11
 
@@ -182,7 +182,7 @@ tags:
 *to which there is no compare.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 12
 
@@ -196,7 +196,7 @@ tags:
 *hence I think I dwell with him.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 13
 
@@ -210,7 +210,7 @@ tags:
 *the one of vast wisdom heads.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 14
 
@@ -224,7 +224,7 @@ tags:
 *for my mind, brahmin, is bound to him.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 15
 
@@ -238,7 +238,7 @@ tags:
 *the undefiled one who has crossed the flood.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 16
 
@@ -252,7 +252,7 @@ tags:
 *You will go, Piṅgiya, beyond the domain of death.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 17
 
@@ -266,7 +266,7 @@ tags:
 *so kind and eloquent.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 18
 
@@ -280,7 +280,7 @@ tags:
 *for those who admit their doubts.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 19
 
@@ -296,7 +296,7 @@ tags:
 *Suttuddānaṁ*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 20
 
@@ -308,7 +308,7 @@ tags:
 *Vijayasuttaṁ munisuttavaranti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 21
 
@@ -318,7 +318,7 @@ tags:
 *Suyyati vaggavaro uragoti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 22
 
@@ -328,7 +328,7 @@ tags:
 *Rāhulo ca punapi vaṅgīso.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 23
 
@@ -338,7 +338,7 @@ tags:
 *Cūḷakavaggavaroti tamāhu.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 24
 
@@ -348,7 +348,7 @@ tags:
 *Vāseṭṭhavaro kālikopi ca.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 25
 
@@ -358,7 +358,7 @@ tags:
 *Suyyati vaggavaro mahānāmo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 26
 
@@ -368,7 +368,7 @@ tags:
 *Pasūramāgaṇḍiyā purābhedo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 27
 
@@ -378,7 +378,7 @@ tags:
 *Aṭṭhakavaggavaroti tamāhu.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 28
 
@@ -388,7 +388,7 @@ tags:
 *Vasi bhagavā gaṇaseṭṭho.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 29
 
@@ -399,7 +399,7 @@ tags:
 *Nippakāsayi dhammamadāsi.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 30
 
@@ -411,7 +411,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 31
 
@@ -421,7 +421,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 32
 
@@ -432,7 +432,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 33
 
@@ -442,7 +442,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 34
 
@@ -452,7 +452,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 35
 
@@ -462,7 +462,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 36
 
@@ -472,7 +472,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 37
 
@@ -482,7 +482,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 38
 
@@ -492,7 +492,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 39
 
@@ -502,7 +502,7 @@ tags:
 *Desayi suttavaraṁ dvipadaggo.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 
 ### Section 40
 
@@ -514,5 +514,5 @@ tags:
 *The Anthology of Discourses is completed.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.19_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp5.19_att|Commentary]]
 

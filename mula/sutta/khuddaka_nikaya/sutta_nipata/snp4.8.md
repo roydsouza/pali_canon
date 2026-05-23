@@ -36,7 +36,7 @@ tags:
 *each one is dogmatic about <j>their own idiosyncratic interpretation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *desiring praise while claiming to be skilled.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *upset at criticism, they find fault in others.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *moaning, “They beat me.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *for the only purpose is praise and profit.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *having got what they wanted.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *for those who are skilled say this is no way to purity.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 8
 
@@ -134,7 +134,7 @@ tags:
 *for here, as before, there is no-one to combat.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 9
 
@@ -148,7 +148,7 @@ tags:
 *when a dispute has come up.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 10
 
@@ -162,7 +162,7 @@ tags:
 *among those who grasp nothing here as the highest?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 
 ### Section 11
 
@@ -177,5 +177,5 @@ tags:
 *Pasūrasuttaṁ aṭṭhamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.8_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.8_att|Commentary]]
 

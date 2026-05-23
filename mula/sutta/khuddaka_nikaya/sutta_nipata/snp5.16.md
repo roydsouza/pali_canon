@@ -38,7 +38,7 @@ tags:
 *answers when questioned a third time.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.16_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.16_att|Commentary]]
 
 ### Section 2
 
@@ -52,7 +52,7 @@ tags:
 *of the renowned Gotama.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.16_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.16_att|Commentary]]
 
 ### Section 3
 
@@ -66,7 +66,7 @@ tags:
 *so the King of Death won’t see you?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.16_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.16_att|Commentary]]
 
 ### Section 4
 
@@ -85,5 +85,5 @@ tags:
 *Mogharājamāṇavapucchā pannarasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.16_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.16_att|Commentary]]
 

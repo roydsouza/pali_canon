@@ -41,7 +41,7 @@ tags:
 *I’ll soon find out whether he’s an ascetic or a faker.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 2
 
@@ -59,7 +59,7 @@ tags:
 *But your touch is nasty.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 3
 
@@ -69,7 +69,7 @@ tags:
 *If you don’t answer me, I’ll drive you insane, or explode your heart, or grab you by the feet and throw you to the far shore of the Ganges!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 4
 
@@ -81,7 +81,7 @@ tags:
 *Then Spiky addressed the Buddha in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 5
 
@@ -95,7 +95,7 @@ tags:
 *like a crow let loose by boys.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 6
 
@@ -109,7 +109,7 @@ tags:
 *like a crow let loose by boys.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 7
 
@@ -123,7 +123,7 @@ tags:
 *are like camel’s foot creeper <j>creeping through the woods.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 
 ### Section 8
 
@@ -138,5 +138,5 @@ tags:
 *Sūcilomasuttaṁ pañcamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.5_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.5_att|Commentary]]
 

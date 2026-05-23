@@ -38,7 +38,7 @@ tags:
 *come from Tusita heaven to lead a community.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 2
 
@@ -52,7 +52,7 @@ tags:
 *and alone attained to bliss.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 3
 
@@ -66,7 +66,7 @@ tags:
 *free of deceit, come to lead a community.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 4
 
@@ -80,7 +80,7 @@ tags:
 *on mountains, or in caves.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 5
 
@@ -94,7 +94,7 @@ tags:
 *ought not tremble?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 6
 
@@ -108,7 +108,7 @@ tags:
 *in their remote lodging?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 7
 
@@ -122,7 +122,7 @@ tags:
 *should a resolute mendicant uphold?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 8
 
@@ -136,7 +136,7 @@ tags:
 *like a smith smelting silver?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 9
 
@@ -152,7 +152,7 @@ tags:
 *what is comfortable for them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 10
 
@@ -166,7 +166,7 @@ tags:
 *human contact, or four-legged creatures.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 11
 
@@ -180,7 +180,7 @@ tags:
 *should overcome any other adversities.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 12
 
@@ -194,7 +194,7 @@ tags:
 *should exert energy, firmly striving.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 13
 
@@ -208,7 +208,7 @@ tags:
 *they should dispel it as Māra’s ally.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 14
 
@@ -222,7 +222,7 @@ tags:
 *they would surely overcome.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 15
 
@@ -236,7 +236,7 @@ tags:
 *And they’d vanquish the four lamentations:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 16
 
@@ -250,7 +250,7 @@ tags:
 *would dispel these lamentable thoughts.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 17
 
@@ -264,7 +264,7 @@ tags:
 *they wouldn’t speak harshly even when provoked.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 18
 
@@ -278,7 +278,7 @@ tags:
 *they should cut off worrisome habits of thought.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 19
 
@@ -292,7 +292,7 @@ tags:
 *and they shouldn’t provoke people to blame.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 20
 
@@ -306,7 +306,7 @@ tags:
 *sounds, flavors, smells, and touches.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 21
 
@@ -322,7 +322,7 @@ tags:
 *Aṭṭhakavaggo catuttho.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 22
 
@@ -333,7 +333,7 @@ tags:
 *māgaṇḍi purābhedanaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 
 ### Section 23
 
@@ -345,5 +345,5 @@ tags:
 *sabbānaṭṭhakavaggikāti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.16_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp4.16_att|Commentary]]
 

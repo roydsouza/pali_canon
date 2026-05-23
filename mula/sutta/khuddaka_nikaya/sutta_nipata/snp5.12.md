@@ -38,7 +38,7 @@ tags:
 *Tell me this, Blessed One, as it really is.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.12_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.12_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *the giving up of rebirth and old age here.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.12_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.12_att|Commentary]]
 
 ### Section 3
 
@@ -70,7 +70,7 @@ tags:
 *anything at all.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.12_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.12_att|Commentary]]
 
 ### Section 4
 
@@ -84,7 +84,7 @@ tags:
 *you will live at peace.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.12_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.12_att|Commentary]]
 
 ### Section 5
 
@@ -99,5 +99,5 @@ tags:
 *Jatukaṇṇimāṇavapucchā ekādasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.12_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.12_att|Commentary]]
 

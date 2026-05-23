@@ -41,7 +41,7 @@ tags:
 *Taking the leftovers of the oblation in his left hand and a pitcher in the right he approached the Buddha.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 2
 
@@ -59,7 +59,7 @@ tags:
 *“Sir, what are you by birth?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 3
 
@@ -67,7 +67,7 @@ tags:
 *Then the Buddha addressed Bhāradvāja of Sundarikā in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 4
 
@@ -81,7 +81,7 @@ tags:
 *I wander in the world owning nothing, reflective.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 5
 
@@ -95,7 +95,7 @@ tags:
 *it’s inappropriate to ask me about clan.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *ask each other whether they are brahmins.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *with its three lines and twenty-four syllables.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 8
 
@@ -131,7 +131,7 @@ tags:
 *performed so many different sacrifices to the gods?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 9
 
@@ -141,7 +141,7 @@ tags:
 *receive an oblation, it profits the donor, I say.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 10
 
@@ -157,7 +157,7 @@ tags:
 *that others ate the sacrificial cake.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 11
 
@@ -171,7 +171,7 @@ tags:
 *peaceful, unclouded, untroubled, <j>with no need for hope.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 12
 
@@ -185,7 +185,7 @@ tags:
 *where an oblation is profitable; tell me this.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 13
 
@@ -193,7 +193,7 @@ tags:
 *“Well then, brahmin, listen up, I will teach you the Dhamma.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 14
 
@@ -207,7 +207,7 @@ tags:
 *is a thoroughbred checked by conscience.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 15
 
@@ -221,7 +221,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 16
 
@@ -235,7 +235,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 17
 
@@ -249,7 +249,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 18
 
@@ -263,7 +263,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 19
 
@@ -277,7 +277,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 20
 
@@ -291,7 +291,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 21
 
@@ -307,7 +307,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 22
 
@@ -321,7 +321,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 23
 
@@ -335,7 +335,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 24
 
@@ -349,7 +349,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 25
 
@@ -363,7 +363,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 26
 
@@ -377,7 +377,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 27
 
@@ -391,7 +391,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 28
 
@@ -405,7 +405,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 29
 
@@ -419,7 +419,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 30
 
@@ -437,7 +437,7 @@ tags:
 *the Realized One is worthy of the sacrificial cake.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 31
 
@@ -451,7 +451,7 @@ tags:
 *please eat my sacrificial cake.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 32
 
@@ -465,7 +465,7 @@ tags:
 *Since there is such a principle, brahmin, <j>that’s how they live.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 33
 
@@ -479,7 +479,7 @@ tags:
 *For he is the field for the seeker of merit.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 34
 
@@ -493,7 +493,7 @@ tags:
 *who should eat the <j>religious donation of one like me?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 35
 
@@ -507,7 +507,7 @@ tags:
 *and who has cast aside dullness.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 36
 
@@ -521,7 +521,7 @@ tags:
 *When such a person comes to the sacrifice,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 37
 
@@ -535,7 +535,7 @@ tags:
 *and in this way your religious donation will succeed.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 38
 
@@ -549,7 +549,7 @@ tags:
 *what’s given to the worthy one is very fruitful.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 
 ### Section 39
 
@@ -570,5 +570,5 @@ tags:
 *Sundarikabhāradvājasuttaṁ catutthaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.4_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp3.4_att|Commentary]]
 

@@ -38,7 +38,7 @@ tags:
 *Different people have gathered <j>from across the nations*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.13_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.13_att|Commentary]]
 
 ### Section 2
 
@@ -52,7 +52,7 @@ tags:
 *for truly you understand this matter.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.13_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.13_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *Māra pursues them right there.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.13_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.13_att|Commentary]]
 
 ### Section 4
 
@@ -83,5 +83,5 @@ tags:
 *Bhadrāvudhamāṇavapucchā dvādasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.13_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.13_att|Commentary]]
 

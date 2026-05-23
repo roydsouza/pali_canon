@@ -38,7 +38,7 @@ tags:
 *What is its greatest fear?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *Suffering is its greatest fear.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 3
 
@@ -70,7 +70,7 @@ tags:
 *by what are they locked out?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 4
 
@@ -86,7 +86,7 @@ tags:
 *they are locked out by wisdom.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 5
 
@@ -102,7 +102,7 @@ tags:
 *where does this all cease?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 6
 
@@ -120,7 +120,7 @@ tags:
 *here they cease.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 7
 
@@ -134,7 +134,7 @@ tags:
 *to tell me their behavior, good fellow.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 
 ### Section 8
 
@@ -149,5 +149,5 @@ tags:
 *Ajitamāṇavapucchā paṭhamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.2_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.2_att|Commentary]]
 

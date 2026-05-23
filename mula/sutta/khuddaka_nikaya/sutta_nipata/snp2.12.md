@@ -45,7 +45,7 @@ tags:
 *Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and addressed him in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 2
 
@@ -59,7 +59,7 @@ tags:
 *who was well-known, famous, and quenched.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 3
 
@@ -73,7 +73,7 @@ tags:
 *energetic, a resolute Seer of Truth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 4
 
@@ -87,7 +87,7 @@ tags:
 *for you are the most excellent teacher.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 5
 
@@ -101,7 +101,7 @@ tags:
 *like the thousand-eyed Sakka <j>in the midst of the gods!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 6
 
@@ -115,7 +115,7 @@ tags:
 *for his eye is the best of all people’s.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 7
 
@@ -129,7 +129,7 @@ tags:
 *not even brilliant men would shine.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 8
 
@@ -143,7 +143,7 @@ tags:
 *here in this assembly, declare to us about Kappāyana.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 9
 
@@ -157,7 +157,7 @@ tags:
 *alert, we all listen to you.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 10
 
@@ -171,7 +171,7 @@ tags:
 *Realized Ones have a comprehensibility-granter.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 11
 
@@ -185,7 +185,7 @@ tags:
 *one of unrivaled wisdom, <j>don’t deliberately confuse us.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 12
 
@@ -199,7 +199,7 @@ tags:
 *I long for your voice, so let the sound rain  forth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 13
 
@@ -213,7 +213,7 @@ tags:
 *Let us hear what kind of liberation he had!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 14
 
@@ -229,7 +229,7 @@ tags:
 *So declared the Blessed One, the leader of the five.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 15
 
@@ -243,7 +243,7 @@ tags:
 *the brahmin did not deceive me.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 16
 
@@ -257,7 +257,7 @@ tags:
 *so extended and strong.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 
 ### Section 17
 
@@ -272,5 +272,5 @@ tags:
 *Nigrodhakappasuttaṁ dvādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.12_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp2.12_att|Commentary]]
 

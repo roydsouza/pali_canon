@@ -36,7 +36,7 @@ tags:
 *stirred with a sense of urgency.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *fear came upon me.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *I saw nowhere unsettled.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *so hard to see, stuck in the heart.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *you neither run around nor sink down.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 6
 
@@ -108,7 +108,7 @@ tags:
 *train yourself for extinguishment.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 7
 
@@ -122,7 +122,7 @@ tags:
 *the evils of greed and avarice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 8
 
@@ -136,7 +136,7 @@ tags:
 *would not stand for arrogance.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 9
 
@@ -150,7 +150,7 @@ tags:
 *and desist from hasty conduct.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 10
 
@@ -164,7 +164,7 @@ tags:
 *or get attached to things that pull you in.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 11
 
@@ -178,7 +178,7 @@ tags:
 *the swamp of sensuality so hard to get past.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 12
 
@@ -192,7 +192,7 @@ tags:
 *they are said to be at peace.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 13
 
@@ -206,7 +206,7 @@ tags:
 *not coveting anything here.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 14
 
@@ -220,7 +220,7 @@ tags:
 *they’ve cut the strings, they’re no longer bound.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 15
 
@@ -234,7 +234,7 @@ tags:
 *you will live at peace.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 16
 
@@ -248,7 +248,7 @@ tags:
 *they suffer no loss in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 17
 
@@ -262,7 +262,7 @@ tags:
 *you won’t grieve, thinking ‘I don’t have it’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 18
 
@@ -276,7 +276,7 @@ tags:
 *I declare that that is the benefit.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 19
 
@@ -290,7 +290,7 @@ tags:
 *they see sanctuary everywhere.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 
 ### Section 20
 
@@ -305,5 +305,5 @@ tags:
 *Attadaṇḍasuttaṁ pannarasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.15_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp4.15_att|Commentary]]
 

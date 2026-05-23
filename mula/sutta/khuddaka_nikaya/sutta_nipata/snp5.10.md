@@ -38,7 +38,7 @@ tags:
 *of what kind is their liberation?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.10_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.10_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *there is no liberation that is further.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.10_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.10_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *so that I may understand, All-seer.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.10_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.10_att|Commentary]]
 
 ### Section 4
 
@@ -83,5 +83,5 @@ tags:
 *Todeyyamāṇavapucchā navamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.10_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.10_att|Commentary]]
 

@@ -38,7 +38,7 @@ tags:
 *in all their countless forms in the world?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *in all its countless forms in the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *contemplating the inception of suffering and rebirth.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 4
 
@@ -86,7 +86,7 @@ tags:
 *for truly you understand this matter.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 5
 
@@ -102,7 +102,7 @@ tags:
 *may cross over clinging in the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 6
 
@@ -116,7 +116,7 @@ tags:
 *may cross over clinging in the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 7
 
@@ -132,7 +132,7 @@ tags:
 *having cast aside consciousness, don’t continue in existence.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 8
 
@@ -146,7 +146,7 @@ tags:
 *of rebirth, old age, sorrow and lamenting right here.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 9
 
@@ -160,7 +160,7 @@ tags:
 *for truly you understand this matter.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 10
 
@@ -174,7 +174,7 @@ tags:
 *hopefully the Buddha may regularly instruct me.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 11
 
@@ -188,7 +188,7 @@ tags:
 *crossed to the far shore, kind, wishless.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 
 ### Section 12
 
@@ -203,5 +203,5 @@ tags:
 *Mettagūmāṇavapucchā catutthī.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.5_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp5.5_att|Commentary]]
 

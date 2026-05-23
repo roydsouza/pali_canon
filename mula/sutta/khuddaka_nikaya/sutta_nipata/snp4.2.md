@@ -36,7 +36,7 @@ tags:
 *for sensual pleasures in the world <j>are not easy to give up.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *they pray for these pleasures or former ones.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *“What will become of us <j>when we pass away from here?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *for the attentive say this life is short.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *not rid of craving for life after life.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *forming no attachment to future lives.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *the attentive don’t cling to the seen and the heard.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 
 ### Section 8
 
@@ -135,5 +135,5 @@ tags:
 *Guhaṭṭhakasuttaṁ dutiyaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.2_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.2_att|Commentary]]
 

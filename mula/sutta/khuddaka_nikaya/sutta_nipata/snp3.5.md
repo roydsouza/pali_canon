@@ -37,7 +37,7 @@ tags:
 *and said to the Buddha:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 2
 
@@ -51,7 +51,7 @@ tags:
 *Giving and sacrificing like this, worthy Gotama, do I accrue much merit?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 3
 
@@ -67,7 +67,7 @@ tags:
 *Then Māgha addressed the Buddha in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 4
 
@@ -87,7 +87,7 @@ tags:
 *how is their offering purifed?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 5
 
@@ -103,7 +103,7 @@ tags:
 *such a one would succeed due to those <j>who are worthy of donations.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 6
 
@@ -119,7 +119,7 @@ tags:
 *explain to me who is worthy of donations.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 7
 
@@ -133,7 +133,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 8
 
@@ -147,7 +147,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 9
 
@@ -161,7 +161,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 10
 
@@ -175,7 +175,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 11
 
@@ -189,7 +189,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 12
 
@@ -203,7 +203,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 13
 
@@ -217,7 +217,7 @@ tags:
 *should bestow a timely offering as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 14
 
@@ -231,7 +231,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 15
 
@@ -245,7 +245,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 16
 
@@ -259,7 +259,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 17
 
@@ -273,7 +273,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 18
 
@@ -287,7 +287,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 19
 
@@ -301,7 +301,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 20
 
@@ -315,7 +315,7 @@ tags:
 *should bestow a timely oblation as sacrifice.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 21
 
@@ -329,7 +329,7 @@ tags:
 *should bestow a timely offering as sacrifice.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 22
 
@@ -345,7 +345,7 @@ tags:
 *for truly you understand this matter.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 23
 
@@ -359,7 +359,7 @@ tags:
 *explain to me how to accomplish the sacrifice.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 24
 
@@ -375,7 +375,7 @@ tags:
 *the sacrificer sheds their flaws.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 25
 
@@ -389,7 +389,7 @@ tags:
 *ever diligent day and night.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 26
 
@@ -407,7 +407,7 @@ tags:
 *Brilliant One, how is one reborn in the realm of divinity?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 27
 
@@ -423,7 +423,7 @@ tags:
 *is reborn in the realm of divinity, I say.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 
 ### Section 28
 
@@ -436,5 +436,5 @@ tags:
 *Māghasuttaṁ pañcamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.5_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.5_att|Commentary]]
 

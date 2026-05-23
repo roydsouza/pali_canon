@@ -38,7 +38,7 @@ tags:
 *we shall train in seclusion.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 2
 
@@ -54,7 +54,7 @@ tags:
 *that is something ignoble in them.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 3
 
@@ -68,7 +68,7 @@ tags:
 *in the world they call them a low, ordinary person.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 4
 
@@ -82,7 +82,7 @@ tags:
 *to give up sex.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 5
 
@@ -96,7 +96,7 @@ tags:
 *that sort is embarrassed.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 6
 
@@ -110,7 +110,7 @@ tags:
 *they sink to lies.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 7
 
@@ -124,7 +124,7 @@ tags:
 *dragged along by desire like a dullard.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 8
 
@@ -138,7 +138,7 @@ tags:
 *and would not resort to sex.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 9
 
@@ -152,7 +152,7 @@ tags:
 *has truly drawn near to extinguishment.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 
 ### Section 10
 
@@ -167,5 +167,5 @@ tags:
 *Tissametteyyasuttaṁ sattamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.7_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.7_att|Commentary]]
 

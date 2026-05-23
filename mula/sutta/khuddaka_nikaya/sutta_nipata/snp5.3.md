@@ -42,7 +42,7 @@ tags:
 *Who here has escaped the seamstress?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.3_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.3_att|Commentary]]
 
 ### Section 2
 
@@ -58,7 +58,7 @@ tags:
 *that’s who has no disturbances.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.3_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.3_att|Commentary]]
 
 ### Section 3
 
@@ -73,5 +73,5 @@ tags:
 *Tissametteyyamāṇavapucchā dutiyā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.3_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.3_att|Commentary]]
 

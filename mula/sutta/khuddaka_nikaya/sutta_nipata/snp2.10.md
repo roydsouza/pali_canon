@@ -35,7 +35,7 @@ tags:
 *when inflicted by an arrow strike?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.10_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.10_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *don’t let him fool you under his sway.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.10_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.10_att|Commentary]]
 
 ### Section 3
 
@@ -67,7 +67,7 @@ tags:
 *you’ll grieve when sent to hell.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.10_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.10_att|Commentary]]
 
 ### Section 4
 
@@ -82,5 +82,5 @@ tags:
 *Uṭṭhānasuttaṁ dasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.10_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.10_att|Commentary]]
 

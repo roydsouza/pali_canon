@@ -35,7 +35,7 @@ tags:
 *and being learned, they reveal the teaching.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *through diligently sticking close to such a person.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *one proceeds to death still plagued by doubts.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *how could they help others across?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 5
 
@@ -91,7 +91,7 @@ tags:
 *how could they help others to contemplate?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *with skill, care, and intelligence.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *so long as they are prepared to listen carefully.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 
 ### Section 8
 
@@ -134,5 +134,5 @@ tags:
 *Nāvāsuttaṁ aṭṭhamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.8_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.8_att|Commentary]]
 

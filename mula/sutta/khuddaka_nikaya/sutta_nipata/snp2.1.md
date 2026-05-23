@@ -35,7 +35,7 @@ tags:
 *and listen carefully to what is said.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *please protect them diligently.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 3
 
@@ -65,7 +65,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 4
 
@@ -81,7 +81,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 5
 
@@ -97,7 +97,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 6
 
@@ -115,7 +115,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 7
 
@@ -133,7 +133,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 8
 
@@ -151,7 +151,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 9
 
@@ -169,7 +169,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 10
 
@@ -183,7 +183,7 @@ tags:
 *attachment to precepts and observances.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 11
 
@@ -197,7 +197,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 12
 
@@ -215,7 +215,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 13
 
@@ -233,7 +233,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 14
 
@@ -247,7 +247,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 15
 
@@ -265,7 +265,7 @@ tags:
 *by this truth, may you be well!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 16
 
@@ -279,7 +279,7 @@ tags:
 *We bow to the Buddha! May you be safe!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 17
 
@@ -293,7 +293,7 @@ tags:
 *We bow to the Dhamma! May you be safe!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 
 ### Section 18
 
@@ -308,5 +308,5 @@ tags:
 *Ratanasuttaṁ paṭhamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.1_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp2.1_att|Commentary]]
 

@@ -35,7 +35,7 @@ tags:
 *his choice to go forth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *Seeing this, he went forth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *he purified his livelihood.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *replete with excellent marks.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 5
 
@@ -91,7 +91,7 @@ tags:
 *he said the following:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *he looks just a plough’s length in front.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *and find where the mendicant will go.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 8
 
@@ -133,7 +133,7 @@ tags:
 *Where shall he find a place to stay?’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 9
 
@@ -147,7 +147,7 @@ tags:
 *aware and mindful.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 10
 
@@ -161,7 +161,7 @@ tags:
 *thinking, ‘Here is the place I shall stay.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 11
 
@@ -175,7 +175,7 @@ tags:
 *to inform the king.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 12
 
@@ -189,7 +189,7 @@ tags:
 *like a lion in a mountain cave.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 13
 
@@ -203,7 +203,7 @@ tags:
 *towards Mount Paṇḍava.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 14
 
@@ -217,7 +217,7 @@ tags:
 *and reaching him, drew near.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 15
 
@@ -231,7 +231,7 @@ tags:
 *he said the following:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 16
 
@@ -245,7 +245,7 @@ tags:
 *like an aristocrat of good birth*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 17
 
@@ -259,7 +259,7 @@ tags:
 *But please tell me of your birth.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 18
 
@@ -273,7 +273,7 @@ tags:
 *of one whose abode is among the Kosalans.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 19
 
@@ -287,7 +287,7 @@ tags:
 *I do not yearn for sensual pleasure.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 
 ### Section 20
 
@@ -302,5 +302,5 @@ tags:
 *Pabbajjāsuttaṁ paṭhamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.1_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.1_att|Commentary]]
 

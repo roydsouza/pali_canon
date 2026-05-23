@@ -35,7 +35,7 @@ tags:
 *“Sabhiya, you should live the spiritual life with whatever ascetic or brahmin answers these questions.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 2
 
@@ -53,7 +53,7 @@ tags:
 *they questioned Sabhiya in return.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 3
 
@@ -72,7 +72,7 @@ tags:
 *Why don’t I return to a lesser life so I can enjoy sensual pleasures?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 4
 
@@ -84,7 +84,7 @@ tags:
 *Why don’t I ask him this question?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 5
 
@@ -104,7 +104,7 @@ tags:
 *since he is so young in age and newly gone forth?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 6
 
@@ -116,7 +116,7 @@ tags:
 *Though young, the ascetic Gotama has great psychic power and might. Why don’t I ask him this question?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 7
 
@@ -130,7 +130,7 @@ tags:
 *and addressed the Buddha in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 8
 
@@ -146,7 +146,7 @@ tags:
 *Answer my questions in turn, <j>in accordance with the truth.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 9
 
@@ -162,7 +162,7 @@ tags:
 *answering your questions in turn, <j>in accordance with the truth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 10
 
@@ -176,7 +176,7 @@ tags:
 *question you have.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 11
 
@@ -190,7 +190,7 @@ tags:
 *Uplifted and elated, full of rapture and happiness, he asked this question.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 12
 
@@ -206,7 +206,7 @@ tags:
 *May the Buddha please answer my question.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 13
 
@@ -222,7 +222,7 @@ tags:
 *their journey complete, their rebirths ended: <j>that is a mendicant.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 14
 
@@ -236,7 +236,7 @@ tags:
 *who has no pretensions, is gentle.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 15
 
@@ -250,7 +250,7 @@ tags:
 *tamed, they await their time.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 16
 
@@ -264,7 +264,7 @@ tags:
 *the one they call ‘awakened’ has attained <j>the end of rebirth.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 17
 
@@ -272,7 +272,7 @@ tags:
 *And then, having approved and agreed with what the Buddha said, uplifted and elated, full of rapture and happiness, Sabhiya asked another question:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 18
 
@@ -288,7 +288,7 @@ tags:
 *May the Buddha please answer my question.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 19
 
@@ -304,7 +304,7 @@ tags:
 *unattached, one such is called ‘brahmin’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 20
 
@@ -318,7 +318,7 @@ tags:
 *one such is rightly called ‘ascetic’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 21
 
@@ -332,7 +332,7 @@ tags:
 *the one they call ‘washed’ does not return to creation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 22
 
@@ -346,7 +346,7 @@ tags:
 *one such is rightly called ‘giant’.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 23
 
@@ -354,7 +354,7 @@ tags:
 *And then Sabhiya asked another question:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 24
 
@@ -370,7 +370,7 @@ tags:
 *May the Buddha please answer my question.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 25
 
@@ -386,7 +386,7 @@ tags:
 *one such is rightly called ‘field-victor’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 26
 
@@ -400,7 +400,7 @@ tags:
 *one such is rightly called ‘skillful’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 27
 
@@ -414,7 +414,7 @@ tags:
 *one such is rightly called ‘a wise scholar’.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 28
 
@@ -428,7 +428,7 @@ tags:
 *who has escaped from the net and the chain: that is a sage.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 29
 
@@ -436,7 +436,7 @@ tags:
 *And then Sabhiya asked another question:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 30
 
@@ -452,7 +452,7 @@ tags:
 *May the Buddha please answer my question.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 31
 
@@ -468,7 +468,7 @@ tags:
 *having left all knowledges behind: <j>that is a knowledge master.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 32
 
@@ -482,7 +482,7 @@ tags:
 *one such is rightly called ‘studied’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 33
 
@@ -496,7 +496,7 @@ tags:
 *one such is rightly called ‘hero’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 34
 
@@ -510,7 +510,7 @@ tags:
 *one such is rightly called ‘thoroughbred’.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 35
 
@@ -518,7 +518,7 @@ tags:
 *And then Sabhiya asked another question:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 36
 
@@ -534,7 +534,7 @@ tags:
 *May the Buddha please answer my question.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 37
 
@@ -550,7 +550,7 @@ tags:
 *untroubled everywhere: they call them ‘scholar’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 38
 
@@ -564,7 +564,7 @@ tags:
 *the one they call ‘noble’ does not return to creation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 39
 
@@ -578,7 +578,7 @@ tags:
 *who has no aversion: they are ‘well-conducted’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 40
 
@@ -596,7 +596,7 @@ tags:
 *the one they call a ‘wanderer’ <j>has reached their destination.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 41
 
@@ -604,7 +604,7 @@ tags:
 *And then, having approved and agreed with what the Buddha said, uplifted and elated, full of rapture and happiness, Sabhiya got up from his seat, arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and extolled the Buddha in his presence with fitting verses:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§41|Commentary §41]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 42
 
@@ -618,7 +618,7 @@ tags:
 *Having dispelled them all, <j>you passed over the dark flood.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§42|Commentary §42]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 43
 
@@ -632,7 +632,7 @@ tags:
 *ender of suffering—you brought me across!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§43|Commentary §43]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 44
 
@@ -646,7 +646,7 @@ tags:
 *you are gentle, not hardhearted, O Kinsman of the Sun.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§44|Commentary §44]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 45
 
@@ -660,7 +660,7 @@ tags:
 *there are no hindrances in you.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§45|Commentary §45]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 46
 
@@ -674,7 +674,7 @@ tags:
 *truth is your strength.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§46|Commentary §46]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 47
 
@@ -688,7 +688,7 @@ tags:
 *including both Nārada and Pabbata.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§47|Commentary §47]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 48
 
@@ -702,7 +702,7 @@ tags:
 *you have no rival.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§48|Commentary §48]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 49
 
@@ -716,7 +716,7 @@ tags:
 *you’ve crossed over, and you bring humanity across.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§49|Commentary §49]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 50
 
@@ -730,7 +730,7 @@ tags:
 *with fear and dread given up.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§50|Commentary §50]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 51
 
@@ -748,7 +748,7 @@ tags:
 *Sabhiya bows to the Teacher.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§51|Commentary §51]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 52
 
@@ -762,7 +762,7 @@ tags:
 *Sir, may I receive the going forth, the ordination in the Buddha’s presence?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§52|Commentary §52]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 53
 
@@ -772,7 +772,7 @@ tags:
 *However, I recognize individual differences in this matter.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§53|Commentary §53]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 
 ### Section 54
 
@@ -785,5 +785,5 @@ tags:
 *Sabhiyasuttaṁ chaṭṭhaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.6_att#§54|Commentary §54]]
+> - **Commentary (Atthakathā)**: [[snp3.6_att|Commentary]]
 

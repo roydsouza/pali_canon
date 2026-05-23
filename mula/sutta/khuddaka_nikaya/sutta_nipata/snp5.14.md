@@ -42,7 +42,7 @@ tags:
 *the smashing of ignorance.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 2
 
@@ -58,7 +58,7 @@ tags:
 *and the prevention of remorse;*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 3
 
@@ -72,7 +72,7 @@ tags:
 *the smashing of ignorance.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 4
 
@@ -86,7 +86,7 @@ tags:
 *is extinguishment spoken of?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 5
 
@@ -100,7 +100,7 @@ tags:
 *extinguishment is spoken of.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 6
 
@@ -114,7 +114,7 @@ tags:
 *let us hear what you say.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 
 ### Section 7
 
@@ -129,5 +129,5 @@ tags:
 *Udayamāṇavapucchā terasamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.14_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp5.14_att|Commentary]]
 

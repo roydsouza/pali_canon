@@ -42,7 +42,7 @@ tags:
 *I found no delight in that.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.9_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp5.9_att|Commentary]]
 
 ### Section 2
 
@@ -56,7 +56,7 @@ tags:
 *may cross over clinging in the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.9_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp5.9_att|Commentary]]
 
 ### Section 3
 
@@ -70,7 +70,7 @@ tags:
 *is extinguishment, the state that does not pass.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.9_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp5.9_att|Commentary]]
 
 ### Section 4
 
@@ -85,5 +85,5 @@ tags:
 *Hemakamāṇavapucchā aṭṭhamā.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp5.9_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp5.9_att|Commentary]]
 

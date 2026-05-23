@@ -35,7 +35,7 @@ tags:
 *for the sake of sanctuary from the yoke.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *on the verge of death.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *Living, you can make merits.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *so what will striving do for you?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 5
 
@@ -91,7 +91,7 @@ tags:
 *as he stood beside the Buddha.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *you’re here for your own purpose.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *are fit for Māra to address.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 8
 
@@ -133,7 +133,7 @@ tags:
 *why do you beg me to live?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 9
 
@@ -147,7 +147,7 @@ tags:
 *should it not dry up my blood?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 10
 
@@ -165,7 +165,7 @@ tags:
 *and wisdom and immersion.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 11
 
@@ -179,7 +179,7 @@ tags:
 *behold a being’s purity!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 12
 
@@ -193,7 +193,7 @@ tags:
 *and the fourth is said to be craving.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 13
 
@@ -207,7 +207,7 @@ tags:
 *contempt and obstinacy are your eighth.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 14
 
@@ -221,7 +221,7 @@ tags:
 *while scorning others.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 15
 
@@ -235,7 +235,7 @@ tags:
 *but in victory there lies bliss.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 16
 
@@ -249,7 +249,7 @@ tags:
 *than live on in defeat.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 17
 
@@ -263,7 +263,7 @@ tags:
 *traveled by those true to their vows.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 18
 
@@ -277,7 +277,7 @@ tags:
 *they’ll never make me retreat!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 19
 
@@ -291,7 +291,7 @@ tags:
 *like an unfired pot with a stone.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 20
 
@@ -305,7 +305,7 @@ tags:
 *guiding many disciples.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 21
 
@@ -319,7 +319,7 @@ tags:
 *to where there is no sorrow.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 22
 
@@ -333,7 +333,7 @@ tags:
 *in the mindful Awakened One.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 23
 
@@ -347,7 +347,7 @@ tags:
 *‘perhaps there’s something tasty.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 24
 
@@ -361,7 +361,7 @@ tags:
 *I leave Gotama disappointed.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 
 ### Section 25
 
@@ -376,5 +376,5 @@ tags:
 *Padhānasuttaṁ dutiyaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.2_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.2_att|Commentary]]
 

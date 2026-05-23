@@ -36,7 +36,7 @@ tags:
 *having got what they want.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *it inflicts them like an arrow strike.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *transcends attachment to the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *When a man lusts over these,*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *like water in a leaky boat.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 
 ### Section 6
 
@@ -107,5 +107,5 @@ tags:
 *Kāmasuttaṁ paṭhamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.1_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.1_att|Commentary]]
 

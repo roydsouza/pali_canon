@@ -36,7 +36,7 @@ tags:
 *Standing to one side, that deity addressed the Buddha in verse:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *declare the highest blessing.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 8
 
@@ -134,7 +134,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 9
 
@@ -148,7 +148,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 10
 
@@ -162,7 +162,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 11
 
@@ -176,7 +176,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 12
 
@@ -190,7 +190,7 @@ tags:
 *this is the highest blessing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 
 ### Section 13
 
@@ -205,5 +205,5 @@ tags:
 *Maṅgalasuttaṁ catutthaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.4_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp2.4_att|Commentary]]
 

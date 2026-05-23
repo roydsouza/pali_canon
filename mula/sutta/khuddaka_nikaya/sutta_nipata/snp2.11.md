@@ -35,7 +35,7 @@ tags:
 *the torch for all humanity?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *the torch for all humanity.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *let them make an end to suffering!*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *and eat in moderation.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 5
 
@@ -91,7 +91,7 @@ tags:
 *don’t come back to this world again.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 6
 
@@ -105,7 +105,7 @@ tags:
 *be full of disillusionment.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 7
 
@@ -119,7 +119,7 @@ tags:
 *meditate on the ugly aspects of the body.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 8
 
@@ -133,7 +133,7 @@ tags:
 *you will live at peace.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 
 ### Section 9
 
@@ -142,5 +142,5 @@ tags:
 *Rāhulasuttaṁ ekādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.11_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.11_att|Commentary]]
 

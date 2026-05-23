@@ -45,7 +45,7 @@ tags:
 *It’s good to see such perfected ones.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 2
 
@@ -65,7 +65,7 @@ tags:
 *“The Saṅgha is large, Keṇiya; there are 1,250 mendicants. And you are devoted to the brahmins.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 3
 
@@ -80,7 +80,7 @@ tags:
 *“mahā kho, keṇiya, bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni; tvañca brāhmaṇesu abhippasanno”ti.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 4
 
@@ -106,7 +106,7 @@ tags:
 *Meanwhile, Keṇiya set up the pavilion himself.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 5
 
@@ -114,7 +114,7 @@ tags:
 *Now at that time the brahmin Sela was residing in Āpaṇa. He had mastered the three Vedas, together with their vocabularies and ritual performance, their phonology and word classification, and the testaments as fifth. He knew them word-by-word, and their grammar. He was well versed in cosmology and the marks of a great man. And he was teaching three hundred young students to recite the hymns.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 6
 
@@ -130,7 +130,7 @@ tags:
 *“Keṇiya, is your son or daughter being married? Or are you setting up a big sacrifice? Or has King Seniya Bimbisāra of Magadha been invited for tomorrow’s meal?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 7
 
@@ -156,7 +156,7 @@ tags:
 *“I said ‘the awakened one’.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 8
 
@@ -182,7 +182,7 @@ tags:
 *“But Keṇiya, where is the Blessed One at present, the perfected one, the fully awakened Buddha?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 9
 
@@ -204,7 +204,7 @@ tags:
 *Wait until I’ve finished speaking.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 10
 
@@ -222,7 +222,7 @@ tags:
 *whether the private parts were covered in a foreskin, and the largeness of the tongue.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 11
 
@@ -240,7 +240,7 @@ tags:
 *And he stuck out his tongue and stroked back and forth on his ear holes and nostrils, and covered his entire forehead with his tongue.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 12
 
@@ -260,7 +260,7 @@ tags:
 *Then Sela extolled the Buddha in his presence with fitting verses:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 13
 
@@ -274,7 +274,7 @@ tags:
 *with teeth so white; you’re strong.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 14
 
@@ -288,7 +288,7 @@ tags:
 *are all found on your body.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 15
 
@@ -302,7 +302,7 @@ tags:
 *you shine like the sun.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 16
 
@@ -316,7 +316,7 @@ tags:
 *what do you want with the ascetic life?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 17
 
@@ -330,7 +330,7 @@ tags:
 *lord of the Black Plum Tree Land.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 18
 
@@ -344,7 +344,7 @@ tags:
 *as king of kings, lord of mankind!”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§18|Commentary §18]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 19
 
@@ -360,7 +360,7 @@ tags:
 *which cannot be rolled back.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§19|Commentary §19]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 20
 
@@ -376,7 +376,7 @@ tags:
 *so you say, Gotama.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§20|Commentary §20]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 21
 
@@ -390,7 +390,7 @@ tags:
 *of the teaching you rolled forth?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§21|Commentary §21]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 22
 
@@ -406,7 +406,7 @@ tags:
 *keeps it rolling on.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§22|Commentary §22]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 23
 
@@ -420,7 +420,7 @@ tags:
 *and so, brahmin, I am a Buddha.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§23|Commentary §23]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 24
 
@@ -434,7 +434,7 @@ tags:
 *is hard to find again.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§24|Commentary §24]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 25
 
@@ -448,7 +448,7 @@ tags:
 *is hard to find again.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§25|Commentary §25]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 26
 
@@ -462,7 +462,7 @@ tags:
 *I rejoice, fearing nothing from any quarter.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§26|Commentary §26]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 27
 
@@ -476,7 +476,7 @@ tags:
 *roars like a lion in the jungle.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§27|Commentary §27]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 28
 
@@ -490,7 +490,7 @@ tags:
 *even one born in a dark class?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§28|Commentary §28]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 29
 
@@ -504,7 +504,7 @@ tags:
 *the one of such outstanding wisdom.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§29|Commentary §29]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 30
 
@@ -518,7 +518,7 @@ tags:
 *the one of such outstanding wisdom.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§30|Commentary §30]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 31
 
@@ -532,7 +532,7 @@ tags:
 *in your presence, Blessed One?’”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§31|Commentary §31]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 32
 
@@ -548,7 +548,7 @@ tags:
 *for one who trains with diligence.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§32|Commentary §32]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 33
 
@@ -562,7 +562,7 @@ tags:
 *Then the Buddha robed up in the morning and, taking his bowl and robe, went to Keṇiya’s hermitage, where he sat on the seat spread out, together with the Saṅgha of mendicants.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§33|Commentary §33]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 34
 
@@ -574,7 +574,7 @@ tags:
 *The Buddha expressed his appreciation with these verses:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§34|Commentary §34]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 35
 
@@ -588,7 +588,7 @@ tags:
 *the ocean’s the foremost of rivers;*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§35|Commentary §35]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 36
 
@@ -602,7 +602,7 @@ tags:
 *the Saṅgha is the foremost.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§36|Commentary §36]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 37
 
@@ -614,7 +614,7 @@ tags:
 *And Venerable Sela together with his assembly became perfected.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§37|Commentary §37]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 38
 
@@ -622,7 +622,7 @@ tags:
 *Then Sela with his assembly went to see the Buddha. He arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and said:*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§38|Commentary §38]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 39
 
@@ -636,7 +636,7 @@ tags:
 *we’ve become tamed in your teaching.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§39|Commentary §39]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 40
 
@@ -650,7 +650,7 @@ tags:
 *you’ve crossed over, and you bring humanity across.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§40|Commentary §40]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 41
 
@@ -664,7 +664,7 @@ tags:
 *with fear and dread given up.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§41|Commentary §41]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 
 ### Section 42
 
@@ -679,5 +679,5 @@ tags:
 *Selasuttaṁ sattamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp3.7_att#§42|Commentary §42]]
+> - **Commentary (Atthakathā)**: [[snp3.7_att|Commentary]]
 

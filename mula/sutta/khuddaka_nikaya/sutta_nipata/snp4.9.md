@@ -36,7 +36,7 @@ tags:
 *I wouldn’t even want to touch it with my foot.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *and rebirth in a new life do you assert?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 3
 
@@ -66,7 +66,7 @@ tags:
 *searching, I saw inner peace.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 4
 
@@ -82,7 +82,7 @@ tags:
 *how is that described by the attentive?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 5
 
@@ -102,7 +102,7 @@ tags:
 *peaceful, independent, one would not pray <j>for another life.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 6
 
@@ -122,7 +122,7 @@ tags:
 *for some believe in purity in terms of view.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 7
 
@@ -138,7 +138,7 @@ tags:
 *which is why you consider the teaching folly.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 8
 
@@ -152,7 +152,7 @@ tags:
 *you’ll have no thought ‘I’m equal or special’.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 9
 
@@ -166,7 +166,7 @@ tags:
 *so who would they take on in debate?*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 10
 
@@ -180,7 +180,7 @@ tags:
 *they wouldn’t get in arguments with people.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 11
 
@@ -198,7 +198,7 @@ tags:
 *is unsmeared by sensuality and the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 12
 
@@ -212,7 +212,7 @@ tags:
 *they’re not indoctrinated in dogmas.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 
 ### Section 13
 
@@ -227,5 +227,5 @@ tags:
 *Māgaṇḍiyasuttaṁ navamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.9_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.9_att|Commentary]]
 

@@ -36,7 +36,7 @@ tags:
 *those who reject this are inadequate.’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 2
 
@@ -50,7 +50,7 @@ tags:
 *for they all claim to be an expert?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 3
 
@@ -64,7 +64,7 @@ tags:
 *for they all maintain their own view.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 4
 
@@ -78,7 +78,7 @@ tags:
 *for such is the view they have all embraced.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 5
 
@@ -92,7 +92,7 @@ tags:
 *which is why they take the other as a fool.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 6
 
@@ -106,7 +106,7 @@ tags:
 *why don’t ascetics say the same thing?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 7
 
@@ -120,7 +120,7 @@ tags:
 *that’s why they don’t say the same thing.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 8
 
@@ -134,7 +134,7 @@ tags:
 *or do they just follow their own lines of reasoning?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 9
 
@@ -148,7 +148,7 @@ tags:
 *they say there are two things: true and false.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 10
 
@@ -162,7 +162,7 @@ tags:
 *saying, ‘The other is a fool, an amateur!’*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 11
 
@@ -176,7 +176,7 @@ tags:
 *they disdain the other while saying the same thing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 12
 
@@ -190,7 +190,7 @@ tags:
 *for such is the view they have embraced.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 13
 
@@ -204,7 +204,7 @@ tags:
 *then there are no fools among the ascetics.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 14
 
@@ -218,7 +218,7 @@ tags:
 *for they are deeply attached to their own view.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 15
 
@@ -232,7 +232,7 @@ tags:
 *speaks forcefully within the context <j>of their own journey.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 16
 
@@ -246,7 +246,7 @@ tags:
 *when they call the other a fool <j>with an impure teaching.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 
 ### Section 17
 
@@ -261,5 +261,5 @@ tags:
 *Cūḷabyūhasuttaṁ dvādasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp4.12_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp4.12_att|Commentary]]
 

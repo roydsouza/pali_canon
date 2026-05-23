@@ -35,7 +35,7 @@ tags:
 *what’s the right way to wander the world?”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 2
 
@@ -51,7 +51,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 3
 
@@ -65,7 +65,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 4
 
@@ -79,7 +79,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 5
 
@@ -93,7 +93,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 6
 
@@ -107,7 +107,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§6|Commentary §6]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 7
 
@@ -121,7 +121,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§7|Commentary §7]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 8
 
@@ -135,7 +135,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§8|Commentary §8]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 9
 
@@ -149,7 +149,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§9|Commentary §9]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 10
 
@@ -163,7 +163,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§10|Commentary §10]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 11
 
@@ -177,7 +177,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§11|Commentary §11]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 12
 
@@ -191,7 +191,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§12|Commentary §12]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 13
 
@@ -205,7 +205,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§13|Commentary §13]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 14
 
@@ -219,7 +219,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§14|Commentary §14]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 15
 
@@ -233,7 +233,7 @@ tags:
 *they’d rightly wander the world.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§15|Commentary §15]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 16
 
@@ -247,7 +247,7 @@ tags:
 *they’d rightly wander the world.”*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§16|Commentary §16]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 
 ### Section 17
 
@@ -262,5 +262,5 @@ tags:
 *Sammāparibbājanīyasuttaṁ terasamaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.13_att#§17|Commentary §17]]
+> - **Commentary (Atthakathā)**: [[snp2.13_att|Commentary]]
 

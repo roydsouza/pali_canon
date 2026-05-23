@@ -35,7 +35,7 @@ tags:
 *know they’re not on your side.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.3_att#§1|Commentary §1]]
+> - **Commentary (Atthakathā)**: [[snp2.3_att|Commentary]]
 
 ### Section 2
 
@@ -49,7 +49,7 @@ tags:
 *one who talks without doing.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.3_att#§2|Commentary §2]]
+> - **Commentary (Atthakathā)**: [[snp2.3_att|Commentary]]
 
 ### Section 3
 
@@ -63,7 +63,7 @@ tags:
 *is a true friend, not split from you by others.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.3_att#§3|Commentary §3]]
+> - **Commentary (Atthakathā)**: [[snp2.3_att|Commentary]]
 
 ### Section 4
 
@@ -77,7 +77,7 @@ tags:
 *producing joy and attracting praise.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.3_att#§4|Commentary §4]]
+> - **Commentary (Atthakathā)**: [[snp2.3_att|Commentary]]
 
 ### Section 5
 
@@ -92,5 +92,5 @@ tags:
 *Hirisuttaṁ tatiyaṁ.*
 
 > [!info]- Related Commentary
-> - **Commentary (Atthakathā)**: [[snp2.3_att#§5|Commentary §5]]
+> - **Commentary (Atthakathā)**: [[snp2.3_att|Commentary]]
 
