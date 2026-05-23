@@ -1,0 +1,167 @@
+---
+id: SNP4.6
+title_pali: Jarāsutta
+title_en: Old Age
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp4.6
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - atthakavagga
+  - non-clinging
+  - views
+  - three_marks
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp4.6_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[three_marks|Three Marks]] | [[five_aggregates|Five Aggregates]]
+
+## SNP4.6: Jarāsutta — *Old Age*
+
+### Section 1
+
+**Appaṁ vata jīvitaṁ idaṁ,**  
+*Short, alas, is this life;*
+**Oraṁ vassasatāpi miyyati;**  
+*you die before a hundred years.*
+**Yo cepi aticca jīvati,**  
+*Even if you live a little longer,*
+**Atha kho so jarasāpi miyyati.**  
+*you still die of old age.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§1|Commentary §1]]
+
+### Section 2
+
+**Socanti janā mamāyite,**  
+*People grieve over belongings,*
+**Na hi santi niccā pariggahā;**  
+*yet there is no such thing as permanent possessions.*
+**Vinābhāvasantamevidaṁ,**  
+*Separation is a fact of life; when you see this,*
+**Iti disvā nāgāramāvase.**  
+*you wouldn’t stay living at home.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§2|Commentary §2]]
+
+### Section 3
+
+**Maraṇenapi taṁ pahīyati,**  
+*Whatever a person thinks of as belonging to them,*
+**Yaṁ puriso mamidanti maññati;**  
+*that too is given up when they die.*
+**Etampi viditvā paṇḍito,**  
+*Knowing this, an astute follower of mine*
+**Na mamattāya nametha māmako.**  
+*would not be bent on ownership.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§3|Commentary §3]]
+
+### Section 4
+
+**Supinena yathāpi saṅgataṁ,**  
+*Just as, upon awakening, a person does not see*
+**Paṭibuddho puriso na passati;**  
+*what they encountered in a dream;*
+**Evampi piyāyitaṁ janaṁ,**  
+*so too you do not see your loved ones*
+**Petaṁ kālaṅkataṁ na passati.**  
+*when they are dead and gone.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§4|Commentary §4]]
+
+### Section 5
+
+**Diṭṭhāpi sutāpi te janā,**  
+*You used to see and hear those folk,*
+**Yesaṁ nāmamidaṁ pavuccati;**  
+*and call them by their name.*
+**Nāmaṁyevāvasissati,**  
+*Yet the name is all that’s left to tell*
+**Akkheyyaṁ petassa jantuno.**  
+*of a personage when they’re gone.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§5|Commentary §5]]
+
+### Section 6
+
+**Sokapparidevamaccharaṁ,**  
+*Those who are greedy for belongings*
+**Na jahanti giddhā mamāyite;**  
+*don’t give up sorrow, lamentation, and stinginess.*
+**Tasmā munayo pariggahaṁ,**  
+*That’s why the sages, seers of sanctuary,*
+**Hitvā acariṁsu khemadassino.**  
+*left possessions behind and wandered.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§6|Commentary §6]]
+
+### Section 7
+
+**Patilīnacarassa bhikkhuno,**  
+*For a mendicant who lives withdrawn,*
+**Bhajamānassa vivittamāsanaṁ;**  
+*frequenting a secluded seat,*
+**Sāmaggiyamāhu tassa taṁ,**  
+*they say it’s fitting*
+**Yo attānaṁ bhavane na dassaye.**  
+*to not show themselves in a home.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§7|Commentary §7]]
+
+### Section 8
+
+**Sabbattha munī anissito,**  
+*The sage is independent everywhere,*
+**Na piyaṁ kubbati nopi appiyaṁ;**  
+*they don’t form likes or dislikes.*
+**Tasmiṁ paridevamaccharaṁ,**  
+*Lamentation and stinginess*
+**Paṇṇe vāri yathā na limpati.**  
+*slip off them like water from a leaf.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§8|Commentary §8]]
+
+### Section 9
+
+**Udabindu yathāpi pokkhare,**  
+*Like a droplet slips from a lotus-leaf,*
+**Padume vāri yathā na limpati;**  
+*like water from a lotus flower;*
+**Evaṁ muni nopalimpati,**  
+*the sage doesn’t cling to that*
+**Yadidaṁ diṭṭhasutaṁ mutesu vā.**  
+*which is seen or heard or thought.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§9|Commentary §9]]
+
+### Section 10
+
+**Dhono na hi tena maññati,**  
+*For the one who is cleansed does not conceive*
+**Yadidaṁ diṭṭhasutaṁ mutesu vā;**  
+*in terms of things seen, heard, or thought.*
+**Nāññena visuddhimicchati,**  
+*They do not wish to be purified by another;*
+**Na hi so rajjati no virajjatīti.**  
+*they are neither passionate <j>nor growing dispassioned.*
+*Jarāsuttaṁ chaṭṭhaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.6_att#§10|Commentary §10]]
+
