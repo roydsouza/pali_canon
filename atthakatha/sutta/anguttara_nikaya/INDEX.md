@@ -31,6 +31,7 @@ layer: atthakatha
 | [[an6_19|AN 6.19]] | [[an6_19_att|Paṭhamamaraṇassatisuttavaṇṇanā]] | CSCD | — | 177 |
 | [[an6_20|AN 6.20]] | [[an6_20_att|Dutiyamaraṇassatisuttavaṇṇanā]] | CSCD | — | 144 |
 | [[an8_73|AN 8.73]] | [[an8_73_att|Paṭhamamaraṇassatisuttavaṇṇanā]] | CSCD | — | 129 |
+| [[an4_67|AN 4.67]] | [[an4_67_att|Ahirājasuttavaṇṇanā]] | CSCD | — | 225 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
