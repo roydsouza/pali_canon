@@ -17,6 +17,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn128|MN 128]] | Upakkilesasutta | Corruptions | 4,638 |
 | [[mn8|MN 8]] | Sallekhasutta | Self-Effacement | 3,262 |
 | [[mn148|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
+| [[mn28|MN 28]] | Mahāhatthipadopamasutta | The Longer Simile of the Elephant’s Footprint | 4,177 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
