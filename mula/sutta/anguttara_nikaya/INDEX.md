@@ -31,6 +31,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an4_99|AN 4.99]] | Sikkhāpadasutta | Training Rules | 558 |
 | [[an6_19|AN 6.19]] | Paṭhamamaraṇassatisutta | Mindfulness of Death (1st) | 1,181 |
 | [[an6_20|AN 6.20]] | Dutiyamaraṇassatisutta | Mindfulness of Death (2nd) | 1,070 |
+| [[an8_73|AN 8.73]] | Paṭhamamaraṇassatisutta | Mindfulness of Death (1st) | 1,445 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

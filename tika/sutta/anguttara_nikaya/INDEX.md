@@ -32,3 +32,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an4_99|AN 4.99]] | [[an4_99_tik|Sikkhāpadasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 168 |
 | [[an6_19|AN 6.19]] | [[an6_19_tik|Paṭhamamaraṇassatisuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 255 |
 | [[an6_20|AN 6.20]] | [[an6_20_tik|Dutiyamaraṇassatisuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 161 |
+| [[an8_73|AN 8.73]] | [[an8_73_tik|Paṭhamamaraṇassatisuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 230 |
