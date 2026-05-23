@@ -28,6 +28,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an11_12|AN 11.12]] | Dutiyamahānāmasutta | With Mahānāma (2nd) | 935 |
 | [[an6_25|AN 6.25]] | Anussatiṭṭhānasutta | Topics for Recollection | 980 |
 | [[an8_54|AN 8.54]] | Dīghajāṇusutta | With Dīghajāṇu | 1,710 |
+| [[an4_99|AN 4.99]] | Sikkhāpadasutta | Training Rules | 558 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
