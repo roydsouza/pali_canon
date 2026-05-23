@@ -1,0 +1,61 @@
+---
+id: THAG2.10
+title_pali: Vasabhatheragāthā
+title_en: Vasabha
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag2.10
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG2.10: Vasabhatheragāthā — *Vasabha*
+
+### Section 1
+
+**“Pubbe hanati attānaṁ,**  
+*First one kills oneself,*
+**pacchā hanati so pare;**  
+*then one kills others.*
+**Suhataṁ hanti attānaṁ,**  
+*One kills oneself, really dead,*
+**vītaṁseneva pakkhimā.**  
+*like one who kills birds using a dead bird as a decoy.*
+
+### Section 2
+
+**Na brāhmaṇo bahivaṇṇo,**  
+*A brahmin’s color is not on the outside;*
+**anto vaṇṇo hi brāhmaṇo;**  
+*a brahmin is colored on the inside.*
+**Yasmiṁ pāpāni kammāni,**  
+*Whoever harbors bad deeds*
+**sa ve kaṇho sujampatī”ti.**  
+*is truly a dark one, Sujampati.*
+*… Vasabho thero …*
+*vaggo paṭhamo.*
+
+### Section 3
+
+*Tassuddānaṁ*
+*Uttaro ceva piṇḍolo,*
+*valliyo tīriyo isi;*
+*Ajino ca meḷajino,*
+*rādho surādho gotamo;*
+*Vasabhena ime honti,*
+*dasa therā mahiddhikāti.*
+

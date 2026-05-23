@@ -1,0 +1,39 @@
+---
+id: THAG1.35
+title_pali: Sāmaññakānitheragāthā
+title_en: Sāmaññakāni
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.35
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.35: Sāmaññakānitheragāthā — *Sāmaññakāni*
+
+### Section 1
+
+**“Sukhaṁ sukhattho labhate tadācaraṁ,**  
+*Seeking happiness, they find it through this practice.*
+**Kittiñca pappoti yasassa vaḍḍhati;**  
+*They get a good reputation and grow in fame,*
+**Yo ariyamaṭṭhaṅgikamañjasaṁ ujuṁ,**  
+*those who develop the direct route:*
+**Bhāveti maggaṁ amatassa pattiyā”ti.**  
+*the noble eightfold path to realize freedom from death.*
+*… Sāmaññakānitthero ….*
+

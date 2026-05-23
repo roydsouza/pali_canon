@@ -1,0 +1,42 @@
+---
+id: THIG1.9
+title_pali: Bhadrātherīgāthā
+title_en: Bhadrā
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: therigatha
+sutta_number: thig1.9
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - nun
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Therīgāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] | [[four_sublime_states|Four Sublime States]]
+
+## THIG1.9: Bhadrātherīgāthā — *Bhadrā*
+
+### Section 1
+
+**“Saddhāya pabbajitvāna,**  
+*Having gone forth in faith,*
+**bhadre bhadraratā bhava;**  
+*appreciate your blessings, Bhadrā.*
+**Bhāvehi kusale dhamme,**  
+*Develop skillful qualities*
+**yogakkhemamanuttaran”ti.**  
+*for the sake of the supreme sanctuary from the yoke.*
+
+### Section 2
+
+*… Bhadrā therī ….*
+

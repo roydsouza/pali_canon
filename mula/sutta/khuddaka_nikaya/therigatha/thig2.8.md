@@ -1,0 +1,53 @@
+---
+id: THIG2.8
+title_pali: Abhayamātutherīgāthā
+title_en: To Abhayā’s Mother From Her Daughter
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: therigatha
+sutta_number: thig2.8
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - nun
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Therīgāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] | [[four_sublime_states|Four Sublime States]]
+
+## THIG2.8: Abhayamātutherīgāthā — *To Abhayā’s Mother From Her Daughter*
+
+### Section 1
+
+**“Uddhaṁ pādatalā amma,**  
+*My dear mother, examine this body,*
+**adho ve kesamatthakā;**  
+*up from the soles of the feet,*
+**Paccavekkhassumaṁ kāyaṁ,**  
+*and down from the tips of the hairs,*
+**asuciṁ pūtigandhikaṁ.**  
+*so impure and foul-smelling.*
+
+### Section 2
+
+**Evaṁ viharamānāya,**  
+*Meditating like this,*
+**sabbo rāgo samūhato;**  
+*all my lust is eradicated.*
+**Pariḷāho samucchinno,**  
+*The fever of passion is cut off,*
+**sītibhūtāmhi nibbutā”ti.**  
+*I’m cooled and quenched.*
+
+### Section 3
+
+*… Abhayamātā therī ….*
+

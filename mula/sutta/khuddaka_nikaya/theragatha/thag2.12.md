@@ -1,0 +1,54 @@
+---
+id: THAG2.12
+title_pali: Jotidāsatheragāthā
+title_en: Jotidāsa
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag2.12
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG2.12: Jotidāsatheragāthā — *Jotidāsa*
+
+### Section 1
+
+**“Ye kho te veṭhamissena,**  
+*People who act harshly—*
+**nānattena ca kammunā;**  
+*attacking people,*
+**Manusse uparundhanti,**  
+*binding them with rope,*
+**pharusūpakkamā janā;**  
+*hurting them in all kinds of ways—*
+**Tepi tattheva kīranti,**  
+*they’re treated in the same way;*
+**na hi kammaṁ panassati.**  
+*their deeds don’t vanish.*
+
+### Section 2
+
+**Yaṁ karoti naro kammaṁ,**  
+*Whatever deeds a person does,*
+**Kalyāṇaṁ yadi pāpakaṁ;**  
+*whether good or bad,*
+**Tassa tasseva dāyādo,**  
+*they are the heir to each*
+**Yaṁ yaṁ kammaṁ pakubbatī”ti.**  
+*and every deed they do.*
+*… Jotidāso thero ….*
+

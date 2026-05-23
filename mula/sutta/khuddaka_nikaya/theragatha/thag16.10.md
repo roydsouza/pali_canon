@@ -1,0 +1,360 @@
+---
+id: THAG16.10
+title_pali: Pārāpariyatheragāthā
+title_en: Pārāsariya (3rd)
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag16.10
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG16.10: Pārāpariyatheragāthā — *Pārāsariya (3rd)*
+
+### Section 1
+
+**Samaṇassa ahu cintā,**  
+*This thought came to the ascetic*
+**pupphitamhi mahāvane;**  
+*in the forest full of flowers,*
+**Ekaggassa nisinnassa,**  
+*as he was seated alone*
+**pavivittassa jhāyino.**  
+*meditating in seclusion:*
+
+### Section 2
+
+**“Aññathā lokanāthamhi,**  
+*“The behavior of the mendicants*
+**tiṭṭhante purisuttame;**  
+*these days seems different*
+**Iriyaṁ āsi bhikkhūnaṁ,**  
+*from when the protector of the world,*
+**aññathā dāni dissati.**  
+*the best of men, was still here.*
+
+### Section 3
+
+**Sītavātaparittāṇaṁ,**  
+*Their robes were only for covering the private parts,*
+**hirikopīnachādanaṁ;**  
+*and protection from the cold and wind.*
+**Mattaṭṭhiyaṁ abhuñjiṁsu,**  
+*They ate in moderation,*
+**santuṭṭhā itarītare.**  
+*content with whatever they were offered.*
+
+### Section 4
+
+**Paṇītaṁ yadi vā lūkhaṁ,**  
+*Whether food was fine or coarse,*
+**appaṁ vā yadi vā bahuṁ;**  
+*a little or a lot,*
+**Yāpanatthaṁ abhuñjiṁsu,**  
+*they ate only for sustenance,*
+**agiddhā nādhimucchitā.**  
+*without greed or gluttony.*
+
+### Section 5
+
+**Jīvitānaṁ parikkhāre,**  
+*They weren’t so very eager*
+**bhesajje atha paccaye;**  
+*for the requisites of life,*
+**Na bāḷhaṁ ussukā āsuṁ,**  
+*such as tonics and other necessities,*
+**yathā te āsavakkhaye.**  
+*as they were for the ending of defilements.*
+
+### Section 6
+
+**Araññe rukkhamūlesu,**  
+*In the wilderness, at a tree’s root,*
+**kandarāsu guhāsu ca;**  
+*in caves and caverns,*
+**Vivekamanubrūhantā,**  
+*fostering seclusion,*
+**vihaṁsu tapparāyaṇā.**  
+*they lived with that as their final goal.*
+
+### Section 7
+
+**Nīcā niviṭṭhā subharā,**  
+*They were used to simple things, unburdensome,*
+**mudū atthaddhamānasā;**  
+*gentle, not pompous at heart,*
+**Abyāsekā amukharā,**  
+*unsullied, not scurrilous,*
+**atthacintā vasānugā.**  
+*their thoughts were intent on the goal.*
+
+### Section 8
+
+**Tato pāsādikaṁ āsi,**  
+*That’s why they inspired confidence,*
+**gataṁ bhuttaṁ nisevitaṁ;**  
+*in their movements, eating, and practice;*
+**Siniddhā teladhārāva,**  
+*their deportment was as smooth*
+**ahosi iriyāpatho.**  
+*as a stream of oil.*
+
+### Section 9
+
+**Sabbāsavaparikkhīṇā,**  
+*With the utter ending of all defilements,*
+**mahājhāyī mahāhitā;**  
+*those senior monks have now been quenched.*
+**Nibbutā dāni te therā,**  
+*They were great meditators and great benefactors—*
+**parittā dāni tādisā.**  
+*there are few like them today.*
+
+### Section 10
+
+**Kusalānañca dhammānaṁ,**  
+*With the ending*
+**paññāya ca parikkhayā;**  
+*of good principles and understanding,*
+**Sabbākāravarūpetaṁ,**  
+*the victor’s teaching,*
+**lujjate jinasāsanaṁ.**  
+*full of all excellent qualities, falls apart.*
+
+### Section 11
+
+**Pāpakānañca dhammānaṁ,**  
+*This is the season*
+**kilesānañca yo utu;**  
+*for bad principles and defilements.*
+**Upaṭṭhitā vivekāya,**  
+*Those who are ready for seclusion*
+**ye ca saddhammasesakā.**  
+*are all that’s left of the true Dhamma.*
+
+### Section 12
+
+**Te kilesā pavaḍḍhantā,**  
+*As they grow, the defilements*
+**āvisanti bahuṁ janaṁ;**  
+*possess most people;*
+**Kīḷanti maññe bālehi,**  
+*they play with fools, it seems to me,*
+**ummattehiva rakkhasā.**  
+*like monsters with the mad.*
+
+### Section 13
+
+**Kilesehābhibhūtā te,**  
+*Overcome by defilements,*
+**tena tena vidhāvitā;**  
+*they run here and there*
+**Narā kilesavatthūsu,**  
+*among the bases for defilement,*
+**sasaṅgāmeva ghosite.**  
+*as if they had declared war on themselves.*
+
+### Section 14
+
+**Pariccajitvā saddhammaṁ,**  
+*Having forsaken the true teaching,*
+**aññamaññehi bhaṇḍare;**  
+*they argue with each other.*
+**Diṭṭhigatāni anventā,**  
+*Following wrong views*
+**idaṁ seyyoti maññare.**  
+*they think, ‘This is better.’*
+
+### Section 15
+
+**Dhanañca puttaṁ bhariyañca,**  
+*They cut off their wealth,*
+**chaḍḍayitvāna niggatā;**  
+*children, and wife to go forth.*
+**Kaṭacchubhikkhahetūpi,**  
+*But then they do what they shouldn’t,*
+**akicchāni nisevare.**  
+*for the sake of a measly spoon of almsfood.*
+
+### Section 16
+
+**Udarāvadehakaṁ bhutvā,**  
+*They eat until their bellies are full,*
+**sayantuttānaseyyakā;**  
+*and then they lie to sleep on their backs.*
+**Kathaṁ vattenti paṭibuddhā,**  
+*When they wake up, they keep on chatting,*
+**yā kathā satthugarahitā.**  
+*the kind of talk that the teacher criticized.*
+
+### Section 17
+
+**Sabbakārukasippāni,**  
+*Valuing all the arts and crafts,*
+**cittiṁ katvāna sikkhare;**  
+*they train themselves in them.*
+**Avūpasantā ajjhattaṁ,**  
+*Not being settled inside, they think,*
+**sāmaññatthotiacchati.**  
+*‘This is the goal of the ascetic life.’*
+
+### Section 18
+
+**Mattikaṁ telacuṇṇañca,**  
+*They provide clay, oil, and talcum powder,*
+**udakāsanabhojanaṁ;**  
+*water, lodgings, and food*
+**Gihīnaṁ upanāmenti,**  
+*for householders,*
+**ākaṅkhantā bahuttaraṁ.**  
+*expecting more in return.*
+
+### Section 19
+
+**Dantaponaṁ kapitthañca,**  
+*And in addition, tooth-picks of white fig,*
+**pupphaṁ khādaniyāni ca;**  
+*flowers, food to eat,*
+**Piṇḍapāte ca sampanne,**  
+*well-cooked almsfood,*
+**ambe āmalakāni ca.**  
+*mangoes and myrobalans.*
+
+### Section 20
+
+**Bhesajjesu yathā vejjā,**  
+*In medicine they are like doctors,*
+**kiccākicce yathā gihī;**  
+*in business like householders,*
+**Gaṇikāva vibhūsāyaṁ,**  
+*in makeup like prostitutes,*
+**issare khattiyā yathā.**  
+*in sovereignty like aristocrats.*
+
+### Section 21
+
+**Nekatikā vañcanikā,**  
+*Cheats, frauds,*
+**kūṭasakkhī apāṭukā;**  
+*false witnesses, sly:*
+**Bahūhi parikappehi,**  
+*using multiple plans,*
+**āmisaṁ paribhuñjare.**  
+*they enjoy things of the flesh.*
+
+### Section 22
+
+**Lesakappe pariyāye,**  
+*Pursuing shams, contrivances, and plans,*
+**parikappenudhāvitā;**  
+*by such means*
+**Jīvikatthā upāyena,**  
+*they accumulate a lot of wealth*
+**saṅkaḍḍhanti bahuṁ dhanaṁ.**  
+*for the sake of their own livelihood.*
+
+### Section 23
+
+**Upaṭṭhāpenti parisaṁ,**  
+*They assemble the community*
+**kammato no ca dhammato;**  
+*for business rather than Dhamma.*
+**Dhammaṁ paresaṁ desenti,**  
+*They teach the Dhamma to others*
+**lābhato no ca atthato.**  
+*for gain, not for the goal.*
+
+### Section 24
+
+**Saṅghalābhassa bhaṇḍanti,**  
+*Those barred from the Saṅgha*
+**saṅghato paribāhirā;**  
+*quarrel over the Saṅgha’s property.*
+**Paralābhopajīvantā,**  
+*Lacking conscience, they do not care*
+**ahirīkā na lajjare.**  
+*that they live on the earnings of others.*
+
+### Section 25
+
+**Nānuyuttā tathā eke,**  
+*Some with shaven head and robe*
+**muṇḍā saṅghāṭipārutā;**  
+*are not devoted to practice,*
+**Sambhāvanaṁyevicchanti,**  
+*but wish only to be honored,*
+**lābhasakkāramucchitā.**  
+*besotted with property and reverence.*
+
+### Section 26
+
+**Evaṁ nānappayātamhi,**  
+*When things have come to this,*
+**na dāni sukaraṁ tathā;**  
+*it’s not easy these days*
+**Aphusitaṁ vā phusituṁ,**  
+*to realize what has not yet been realized,*
+**phusitaṁ vānurakkhituṁ.**  
+*or to preserve what has been realized.*
+
+### Section 27
+
+**Yathā kaṇṭakaṭṭhānamhi,**  
+*When shoeless on a thorny path,*
+**careyya anupāhano;**  
+*one would walk*
+**Satiṁ upaṭṭhapetvāna,**  
+*very mindfully;*
+**evaṁ gāme munī care.**  
+*that’s how a sage should walk in the village.*
+
+### Section 28
+
+**Saritvā pubbake yogī,**  
+*Remembering the meditators of old,*
+**tesaṁ vattamanussaraṁ;**  
+*and recollecting their conduct,*
+**Kiñcāpi pacchimo kālo,**  
+*even in the latter days,*
+**phuseyya amataṁ padaṁ.**  
+*it’s still possible to realize freedom from death.”*
+
+### Section 29
+
+**Idaṁ vatvā sālavane,**  
+*That is what the ascetic, whose faculties*
+**samaṇo bhāvitindriyo;**  
+*were fully developed, said in the sāl tree grove.*
+**Brāhmaṇo parinibbāyī,**  
+*The brahmin, the seer, became fully extinguished,*
+**isi khīṇapunabbhavo”ti.**  
+*putting an end to all future lives.*
+*… Pārāpariyo thero …*
+*Vīsatinipāto niṭṭhito.*
+
+### Section 30
+
+*Tatruddānaṁ*
+*Adhimutto pārāpariyo,*
+*telakāni raṭṭhapālo;*
+*Mālukyaselo bhaddiyo,*
+*aṅguli dibbacakkhuko;*
+*Pārāpariyo dasete,*
+*vīsamhi parikittitā;*
+*Gāthāyo dve satā honti,*
+*pañcatālīsa uttarinti.*
+

@@ -1,0 +1,39 @@
+---
+id: THAG1.36
+title_pali: Kumāputtatheragāthā
+title_en: Kumāputta
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.36
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.36: Kumāputtatheragāthā — *Kumāputta*
+
+### Section 1
+
+**“Sādhu sutaṁ sādhu caritakaṁ,**  
+*Learning is good, living well is good,*
+**Sādhu sadā aniketavihāro;**  
+*the life without abode is always good.*
+**Atthapucchanaṁ padakkhiṇakammaṁ,**  
+*Questions on the meaning, actions that are skillful:*
+**Etaṁ sāmaññamakiñcanassā”ti.**  
+*this is the ascetic life for one who has nothing.*
+*… Kumāputto thero ….*
+

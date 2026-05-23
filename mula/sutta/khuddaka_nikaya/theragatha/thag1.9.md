@@ -1,0 +1,40 @@
+---
+id: THAG1.9
+title_pali: Pilindavacchatheragāthā
+title_en: Pilindavaccha
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.9
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.9: Pilindavacchatheragāthā — *Pilindavaccha*
+
+### Section 1
+
+**“Svāgataṁ na durāgataṁ,**  
+*It was welcome, not unwelcome,*
+**Nayidaṁ dumantitaṁ mama;**  
+*the advice I got was good.*
+**Saṁvibhattesu dhammesu,**  
+*Of the well-explained teachings,*
+**Yaṁ seṭṭhaṁ tadupāgamin”ti.**  
+*I arrived at the best.*
+**Itthaṁ sudaṁ āyasmā pilindavaccho thero gāthaṁ abhāsitthāti.**  
+*That is how this verse was recited by the senior venerable Pilindavaccha.*
+

@@ -1,0 +1,40 @@
+---
+id: THAG1.5
+title_pali: Dabbatheragāthā
+title_en: Dabba
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.5
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.5: Dabbatheragāthā — *Dabba*
+
+### Section 1
+
+**“Yo duddamiyo damena danto,**  
+*Once hard to tame, now tamed himself;*
+**Dabbo santusito vitiṇṇakaṅkho;**  
+*clever, content, with doubt overcome;*
+**Vijitāvī apetabheravo hi,**  
+*victorious since his fears have vanished:*
+**Dabbo so parinibbuto ṭhitatto”ti.**  
+*Dabba is steadfast, and has become fully quenched.*
+**Itthaṁ sudaṁ āyasmā dabbo thero gāthaṁ abhāsitthāti.**  
+*That is how this verse was recited by the senior venerable Dabba.*
+

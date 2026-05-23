@@ -1,0 +1,39 @@
+---
+id: THAG1.47
+title_pali: Ujjayatheragāthā
+title_en: Ujjaya
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.47
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.47: Ujjayatheragāthā — *Ujjaya*
+
+### Section 1
+
+**“Namo te buddha vīratthu,**  
+*Homage to you, O Buddha, O hero,*
+**vippamuttosi sabbadhi;**  
+*freed in every way!*
+**Tuyhāpadāne viharaṁ,**  
+*Meditating in the fruits of your practice,*
+**viharāmi anāsavo”ti.**  
+*I live without defilements.*
+*… Ujjayo thero ….*
+

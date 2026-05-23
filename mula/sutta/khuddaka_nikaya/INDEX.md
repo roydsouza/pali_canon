@@ -16,5 +16,8 @@ The Khuddaka Nikāya ("Collection of Minor Works") is the fifth and largest nik�
 |---|---|---|---|
 | [[mula/sutta/khuddaka_nikaya/dhammapada/INDEX|Dhammapada]] | Sayings of the Dhamma | 423 (26 chapters) | Complete — Sujato translation |
 | [[mula/sutta/khuddaka_nikaya/udana|Udāna]] | Inspired Utterances | 80 suttas (8 vaggas) | Complete — Sujato translation |
-| [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]] | Anthology of Discourses | Uragavagga (Chapter 1) complete (12 suttas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]] | Anthology of Discourses | 73 suttas (5 chapters) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]] | As It Was Said | 112 suttas (4 nipātas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]] | Monks' Verses | 203 poems (21 nipātas) | Complete — Sujato translation |
+| [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]] | Nuns' Verses | 73 poems (16 nipātas) | Complete — Sujato translation |
 

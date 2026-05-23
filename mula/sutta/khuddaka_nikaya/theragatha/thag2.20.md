@@ -1,0 +1,61 @@
+---
+id: THAG2.20
+title_pali: Sirimatheragāthā
+title_en: Sirima
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag2.20
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG2.20: Sirimatheragāthā — *Sirima*
+
+### Section 1
+
+**“Pare ca naṁ pasaṁsanti,**  
+*If others praise one*
+**attā ce asamāhito;**  
+*who has no immersion,*
+**Moghaṁ pare pasaṁsanti,**  
+*they praise in vain,*
+**attā hi asamāhito.**  
+*as one has no immersion.*
+
+### Section 2
+
+**Pare ca naṁ garahanti,**  
+*If others criticize one*
+**attā ce susamāhito;**  
+*who does have immersion,*
+**Moghaṁ pare garahanti,**  
+*they criticize in vain,*
+**attā hi susamāhito”ti.**  
+*as one does have immersion.*
+*… Sirimā thero ….*
+*vaggo dutiyo.*
+
+### Section 3
+
+*Tassuddānaṁ*
+*Cundo ca jotidāso ca,*
+*thero heraññakāni ca;*
+*Somamitto sabbamitto,*
+*kāḷo tisso ca kimilo;*
+*Nando ca sirimā ceva,*
+*dasa therā mahiddhikāti.*
+

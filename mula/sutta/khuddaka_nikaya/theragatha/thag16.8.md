@@ -1,0 +1,314 @@
+---
+id: THAG16.8
+title_pali: Aṅgulimālatheragāthā
+title_en: Aṅgulimāla
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag16.8
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG16.8: Aṅgulimālatheragāthā — *Aṅgulimāla*
+
+### Section 1
+
+**“Gacchaṁ vadesi samaṇaṭṭhitomhi,**  
+*“While walking, ascetic, you say ‘I’ve stopped.’*
+**Mamañca brūsi ṭhitamaṭṭhitoti;**  
+*And I have stopped, but you tell me I’ve not.*
+**Pucchāmi taṁ samaṇa etamatthaṁ,**  
+*I’m asking you this, ascetic:*
+**‘Kathaṁ ṭhito tvaṁ ahamaṭṭhitomhi’”.**  
+*how is it you’ve stopped and I have not?”*
+
+### Section 2
+
+**“Ṭhito ahaṁ aṅgulimāla sabbadā,**  
+*“Aṅgulimāla, I have forever stopped—*
+**Sabbesu bhūtesu nidhāya daṇḍaṁ;**  
+*I’ve laid aside violence towards all creatures.*
+**Tuvañca pāṇesu asaññatosi,**  
+*But you can’t stop yourself <j>from harming living creatures;*
+**Tasmā ṭhitohaṁ tuvamaṭṭhitosi”.**  
+*that’s why I’ve stopped, but you have not.”*
+
+### Section 3
+
+**“Cirassaṁ vata me mahito mahesī,**  
+*“Oh, at long last a renowned great seer,*
+**Mahāvanaṁ samaṇo paccapādi;**  
+*an ascetic has followed me into this deep wood.*
+**Sohaṁ cajissāmi sahassapāpaṁ,**  
+*Now that I’ve heard your verse on Dhamma,*
+**Sutvāna gāthaṁ tava dhammayuttaṁ”.**  
+*I shall discard a thousand evils.”*
+
+### Section 4
+
+**Icceva coro asimāvudhañca,**  
+*With these words, <j>the bandit hurled his sword and weapons*
+**Sobbhe papāte narake anvakāsi;**  
+*down a cliff into an abyss.*
+**Avandi coro sugatassa pāde,**  
+*He venerated the Holy One’s feet,*
+**Tattheva pabbajjamayāci buddhaṁ.**  
+*and asked the Buddha for the going forth right away.*
+
+### Section 5
+
+**Buddho ca kho kāruṇiko mahesi,**  
+*Then the Buddha, the compassionate great seer,*
+**Yo satthā lokassa sadevakassa;**  
+*the teacher of the world with its gods,*
+**“Tamehi bhikkhū”ti tadā avoca,**  
+*said to him, “Come, monk!”*
+**Eseva tassa ahu bhikkhubhāvo.**  
+*And with that he became a monk.*
+
+### Section 6
+
+**“Yo ca pubbe pamajjitvā,**  
+*“He who once was heedless,*
+**pacchā so nappamajjati;**  
+*but turned to heedfulness,*
+**Somaṁ lokaṁ pabhāseti,**  
+*lights up the world,*
+**abbhā muttova candimā.**  
+*like the moon freed from clouds.*
+
+### Section 7
+
+**Yassa pāpaṁ kataṁ kammaṁ,**  
+*Someone whose bad deed*
+**kusalena pidhīyati;**  
+*is supplanted by the good,*
+**Somaṁ lokaṁ pabhāseti,**  
+*lights up the world,*
+**abbhā muttova candimā.**  
+*like the moon freed from clouds.*
+
+### Section 8
+
+**Yo have daharo bhikkhu,**  
+*A young mendicant*
+**yuñjati buddhasāsane;**  
+*devoted to the Buddha’s teaching,*
+**Somaṁ lokaṁ pabhāseti,**  
+*lights up the world,*
+**abbhā muttova candimā.**  
+*like the moon freed from clouds.*
+
+### Section 9
+
+**Disāpi me dhammakathaṁ suṇantu,**  
+*May even my enemies <j>hear a Dhamma talk!*
+**Disāpi me yuñjantu buddhasāsane;**  
+*May even my enemies <j>devote themselves to the Buddha’s teaching!*
+**Disāpi me te manuje bhajantu,**  
+*May even my enemies associate with those good men*
+**Ye dhammamevādapayanti santo.**  
+*who establish others in the Dhamma!*
+
+### Section 10
+
+**Disā hi me khantivādānaṁ,**  
+*May even my enemies <j>hear Dhamma at the right time,*
+**avirodhappasaṁsinaṁ;**  
+*from those who teach acceptance,*
+**Suṇantu dhammaṁ kālena,**  
+*praising acquiescence;*
+**tañca anuvidhīyantu.**  
+*and may they follow that path!*
+
+### Section 11
+
+**Na hi jātu so mamaṁ hiṁse,**  
+*For then they’d never wish harm*
+**aññaṁ vā pana kiñcanaṁ;**  
+*upon myself or others.*
+**Pappuyya paramaṁ santiṁ,**  
+*Having arrived at ultimate peace,*
+**rakkheyya tasathāvare.**  
+*they’d look after creatures firm and frail.*
+
+### Section 12
+
+**Udakañhi nayanti nettikā,**  
+*For irrigators guide the water,*
+**Usukārā namayanti tejanaṁ;**  
+*and fletchers straighten arrows;*
+**Dāruṁ namayanti tacchakā,**  
+*carpenters carve timber—*
+**Attānaṁ damayanti paṇḍitā.**  
+*but the astute tame themselves.*
+
+### Section 13
+
+**Daṇḍeneke damayanti,**  
+*Some tame by using the rod,*
+**aṅkusebhi kasāhi ca;**  
+*some with goads, and some with whips.*
+**Adaṇḍena asatthena,**  
+*But the unaffected one tamed me*
+**ahaṁ dantomhi tādinā.**  
+*without rod or sword.*
+
+### Section 14
+
+**‘Ahiṁsako’ti me nāmaṁ,**  
+*My name is ‘Harmless’,*
+**hiṁsakassa pure sato;**  
+*though I used to be harmful.*
+**Ajjāhaṁ saccanāmomhi,**  
+*The name I bear today is true,*
+**na naṁ hiṁsāmi kiñcanaṁ.**  
+*for I do no harm to anyone.*
+
+### Section 15
+
+**Coro ahaṁ pure āsiṁ,**  
+*I used to be a bandit,*
+**aṅgulimāloti vissuto;**  
+*the notorious Aṅgulimāla.*
+**Vuyhamāno mahoghena,**  
+*Swept away in a great flood,*
+**buddhaṁ saraṇamāgamaṁ.**  
+*I went to the Buddha for refuge.*
+
+### Section 16
+
+**Lohitapāṇi pure āsiṁ,**  
+*I used to have blood on my hands,*
+**aṅgulimāloti vissuto;**  
+*the notorious Aṅgulimāla.*
+**Saraṇagamanaṁ passa,**  
+*See the refuge I’ve found—*
+**bhavanetti samūhatā.**  
+*the leash to existence is eradicated.*
+
+### Section 17
+
+**Tādisaṁ kammaṁ katvāna,**  
+*I’ve done many of the sort of deeds*
+**bahuṁ duggatigāminaṁ;**  
+*that lead to a bad destination.*
+**Phuṭṭho kammavipākena,**  
+*The result of my deeds has already struck me,*
+**anaṇo bhuñjāmi bhojanaṁ.**  
+*so I enjoy my food free of debt.*
+
+### Section 18
+
+**Pamādamanuyuñjanti,**  
+*Fools and simpletons*
+**bālā dummedhino janā;**  
+*devote themselves to negligence.*
+**Appamādañca medhāvī,**  
+*But the wise protect diligence*
+**dhanaṁ seṭṭhaṁva rakkhati.**  
+*as their best treasure.*
+
+### Section 19
+
+**Mā pamādamanuyuñjetha,**  
+*Don’t devote yourself to negligence,*
+**mā kāmaratisanthavaṁ;**  
+*or delight in erotic intimacy.*
+**Appamatto hi jhāyanto,**  
+*For if you’re diligent and practice absorption,*
+**pappoti paramaṁ sukhaṁ.**  
+*you’ll attain ultimate happiness.*
+
+### Section 20
+
+**Svāgataṁ nāpagataṁ,**  
+*It was welcome, not unwelcome,*
+**netaṁ dummantitaṁ mama;**  
+*the advice I got was good.*
+**Savibhattesu dhammesu,**  
+*Of the well-explained teachings,*
+**yaṁ seṭṭhaṁ tadupāgamaṁ.**  
+*I arrived at the best.*
+
+### Section 21
+
+**Svāgataṁ nāpagataṁ,**  
+*It was welcome, not unwelcome,*
+**netaṁ dummantitaṁ mama;**  
+*the advice I got was good.*
+**Tisso vijjā anuppattā,**  
+*I’ve attained the three knowledges,*
+**kataṁ buddhassa sāsanaṁ.**  
+*and fulfilled the Buddha’s instructions.”*
+
+### Section 22
+
+**Araññe rukkhamūle vā,**  
+*“In the wilderness, at a tree’s root,*
+**pabbatesu guhāsu vā;**  
+*on mountains, or in caves—*
+**Tattha tattheva aṭṭhāsiṁ,**  
+*it used to be that wherever I stood,*
+**ubbiggamanaso tadā.**  
+*my mind was anxious.*
+
+### Section 23
+
+**Sukhaṁ sayāmi ṭhāyāmi,**  
+*But now I lie down happily and stand up happily,*
+**sukhaṁ kappemi jīvitaṁ;**  
+*I live my life happily,*
+**Ahatthapāso mārassa,**  
+*out of Māra’s reach;*
+**aho satthānukampito.**  
+*the teacher had sympathy for me.*
+
+### Section 24
+
+**Brahmajacco pure āsiṁ,**  
+*I used to be of brahmin birth,*
+**udicco ubhato ahu;**  
+*highborn on both sides,*
+**Sojja putto sugatassa,**  
+*now I’m a son of the Holy One,*
+**dhammarājassa satthuno.**  
+*the Teacher, King of Dhamma.*
+
+### Section 25
+
+**Vītataṇho anādāno,**  
+*I am rid of craving, free of grasping,*
+**guttadvāro susaṁvuto;**  
+*my sense doors are guarded and well-restrained.*
+**Aghamūlaṁ vadhitvāna,**  
+*I’ve destroyed the root of gloom,*
+**patto me āsavakkhayo.**  
+*and attained the ending of defilements.*
+
+### Section 26
+
+**Pariciṇṇo mayā satthā,**  
+*I’ve served the teacher*
+**kataṁ buddhassa sāsanaṁ;**  
+*and fulfilled the Buddha’s instructions.*
+**Ohito garuko bhāro,**  
+*The heavy burden is laid down,*
+**bhavanetti samūhatā”ti.**  
+*the leash to existence is eradicated.”*
+*… Aṅgulimālo thero ….*
+

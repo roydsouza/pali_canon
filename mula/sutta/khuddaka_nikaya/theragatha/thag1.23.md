@@ -1,0 +1,43 @@
+---
+id: THAG1.23
+title_pali: Gosālatheragāthā
+title_en: Gosāla
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.23
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.23: Gosālatheragāthā — *Gosāla*
+
+### Section 1
+
+**“Ahaṁ kho veḷugumbasmiṁ,**  
+*I’ll eat honey and milk-rice*
+**bhutvāna madhupāyasaṁ;**  
+*in Veḷugumba.*
+**Padakkhiṇaṁ sammasanto,**  
+*And then, dexterously probing*
+**khandhānaṁ udayabbayaṁ;**  
+*the rise and fall of the aggregates,*
+**Sānuṁ paṭigamissāmi,**  
+*I’ll return to my forest hill*
+**vivekamanubrūhayan”ti.**  
+*and foster seclusion.*
+*… Gosālo thero ….*
+

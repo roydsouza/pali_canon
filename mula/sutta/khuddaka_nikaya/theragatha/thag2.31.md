@@ -1,0 +1,50 @@
+---
+id: THAG2.31
+title_pali: Migasiratheragāthā
+title_en: Migasira
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag2.31
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG2.31: Migasiratheragāthā — *Migasira*
+
+### Section 1
+
+**“Yato ahaṁ pabbajito,**  
+*When I had gone forth*
+**sammāsambuddhasāsane;**  
+*in the teaching of the Buddha,*
+**Vimuccamāno uggacchiṁ,**  
+*while letting go, I rose up;*
+**kāmadhātuṁ upaccagaṁ.**  
+*escaping the sensual realm.*
+
+### Section 2
+
+**Brahmuno pekkhamānassa,**  
+*Then, as the supreme one looked on,*
+**tato cittaṁ vimucci me;**  
+*my mind was freed.*
+**Akuppā me vimuttīti,**  
+*My freedom is unshakable*
+**sabbasaṁyojanakkhayā”ti.**  
+*with the ending of all fetters.*
+*… Migasiro thero ….*
+

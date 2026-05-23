@@ -1,0 +1,42 @@
+---
+id: THIG1.7
+title_pali: Vīrātherīgāthā
+title_en: Vīrā
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: therigatha
+sutta_number: thig1.7
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - nun
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Therīgāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] | [[four_sublime_states|Four Sublime States]]
+
+## THIG1.7: Vīrātherīgāthā — *Vīrā*
+
+### Section 1
+
+**“Vīrā vīrehi dhammehi,**  
+*She’s known as Vīrā because of her heroic qualities,*
+**bhikkhunī bhāvitindriyā;**  
+*a nun with faculties developed.*
+**Dhāreti antimaṁ dehaṁ,**  
+*She bears her final body,*
+**jetvā māraṁ savāhinin”ti.**  
+*having vanquished Māra with his legions.*
+
+### Section 2
+
+*… Vīrā therī ….*
+

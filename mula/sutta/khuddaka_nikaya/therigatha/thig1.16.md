@@ -1,0 +1,42 @@
+---
+id: THIG1.16
+title_pali: Vuḍḍhapabbajitasumanātherīgāthā
+title_en: Sumanā, Who Went Forth Late in Life
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: therigatha
+sutta_number: thig1.16
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - nun
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Therīgāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] | [[four_sublime_states|Four Sublime States]]
+
+## THIG1.16: Vuḍḍhapabbajitasumanātherīgāthā — *Sumanā, Who Went Forth Late in Life*
+
+### Section 1
+
+**“Sukhaṁ tvaṁ vuḍḍhike sehi,**  
+*Sleep softly, old lady,*
+**katvā coḷena pārutā;**  
+*wrapped in the cloth you sewed yourself;*
+**Upasanto hi te rāgo,**  
+*for your desire has been quelled,*
+**sītibhūtāsi nibbutā”ti.**  
+*you’re cooled and quenched.*
+
+### Section 2
+
+*… Sumanā vuḍḍhapabbajitā therī ….*
+

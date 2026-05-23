@@ -1,0 +1,37 @@
+---
+id: THAG1.42
+title_pali: Khadiravaniyatheragāthā
+title_en: Revata of the Acacia Wood
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag1.42
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG1.42: Khadiravaniyatheragāthā — *Revata of the Acacia Wood*
+
+### Section 1
+
+**“Cāle upacāle sīsūpacāle (…),**  
+*Cālā, Upacālā, Sīsupacālā—*
+**Patissatā nu kho viharatha;**  
+*meditate mindfully!*
+**Āgato vo vālaṁ viya vedhī”ti.**  
+*I’ve come to you like a hair-splitter.*
+*… Khadiravaniyo thero ….*
+

@@ -1,0 +1,50 @@
+---
+id: THAG2.4
+title_pali: Gaṅgātīriyatheragāthā
+title_en: Gaṅgātīriya
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: theragatha
+sutta_number: thag2.4
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - monk
+  - verses
+  - renunciation
+  - liberation
+  - path
+---
+
+# Khuddaka Nikāya: Theragāthā
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
+**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
+
+## THAG2.4: Gaṅgātīriyatheragāthā — *Gaṅgātīriya*
+
+### Section 1
+
+**“Tiṇṇaṁ me tālapattānaṁ,**  
+*My hut on the bank of the Ganges*
+**gaṅgātīre kuṭī katā;**  
+*is made from three palm leaves.*
+**Chavasittova me patto,**  
+*My alms-bowl is a funeral pot,*
+**paṁsukūlañca cīvaraṁ.**  
+*my robe is cast-off rags.*
+
+### Section 2
+
+**Dvinnaṁ antaravassānaṁ,**  
+*In my first two rainy seasons*
+**ekā vācā me bhāsitā;**  
+*I spoke only one word.*
+**Tatiye antaravassamhi,**  
+*In my third rainy season*
+**tamokhandho padālito”ti.**  
+*the mass of darkness was shattered.*
+*… Gaṅgātīriyo thero ….*
+
