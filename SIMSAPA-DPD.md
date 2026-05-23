@@ -13,7 +13,7 @@ Simsapa is an Obsidian plugin that connects to the **Digital Pāli Dictionary (D
 A sidebar panel opens on the right showing:
 - The dictionary entry from DPD (definition, grammar, root, compounds)
 - Sutta references where the word appears
-- Links to open the full entry in the Simsapa Dhamma Reader app (if installed)
+- Links to open the full entry in the Simsapa [Dhamma]() Reader app (if installed)
 
 **That's it.** No hotkey is configured — double-click is the only trigger.
 
