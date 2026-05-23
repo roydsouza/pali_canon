@@ -27,3 +27,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an11_15|AN 11.15]] | [[an11_15_tik|Mettāsuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 572 |
 | [[an6_10|AN 6.10]] | [[an6_10_tik|Mahānāmasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 210 |
 | [[an11_12|AN 11.12]] | [[an11_12_tik|Dutiyamahānāmasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 189 |
+| [[an6_25|AN 6.25]] | [[an6_25_tik|Anussatiṭṭhānasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 129 |

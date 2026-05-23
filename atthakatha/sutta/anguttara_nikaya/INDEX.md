@@ -25,6 +25,7 @@ layer: atthakatha
 | [[an11_15|AN 11.15]] | [[an11_15_att|Mettāsuttavaṇṇanā]] | CSCD | — | 322 |
 | [[an6_10|AN 6.10]] | [[an6_10_att|Mahānāmasuttavaṇṇanā]] | CSCD | — | 223 |
 | [[an11_12|AN 11.12]] | [[an11_12_att|Dutiyamahānāmasuttavaṇṇanā]] | CSCD | — | 122 |
+| [[an6_25|AN 6.25]] | [[an6_25_att|Anussatiṭṭhānasuttavaṇṇanā]] | CSCD | — | 132 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*

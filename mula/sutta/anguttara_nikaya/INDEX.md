@@ -26,6 +26,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an11_15|AN 11.15]] | Mettāsutta | The Benefits of Love | 273 |
 | [[an6_10|AN 6.10]] | Mahānāmasutta | With Mahānāma | 1,657 |
 | [[an11_12|AN 11.12]] | Dutiyamahānāmasutta | With Mahānāma (2nd) | 935 |
+| [[an6_25|AN 6.25]] | Anussatiṭṭhānasutta | Topics for Recollection | 980 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
