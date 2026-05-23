@@ -1,0 +1,86 @@
+---
+id: SNP2.10
+title_pali: Uṭṭhānasutta
+title_en: Get Up!
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp2.10
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - ethics
+  - conduct
+  - lay_practice
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp2.10_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[five_precepts|Five Precepts]]
+
+## SNP2.10: Uṭṭhānasutta — *Get Up!*
+
+### Section 1
+
+**Uṭṭhahatha nisīdatha,**  
+*Get up and meditate!*
+**ko attho supitena vo;**  
+*What’s the point in your sleeping?*
+**Āturānañhi kā niddā,**  
+*How can the afflicted slumber*
+**sallaviddhāna ruppataṁ.**  
+*when inflicted by an arrow strike?*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.10_att#§1|Commentary §1]]
+
+### Section 2
+
+**Uṭṭhahatha nisīdatha,**  
+*Get up and meditate!*
+**Daḷhaṁ sikkhatha santiyā;**  
+*Train hard for peace!*
+**Mā vo pamatte viññāya,**  
+*The King of Death has caught you heedless—*
+**Maccurājā amohayittha vasānuge.**  
+*don’t let him fool you under his sway.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.10_att#§2|Commentary §2]]
+
+### Section 3
+
+**Yāya devā manussā ca,**  
+*Needy gods and humans*
+**sitā tiṭṭhanti atthikā;**  
+*are held back by clinging:*
+**Tarathetaṁ visattikaṁ,**  
+*get over it.*
+**khaṇo vo mā upaccagā;**  
+*Don’t let the moment pass you by.*
+**Khaṇātītā hi socanti,**  
+*For if you miss your moment*
+**nirayamhi samappitā.**  
+*you’ll grieve when sent to hell.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.10_att#§3|Commentary §3]]
+
+### Section 4
+
+**Pamādo rajo pamādo,**  
+*Negligence is always dust;*
+**Pamādānupatito rajo;**  
+*dust follows right behind negligence.*
+**Appamādena vijjāya,**  
+*Through diligence and knowledge,*
+**Abbahe sallamattanoti.**  
+*pluck out the dart from yourself.*
+*Uṭṭhānasuttaṁ dasamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.10_att#§4|Commentary §4]]
+
