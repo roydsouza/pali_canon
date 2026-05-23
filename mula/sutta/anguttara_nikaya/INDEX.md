@@ -60,6 +60,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_248_257|AN 1.248–257]] | 19. Chaṭṭhavagga | Chapter Six | 256 |
 | [[an1_258_267|AN 1.258–267]] | 20. Sattamavagga | Chapter Seven | 233 |
 | [[an1_268_277|AN 1.268–277]] | 21. Paṭhamavagga | Chapter One | 706 |
+| [[an1_278_286|AN 1.278–286]] | 22. Dutiyavagga | Chapter Two | 479 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
