@@ -33,6 +33,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an6_20|AN 6.20]] | Dutiyamaraṇassatisutta | Mindfulness of Death (2nd) | 1,070 |
 | [[an8_73|AN 8.73]] | Paṭhamamaraṇassatisutta | Mindfulness of Death (1st) | 1,445 |
 | [[an4_67|AN 4.67]] | Ahirājasutta | The Snake King | 553 |
+| [[an7_65|AN 7.65]] | Hirīottappasutta | Conscience and Prudence | 709 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
