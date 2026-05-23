@@ -35,6 +35,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an4_67|AN 4.67]] | Ahirājasutta | The Snake King | 553 |
 | [[an7_65|AN 7.65]] | Hirīottappasutta | Conscience and Prudence | 709 |
 | [[an8_53|AN 8.53]] | Saṅkhittasutta | Brief Advice to Gotamī | 410 |
+| [[an11_2|AN 11.2]] | Cetanākaraṇīyasutta | Making a Wish | 687 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

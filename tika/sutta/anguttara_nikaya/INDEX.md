@@ -36,3 +36,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an4_67|AN 4.67]] | [[an4_67_tik|Ahirājasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 127 |
 | [[an7_65|AN 7.65]] | [[an7_65_tik|Hirīottappasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 76 |
 | [[an8_53|AN 8.53]] | [[an8_53_tik|Saṅkhittasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 457 |
+| [[an11_2|AN 11.2]] | [[an11_2_5_tik|Cetanākaraṇīyasuttādivaṇṇanāṭīkā]] | tipitaka.org CSCD | 115 |
