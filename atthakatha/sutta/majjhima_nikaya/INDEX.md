@@ -16,6 +16,7 @@ This directory contains commentaries on the Middle Length Discourses (Majjhima N
 | [[mn111|MN111]] | [[mn111_att|Anupadasuttavaṇṇanā]] | CSCD | 18 Sujato notes | 2,415 |
 | [[mn128|MN 128]] | [[mn128_att|Upakkilesasuttavaṇṇanā]] | CSCD | 32 Sujato notes | 2,655 |
 | [[mn8|MN 8]] | [[mn8_att|Sallekhasuttavaṇṇanā]] | CSCD | 25 Sujato notes | 4,275 |
+| [[mn148|MN 148]] | [[mn148_att|Chachakkasuttavaṇṇanā]] | CSCD | 6 Sujato notes | 702 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
