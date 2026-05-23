@@ -1,0 +1,47 @@
+---
+id: an8_54_att
+title_pali: Dīghajāṇusuttavaṇṇanā
+title_en: Commentary on Dīghajāṇusutta (With Dīghajāṇu)
+type: atthakatha
+pitaka: sutta
+nikaya: an
+sutta: an8.54
+layer: atthakatha
+mula_file: [[an8_54]]
+tika_file: [[an8_54_tik]]
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Aṅguttara Nikāya: Dīghajāṇusutta
+*AN 8.54 — With Dīghajāṇu*
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Mūla**: [[an8_54|AN 8.54 — Dīghajāṇusutta]]
+**Tīkā**: [[an8_54_tik|Dīghajāṇusuttavaṇṇanāṭīkā (Sub-commentary)]]
+
+*8 paragraphs — Pali text CSCD.*
+## 4. Dīghajāṇusuttavaṇṇanā
+
+*Pali text — CSCD. Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### 4. Dīghajāṇusuttavaṇṇanā
+
+
+### §54
+
+> [!abstract]- Tīkā §54
+> [[an8_54_tik#§54|Sub-commentary §54]]
+
+(54) Catutthe **byagghapajjā**ti idamassa paveṇi nāma vasena ālapanaṃ. Tassa hi pubbapurisā byagghapathe jātāti tasmiṃ kule manussā byagghapajjāti vuccanti. **Issatthenā**ti issāsakammena. **Tatrupāyāyā**ti ‘‘imasmiṃ kāle idaṃ nāma kātuṃ vaṭṭatī’’ti jānane upāyabhūtāya. **Vuddhasīlino**ti vaḍḍhitasīlā vuddhasamācārā. **Āya**nti āgamanaṃ. **Nāccogāḷha**nti nātimahantaṃ. **Nātihīna**nti nātikasiraṃ. **Pariyādāyā**ti gahetvā khepetvā. Tattha yassa vayato diguṇo āyo, tassa vayo āyaṃ pariyādātuṃ na sakkoti.
+
+‘‘Catudhā vibhaje bhoge, paṇḍito gharamāvasaṃ;
+
+Ekena bhoge bhuñjeyya, dvīhi kammaṃ payojaye;
+
+  Catutthañca nidhāpeyya, āpadāsu bhavissatī’’ti. (dī. ni. 3.265) –  
+Evaṃ paṭipajjato pana vayo āyaṃ pariyādātuṃ na sakkotiyeva.
+
+**Udumbarakhādīvā**ti yathā udumbarāni khāditukāmena pakke udumbararukkhe cālite ekappahāreneva bahūni phalāni patanti, so khāditabbayuttakāni khāditvā itarāni bahutarāni pahāya gacchati, evamevaṃ yo āyato vayaṃ bahutaraṃ katvā vippakiranto bhoge paribhuñjati, so ‘‘udumbarakhādikaṃvāyaṃ kulaputto bhoge khādatī’’ti vuccati. **Ajeṭṭhamaraṇa**nti anāyakamaraṇaṃ . **Samaṃ jīvikaṃ kappetī**ti sammā jīvikaṃ kappeti. **Samajīvitā**ti samajīvitāya jīvitā. **Apāyamukhānī**ti vināsassa ṭhānāni.
+
+**Uṭṭhātā kammadheyyesū**ti kammakaraṇaṭṭhānesu uṭṭhānavīriyasampanno. **Vidhānavā**ti vidahanasampanno. **Sotthānaṃ samparāyika**nti sotthibhūtaṃ samparāyikaṃ. **Saccanāmenā**ti buddhattāyeva buddhoti evaṃ avitathanāmena. **Cāgo puññaṃ pavaḍḍhatī**ti cāgo ca sesapuññañca pavaḍḍhati. Imasmiṃ sutte saddhādayo missakā kathitā. Pañcamaṃ uttānameva.
+
