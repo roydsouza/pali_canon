@@ -39,3 +39,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an11_2|AN 11.2]] | [[an11_2_5_tik|Cetanākaraṇīyasuttādivaṇṇanāṭīkā]] | tipitaka.org CSCD | 115 |
 | [[an1_1_10|AN 1.1–10]] | [[an1_1_10_tik|1. Rūpādivaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 11,703 |
 | [[an1_11_20|AN 1.11–20]] | [[an1_11_20_tik|2. Nīvaraṇappahānavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 3,428 |
+| [[an1_21_30|AN 1.21–30]] | [[an1_21_30_tik|3. Akammaniyavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 367 |
