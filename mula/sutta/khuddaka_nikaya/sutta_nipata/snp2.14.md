@@ -1,0 +1,466 @@
+---
+id: SNP2.14
+title_pali: Dhammikasutta
+title_en: With Dhammika
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp2.14
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - ethics
+  - conduct
+  - lay_practice
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp2.14_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[five_precepts|Five Precepts]]
+
+## SNP2.14: Dhammikasutta — *With Dhammika*
+
+### Section 1
+
+**Evaṁ me sutaṁ—**  
+*So I have heard.*
+**ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.**  
+*At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.*
+**Atha kho dhammiko upāsako pañcahi upāsakasatehi saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho dhammiko upāsako bhagavantaṁ gāthāhi ajjhabhāsi:**  
+*Then the lay follower Dhammika, together with five hundred lay followers, went up to the Buddha, bowed, sat down to one side, and addressed him in verse:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§1|Commentary §1]]
+
+### Section 2
+
+**“Pucchāmi taṁ gotama bhūripañña,**  
+*“I ask you, Gotama, whose wisdom is vast:*
+**Kathaṅkaro sāvako sādhu hoti;**  
+*what does one do to become a good disciple,*
+**Yo vā agārā anagārameti,**  
+*both one who has left the home,*
+**Agārino vā panupāsakāse.**  
+*and the lay followers staying at home?*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§2|Commentary §2]]
+
+### Section 3
+
+**Tuvañhi lokassa sadevakassa,**  
+*For you understand the course and destiny*
+**Gatiṁ pajānāsi parāyaṇañca;**  
+*of the world with all its gods.*
+**Na catthi tulyo nipuṇatthadassī,**  
+*There is no equal to you who sees the subtle meaning,*
+**Tuvañhi buddhaṁ pavaraṁ vadanti.**  
+*for you are the Buddha most excellent, they say.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§3|Commentary §3]]
+
+### Section 4
+
+**Sabbaṁ tuvaṁ ñāṇamavecca dhammaṁ,**  
+*Having experienced all knowledge,*
+**Pakāsesi satte anukampamāno;**  
+*you explain the teaching out of sympathy for beings.*
+**Vivaṭṭacchadosi samantacakkhu,**  
+*All-seer, you have cast off the veil,*
+**Virocasi vimalo sabbaloke.**  
+*and immaculate, you shine on the whole world.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§4|Commentary §4]]
+
+### Section 5
+
+**Āgañchi te santike nāgarājā,**  
+*The dragon king Erāvaṇa, <j>hearing you called ‘Victor’,*
+**Erāvaṇo nāma jinoti sutvā;**  
+*came into your presence.*
+**Sopi tayā mantayitvājjhagamā,**  
+*He consulted with you then, <j>having heard your words,*
+**Sādhūti sutvāna patītarūpo.**  
+*left consoled, saying ‘Excellent!’*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§5|Commentary §5]]
+
+### Section 6
+
+**Rājāpi taṁ vessavaṇo kuvero,**  
+*And King Kuvera Vessavaṇa also*
+**Upeti dhammaṁ paripucchamāno;**  
+*approached to ask about the teaching.*
+**Tassāpi tvaṁ pucchito brūsi dhīra,**  
+*You also answered him, O attentive one,*
+**So cāpi sutvāna patītarūpo.**  
+*and hearing you he too was consoled.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§6|Commentary §6]]
+
+### Section 7
+
+**Ye kecime titthiyā vādasīlā,**  
+*Those monastics of other religions given to debate,*
+**Ājīvakā vā yadi vā nigaṇṭhā;**  
+*whether Ājīvakas or Jains,*
+**Paññāya taṁ nātitaranti sabbe,**  
+*all fail to overtake you in wisdom,*
+**Ṭhito vajantaṁ viya sīghagāmiṁ.**  
+*like a standing man next to a sprinter.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§7|Commentary §7]]
+
+### Section 8
+
+**Ye kecime brāhmaṇā vādasīlā,**  
+*Those brahmins given to debate,*
+**Vuddhā cāpi brāhmaṇā santi keci;**  
+*some of whom are quite senior,*
+**Sabbe tayi atthabaddhā bhavanti,**  
+*all end up beholden to you for the meaning,*
+**Ye cāpi aññe vādino maññamānā.**  
+*and others too who think themselves debaters.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§8|Commentary §8]]
+
+### Section 9
+
+**Ayañhi dhammo nipuṇo sukho ca,**  
+*So subtle and pleasant is the teaching*
+**Yoyaṁ tayā bhagavā suppavutto;**  
+*that is well proclaimed by you, Blessed One.*
+**Tameva sabbepi sussūsamānā,**  
+*It’s all we long to hear. So when asked,*
+**Taṁ no vada pucchito buddhaseṭṭha.**  
+*O Best of Buddhas, tell us!*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§9|Commentary §9]]
+
+### Section 10
+
+**Sabbepime bhikkhavo sannisinnā,**  
+*All these mendicants have gathered,*
+**Upāsakā cāpi tatheva sotuṁ;**  
+*and the layfolk too are here to listen.*
+**Suṇantu dhammaṁ vimalenānubuddhaṁ,**  
+*Let them hear the teaching <j>the immaculate one discovered,*
+**Subhāsitaṁ vāsavasseva devā”.**  
+*like gods listening to the fine words of Vāsava.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§10|Commentary §10]]
+
+### Section 11
+
+**“Suṇātha me bhikkhavo sāvayāmi vo,**  
+*“Listen to me, mendicants, I will educate you*
+**Dhammaṁ dhutaṁ tañca carātha sabbe;**  
+*in the cleansing teaching; all bear it in mind.*
+**Iriyāpathaṁ pabbajitānulomikaṁ,**  
+*An intelligent person, seeing the meaning,*
+**Sevetha naṁ atthadaso mutīmā.**  
+*would adopt the deportment <j>proper to a renunciate.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§11|Commentary §11]]
+
+### Section 12
+
+**No ve vikāle vicareyya bhikkhu,**  
+*No way would a mendicant go out at the wrong time;*
+**Gāme ca piṇḍāya careyya kāle;**  
+*at the right time, they’d walk the village for alms.*
+**Akālacāriñhi sajanti saṅgā,**  
+*For chains bind one who wanders at the wrong time,*
+**Tasmā vikāle na caranti buddhā.**  
+*which is why the Buddhas avoid it.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§12|Commentary §12]]
+
+### Section 13
+
+**Rūpā ca saddā ca rasā ca gandhā,**  
+*Sights, sounds, tastes, smells, and touches,*
+**Phassā ca ye sammadayanti satte;**  
+*which drive beings mad—*
+**Etesu dhammesu vineyya chandaṁ,**  
+*dispel desire for such things,*
+**Kālena so pavise pātarāsaṁ.**  
+*and enter for the morning meal at the right time.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§13|Commentary §13]]
+
+### Section 14
+
+**Piṇḍañca bhikkhu samayena laddhā,**  
+*After receiving alms for the day,*
+**Eko paṭikkamma raho nisīde;**  
+*on returning a mendicant would sit in private alone.*
+**Ajjhattacintī na mano bahiddhā,**  
+*Inwardly reflective, they’d curb their mind*
+**Nicchāraye saṅgahitattabhāvo.**  
+*from outside things, keeping themselves collected.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§14|Commentary §14]]
+
+### Section 15
+
+**Sacepi so sallape sāvakena,**  
+*Should they converse with a disciple,*
+**Aññena vā kenaci bhikkhunā vā;**  
+*with anyone else, or with a mendicant,*
+**Dhammaṁ paṇītaṁ tamudāhareyya,**  
+*they’d bring up only the sublime teaching,*
+**Na pesuṇaṁ nopi parūpavādaṁ.**  
+*not dividing or blaming.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§15|Commentary §15]]
+
+### Section 16
+
+**Vādañhi eke paṭiseniyanti,**  
+*For some contend in debate,*
+**Na te pasaṁsāma parittapaññe;**  
+*but we praise not those of little wisdom.*
+**Tato tato ne pasajanti saṅgā,**  
+*In place after place they are bound in chains,*
+**Cittañhi te tattha gamenti dūre.**  
+*for they send their mind over there far away.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§16|Commentary §16]]
+
+### Section 17
+
+**Piṇḍaṁ vihāraṁ sayanāsanañca,**  
+*Alms, a dwelling, a bed and seat,*
+**Āpañca saṅghāṭirajūpavāhanaṁ;**  
+*and water for rinsing the dust from the cloak—*
+**Sutvāna dhammaṁ sugatena desitaṁ,**  
+*after hearing the teaching of the Holy One,*
+**Saṅkhāya seve varapaññasāvako.**  
+*a disciple of outstanding wisdom would use these after appraisal.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§17|Commentary §17]]
+
+### Section 18
+
+**Tasmā hi piṇḍe sayanāsane ca,**  
+*That’s why, when it comes to alms and lodgings,*
+**Āpe ca saṅghāṭirajūpavāhane;**  
+*and water for rinsing the dust from the cloak,*
+**Etesu dhammesu anūpalitto,**  
+*a mendicant is unsullied in the midst of these things,*
+**Bhikkhu yathā pokkhare vāribindu.**  
+*like a droplet on a lotus-leaf.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§18|Commentary §18]]
+
+### Section 19
+
+**Gahaṭṭhavattaṁ pana vo vadāmi,**  
+*Now I shall tell you the householder’s duty,*
+**Yathākaro sāvako sādhu hoti;**  
+*doing which one becomes a good disciple.*
+**Na hesa labbhā sapariggahena,**  
+*For one burdened with possessions <j>does not get to realize*
+**Phassetuṁ yo kevalo bhikkhudhammo.**  
+*the whole of the mendicant’s practice.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§19|Commentary §19]]
+
+### Section 20
+
+**Pāṇaṁ na hane na ca ghātayeyya,**  
+*They’d not kill any creature, nor have them killed,*
+**Na cānujaññā hanataṁ paresaṁ;**  
+*nor grant permission for others to kill.*
+**Sabbesu bhūtesu nidhāya daṇḍaṁ,**  
+*They’ve laid aside violence towards all creatures*
+**Ye thāvarā ye ca tasā santi loke.**  
+*frail or firm that there are in the world.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§20|Commentary §20]]
+
+### Section 21
+
+**Tato adinnaṁ parivajjayeyya,**  
+*Next, a disciple would avoid knowingly*
+**Kiñci kvaci sāvako bujjhamāno;**  
+*taking anything not given at all,*
+**Na hāraye harataṁ nānujaññā,**  
+*they’d not get others to do it, <j>nor grant them permission to steal;*
+**Sabbaṁ adinnaṁ parivajjayeyya.**  
+*they’d avoid <em>all</em> theft.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§21|Commentary §21]]
+
+### Section 22
+
+**Abrahmacariyaṁ parivajjayeyya,**  
+*A sensible person would avoid the unchaste life,*
+**Aṅgārakāsuṁ jalitaṁva viññū;**  
+*like a burning pit of coals.*
+**Asambhuṇanto pana brahmacariyaṁ,**  
+*But if unable to remain chaste,*
+**Parassa dāraṁ na atikkameyya.**  
+*they’d not transgress with another’s partner.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§22|Commentary §22]]
+
+### Section 23
+
+**Sabhaggato vā parisaggato vā,**  
+*In a council or assembly,*
+**Ekassa veko na musā bhaṇeyya;**  
+*or one on one, they would not lie.*
+**Na bhāṇaye bhaṇataṁ nānujaññā,**  
+*They’d not get others to lie, <j>nor grant them permission to lie;*
+**Sabbaṁ abhūtaṁ parivajjayeyya.**  
+*they’d avoid <em>all</em> untruths.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§23|Commentary §23]]
+
+### Section 24
+
+**Majjañca pānaṁ na samācareyya,**  
+*A householder espousing this teaching*
+**Dhammaṁ imaṁ rocaye yo gahaṭṭho;**  
+*would not consume liquor or drink.*
+**Na pāyaye pivataṁ nānujaññā,**  
+*They’d not get others to drink, <j>nor grant them permission to drink;*
+**Ummādanantaṁ iti naṁ viditvā.**  
+*knowing that ends in intoxication.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§24|Commentary §24]]
+
+### Section 25
+
+**Madā hi pāpāni karonti bālā,**  
+*For drunken fools do bad things,*
+**Kārenti caññepi jane pamatte;**  
+*and encourage other heedless folk.*
+**Etaṁ apuññāyatanaṁ vivajjaye,**  
+*Shun this field of demerit,*
+**Ummādanaṁ mohanaṁ bālakantaṁ.**  
+*the maddening, deluding frolic of fools.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§25|Commentary §25]]
+
+### Section 26
+
+**Pāṇaṁ na hane na cādinnamādiye,**  
+*You shouldn’t kill living creatures, or steal,*
+**Musā na bhāse na ca majjapo siyā;**  
+*or lie, or drink liquor.*
+**Abrahmacariyā virameyya methunā,**  
+*Be chaste, refraining from sex,*
+**Rattiṁ na bhuñjeyya vikālabhojanaṁ.**  
+*and don’t eat at night, the wrong time.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§26|Commentary §26]]
+
+### Section 27
+
+**Mālaṁ na dhāre na ca gandhamācare,**  
+*Not wearing garlands or applying fragrance,*
+**Mañce chamāyaṁ va sayetha santhate;**  
+*you should sleep on a low bed, <j>or a mat on the ground.*
+**Etañhi aṭṭhaṅgikamāhuposathaṁ,**  
+*This is the eight-factored sabbath, they say,*
+**Buddhena dukkhantagunā pakāsitaṁ.**  
+*explained by the Buddha, <j>who has gone to suffering’s end.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§27|Commentary §27]]
+
+### Section 28
+
+**Tato ca pakkhassupavassuposathaṁ,**  
+*Then having rightly undertaken the sabbath*
+**Cātuddasiṁ pañcadasiñca aṭṭhamiṁ;**  
+*complete in all its eight factors*
+**Pāṭihāriyapakkhañca pasannamānaso,**  
+*on the fourteenth, fifteenth, <j>and eighth of the fortnight,*
+**Aṭṭhaṅgupetaṁ susamattarūpaṁ.**  
+*as well as on the fortnightly special displays,*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§28|Commentary §28]]
+
+### Section 29
+
+**Tato ca pāto upavutthuposatho,**  
+*at daybreak after the sabbath*
+**Annena pānena ca bhikkhusaṅghaṁ;**  
+*a clever person, rejoicing with confident heart,*
+**Pasannacitto anumodamāno,**  
+*would distribute food and drink*
+**Yathārahaṁ saṁvibhajetha viññū.**  
+*to the mendicant Saṅgha as is fitting.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§29|Commentary §29]]
+
+### Section 30
+
+**Dhammena mātāpitaro bhareyya,**  
+*One should rightfully support one’s parents,*
+**Payojaye dhammikaṁ so vaṇijjaṁ;**  
+*and undertake a legitimate business.*
+**Etaṁ gihī vattayamappamatto,**  
+*A diligent layperson observing these duties*
+**Sayampabhe nāma upeti deve”ti.**  
+*ascends to the gods called Self-luminous.”*
+*Dhammikasuttaṁ cuddasamaṁ.*
+*Cūḷavaggo dutiyo.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§30|Commentary §30]]
+
+### Section 31
+
+*Tassuddānaṁ*
+*Ratanāmagandho hiri ca,*
+*maṅgalaṁ sūcilomena;*
+*Dhammacariyañca brāhmaṇo,*
+*nāvā kiṁsīlamuṭṭhānaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§31|Commentary §31]]
+
+### Section 32
+
+*Rāhulo puna kappo ca,*
+*paribbājaniyaṁ tathā;*
+*Dhammikañca viduno āhu,*
+*cūḷavagganti cuddasāti.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.14_att#§32|Commentary §32]]
+
