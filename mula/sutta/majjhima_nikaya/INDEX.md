@@ -19,6 +19,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn148|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
 | [[mn28|MN 28]] | Mahāhatthipadopamasutta | The Longer Simile of the Elephant’s Footprint | 4,177 |
 | [[mn140|MN 140]] | Dhātuvibhaṅgasutta | The Analysis of the Elements | 5,249 |
+| [[mn7|MN 7]] | Vatthasutta | The Simile of the Cloth | 2,384 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
