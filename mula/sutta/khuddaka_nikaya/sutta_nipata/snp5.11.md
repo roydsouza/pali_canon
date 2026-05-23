@@ -1,0 +1,91 @@
+---
+id: SNP5.11
+title_pali: Kappamāṇavapucchā
+title_en: The Questions of Kappa
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp5.11
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - parayanavagga
+  - questions
+  - wisdom
+  - four_noble_truths
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp5.11_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[four_noble_truths|Four Noble Truths]] | [[dependent_origination|Dependent Origination]]
+
+## SNP5.11: Kappamāṇavapucchā — *The Questions of Kappa*
+
+### Section 1
+
+**“Majjhe sarasmiṁ tiṭṭhataṁ,**  
+*“For those overwhelmed by old age and death,”*
+**(iccāyasmā kappo)**  
+*said Venerable Kappa,*
+**Oghe jāte mahabbhaye;**  
+*“stuck mid-stream*
+**Jarāmaccuparetānaṁ,**  
+*as the terrifying flood arises,*
+**Dīpaṁ pabrūhi mārisa;**  
+*tell me an island, good fellow.*
+**Tvañca me dīpamakkhāhi,**  
+*Explain to me an island*
+**Yathāyidaṁ nāparaṁ siyā”.**  
+*so this may occur no further.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.11_att#§1|Commentary §1]]
+
+### Section 2
+
+**“Majjhe sarasmiṁ tiṭṭhataṁ,**  
+*“For those overwhelmed by old age and death,”*
+**(kappāti bhagavā)**  
+*replied the Buddha,*
+**Oghe jāte mahabbhaye;**  
+*“stuck mid-stream*
+**Jarāmaccuparetānaṁ,**  
+*as the terrifying flood arises,*
+**Dīpaṁ pabrūmi kappa te.**  
+*I shall tell you an island, Kappa.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.11_att#§2|Commentary §2]]
+
+### Section 3
+
+**Akiñcanaṁ anādānaṁ,**  
+*Having nothing, taking nothing:*
+**etaṁ dīpaṁ anāparaṁ;**  
+*this is the island with nothing further.*
+**Nibbānaṁ iti naṁ brūmi,**  
+*I call it extinguishment,*
+**jarāmaccuparikkhayaṁ.**  
+*the ending of old age and death.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.11_att#§3|Commentary §3]]
+
+### Section 4
+
+**Etadaññāya ye satā,**  
+*Those who have fully understood this, mindful,*
+**Diṭṭhadhammābhinibbutā;**  
+*are quenched in this very life.*
+**Na te māravasānugā,**  
+*They don’t fall under Māra’s sway,*
+**Na te mārassa paddhagū”ti.**  
+*nor are they his footmen.”*
+*Kappamāṇavapucchā dasamā.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.11_att#§4|Commentary §4]]
+
