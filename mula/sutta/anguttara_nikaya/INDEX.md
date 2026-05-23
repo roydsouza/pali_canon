@@ -68,6 +68,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_333_377|AN 1.333–377]] | 27. Catutthavagga | Chapter Four | 1,729 |
 | [[an1_378_393|AN 1.378–393]] | 28. Pasādakaradhammavagga | The Chapter on Inspiring Qualities | 201 |
 | [[an1_394_574|AN 1.394–574]] | 29. Aparaaccharāsaṅghātavagga | Another Chapter on a Finger-Snap | 2,042 |
+| [[an1_575_615|AN 1.575–615]] | 30. Kāyagatāsativagga | The Chapter on Mindfulness of the Body | 1,266 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
