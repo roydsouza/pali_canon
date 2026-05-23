@@ -6,16 +6,16 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Suttas Complete | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 673 individual suttas + SN12/22/35/36/45/47/48/55/56 (149 selected) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 397 individual suttas + 26 DhpA chapters + SN12/22/35/36/45/46/47/48/54/55/56 (6,762¶) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | 131 individual suttas + SN12/22/35/36/45/46/47/48/54/55/56 (1,929¶) | MN, DN, SN, AN | CSCD Pali (Udāna, Snp have no Ṭīkā) |
+| **Mūla (Root Texts)** | 606 individual suttas/poems + AN 1 (627 suttas in 31 files) + 11 SN saṃyuttas (225 suttas) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 320 individual suttas + 26 DhpA chapters + 11 SN saṃyuttas (6,762¶) + AN 1 (31 files) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | 51 individual suttas + 11 SN saṃyuttas (1,929¶) + AN 1 (31 files) | MN, DN, SN, AN | CSCD Pali (Udāna, Snp have no Ṭīkā) |
 | **Mātikā (Doctrinal Lists)** | 22 lists | — | Pali/English, cross-linked |
 
 ---
 
 ## Migrated Texts Catalog
 
-### Majjhima Nikāya (Middle Discourses) — 20 suttas
+### Majjhima Nikāya (Middle Discourses) — 22 suttas
 
 | Sutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
@@ -25,6 +25,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | MN 10 Satipaṭṭhānasutta | ✅ 5,721w | ✅ 362¶ + 49 notes | ✅ 232¶ | Mātikā |
 | MN 19 Dvedhāvitakkasutta | ✅ 3,032w | ✅ 6¶ | ✅ 6¶ | ✅ Full §-anchors & Mātikā |
 | MN 20 Vitakkasaṇṭhānasutta | ✅ 1,798w | ✅ 40¶ + 11 notes | ✅ 26¶ | Mātikā |
+| MN 22 Alagaddūpamasutta | ✅ 6,958w | ✅ 49¶ + 49 notes | ✅ 3,577w | Mātikā |
 | MN 27 Cūḷahatthipadopamasutta | ✅ 4,120w | ✅ 69¶ | ✅ 62¶ | ✅ Full §-anchors & Mātikā |
 | MN 28 Mahāhatthipadopamasutta | ✅ 4,890w | ✅ 40¶ | ✅ 35¶ | ✅ Full §-anchors & Mātikā |
 | MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | Mātikā |
@@ -33,6 +34,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | MN 51 Kandarakasutta | ✅ 3,920w | ✅ 21¶ | ✅ 18¶ | ✅ Full §-anchors & Mātikā |
 | MN 52 Aṭṭhakanāgarasutta | ✅ 1,696w | ✅ 14¶ + 14 notes | ✅ 10¶ | Mātikā |
 | MN 111 Anupadasutta | ✅ 2,272w | ✅ 26¶ + 18 notes | ✅ 38¶ | Mātikā |
+| MN 117 Mahācattārīsakasutta | ✅ 3,126w | ✅ 22¶ + 22 notes | ✅ 1,073w | Mātikā |
 | MN 118 Ānāpānasatisutta | ✅ 3,522w | ✅ 18¶ | ✅ 16¶ | ✅ Full §-anchors & Mātikā |
 | MN 119 Kāyagatāsatisutta | ✅ 4,967w | ✅ 10¶ + 18 notes | ✅ 8¶ | Mātikā |
 | MN 121 Cūḷsuññatasutta | ✅ 2,760w | ✅ 13¶ + 15 notes | ✅ 11¶ | Nav fixed |
@@ -69,10 +71,11 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | SN 55 Sotāpattisaṃyutta (15 selected) | ✅ 12,650w | ✅ 103¶ (2,613w) | ✅ 90¶ (1,810w) | ✅ 3 suttas full §-anchors & Mātikā |
 | SN 56 Saccasaṃyutta (16 selected) | ✅ 6,469w | ✅ 153¶ (2,413w) | ✅ 100¶ (1,689w) | Mātikā |
 
-### Aṅguttara Nikāya (Numerical Discourses) — 27 suttas
+### Aṅguttara Nikāya (Numerical Discourses) — 35 suttas/groups (662 suttas total)
 
 | Sutta | Mūla | Att | Tīkā | Cross-links |
 |---|---|---|---|---|
+| AN 1 Ekakanipāta (627 suttas) | ✅ 31 files | ✅ 31 files | ✅ 30 files | Mātikā |
 | AN 3.100 Loṇakapallasutta | ✅ 1,681w | ✅ 37¶ | ✅ 12¶ | Mātikā |
 | AN 4.41 Samādhibhāvanāsutta | ✅ 745w | ✅ 15¶ | ✅ 18¶ | Mātikā |
 | AN 4.67 Ahirājasutta | ✅ 1,110w | ✅ 3¶ | ✅ 3¶ | ✅ Full §-anchors & Mātikā |
@@ -83,6 +86,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | AN 6.19 Paṭhamamaraṇassatisutta | ✅ 1,120w | ✅ 2¶ | ✅ 5¶ | ✅ Full §-anchors & Mātikā |
 | AN 6.20 Dutiyamaraṇassatisutta | ✅ 1,020w | ✅ 3¶ | ✅ 4¶ | ✅ Full §-anchors & Mātikā |
 | AN 6.25 Anussatiṭṭhānasutta | ✅ 1,110w | ✅ 2¶ | ✅ 3¶ | ✅ Full §-anchors & Mātikā |
+| AN 7.65 Hirīottappasutta | ✅ 709w | ✅ 77w | ✅ 76w | Mātikā |
+| AN 8.53 Saṅkhittasutta | ✅ 410w | ✅ 776w | ✅ 457w | Mātikā |
 | AN 8.54 Dīghajāṇusutta | ✅ 2,340w | ✅ 8¶ | ✅ 4¶ | ✅ Full §-anchors & Mātikā |
 | AN 8.63 Saṅkhittasutta | ✅ 1,890w | ✅ 4¶ | ✅ 11¶ | ✅ Full §-anchors & Mātikā |
 | AN 8.73 Paṭhamamaraṇassatisutta | ✅ 1,450w | ✅ 2¶ | ✅ 12¶ | ✅ Full §-anchors & Mātikā |
@@ -91,6 +96,9 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | AN 9.36 Jhānasutta | ✅ 2,177w | ✅ 28¶ | ✅ 11¶ | Mātikā |
 | AN 10.2–6 Ānisaṃsasuttāni (5) | ✅ 2,956w | ✅ 16¶ | ✅ 59¶ | Mātikā |
 | AN 10.60 Girimānandasutta | ✅ 1,931w | ✅ 1¶ | ❌ (No Ṭīkā) | ✅ Full §-anchors & Mātikā |
+| AN 11.1 Kimatthiyasutta | ✅ 534w | ✅ 412w | ✅ 342w | Mātikā |
+| AN 11.2 Cetanākaraṇīyasutta | ✅ 687w | ✅ 117w | ✅ 115w (combined) | Mātikā |
+| AN 11.3–5 Upanisāsuttāni (3) | ✅ 2,365w | ✅ 103w (combined) | ✅ 115w (combined) | Mātikā |
 | AN 11.12 Dutiyamahānāmasutta | ✅ 1,320w | ✅ 2¶ | ✅ 3¶ | ✅ Full §-anchors & Mātikā |
 | AN 11.15 Mettāsutta | ✅ 980w | ✅ 4¶ | ✅ 16¶ | ✅ Full §-anchors & Mātikā |
 

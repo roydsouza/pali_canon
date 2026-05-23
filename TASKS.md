@@ -2,7 +2,7 @@
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
-**Last updated**: 2026-05-22
+**Last updated**: 2026-05-23
 
 ---
 
@@ -12,7 +12,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **C. STATUS.md script count** — Update "17 reusable Python scripts" to actual count (~94); categorize by type
 - [x] **D. TASKS.md Snp entry** — Clarify remaining Snp scope: Chapters 2 (14 suttas), 3 (12), 4 (16), 5 (16+)
 - [x] **E. DN mātikā links** — Add forward mātikā links to DN 1, 16, 21 + reverse links in mātikā files
-- [ ] **B. scratch/ cleanup** — *Deferred to after Phase 8*: move generators to `scratch/generators/`, archive inspect/test scripts
+- [x] **B. scratch/ cleanup** — move generators to `scratch/generators/`, archive inspect/test scripts ✅ (scratch/ cleaned and organized)
 
 ---
 
@@ -110,6 +110,18 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Paritta Collection** — 1 new sutta (AN 4.67) + 3 existing suttas + `paritta/INDEX.md` + `three_refuges` cross-links
 - [x] **Vault Link Integrity** — 0 broken links across 951 files and 11,890 wikilinks.
 
+### Phase 10 — AN Expansion (completed, 2026-05-23)
+- [x] **AN 1 Ekakanipāta** — Generated all 31 ranges from SuttaCentral API, complete with Mūla, Atthakathā, and Ṭīkā layers
+- [x] **AN 7, 8, 11 Expansion** — Migrated AN 7.65, AN 8.53, AN 11.1–5 across Mūla, Atthakathā, and Ṭīkā layers
+
+### Phase 11 — Deeper MN Coverage (completed, 2026-05-23)
+- [x] **MN Expansion** — Migrated MN 22 and MN 117 across Mūla, Atthakathā, and Ṭīkā layers
+
+### Phase 13 — Practice Support Tooling (completed, 2026-05-23)
+- [x] **Practice Notes Infrastructure** — Created `practice/INDEX.md` dashboard and `templates/practice_note.md` template
+- [x] **Verse Memorization Log** — Created `practice/memorization_log.md` with core chanting verses
+- [x] **Dataview Query Blocks** — Injected live sutta tables in all Nikāya INDEX files and added "Recently Modified" list to root INDEX.md
+
 ---
 
 ## Pending Work
@@ -133,8 +145,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] DN 1 (Brahmajāla) — 18,401w / att / tik; §-anchors done (2026-05-22)
 
 ### Aṅguttara Nikāya — Expansion
-- [ ] AN 1 (Ekakanipāta) — very short single-factor suttas; CSCD: `s0401a.att*.xml`
-- [ ] AN 7, 8, 11 nipātas — no coverage yet; CSCD: `s0403a` / `s0404a` range
+- [x] AN 1 (Ekakanipāta) — batch migration complete (31 batched files)
+- [x] AN 7, 8, 11 initial coverage (AN 7.65, 8.53, 11.1–5)
+- [ ] Remaining high-value suttas in AN (as needed for practice)
 - [ ] Consult `scratch/generate_an_mula.py` for the established pattern
 
 ### Vinaya Piṭaka
@@ -158,7 +171,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
       Candidates: MN 10, MN 36, DN 22, SN 46, all other SN saṃyuttas
 
 ### Infrastructure
-- [ ] Dataview query blocks in nikaya INDEX files for live sutta lists
+- [x] Dataview query blocks in nikaya INDEX files for live sutta lists
 - [ ] VRI XML parser script for batch commentary extraction
 - [ ] Link validator maintenance as vault grows
 

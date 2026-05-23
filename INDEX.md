@@ -8,7 +8,7 @@ The vault is divided into four primary segments. Click on each section below to 
 
 *   **[[mula/INDEX|Mūla (Canonical Texts)]]**
     *   *Description*: The original discourses, rules, and scholastic treatises of the Tipiṭaka.
-    *   *Status*: **Active**. Sutta Piṭaka: MN (10), DN (4), SN (76), AN (14), KN/Dhammapada (423 verses). Vinaya and Abhidhamma scaffolded.
+    *   *Status*: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya and Abhidhamma scaffolded.
 *   **[[atthakatha/INDEX|Atthakathā (Commentaries)]]**
     *   *Description*: Traditional explanations and clarifications of the canonical root texts.
     *   *Status*: **Active**. Commentary for all migrated suttas + Dhammapada-aṭṭhakathā (26 chapters, 294 stories, ~498K words).
@@ -26,8 +26,8 @@ The vault is divided into four primary segments. Click on each section below to 
 
 ## Vault-Wide Migration Status
 
-*   **Nikāyas Active**: Majjhima (12), Dīgha (4), Saṃyutta (76), Aṅguttara (52), Khuddaka/Dhammapada (423v)
-*   **Total Individual Suttas**: 144 (all three layers where available)
+*   **Nikāyas Active**: Majjhima (22 suttas), Dīgha (8 suttas), Saṃyutta (11 saṃyuttas / 225 selected suttas), Aṅguttara (35 suttas/groups / 662 suttas), Khuddaka (6 collections / Dhammapada 423 verses)
+*   **Total Individual Suttas/Poems**: 1,458 (Mūla) / 1,172 (Atthakathā) / 306 (Ṭīkā) where available
 *   **Estimated Total Word Count**: ~900K+ across all layers
 *   **Active Piṭakas**: Sutta Piṭaka (Vinaya and Abhidhamma scaffolded)
 *   **Last Updated**: 2026-05-23

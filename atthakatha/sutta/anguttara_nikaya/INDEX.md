@@ -34,6 +34,7 @@ layer: atthakatha
 | [[an4_67|AN 4.67]] | [[an4_67_att|Ahirājasuttavaṇṇanā]] | CSCD | — | 225 |
 | [[an7_65|AN 7.65]] | [[an7_65_att|Hirīottappasuttavaṇṇanā]] | CSCD | — | 77 |
 | [[an8_53|AN 8.53]] | [[an8_53_att|Saṅkhittasuttavaṇṇanā]] | CSCD | — | 776 |
+| [[an11_1|AN 11.1]] | [[an11_1_att|Kimatthiyasuttavaṇṇanā]] | CSCD | — | 412 |
 | [[an11_2|AN 11.2]] | [[an11_2_att|Cetanākaraṇīyasuttavaṇṇanā]] | CSCD | — | 117 |
 | [[an11_3|AN 11.3]] | [[an11_3_5_att|Upanisasuttattayavaṇṇanā]] | CSCD | — | 103 |
 | [[an1_1_10|AN 1.1–10]] | [[an1_1_10_att|1. Rūpādivaggavaṇṇanā]] | CSCD | — | 3,650 |
