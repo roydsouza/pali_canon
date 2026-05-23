@@ -1,0 +1,309 @@
+---
+id: SNP4.15
+title_pali: Attadaṇḍasutta
+title_en: Taking Up Arms
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp4.15
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - atthakavagga
+  - non-clinging
+  - views
+  - three_marks
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp4.15_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[three_marks|Three Marks]] | [[five_aggregates|Five Aggregates]]
+
+## SNP4.15: Attadaṇḍasutta — *Taking Up Arms*
+
+### Section 1
+
+**“Attadaṇḍā bhayaṁ jātaṁ,**  
+*Peril stems from those who take up arms—*
+**janaṁ passatha medhagaṁ;**  
+*just look how people conflict!*
+**Saṁvegaṁ kittayissāmi,**  
+*I shall extol how I came to be*
+**yathā saṁvijitaṁ mayā.**  
+*stirred with a sense of urgency.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§1|Commentary §1]]
+
+### Section 2
+
+**Phandamānaṁ pajaṁ disvā,**  
+*I saw this population flounder,*
+**macche appodake yathā;**  
+*like a fish in a little puddle.*
+**Aññamaññehi byāruddhe,**  
+*Seeing them at odds with each other,*
+**disvā maṁ bhayamāvisi.**  
+*fear came upon me.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§2|Commentary §2]]
+
+### Section 3
+
+**Samantamasāro loko,**  
+*The world around was volatile,*
+**disā sabbā sameritā;**  
+*all directions were in turmoil.*
+**Icchaṁ bhavanamattano,**  
+*Wanting a home for myself,*
+**nāddasāsiṁ anositaṁ.**  
+*I saw nowhere unsettled.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§3|Commentary §3]]
+
+### Section 4
+
+**Osāne tveva byāruddhe,**  
+*Yet even in their settlement they were at odds—*
+**Disvā me aratī ahu;**  
+*seeing that, I grew uneasy.*
+**Athettha sallamaddakkhiṁ,**  
+*Then I saw a dart there,*
+**Duddasaṁ hadayanissitaṁ.**  
+*so hard to see, stuck in the heart.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§4|Commentary §4]]
+
+### Section 5
+
+**Yena sallena otiṇṇo,**  
+*When struck by that dart,*
+**disā sabbā vidhāvati;**  
+*you run around in all directions.*
+**Tameva sallamabbuyha,**  
+*But when that same dart has been plucked out,*
+**na dhāvati na sīdati.**  
+*you neither run around nor sink down.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§5|Commentary §5]]
+
+### Section 6
+
+**Tattha sikkhānugīyanti,**  
+*(On that topic, the trainings are recited.)*
+**yāni loke gadhitāni;**  
+*Whatever attachments there are in the world,*
+**Na tesu pasuto siyā,**  
+*don’t pursue them.*
+**nibbijjha sabbaso kāme;**  
+*Having pierced through sensual pleasures <j>in every way,*
+**Sikkhe nibbānamattano.**  
+*train yourself for extinguishment.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§6|Commentary §6]]
+
+### Section 7
+
+**Sacco siyā appagabbho,**  
+*Be truthful, not rude,*
+**amāyo rittapesuṇo;**  
+*free of deceit, and rid of slander;*
+**Akkodhano lobhapāpaṁ,**  
+*without anger, a sage would cross over*
+**vevicchaṁ vitare muni.**  
+*the evils of greed and avarice.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§7|Commentary §7]]
+
+### Section 8
+
+**Niddaṁ tandiṁ sahe thīnaṁ,**  
+*Prevail over sleepiness, sloth, and drowsiness,*
+**pamādena na saṁvase;**  
+*don’t abide in negligence,*
+**Atimāne na tiṭṭheyya,**  
+*A person intent on quenching*
+**nibbānamanaso naro.**  
+*would not stand for arrogance.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§8|Commentary §8]]
+
+### Section 9
+
+**Mosavajje na nīyetha,**  
+*Don’t be led into lying,*
+**rūpe snehaṁ na kubbaye;**  
+*or get caught up in affection for form.*
+**Mānañca parijāneyya,**  
+*Completely understand conceit,*
+**sāhasā virato care.**  
+*and desist from hasty conduct.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§9|Commentary §9]]
+
+### Section 10
+
+**Purāṇaṁ nābhinandeyya,**  
+*Don’t relish the old,*
+**Nave khantiṁ na kubbaye;**  
+*or welcome the new.*
+**Hiyyamāne na soceyya,**  
+*Don’t grieve for what is running out,*
+**Ākāsaṁ na sito siyā.**  
+*or get attached to things that pull you in.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§10|Commentary §10]]
+
+### Section 11
+
+**Gedhaṁ brūmi mahoghoti,**  
+*Greed, I say, is the great flood,*
+**Ājavaṁ brūmi jappanaṁ;**  
+*and longing is the current—*
+**Ārammaṇaṁ pakappanaṁ,**  
+*the basis, the compulsion,*
+**Kāmapaṅko duraccayo.**  
+*the swamp of sensuality so hard to get past.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§11|Commentary §11]]
+
+### Section 12
+
+**Saccā avokkamma muni,**  
+*The sage never strays from the truth;*
+**Thale tiṭṭhati brāhmaṇo;**  
+*the brahmin stands on solid ground.*
+**Sabbaṁ so paṭinissajja,**  
+*Having given up everything,*
+**Sa ve santoti vuccati.**  
+*they are said to be at peace.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§12|Commentary §12]]
+
+### Section 13
+
+**Sa ve vidvā sa vedagū,**  
+*They have truly known, they’re a knowledge master,*
+**Ñatvā dhammaṁ anissito;**  
+*understanding the teaching, they are independent.*
+**Sammā so loke iriyāno,**  
+*They rightly proceed in the world,*
+**Na pihetīdha kassaci.**  
+*not coveting anything here.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§13|Commentary §13]]
+
+### Section 14
+
+**Yodha kāme accatari,**  
+*One who has crossed over sensuality here,*
+**Saṅgaṁ loke duraccayaṁ;**  
+*the chain in the world so hard to get past,*
+**Na so socati nājjheti,**  
+*grieves not, nor hopes;*
+**Chinnasoto abandhano.**  
+*they’ve cut the strings, they’re no longer bound.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§14|Commentary §14]]
+
+### Section 15
+
+**Yaṁ pubbe taṁ visosehi,**  
+*What came before, let wither away,*
+**Pacchā te māhu kiñcanaṁ;**  
+*and after, let there be nothing.*
+**Majjhe ce no gahessasi,**  
+*If you don’t grasp at the middle,*
+**Upasanto carissasi.**  
+*you will live at peace.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§15|Commentary §15]]
+
+### Section 16
+
+**Sabbaso nāmarūpasmiṁ,**  
+*One who has no sense of ownership*
+**Yassa natthi mamāyitaṁ;**  
+*in the whole realm of name and form,*
+**Asatā ca na socati,**  
+*does not grieve for that which is not,*
+**Sa ve loke na jīyati.**  
+*they suffer no loss in the world.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§16|Commentary §16]]
+
+### Section 17
+
+**Yassa natthi idaṁ meti,**  
+*If you don’t think of anything*
+**Paresaṁ vāpi kiñcanaṁ;**  
+*as belonging to yourself or others,*
+**Mamattaṁ so asaṁvindaṁ,**  
+*not finding anything to be ‘mine’,*
+**Natthi meti na socati.**  
+*you won’t grieve, thinking ‘I don’t have it’.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§17|Commentary §17]]
+
+### Section 18
+
+**Aniṭṭhurī ananugiddho,**  
+*Not bitter, not fawning,*
+**Anejo sabbadhī samo;**  
+*unstirred, everywhere even;*
+**Tamānisaṁsaṁ pabrūmi,**  
+*when asked about one who is unwavering,*
+**Pucchito avikampinaṁ.**  
+*I declare that that is the benefit.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§18|Commentary §18]]
+
+### Section 19
+
+**Anejassa vijānato,**  
+*For the unstirred who understand,*
+**Natthi kāci nisaṅkhati;**  
+*there’s no performance of deeds.*
+**Virato so viyārabbhā,**  
+*Desisting from instigation,*
+**Khemaṁ passati sabbadhi.**  
+*they see sanctuary everywhere.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§19|Commentary §19]]
+
+### Section 20
+
+**Na samesu na omesu,**  
+*A sage doesn’t speak of themselves as being*
+**Na ussesu vadate muni;**  
+*among superiors, inferiors, or equals.*
+**Santo so vītamaccharo,**  
+*Peaceful, rid of stinginess,*
+**Nādeti na nirassatī”ti.**  
+*they are neither ditching nor taking up.*
+*Attadaṇḍasuttaṁ pannarasamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.15_att#§20|Commentary §20]]
+
