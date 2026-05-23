@@ -1,7 +1,7 @@
 # Project Tasks Checklist
 
 This file tracks the roadmap and pending tasks for the Pali Canon Vault.
-**Last updated**: 2026-05-22 (SN 45 Maggasaṃyutta migration completed)
+**Last updated**: 2026-05-22 (DN expansion complete: DN 1, DN 16, DN 21 all three layers)
 
 ---
 
@@ -9,15 +9,13 @@ This file tracks the roadmap and pending tasks for the Pali Canon Vault.
 
 Priority is based on: (1) meditation-practice relevance, (2) strong mātikā connections not yet filled, (3) CSCD files already confirmed available.
 
-1. **SN 55 (Sotāpattisaṃyutta)** — Stream entry; CSCD `s0305a.att10.xml` (68KB) / `s0305t.tik10.xml` (55KB); adds stream-entry doctrinal coverage not yet in vault
-2. **Udāna (KN)** — 80 short inspired utterances; available on SuttaCentral (`ud1.1`–`ud8.10`); Pali poetic, high density of key teachings; no CSCD needed for mūla
-3. **Sutta Nipāta (KN)** — Classic early poetry: Metta Sutta (Snp 1.8), Rhinoceros (Snp 1.3), Aṭṭhakavagga; SuttaCentral `snp1.1`–`snp5.19`
-4. **SN 48 (Indriyasaṃyutta)** — Five Spiritual Faculties as a saṃyutta; CSCD `s0305a.att3.xml` (73KB) / `s0305t.tik3.xml` (73KB); mātikā: `five_spiritual_faculties`
-5. **DN expansion** — DN 16 (Mahāparinibbāna, large — 6 chapters), DN 21 (Sakkapañha), DN 1 (Brahmajāla); scripts already exist for DN layer generation
-6. **AN expansion** — AN 7, 8, 11 nipātas have nothing; AN 1 (one-thing suttas, very short); consult `scratch/generate_an_mula.py` pattern
-7. **Vinaya Piṭaka** — Bhikkhu Pātimokkha (227 rules); Bhikkhu Thanissaro translation freely available; cross-link to `matika/five_precepts.md`
-8. **New mātikā lists** — Ten fetters (dasa saṃyojanā), seven purifications (satta visuddhi); would connect naturally to SN 55 (sotāpatti) and path material
-9. **§-anchor cross-links** — paragraph-level mūla↔att↔tīkā for remaining suttas; pattern established in `scratch/crosslink_mn118.py`; 20+ suttas still lack this
+1. **Udāna (KN)** — 80 short inspired utterances; available on SuttaCentral (`ud1.1`–`ud8.10`); Pali poetic, high density of key teachings; no CSCD needed for mūla
+2. **Sutta Nipāta (KN)** — Classic early poetry: Metta Sutta (Snp 1.8), Rhinoceros (Snp 1.3), Aṭṭhakavagga; SuttaCentral `snp1.1`–`snp5.19`
+3. **DN expansion** — DN 16 (Mahāparinibbāna, large — 6 chapters), DN 21 (Sakkapañha), DN 1 (Brahmajāla); scripts already exist for DN layer generation
+4. **AN expansion** — AN 7, 8, 11 nipātas have nothing; AN 1 (one-thing suttas, very short); consult `scratch/generate_an_mula.py` pattern
+5. **Vinaya Piṭaka** — Bhikkhu Pātimokkha (227 rules); Bhikkhu Thanissaro translation freely available; cross-link to `matika/five_precepts.md`
+6. **New mātikā lists** — Ten fetters (dasa saṃyojanā), seven purifications (satta visuddhi); would connect naturally to SN 55 (sotāpatti) and path material
+7. **§-anchor cross-links** — paragraph-level mūla↔att↔tīkā for remaining suttas; pattern established in `scratch/crosslink_mn118.py`; 20+ suttas still lack this
 
 ---
 
@@ -54,14 +52,31 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 - [x] SN 45 (Maggasaṃyutta) — 20 suttas (7,202w) / 124¶ (3,463w) / 126¶ (3,007w); §-anchors + callouts done; Mātikā: noble_eightfold_path
 - [x] SN 46 (Bojjhaṅgasaṃyutta) — 56 suttas (23,919w) / 180¶ (6,062w) / 175¶ (5,545w); Mātikā: seven_awakening_factors
 - [x] SN 47 (Satipaṭṭhānasaṃyutta) — 16 suttas (9,504w) / 220¶ (9,325w) / 149¶ (6,123w); §-anchors + callouts done; Mātikā: four_foundations_of_mindfulness
+- [x] SN 48 (Indriyasaṃyutta) — 20 suttas (6,760w) / 106¶ (3,037w) / 92¶ (2,544w); §-anchors + callouts done; Mātikā: five_spiritual_faculties
 - [x] SN 54 (Ānāpānasaṃyutta) — 20 suttas (11,648w) / 45¶ (2,018w) / 40¶ (1,393w); Mātikā: four_foundations_of_mindfulness
+- [x] SN 55 (Sotāpattisaṃyutta) — 15 suttas (12,650w) / 103¶ (2,613w) / 90¶ (1,810w); §-anchors + callouts done; Mātikā: three_refuges, five_precepts, five_spiritual_faculties
 - [x] SN 56 (Saccasaṃyutta) — 16 suttas (6,469w) / 153¶ (2,413w) / 100¶ (1,689w); Mātikā: four_noble_truths, noble_eightfold_path
 
-### Dhammapada (Khuddaka Nikāya)
-- [x] Mūla — all 26 vaggas (423 verses, ~17,600w); Bhikkhu Sujato translation
-- [x] Atthakathā — all 26 chapters, 294 origin stories (~498K words); Ānandajoti/Burlingame
-- [x] Mātikā cross-links — 6 vaggas linked: dhp_02, 10, 14, 17, 20, 24
-- [ ] Ṭīkā — **BLOCKED**: `s0502t.tik*.xml` all 404 on tipitaka.org; CSCD does not publish the Dhammapada-ṭīkā online
+### Phase 4 — Meditation Discourses Migration (completed, 2026-05-22)
+- [x] MN 19: Dvedhāvitakkasutta — 3,032w / 6¶ / 6¶; §-anchors + callouts done
+- [x] AN 10.60: Girimānandasutta — 1,931w / 1¶ / (No Ṭīkā available); §-anchors + callouts done
+
+### Phase 5 — DN Expansion (completed, 2026-05-22)
+- [x] DN 1: Brahmajālasutta — 18,401w / att / tik; §-anchors done
+- [x] DN 16: Mahāparinibbānasutta — 35,942w / att / tik; §-anchors done
+- [x] DN 21: Sakkapañhasutta — 8,213w / att / tik; §-anchors done
+
+### Khuddaka Nikāya — Dhammapada, Udāna & Sutta Nipāta
+- [x] Dhammapada Mūla — all 26 vaggas (423 verses, ~17,600w); Bhikkhu Sujato translation
+- [x] Dhammapada Atthakathā — all 26 chapters, 294 origin stories (~498K words); Ānandajoti/Burlingame
+- [x] Dhammapada Mātikā cross-links — 6 vaggas linked: dhp_02, 10, 14, 17, 20, 25
+- [ ] Dhammapada Ṭīkā — **BLOCKED**: `s0502t.tik*.xml` all 404 on tipitaka.org; CSCD does not publish the Dhammapada-ṭīkā online
+- [x] Udāna Mūla — 8 vaggas, 80 suttas (46,198w); Bhikkhu Sujato translation
+- [x] Udāna Atthakathā — 8 vaggas, 1676 paragraphs (70,642w); CSCD Pali
+- [x] Udāna Mātikā cross-links — linked to five_precepts, eight_precepts, three_marks, dependent_origination, five_spiritual_faculties
+- [x] Sutta Nipāta Uragavagga (Chapter 1) Mūla — 12 suttas (snp1.1–snp1.12, ~244 verses); Bhikkhu Sujato translation
+- [x] Sutta Nipāta Uragavagga Atthakathā — 12 suttas (957 paragraphs); CSCD Pali
+- [x] Sutta Nipāta Mātikā cross-links — linked to five_hindrances, three_marks, four_sublime_states, four_foundations_of_mindfulness, five_spiritual_faculties
 
 ### Vault Infrastructure
 - [x] CSS translation toggle (`pali-translation-toggle.css`)
@@ -71,34 +86,33 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 - [x] Templates folder (mūla / atthakathā / tīkā sutta templates)
 - [x] Git repository with `.gitignore`
 - [x] Folder scaffolding for KN, Abhidhamma, Vinaya
-- [x] Link validator (`scratch/validate_links.py`) — currently 124 files, 1,144 wikilinks, 0 errors
+- [x] Link validator (`scratch/validate_links.py`) — currently 201 files, 2,366 wikilinks, 0 errors
 
-### Mātikā (16 lists — all complete)
+### Mātikā (19 lists — all complete)
 - [x] four_noble_truths, noble_eightfold_path, three_marks, five_aggregates
 - [x] dependent_origination, five_precepts, five_hindrances, seven_awakening_factors
 - [x] four_foundations_of_mindfulness, eight_precepts, three_refuges, ten_perfections
 - [x] four_sublime_states, five_spiritual_faculties, three_unwholesome_roots, four_right_exertions
-- [x] All 16 lists cross-linked to canonical vault sources (reverse links in every sutta)
+- [x] ten_fetters, seven_purifications, five_powers (added 2026-05-22)
+- [x] All 19 lists cross-linked to canonical vault sources (reverse links in every sutta)
 
 ---
 
 ## Pending Work
 
 ### SN — Remaining High-Value Saṃyuttas
-- [ ] **SN 55 (Sotāpattisaṃyutta)** — CSCD: `s0305a.att10.xml` / `s0305t.tik10.xml` — **Recommended #2**
-- [ ] **SN 48 (Indriyasaṃyutta)** — CSCD: `s0305a.att3.xml` / `s0305t.tik3.xml` — **Recommended #5**
+- [x] **SN 48 (Indriyasaṃyutta)** — CSCD: `s0305a.att3.xml` / `s0305t.tik3.xml` — completed
 - [ ] SN 51 (Iddhipādasaṃyutta) — CSCD: `s0305a.att6.xml` / `s0305t.tik6.xml` — lower priority
 
 ### Khuddaka Nikāya — Beyond Dhammapada
-- [ ] **Udāna** — 80 suttas; SuttaCentral IDs: `ud1.1`–`ud8.10`; no CSCD needed for mūla — **Recommended #4**
-- [ ] **Sutta Nipāta** — SuttaCentral IDs: `snp1.1`–`snp5.19`; especially Snp 1.8 (Metta), 1.3 (Khaggavisāṇa) — **Recommended #5**
+- [ ] **Sutta Nipāta** — SuttaCentral IDs: `snp1.1`–`snp5.19` (Uragavagga/Chapter 1 complete: 12 suttas)
 - [ ] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112`
 - [ ] Thera/Therīgāthā — short verses, SuttaCentral available
 
 ### Dīgha Nikāya — Expansion
-- [ ] DN 16 (Mahāparinibbāna) — CSCD: `s0102a.att0.xml` (large, 6 chapters); important but big
-- [ ] DN 21 (Sakkapañha) — CSCD: `s0102a.att4.xml` (approx)
-- [ ] DN 1 (Brahmajāla) — 62 views on self and world; CSCD: `s0101a.att0.xml`
+- [x] DN 16 (Mahāparinibbāna) — 35,942w / att / tik; §-anchors done (2026-05-22)
+- [x] DN 21 (Sakkapañha) — 8,213w / att / tik; §-anchors done (2026-05-22)
+- [x] DN 1 (Brahmajāla) — 18,401w / att / tik; §-anchors done (2026-05-22)
 
 ### Aṅguttara Nikāya — Expansion
 - [ ] AN 1 (Ekakanipāta) — very short single-factor suttas; CSCD: `s0401a.att*.xml`
@@ -116,9 +130,9 @@ Priority is based on: (1) meditation-practice relevance, (2) strong mātikā con
 - [ ] Dhammasaṅgaṇī, Vibhaṅga (mātikā cross-links for five aggregates)
 
 ### Mātikā — New Lists to Add
-- [ ] Ten fetters (dasa saṃyojanā) — connects to SN 55 / stream-entry material
-- [ ] Seven purifications (satta visuddhi) — connects to MN 24 (Rathavinīta) if migrated
-- [ ] Five powers (pañcabala) — parallel to five_spiritual_faculties
+- [x] Ten fetters (dasa saṃyojanā) — connects to SN 55 / stream-entry material
+- [x] Seven purifications (satta visuddhi) — connects to MN 24 (Rathavinīta) if migrated
+- [x] Five powers (pañcabala) — parallel to five_spiritual_faculties
 
 ### Cross-linking — Paragraph Level
 - [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for 20+ suttas — pattern in `scratch/crosslink_mn118.py`

@@ -94,7 +94,7 @@ Having seen Taṇhā and Aratī and Ragā, I had no desire for sexual intercours
 ---
 
 ### 14.2 The Story about the Twin Miracle Yamakapāṭihāriyavatthu
-*Verse(s): [[dhp_14_buddhavagga#181|Dhp 181]], [[dhp_14_buddhavagga#356|Dhp 356]], [[dhp_14_buddhavagga#357|Dhp 357]], [[dhp_14_buddhavagga#358|Dhp 358]], [[dhp_14_buddhavagga#359|Dhp 359]], [[dhp_14_buddhavagga#3|Dhp 3]], [[dhp_14_buddhavagga#222|Dhp 222]]*
+*Verse(s): [[dhp_14_buddhavagga#181|Dhp 181]], [[dhp_24_tanhavagga#356|Dhp 356]], [[dhp_24_tanhavagga#357|Dhp 357]], [[dhp_24_tanhavagga#358|Dhp 358]], [[dhp_24_tanhavagga#359|Dhp 359]], [[dhp_01_yamakavagga#3|Dhp 3]], [[dhp_17_kodhavagga#222|Dhp 222]]*
 
 *Burlingame: The Twin Miracle*
 *Compare: Ja 483; Vin Cv 5.8 BG: Parallels: Ja 483; Divyāvadāna, xii: 143-166. Materially different are the Jātaka and Divyāvadāna versions. The Dhammapada Commentary version appears to be entirely independent of the Jātaka version. The Jātaka version is very brief (only about one fifth as long as the Dhammapada Commentary version), and lacks the account of the finding of the block of wood and the fashioning of the bowl, the creation of the jeweled walk, and the offers of the six disciples to perform miracles. The Dhammapada Commentary version gives a multitude of details not found in the Jātaka version, especially in its accounts of Piṇḍola’s miracle, the Twin Miracle proper, and the teaching of the Abhidhamma in the World of the Thirty-three, 14.2a is an elaboration of Vin Cv 5.8. The Dhammapada Commentary version of the Twin Miracle, the Preaching of the Abhidhamma, and the Descent of the Deities, is referred to at Mil 34921, 3503-4.*

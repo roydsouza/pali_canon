@@ -19,3 +19,5 @@ This directory contains sub-commentaries (Sumaṅgalavilāsinī-ṭīkā) on the
 | [[dn22|DN22]] | [[dn22_tik|Mahāsatipaṭṭhānasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 12,626 |
 | [[dn9|DN9]] | [[dn9_tik|Poṭṭhapādasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 4,057 |
 | [[dn15|DN15]] | [[dn15_tik|Mahānidānasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 7,693 |
+| [[dn16|DN16]] | [[dn16_tik|Mahāparinibbānasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 12,106 |
+| [[dn21|DN21]] | [[dn21_tik|Sakkapañhasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 5,531 |

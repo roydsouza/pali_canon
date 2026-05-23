@@ -1,5 +1,176 @@
 # Sync Log
 
+## [2026-05-22 — Phase 6: Five Powers Mātikā Migration (Antigravity)]
+
+### Session Accomplishments
+
+**Five Powers (Pañcabala) Mātikā Migration**
+- **New Mātikā List**: Created `matika/five_powers.md` detailing the five powers, their definitions, functional differences from the spiritual faculties, related lists, and canonical references.
+- **Index Integration**:
+  - Registered `five_powers` in `matika/INDEX.md` and updated count to 19 in root `INDEX.md`.
+- **Sutta Cross-linking**:
+  - Linked `five_powers` in the Related Lists section of `five_spiritual_faculties.md`.
+  - Added `five_powers` to the `Mātikā` header lines in `sn48.md` (Indriyasaṃyutta) and `an5_28.md` (Pañcaṅgikasutta).
+- **Status Updates**:
+  - Updated `STATUS.md` metrics table and lists catalog.
+  - Updated `TASKS.md` checklists.
+- **Verification**:
+  - Ran `python3 scratch/validate_links.py` confirming 0 broken links (229 files, 2974 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — Phase 5: Sutta Nipāta Uragavagga Migration (Antigravity)]
+
+### Session Accomplishments
+
+**Sutta Nipāta Uragavagga (Chapter 1) Migration**
+- **Mūla**: Generated 10 new suttas under `mula/sutta/khuddaka_nikaya/sutta_nipata/` (Snp 1.1, Snp 1.2, Snp 1.4, Snp 1.5, Snp 1.6, Snp 1.7, Snp 1.9, Snp 1.10, Snp 1.11, Snp 1.12), each with interleaved Pali/English (Sujato) and collapsible callouts linking to commentary paragraphs. Sutta Nipāta Chapter 1 (Uragavagga) is now 100% complete (12 suttas total, 244 verses).
+- **Atthakathā**: Generated 10 new commentary files under `atthakatha/sutta/khuddaka_nikaya/sutta_nipata/` (Paramatthajotikā II) with CSCD Pali commentary text and paragraph-level back-links to Mūla verses (957 paragraphs total).
+- **Mātikā Integration**:
+  - Linked `[[snp1.1|Snp 1.1: Uragasutta]]` in [[three_unwholesome_roots]] and [[ten_fetters]].
+  - Linked `[[snp1.4|Snp 1.4: Kasībhāradvājasutta]]` and `[[snp1.10|Snp 1.10: Āḷavakasutta]]` in [[five_spiritual_faculties]].
+  - Linked `[[snp1.6|Snp 1.6: Parābhavasutta]]` and `[[snp1.7|Snp 1.7: Vasalasutta]]` in [[five_precepts]].
+  - Linked `[[snp1.11|Snp 1.11: Vijayasutta]]` in [[four_foundations_of_mindfulness]] (body contemplation / asubha).
+  - Linked `[[snp1.12|Snp 1.12: Munisutta]]` in [[five_hindrances]].
+- **Index Integration**:
+  - Rebuilt Sutta Nipāta index tables in Mūla and Atthakathā layers.
+  - Updated parent indexes under Khuddaka Nikāya.
+- **Status Updates**:
+  - Updated `STATUS.md` overall metrics (198 individual suttas now completed) and Sutta Nipāta catalog rows.
+  - Updated `TASKS.md` checklists.
+- **Verification**: Ran `python3 scratch/validate_links.py` to confirm 0 broken links (228 files, 2732 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — Phase 4: Ten Fetters and Seven Purifications Mātikā Migration (Antigravity)]
+
+### Session Accomplishments
+
+**Ten Fetters (Dasa Saṃyojanā) & Seven Purifications (Satta Visuddhi) Mātikā Migration**
+- **New Mātikā Lists**:
+  - Generated `matika/ten_fetters.md` detailing the Suttanta and Abhidhamma lists of ten fetters, stages of noble attainment, related lists, and canonical references.
+  - Generated `matika/seven_purifications.md` detailing the seven purifications, mapping to the sixteen insight knowledges (*vipassanā-ñāṇa*), related lists, and canonical references.
+- **Index Integration**:
+  - Registered both new lists in the available lists index at `matika/INDEX.md`.
+  - Updated the list count from 16 to 18 in root `INDEX.md`.
+- **Sutta Cross-linking**:
+  - Updated the `Mātikā` header line in `mn10.md` (Satipaṭṭhānasutta) to link to `ten_fetters` and `seven_purifications`.
+  - Updated the `Mātikā` header line in `dn22.md` (Mahāsatipaṭṭhānasutta) to link to `ten_fetters` and `seven_purifications`.
+  - Updated the `Mātikā` header line in `sn55.md` (Sotāpattisaṃyutta) to link to `ten_fetters`.
+- **Status Updates**:
+  - Updated `STATUS.md` metrics table and lists catalog (18 total lists now registered).
+  - Updated `TASKS.md` checklist, marking the new list creation tasks complete.
+- **Verification**:
+  - Ran `python3 scratch/validate_links.py` confirming 0 broken links (208 files, 2446 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — Phase 4: MN 19 and AN 10.60 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**MN 19 (Dvedhāvitakkasutta) & AN 10.60 (Girimānandasutta) Migration**
+- **Mūla**:
+  - Generated `mn19.md` (3,032 words) under `mula/sutta/majjhima_nikaya/` with interleaved Pali/English (Sujato).
+  - Generated `an10_60.md` (1,931 words) under `mula/sutta/anguttara_nikaya/` with interleaved Pali/English (Sujato).
+- **Atthakathā**:
+  - Generated `mn19_att.md` (2,451 words) under `atthakatha/sutta/majjhima_nikaya/` with CSCD Pali commentary text (§206–214, 215).
+  - Generated `an10_60_att.md` (141 words) under `atthakatha/sutta/anguttara_nikaya/` with CSCD Pali commentary text (§60).
+- **Ṭīkā**:
+  - Generated `mn19_tik.md` (991 words) under `tika/sutta/majjhima_nikaya/` with CSCD Pali sub-commentary text (§206–214, 215).
+  - AN 10.60 is explicitly marked as `(No Ṭīkā available)` in vault files and status catalogs, as no sub-commentary exists for this discourse.
+- **Mātikā Integration**:
+  - Linked `[[mn19|MN 19: Dvedhāvitakkasutta]]` under Canonical References in [[three_unwholesome_roots]] and [[five_hindrances]].
+  - Linked `[[an10_60|AN 10.60: Girimānandasutta]]` under Canonical References in [[five_hindrances]], [[three_marks]], and [[four_foundations_of_mindfulness]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in Mūla files pointing to specific commentary and sub-commentary paragraph anchors.
+  - Added bidirectional navigation links and `### §NNN` paragraph headers in the Atthakathā and Ṭīkā files.
+- **Index and Status Updates**:
+  - Rebuilt Majjhima Nikāya indexes for Mūla, Atthakathā, and Ṭīkā layers.
+  - Rebuilt Aṅguttara Nikāya indexes for Mūla and Atthakathā layers.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+  - Updated `TASKS.md` checklists, marking Phase 4 tasks complete.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links (206 files, 2412 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — Snp 1.3 & Snp 1.8 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**Snp 1.3 (Khaggavisāṇasutta) & Snp 1.8 (Mettasutta) Migration**
+- **Mūla**: Generated `snp1.3.md` (41 verses, 20,147 bytes) and `snp1.8.md` (10 verses, 4,961 bytes) under `mula/sutta/khuddaka_nikaya/sutta_nipata/` with interleaved Pali/English (Sujato).
+- **Atthakathā**: Generated `snp1.3_att.md` (165,616 bytes) and `snp1.8_att.md` (38,016 bytes) under `atthakatha/sutta/khuddaka_nikaya/sutta_nipata/` with CSCD Pali commentary text.
+- **Ṭīkā**: Explicitly marked as "(No Ṭīkā available)" in vault files and status catalogs, as Sutta Nipāta does not have a Ṭīkā layer.
+- **Mātikā Integration**:
+  - Linked `[[snp1.8|Snp 1.8: Mettasutta]]` under Canonical References in [[four_sublime_states]].
+  - Linked `[[snp1.3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[five_hindrances]].
+  - Linked `[[snp1.3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[three_marks]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in Mūla files pointing to specific commentary paragraph anchors.
+  - Added bidirectional navigation links and `### §NNN` paragraph headers in the Atthakathā files pointing back to Mūla verses.
+  - Handled the grouped commentary at paragraph `45-46` (commenting on Snp 1.3 Verses 11 and 12) with unified links.
+- **Index and Status Updates**:
+  - Created Sutta Nipāta folder index files: [mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX.md](file:///Users/rds/pali_canon/mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX.md) and [atthakatha/sutta/khuddaka_nikaya/sutta_nipata/INDEX.md](file:///Users/rds/pali_canon/atthakatha/sutta/khuddaka_nikaya/sutta_nipata/INDEX.md).
+  - Updated Khuddaka Nikāya index files to register the new Sutta Nipāta indexes.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links (201 files, 2366 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — SN 48 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**SN 48 (Indriyasaṃyutta) Migration**
+- **Mūla**: 20 selected suttas (6,760 words) in [[sn48]]. Pali text interleaved with Bhikkhu Sujato's English translation.
+- **Atthakathā**: 106 paragraphs (3,037 words) in [[sn48_att]] parsed from tipitaka.org CSCD XML file `s0305a.att3.xml`.
+- **Ṭīkā**: 92 paragraphs (2,544 words) in [[sn48_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik3.xml`.
+- **Mātikā Integration**:
+  - Linked `[[sn48|SN 48: Indriyasaṃyutta]]` (specifically `[[sn48#SN 48.8|SN 48.8: Daṭṭhabbasutta]]`, `[[sn48#SN 48.9|SN 48.9: Vibhaṅgasutta]]`, `[[sn48#SN 48.10|SN 48.10: Dutiya Vibhaṅgasutta]]`) under Canonical References in [[five_spiritual_faculties]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in [[sn48]] pointing to specific commentary and sub-commentary paragraph anchors.
+  - Prepended `### §NNN` headers and added bidirectional navigation links between Mūla, Atthakathā, and Ṭīkā layers for the 6 key suttas:
+    - **SN 48.8** (Daṭṭhabbasutta) ↔ Atthakathā & Ṭīkā §478
+    - **SN 48.9 & 48.10** (Vibhaṅgasuttāni) ↔ Atthakathā & Ṭīkā §479-480
+    - **SN 48.42** (Unṇābhabrāhmaṇasutta) ↔ Atthakathā & Ṭīkā §512
+    - **SN 48.44** (Pubbakotthakasutta) ↔ Atthakathā §514 (no Ṭīkā subcommentary exists)
+    - **SN 48.50** (Āpaṇasutta) ↔ Atthakathā & Ṭīkā §520
+    - **SN 48.54** (Pātālakkhandhasutta) ↔ Atthakathā §524-525 (no Ṭīkā subcommentary exists)
+- **Index and Status Updates**:
+  - Confirmed and verified rows in `mula/sutta/samyutta_nikaya/INDEX.md`, `atthakatha/sutta/samyutta_nikaya/INDEX.md`, and `tika/sutta/samyutta_nikaya/INDEX.md`.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+  - Updated `TASKS.md` checklists, marking SN 48 tasks complete and updating next order priority.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links (195 files, 2209 wikilinks, all valid).
+
+---
+
+## [2026-05-22 — SN 55 Migration and Cross-linking (Antigravity)]
+
+### Session Accomplishments
+
+**SN 55 (Sotāpattisaṃyutta) Migration**
+- **Mūla**: 15 selected suttas (12,650 words) in [[sn55]]. Pali text interleaved with Bhikkhu Sujato's English translation.
+- **Atthakathā**: 103 paragraphs (2,613 words) in [[sn55_att]] parsed from tipitaka.org CSCD XML file `s0305a.att10.xml`.
+- **Ṭīkā**: 90 paragraphs (1,810 words) in [[sn55_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik10.xml`.
+- **Mātikā Integration**:
+  - Linked `[[sn55|SN 55: Sotāpattisaṃyutta]]` to [[three_refuges]].
+  - Added `[[sn55|SN 55: Sotāpattisaṃyutta]]` (specifically `[[sn55#SN 55.7|SN 55.7: Veḷudvāreyyasutta]]`) to [[five_precepts]].
+  - Added `[[sn55|SN 55: Sotāpattisaṃyutta]]` (wavering vs unwavering saddhā/confidence) to [[five_spiritual_faculties]].
+- **Targeted Cross-linking**:
+  - Implemented Obsidian collapsible callout panels in [[sn55]] pointing to specific commentary and sub-commentary paragraph anchors.
+  - Prepended `### §NNN` headers and added bidirectional navigation links between Mūla, Atthakathā, and Ṭīkā layers for the 3 key suttas:
+    - **SN 55.3** (Dīghāvuupāsakasutta) ↔ Atthakathā & Ṭīkā §999
+    - **SN 55.7** (Veḷudvāreyyasutta) ↔ Atthakathā & Ṭīkā §1003
+    - **SN 55.54** (Gilānasutta) ↔ Atthakathā & Ṭīkā §1050
+- **Index and Status Updates**:
+  - Updated `mula/sutta/samyutta_nikaya/INDEX.md`, `atthakatha/sutta/samyutta_nikaya/INDEX.md`, and `tika/sutta/samyutta_nikaya/INDEX.md`.
+  - Updated `STATUS.md` overall metrics tables and catalog sections.
+  - Updated `TASKS.md` checklists, marking SN 55 tasks complete and updating next order priority.
+- **Verification**: Ran `python3 scratch/validate_links.py` to verify 0 broken links (133 files, 1296 wikilinks, all valid).
+
+---
+
 ## [2026-05-22 — SN 45 Migration and Cross-linking (Antigravity)]
 
 ### Session Accomplishments

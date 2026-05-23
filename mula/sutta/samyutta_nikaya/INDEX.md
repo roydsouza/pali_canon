@@ -21,3 +21,7 @@ layer: mula
 | [[sn56|SN56]] | Saccasaṃyutta | 6,469 |
 | [[sn47|SN47]] | Satipaṭṭhānasaṃyutta | 9,504 |
 | [[sn45|SN45]] | Maggasaṃyutta | 7,202 |
+| [[sn55|SN55]] | Sotāpattisaṃyutta | 12,650 |
+| [[sn48|SN48]] | Indriyasaṃyutta | 6,760 |
+
+

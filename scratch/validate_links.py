@@ -5,7 +5,7 @@ import sys
 
 VAULT_DIR = "/Users/rds/pali_canon"
 EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates"}
-EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates", "khuddaka_nikaya"}
+EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates"}
 
 def get_markdown_files(vault_dir, exclude_dirs):
     md_files = []

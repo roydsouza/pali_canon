@@ -328,7 +328,7 @@ The Teacher said to the king: “Great king, Khemā ought either to go forth or 
 ---
 
 ### 24.6 The Story about Uggasena Uggasenavatthu
-*Verse(s): [[dhp_24_tanhavagga#348|Dhp 348]], [[dhp_24_tanhavagga#397|Dhp 397]]*
+*Verse(s): [[dhp_24_tanhavagga#348|Dhp 348]], [[dhp_26_brahmanavagga#397|Dhp 397]]*
 
 *Burlingame: The Youth Who Married a Female Acrobat*
 *Keywords: Acrobats, Marriages, Rich Men, Listening to Dhamma, Past Lives, Previous Buddhas*

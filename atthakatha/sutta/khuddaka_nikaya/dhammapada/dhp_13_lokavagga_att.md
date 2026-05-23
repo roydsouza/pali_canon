@@ -196,7 +196,7 @@ Whoever was heedless before, but then later is not heedless, that one shines bri
 ---
 
 ### 13.6 The Story about the Elder Aṅgulimāla Aṅgulimālattheravatthu
-*Verse(s): [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_13_lokavagga#172|Dhp 172]], [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_13_lokavagga#382|Dhp 382]], [[dhp_13_lokavagga#80|Dhp 80]], [[dhp_13_lokavagga#26|Dhp 26]], [[dhp_13_lokavagga#27|Dhp 27]]*
+*Verse(s): [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_13_lokavagga#172|Dhp 172]], [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_25_bhikkhuvagga#382|Dhp 382]], [[dhp_06_panditavagga#80|Dhp 80]], [[dhp_02_appamadavagga#26|Dhp 26]], [[dhp_02_appamadavagga#27|Dhp 27]]*
 
 *Burlingame: Conversions of the Robber Finger-Garland*
 *Compare: MN 86*
@@ -478,7 +478,7 @@ For the person speaking falsely who transgresses in this one thing, who has aban
 ---
 
 ### 13.10 The Story about the Gifts beyond Compare Asadisadānavatthu
-*Verse(s): [[dhp_13_lokavagga#177|Dhp 177]], [[dhp_13_lokavagga#422|Dhp 422]], [[dhp_13_lokavagga#30|Dhp 30]], [[dhp_13_lokavagga#27|Dhp 27]]*
+*Verse(s): [[dhp_13_lokavagga#177|Dhp 177]], [[dhp_26_brahmanavagga#422|Dhp 422]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_02_appamadavagga#27|Dhp 27]]*
 
 *Burlingame: Gifts beyond Compare*
 *Compare: DN-a 19*

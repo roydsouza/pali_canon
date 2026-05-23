@@ -432,7 +432,7 @@ The merchant accompanied the Teacher on his way for a short distance and then tu
 ---
 
 ### 20.11 The Story about Kisā Gotamī Kisāgotamīvatthu
-*Verse(s): [[dhp_20_maggavagga#287|Dhp 287]], [[dhp_20_maggavagga#114|Dhp 114]], [[dhp_20_maggavagga#8|Dhp 8]], [[dhp_20_maggavagga#13|Dhp 13]], [[dhp_20_maggavagga#30|Dhp 30]], [[dhp_20_maggavagga#166|Dhp 166]]*
+*Verse(s): [[dhp_20_maggavagga#287|Dhp 287]], [[dhp_08_sahassavagga#114|Dhp 114]], [[dhp_01_yamakavagga#8|Dhp 8]], [[dhp_01_yamakavagga#13|Dhp 13]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_12_attavagga#166|Dhp 166]]*
 
 *Burlingame: The Bereaved Mother and the Pinch of Mustard-Seed*
 *Compare: Dhp-a 8.13; Thīg-a 63*
@@ -461,7 +461,7 @@ That person whose mind is attached, besotted by cattle and children, is snatched
 ---
 
 ### 20.12 The Story about Paṭācārā Paṭācārāvatthu
-*Verse(s): [[dhp_20_maggavagga#288|Dhp 288]], [[dhp_20_maggavagga#289|Dhp 289]], [[dhp_20_maggavagga#113|Dhp 113]], [[dhp_20_maggavagga#8|Dhp 8]], [[dhp_20_maggavagga#12|Dhp 12]]*
+*Verse(s): [[dhp_20_maggavagga#288|Dhp 288]], [[dhp_20_maggavagga#289|Dhp 289]], [[dhp_08_sahassavagga#113|Dhp 113]], [[dhp_01_yamakavagga#8|Dhp 8]], [[dhp_01_yamakavagga#12|Dhp 12]]*
 
 *Burlingame: The Woman Who Was Bereft of All Her Family*
 *Compare: Dhp-a 8.12; AN-a 1.14.5.4; Thīg-a 47*

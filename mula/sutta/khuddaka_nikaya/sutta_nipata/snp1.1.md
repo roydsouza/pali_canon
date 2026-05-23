@@ -1,0 +1,267 @@
+---
+id: SNP1.1
+title_pali: Uragasutta
+title_en: The Serpent
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp1.1
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - serpent
+  - anger
+  - craving
+  - conceit
+  - three_unwholesome_roots
+  - ten_fetters
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp1.1_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[three_unwholesome_roots|Three Unwholesome Roots]] | [[ten_fetters|Ten Fetters]]
+
+## SNP1.1: Uragasutta — *The Serpent*
+
+### Section 1
+
+**Yo uppatitaṁ vineti kodhaṁ,**  
+*When anger surges, they drive it out,*
+**Visaṭaṁ sappavisaṁva osadhehi;**  
+*as with medicine a snake’s spreading venom.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§1|Uragasuttavaṇṇanā §1]]
+
+### Section 2
+
+**Yo rāgamudacchidā asesaṁ,**  
+*They’ve cut off greed entirely,*
+**Bhisapupphaṁva saroruhaṁ vigayha;**  
+*like a lotus plucked flower and stalk.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§2|Uragasuttavaṇṇanā §2]]
+
+### Section 3
+
+**Yo taṇhamudacchidā asesaṁ,**  
+*They’ve cut off craving entirely,*
+**Saritaṁ sīghasaraṁ visosayitvā;**  
+*drying up that swift-flowing stream.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§3|Uragasuttavaṇṇanā §3]]
+
+### Section 4
+
+**Yo mānamudabbadhī asesaṁ,**  
+*They’ve swept away conceit entirely,*
+**Naḷasetuṁva sudubbalaṁ mahogho;**  
+*as a fragile bridge of reeds by a great flood.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§4|Uragasuttavaṇṇanā §4]]
+
+### Section 5
+
+**Yo nājjhagamā bhavesu sāraṁ,**  
+*In future lives they find no worth,*
+**Vicinaṁ pupphamivā udumbaresu;**  
+*as an inspector of fig trees finds no flower.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§5|Uragasuttavaṇṇanā §5]]
+
+### Section 6
+
+**Yassantarato na santi kopā,**  
+*They hide no anger within,*
+**Itibhavābhavatañca vītivatto;**  
+*passed beyond any kind of existence.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§5|Uragasuttavaṇṇanā §5]]
+
+### Section 7
+
+**Yassa vitakkā vidhūpitā,**  
+*Their mental vibrations are cleared away,*
+**Ajjhattaṁ suvikappitā asesā;**  
+*internally clipped off entirely.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§7|Uragasuttavaṇṇanā §7]]
+
+### Section 8
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ accagamā imaṁ papañcaṁ;**  
+*but have gone beyond all this proliferation.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§8|Uragasuttavaṇṇanā §8]]
+
+### Section 9
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ vitathamidanti ñatva loke;**  
+*for they know that nothing in the world <j>is what it seems.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§9|Uragasuttavaṇṇanā §9]]
+
+### Section 10
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ vitathamidanti vītalobho;**  
+*knowing nothing is what it seems, free of greed.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§10-13|Uragasuttavaṇṇanā §10-13]]
+
+### Section 11
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ vitathamidanti vītarāgo;**  
+*knowing nothing is what it seems, free of lust.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§10-13|Uragasuttavaṇṇanā §10-13]]
+
+### Section 12
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ vitathamidanti vītadoso;**  
+*knowing nothing is what it seems, free of hate.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§10-13|Uragasuttavaṇṇanā §10-13]]
+
+### Section 13
+
+**Yo nāccasārī na paccasārī,**  
+*They have not run too far nor run back,*
+**Sabbaṁ vitathamidanti vītamoho;**  
+*knowing nothing is what it seems, free of delusion.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§10-13|Uragasuttavaṇṇanā §10-13]]
+
+### Section 14
+
+**Yassānusayā na santi keci,**  
+*They have no underlying tendencies at all,*
+**Mūlā ca akusalā samūhatāse;**  
+*and are rid of unskillful roots,*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§14|Uragasuttavaṇṇanā §14]]
+
+### Section 15
+
+**Yassa darathajā na santi keci,**  
+*They have nothing born of distress at all*
+**Oraṁ āgamanāya paccayāse;**  
+*to make them to return to the near shore.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§15|Uragasuttavaṇṇanā §15]]
+
+### Section 16
+
+**Yassa vanathajā na santi keci,**  
+*No snarl grows in them at alll,*
+**Vinibandhāya bhavāya hetukappā;**  
+*that would shackle them to a new life.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇaṁ.**  
+*as a serpent its old worn-out skin.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§16|Uragasuttavaṇṇanā §16]]
+
+### Section 17
+
+**Yo nīvaraṇe pahāya pañca,**  
+*They’ve given up the five hindrances,*
+**Anigho tiṇṇakathaṅkatho visallo;**  
+*untroubled, rid of indecision, free of thorns.*
+**So bhikkhu jahāti orapāraṁ,**  
+*Such a mendicant sheds the near shore and the far,*
+**Urago jiṇṇamivattacaṁ purāṇanti.**  
+*as a serpent its old worn-out skin.*
+*Uragasuttaṁ paṭhamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.1_att#§17|Uragasuttavaṇṇanā §17]]
+

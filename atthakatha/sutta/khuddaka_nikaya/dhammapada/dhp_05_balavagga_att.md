@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 5.1 The frame-story, is the story of the king and the poor man with a beautiful wife and turns on the David and Uriah motif (2 Samuel xi; cf. The story of King Cyrus and Queen Panthea, Xenophon’s Cyrop. vi). The same story occurs in Petavatthu Commentary, 4.1 & 4.15.
-*Verse(s): [[dhp_05_balavagga#60|Dhp 60]], [[dhp_05_balavagga#15|Dhp 15]]*
+*Verse(s): [[dhp_05_balavagga#60|Dhp 60]], [[dhp_01_yamakavagga#15|Dhp 15]]*
 
 *Compare: Ja 314; Ja 418; Ja 77; Ja 18; Pv-a 4.15; Dhp-a 8.3; Dhp-a 8.9*
 *Cast: King Pasenadi Kosala, the elephant Puṇḍarīka, Queen Mallikā (Queen Dinnā), Buddha Kassapa, Sakka, King Uggasena*
@@ -539,7 +539,7 @@ But that deed is truly well done, which, having done, one has no regret, about w
 ---
 
 ### 5.10 The Story about the Elder Uppalavaṇṇā Uppalavaṇṇattherīvatthu
-*Verse(s): [[dhp_05_balavagga#69|Dhp 69]], [[dhp_05_balavagga#401|Dhp 401]], [[dhp_05_balavagga#26|Dhp 26]], [[dhp_05_balavagga#18|Dhp 18]]*
+*Verse(s): [[dhp_05_balavagga#69|Dhp 69]], [[dhp_26_brahmanavagga#401|Dhp 401]], [[dhp_02_appamadavagga#26|Dhp 26]], [[dhp_01_yamakavagga#18|Dhp 18]]*
 
 *Burlingame: Rape of Uppalavaṇṇā*
 *Compare: Vin Bhī Pār 1, AN-a 1.14.5.3, Thig-a 64 BG: See also Tibetan Tales, x: 206-215.*
@@ -772,7 +772,7 @@ Learning arises for a fool only to his disadvantage, it destroys the fool’s go
 ---
 
 ### 5.14 The Story about the Edler Sudhamma Sudhammattheravatthu
-*Verse(s): [[dhp_05_balavagga#73|Dhp 73]], [[dhp_05_balavagga#74|Dhp 74]], [[dhp_05_balavagga#303|Dhp 303]], [[dhp_05_balavagga#29|Dhp 29]], [[dhp_05_balavagga#149|Dhp 149]]*
+*Verse(s): [[dhp_05_balavagga#73|Dhp 73]], [[dhp_05_balavagga#74|Dhp 74]], [[dhp_21_pakinnakavagga#303|Dhp 303]], [[dhp_02_appamadavagga#29|Dhp 29]], [[dhp_11_jaravagga#149|Dhp 149]]*
 
 *Burlingame: Citta and Sudhamma*
 *Compare: Vin Cv 11.4*

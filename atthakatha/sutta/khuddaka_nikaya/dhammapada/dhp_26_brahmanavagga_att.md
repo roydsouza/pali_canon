@@ -418,7 +418,7 @@ I do not call one a Brahmin because of being born from a certain womb, that one 
 ---
 
 ### 26.14 The Story about Uggasena Uggasenavatthu
-*Verse(s): [[dhp_26_brahmanavagga#397|Dhp 397]], [[dhp_26_brahmanavagga#348|Dhp 348]]*
+*Verse(s): [[dhp_26_brahmanavagga#397|Dhp 397]], [[dhp_24_tanhavagga#348|Dhp 348]]*
 
 *Burlingame: Uggasena the Acrobat*
 *Compare: Dhp-a 24.6*
@@ -552,7 +552,7 @@ Whoever, being pure, forbears with punishment, bondage, abuse, having the streng
 ---
 
 ### 26.17 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#40|Dhp 40]]*
+*Verse(s): [[dhp_03_cittavagga#40|Dhp 40]]*
 
 *Burlingame: Sāriputta is Reviled by His Mother*
 *Keywords: Great Disciples, Offerings, Reviling*
@@ -935,7 +935,7 @@ For the one who has no desires, who, through knowledge, is without doubt, who ha
 ---
 
 ### 26.29 The Story about the Elder Revata Revatattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#412|Dhp 412]], [[dhp_26_brahmanavagga#98|Dhp 98]]*
+*Verse(s): [[dhp_26_brahmanavagga#412|Dhp 412]], [[dhp_07_arahantavagga#98|Dhp 98]]*
 
 *Burlingame: Renounce Both Good and Evil*
 *Compare: Dhp-a 7.9*

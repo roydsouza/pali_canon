@@ -35,3 +35,5 @@ type: matika
 * [[mn119|MN 119: Kāyagatāsatisutta]] — devoted entirely to kāyagatāsati (the first foundation, body contemplation): 14 objects, four jhānas, and the ten benefits of sustained bodily mindfulness
 * [[an4_41|AN 4.41: Samādhibhāvanāsutta]] — the third mode of samādhi development (sati-sampajañña) directly implements the four foundations; mindfulness and awareness as the path to knowing arising and passing away of feelings
 * [[dhp_02_appamadavagga|Dhp Ch. 2: Appamādavagga (Heedfulness)]] — "appamādo amatapadaṁ" (v. 21): heedfulness is the path to the deathless; the entire chapter equates appamāda with sati-practice and its abandonment with the death of insight
+* [[an10_60|AN 10.60: Girimānandasutta]] — includes mindfulness of breathing (ānāpānasati) as one of the ten healing perceptions, which fulfills the four foundations of mindfulness, alongside body contemplation (asubha-saññā) and element analysis (dhātupatikkūla-saññā).
+* [[snp1.11|Snp 1.11: Vijayasutta]] — a poetic contemplation of the anatomy and impurity of the human body (*asubha*), falling under the first foundation (*kāyānupassanā*).

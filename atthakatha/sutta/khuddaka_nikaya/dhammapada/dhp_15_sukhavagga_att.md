@@ -208,7 +208,7 @@ Hunger is the supreme sickness, conditions the supreme suffering, knowing this a
 ---
 
 ### 15.6 The Story about Pasedani Kosala Pasenadikosalavatthu
-*Verse(s): [[dhp_15_sukhavagga#204|Dhp 204]], [[dhp_15_sukhavagga#325|Dhp 325]], [[dhp_15_sukhavagga#30|Dhp 30]], [[dhp_15_sukhavagga#77|Dhp 77]]*
+*Verse(s): [[dhp_15_sukhavagga#204|Dhp 204]], [[dhp_23_nagavagga#325|Dhp 325]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_06_panditavagga#77|Dhp 77]]*
 
 *Burlingame: On Moderation in Eating*
 *Compare: SN 3.13; Dhp-a 23.4*

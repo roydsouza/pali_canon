@@ -567,7 +567,7 @@ One might live for a hundred years, indolent, with less energy, but one day is b
 ---
 
 ### 8.12 The Story about the Elder Paṭācārā Paṭācārātherīvatthu
-*Verse(s): [[dhp_08_sahassavagga#113|Dhp 113]], [[dhp_08_sahassavagga#288|Dhp 288]], [[dhp_08_sahassavagga#289|Dhp 289]], [[dhp_08_sahassavagga#2|Dhp 2]], [[dhp_08_sahassavagga#269|Dhp 269]]*
+*Verse(s): [[dhp_08_sahassavagga#113|Dhp 113]], [[dhp_20_maggavagga#288|Dhp 288]], [[dhp_20_maggavagga#289|Dhp 289]], [[dhp_01_yamakavagga#2|Dhp 2]], [[dhp_19_dhammatthavagga#269|Dhp 269]]*
 
 *Burlingame: Paṭācārā is Bereft of All Her Family*
 *Compare: Dhp-a 20.12; AN-a 1.14.5.4; Thīg-a 47 BG: Parallels: AN-a 1.14.5.4; Thīg-a 47. On the relations of the three versions, see Introduction, § 7 d, Synoptical Table, and especially p. 50. Cf. Thīg 218-219, and Tibetan Tales, xi: 216-226.*
@@ -652,7 +652,7 @@ At the end of the discourse Paṭācārā attained Arahatship together with the 
 ---
 
 ### 8.13 The Story about Kisā Gotamī Kisāgotamīvatthu
-*Verse(s): [[dhp_08_sahassavagga#114|Dhp 114]], [[dhp_08_sahassavagga#287|Dhp 287]]*
+*Verse(s): [[dhp_08_sahassavagga#114|Dhp 114]], [[dhp_20_maggavagga#287|Dhp 287]]*
 
 *Burlingame: Kisā Gotamī Seeks Mustard Seed to Cure Her Dead Child*
 *Compare: Dhp-a 20.11; AN-a 1.14.5.12; Thīg-a 63 BG: Parallels: Tibetan Tales, xi, pp. 216-226. In Thīg and in the Tibetan version, certain episodes of the story of Paṭācārā (viii. 12) are incorporated in the story of Kisā Gotamī. Cf. Die Legende von Kisāgotamī. Eine literarhistorische Untersuchung. Von Jakob H. Thiessen, Breslau, 1880.*

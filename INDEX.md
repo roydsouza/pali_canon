@@ -17,7 +17,7 @@ The vault is divided into four primary segments. Click on each section below to 
     *   *Status*: **Active**. Sub-commentary for all migrated suttas (Dhammapada ṭīkā pending).
 *   **[[matika/INDEX|Mātika (Buddhist Lists)]]**
     *   *Description*: Systematically cataloged registers of Buddhist lists with Romanized Pali and item-by-item translations.
-    *   *Status*: **Active**. 16 lists migrated and cross-linked to canonical sources.
+    *   *Status*: **Active**. 19 lists migrated and cross-linked to canonical sources.
 
 ---
 

@@ -14,9 +14,12 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 
 | Sutta | Pali Title | English | Words |
 |---|---|---|---|
-| [[an4_41\|AN 4.41]] | Samādhibhāvanāsutta | Four Developments of Immersion | 745 |
-| [[an3_100|AN 3.100]] | Loṇakapallasutta | 1,683 |
-| [[an4_123_126|AN 4.123–126]] | Nānākaraṇasuttāni | 2,611 |
-| [[an5_28|AN 5.28]] | Pañcaṅgikasutta | 2,314 |
-| [[an9_36|AN 9.36]] | Jhānasutta | 2,179 |
-| [[an10_2_6|AN 10.2–6]] | Ānisaṃsasuttāni | 2,958 |
+| [[an3_100|AN 3.100]] | Loṇakapallasutta | A Lump of Salt | 1,689 |
+| [[an4_123_126|AN 4.123–126]] | Nānākaraṇasuttāni | Differences | 2,615 |
+| [[an5_28|AN 5.28]] | Pañcaṅgikasutta | With Five Factors | 2,319 |
+| [[an9_36|AN 9.36]] | Jhānasutta | Depending on Absorption | 2,185 |
+| [[an10_2_6|AN 10.2–6]] | Ānisaṃsasuttāni | Benefits | 2,964 |
+| [[an10_60|AN 10.60]] | Girimānandasutta | With Girimānanda | 1,931 |
+
+---
+*Back to [[mula/sutta/INDEX|Sutta Index]]*

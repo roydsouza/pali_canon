@@ -524,7 +524,7 @@ Straightaway all the residents of the city rendered honor to her. On her part, f
 ---
 
 ### 1.5 The Story about Those from Kosambī Kosambakavatthu
-*Verse(s): [[dhp_01_yamakavagga#6|Dhp 6]], [[dhp_01_yamakavagga#328|Dhp 328]], [[dhp_01_yamakavagga#329|Dhp 329]], [[dhp_01_yamakavagga#28|Dhp 28]], [[dhp_01_yamakavagga#182|Dhp 182]], [[dhp_01_yamakavagga#330|Dhp 330]]*
+*Verse(s): [[dhp_01_yamakavagga#6|Dhp 6]], [[dhp_23_nagavagga#328|Dhp 328]], [[dhp_23_nagavagga#329|Dhp 329]], [[dhp_02_appamadavagga#28|Dhp 28]], [[dhp_14_buddhavagga#182|Dhp 182]], [[dhp_23_nagavagga#330|Dhp 330]]*
 
 *Burlingame: The Quarrelsome Monks of Kosambī*
 *Cast: Kosambī bhikkhus, Pārileyyaka the elephant, Elder Ānanda, Brahmadatta, Dīghati Kosala, Prince Dīghāvu, Bālaka, Elder Bhagu, Anāthapiṇḍika, Visākhā*
@@ -1306,7 +1306,7 @@ Here he rejoices, after death he rejoices, the righteous one rejoices in both pl
 ---
 
 ### 1.12 The Story about Devadatta Devadattassa Vatthu
-*Verse(s): [[dhp_01_yamakavagga#17|Dhp 17]], [[dhp_01_yamakavagga#163|Dhp 163]]*
+*Verse(s): [[dhp_01_yamakavagga#17|Dhp 17]], [[dhp_12_attavagga#163|Dhp 163]]*
 
 *Burlingame: Devadatta’s Career*
 *Compare: Vin Cv 7; Dhp-a 25.12b; Ja 542; Ja 533; Ja 466; Ja 404*

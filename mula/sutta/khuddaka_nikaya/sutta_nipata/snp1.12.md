@@ -1,0 +1,266 @@
+---
+id: SNP1.12
+title_pali: Munisutta
+title_en: The Sage
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp1.12
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - sage
+  - solitude
+  - silence
+  - non-attachment
+  - five_hindrances
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp1.12_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[five_hindrances|Five Hindrances]]
+
+## SNP1.12: Munisutta — *The Sage*
+
+### Section 1
+
+**Santhavāto bhayaṁ jātaṁ,**  
+*Peril stems from intimacy,*
+**niketā jāyate rajo;**  
+*dust comes from an abode.*
+**Aniketamasanthavaṁ,**  
+*Freedom from abode and intimacy:*
+**etaṁ ve munidassanaṁ.**  
+*that is the sage’s vision.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§209|Munisuttavaṇṇanā §209]]
+
+### Section 2
+
+**Yo jātamucchijja na ropayeyya,**  
+*Having cut down what’s grown, <j>they wouldn’t replant,*
+**Jāyantamassa nānuppavecche;**  
+*nor would they nurture what’s growing.*
+**Tamāhu ekaṁ muninaṁ carantaṁ,**  
+*That’s who they call a sage wandering alone,*
+**Addakkhi so santipadaṁ mahesi.**  
+*the great seer has seen the state of peace.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§210|Munisuttavaṇṇanā §210]]
+
+### Section 3
+
+**Saṅkhāya vatthūni pamāya bījaṁ,**  
+*Having appraised the fields and measured the seeds,*
+**Sinehamassa nānuppavecche;**  
+*they wouldn’t nurture them with moisture.*
+**Sa ve munī jātikhayantadassī,**  
+*Truly that sage who sees the ending of rebirth*
+**Takkaṁ pahāya na upeti saṅkhaṁ.**  
+*has left speculation behind and is beyond reckoning.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§211|Munisuttavaṇṇanā §211]]
+
+### Section 4
+
+**Aññāya sabbāni nivesanāni,**  
+*Understanding all the planes of rebirth,*
+**Anikāmayaṁ aññatarampi tesaṁ;**  
+*not wanting a single one of them,*
+**Sa ve munī vītagedho agiddho,**  
+*Truly that sage freed of greed*
+**Nāyūhatī pāragato hi hoti.**  
+*need not swim, <j>for they have reached the far shore.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§212|Munisuttavaṇṇanā §212]]
+
+### Section 5
+
+**Sabbābhibhuṁ sabbaviduṁ sumedhaṁ,**  
+*The champion, all-knower, so very intelligent,*
+**Sabbesu dhammesu anūpalittaṁ;**  
+*unsullied in the midst of all things,*
+**Sabbañjahaṁ taṇhakkhaye vimuttaṁ,**  
+*has given up all, freed in the ending of craving:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§213|Munisuttavaṇṇanā §213]]
+
+### Section 6
+
+**Paññābalaṁ sīlavatūpapannaṁ,**  
+*Strong in wisdom, <j>with precepts and observances intact,*
+**Samāhitaṁ jhānarataṁ satīmaṁ;**  
+*serene, loving absorption, mindful,*
+**Saṅgā pamuttaṁ akhilaṁ anāsavaṁ,**  
+*released from chains, kind, undefiled:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§214|Munisuttavaṇṇanā §214]]
+
+### Section 7
+
+**Ekaṁ carantaṁ munimappamattaṁ,**  
+*The diligent sage wandering alone,*
+**Nindāpasaṁsāsu avedhamānaṁ;**  
+*is unshaken by blame and praise—*
+**Sīhaṁva saddesu asantasantaṁ,**  
+*like a lion not startled by sounds,*
+**Vātaṁva jālamhi asajjamānaṁ;**  
+*like wind not caught in a net,*
+**Padmaṁva toyena alippamānaṁ,**  
+*like water not sticking to a lotus.*
+**Netāramaññesamanaññaneyyaṁ;**  
+*Leader of others, not by others led:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§215|Munisuttavaṇṇanā §215]]
+
+### Section 8
+
+**Yo ogahaṇe thambhorivābhijāyati,**  
+*Steady as a post in a bathing-place*
+**Yasmiṁ pare vācāpariyantaṁ vadanti;**  
+*when others speak endlessly against them,*
+**Taṁ vītarāgaṁ susamāhitindriyaṁ,**  
+*freed of greed, with senses stilled:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§216|Munisuttavaṇṇanā §216]]
+
+### Section 9
+
+**Yo ve ṭhitatto tasaraṁva ujju,**  
+*Steadfast, straight as a shuttle,*
+**Jigucchati kammehi pāpakehi;**  
+*horrified by wicked deeds,*
+**Vīmaṁsamāno visamaṁ samañca,**  
+*discerning the just and the unjust:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§217|Munisuttavaṇṇanā §217]]
+
+### Section 10
+
+**Yo saññatatto na karoti pāpaṁ,**  
+*Restrained, they do no evil,*
+**Daharo majjhimo ca muni yatatto;**  
+*young or middle-aged, the sage is self-controlled.*
+**Arosaneyyo na so roseti kañci,**  
+*Irreproachable, he does not insult anyone:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§218|Munisuttavaṇṇanā §218]]
+
+### Section 11
+
+**Yadaggato majjhato sesato vā,**  
+*When one who lives on charity receives alms,*
+**Piṇḍaṁ labhetha paradattūpajīvī;**  
+*from the top, the middle, or the leftovers,*
+**Nālaṁ thutuṁ nopi nipaccavādī,**  
+*they think it unworthy to praise or put down:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§219|Munisuttavaṇṇanā §219]]
+
+### Section 12
+
+**Muniṁ carantaṁ virataṁ methunasmā,**  
+*The sage lives refraining from sex,*
+**Yo yobbane nopanibajjhate kvaci;**  
+*even when young is not tied down,*
+**Madappamādā virataṁ vippamuttaṁ,**  
+*refraining from indulgence and negligence, freed:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§220|Munisuttavaṇṇanā §220]]
+
+### Section 13
+
+**Aññāya lokaṁ paramatthadassiṁ,**  
+*Understanding the world, <j>the seer of the ultimate goal,*
+**Oghaṁ samuddaṁ atitariya tādiṁ;**  
+*the unaffected one, <j>having crossed the flood and the ocean,*
+**Taṁ chinnaganthaṁ asitaṁ anāsavaṁ,**  
+*has cut the ties, unattached and undefiled:*
+**Taṁ vāpi dhīrā muni vedayanti.**  
+*that’s who the attentive know as a sage.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§221|Munisuttavaṇṇanā §221]]
+
+### Section 14
+
+**Asamā ubho dūravihāravuttino,**  
+*The two are not the same, <j>far apart in lifestyle and conduct—*
+**Gihī dāraposī amamo ca subbato;**  
+*the householder providing for a wife, <j>and the selfless one true to their vows.*
+**Parapāṇarodhāya gihī asaññato,**  
+*The unrestrained householder kills other creatures,*
+**Niccaṁ munī rakkhati pāṇine yato.**  
+*while the restrained sage <j>always protects living creatures.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§222|Munisuttavaṇṇanā §222]]
+
+### Section 15
+
+**Sikhī yathā nīlagīvo vihaṅgamo,**  
+*As the crested blue-necked peacock <j>flying through the sky*
+**Haṁsassa nopeti javaṁ kudācanaṁ;**  
+*never approaches the speed of the swan,*
+**Evaṁ gihī nānukaroti bhikkhuno,**  
+*so the householder cannot compete <j>with the mendicant,*
+**Munino vivittassa vanamhi jhāyatoti.**  
+*the sage meditating secluded in the woods.*
+*Munisuttaṁ dvādasamaṁ.*
+*Uragavaggo paṭhamo.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§223|Munisuttavaṇṇanā §223]]
+
+### Section 16
+
+*Tassuddānaṁ*
+*Urago dhaniyo ceva,*
+*visāṇañca tathā kasi;*
+*Cundo parābhavo ceva,*
+*vasalo mettabhāvanā.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§223|Munisuttavaṇṇanā §223]]
+
+### Section 17
+
+*Sātāgiro āḷavako,*
+*Vijayo ca tathā muni;*
+*Dvādasetāni suttāni,*
+*Uragavaggoti vuccatīti.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp1.12_att#§223|Munisuttavaṇṇanā §223]]
+

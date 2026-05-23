@@ -38,6 +38,13 @@ This directory contains systematic registers of Buddhist lists (*mātika*) compi
     *   The three root poisons (greed, hatred, delusion) causing unwholesome states and rebirth.
 *   **[[four_right_exertions|Four Right Exertions (Cattāro Sammappadhānā)]]**
     *   The effort to prevent/abandon unwholesome states and arise/maintain wholesome states.
+*   **[[ten_fetters|Ten Fetters (Dasa Saṃyojanā)]]**
+    *   The ten mental bonds that chain beings to the cycle of rebirth.
+*   **[[seven_purifications|Seven Purifications (Satta Visuddhi)]]**
+    *   The seven-stage path of purification leading to final extinguishment.
+*   **[[five_powers|Five Powers (Pañcabala)]]**
+    *   The five spiritual powers (faith, energy, mindfulness, concentration, wisdom) parallel to the faculties.
 
 ---
 *Back to [[INDEX|Vault Home]]*
+

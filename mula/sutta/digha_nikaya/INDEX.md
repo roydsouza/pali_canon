@@ -18,3 +18,5 @@ The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range
 | [[dn22|DN 22]] | Mahāsatipaṭṭhānasutta | The Great Discourse on Mindfulness | 8,892 |
 | [[dn9|DN 9]] | Poṭṭhapādasutta | With Poṭṭhapāda | 8,837 |
 | [[dn15|DN 15]] | Mahānidānasutta | The Great Discourse on Causation | 6,706 |
+| [[dn16|DN16]] | Mahāparinibbānasutta | 35,860 |
+| [[dn21|DN21]] | Sakkapañhasutta | 8,125 |

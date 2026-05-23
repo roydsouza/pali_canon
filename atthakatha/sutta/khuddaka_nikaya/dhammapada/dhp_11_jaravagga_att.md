@@ -71,7 +71,7 @@ The Teacher replied: “Yes, Visākhā, strong drink is indeed a wicked thing, f
 ---
 
 ### 11.2 The Story about Sirimā Sirimāvatthu
-*Verse(s): [[dhp_11_jaravagga#147|Dhp 147]], [[dhp_11_jaravagga#223|Dhp 223]]*
+*Verse(s): [[dhp_11_jaravagga#147|Dhp 147]], [[dhp_17_kodhavagga#223|Dhp 223]]*
 
 *Burlingame: The Teacher Cures a Monk of Love*
 *Compare: Vv-a 1.16 BG: From this story is derived Vv-a 1.16. Vv-a 7504-7728 is almost word for word the same as Dhp-a 3.10418-10906. This story is referred to at Mil 35013. See Cunningham’s Stūpa of Bhārhut Plate xxiii. 1.*

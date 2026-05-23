@@ -308,7 +308,7 @@ At the end of the verse those thirty forest-dwelling bhikkhus reached Arahatship
 ---
 
 ### 7.9 The Story about the Elder Khadiravaniya Revata Khadiravaniyarevatattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#98|Dhp 98]], [[dhp_07_arahantavagga#412|Dhp 412]]*
+*Verse(s): [[dhp_07_arahantavagga#98|Dhp 98]], [[dhp_26_brahmanavagga#412|Dhp 412]]*
 
 *Burlingame: Elder Revata of the Acacia Forest*
 *Compare: Thag-a 42; AN-a ii.192ff; Thag-a 60; AN-a ii.196ff; Ja 100; Dhp-a 26.31; Ud 2.8 This story is made up of three independent stories, with a fourth story implied. In 9a Revata becomes a monk and retires to the forest. Parallels: Thag-a 42; AN-a 1.14.2.5. In 9b the Buddha visits Revata, and the monks are entertained by Devatās through Sīvali’s merit. Parallels: Thag-a 60; 9c is the story of Sīvali’s past deeds. Parallels: Ja 100; AN-a 1.14.2.9. For the story of Sīvali’s birth, see Dhp-a 26.31; Ud 2.8; Ja 100; Thag-a 60; AN-a 1.14.2.9.*
