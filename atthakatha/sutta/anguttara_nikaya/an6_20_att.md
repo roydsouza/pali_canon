@@ -1,0 +1,38 @@
+---
+id: an6_20_att
+title_pali: Dutiyamaraṇassatisuttavaṇṇanā
+title_en: Commentary on Dutiyamaraṇassatisutta (Mindfulness of Death (2nd))
+type: atthakatha
+pitaka: sutta
+nikaya: an
+sutta: an6.20
+layer: atthakatha
+mula_file: [[an6_20]]
+tika_file: [[an6_20_tik]]
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Aṅguttara Nikāya: Dutiyamaraṇassatisutta
+*AN 6.20 — Mindfulness of Death (2nd)*
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Mūla**: [[an6_20|AN 6.20 — Dutiyamaraṇassatisutta]]
+**Tīkā**: [[an6_20_tik|Dutiyamaraṇassatisuttavaṇṇanāṭīkā (Sub-commentary)]]
+
+*3 paragraphs — Pali text CSCD.*
+## 10. Dutiyamaraṇassatisuttavaṇṇanā
+
+*Pali text — CSCD. Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### 10. Dutiyamaraṇassatisuttavaṇṇanā
+
+
+### §20
+
+> [!abstract]- Tīkā §20
+> [[an6_20_tik#§20|Sub-commentary §20]]
+
+(20) Dasame **patigatāyā**ti paṭipannāya. **Iti paṭisañcikkhatī**ti evaṃ paccavekkhati. **So mamassa antarāyo**ti ettha tividho antarāyo jīvitantarāyo, samaṇadhammantarāyo, puthujjanakālakiriyaṃ karontassa saggantarāyo ceva maggantarāyo cāti. Taṃ sabbampi sandhāyevamāha. **Byāpajjeyyā**ti ajiṇṇakādivasena vipajjeyya. **Adhimatto**ti balavā. **Chando**ti kattukamyatāchando. **Vāyāmo**ti payogavīriyaṃ. **Ussāho**ti ussāpanavīriyaṃ. **Ussoḷhī**ti sampādanavīriyaṃ. **Appaṭivānī**ti anukkaṇṭhanā appaṭisaṅgharaṇā. Sesaṃ sabbattha uttānatthamevāti.
+
+Sāraṇīyavaggo dutiyo.
+
