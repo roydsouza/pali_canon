@@ -1,5 +1,25 @@
 # Sync Log
 
+## [2026-05-23 — Phases 10, 11, and 13 Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Aṅguttara Nikāya (AN) Expansion (Phase 10)**
+- **Mūla, Atthakathā, and Ṭīkā Migration**: Migrated AN 7.65, AN 8.53, AN 11.1, AN 11.2, AN 11.3, AN 11.4, AN 11.5 across Mūla, Atthakathā, and Ṭīkā. Generated shared Atthakathā (`an11_3_5_att`) and Ṭīkā (`an11_2_5_tik`).
+- **AN 1 Ekakanipāta**: Generated all 31 ranges from SuttaCentral API, complete with Mūla, Atthakathā, and Ṭīkā. Mapped commentary paragraphs using a forward-fill grouping algorithm on CSCD paragraph numbers.
+
+**Deeper Majjhima Nikāya (MN) Coverage (Phase 11)**
+- **Mūla, Atthakathā, and Ṭīkā Migration**: Migrated MN 22 and MN 117 across all three layers.
+
+**Practice Support Tooling (Phase 13)**
+- **Practice Notes Infrastructure**: Created `practice/INDEX.md` dashboard, `templates/practice_note.md` template, and `practice/memorization_log.md` with core chanting verses.
+- **Dataview queries**: Injected live sutta tables in all Nikāya INDEX files and added a "Recently Modified" list to root `INDEX.md`.
+
+**Verification and Link Integrity**
+- **Link Validator**: Ran `validate_links.py`. Validated 1,067 files, checked 13,488 wikilinks, and confirmed 0 broken links in the entire vault.
+
+---
+
 ## [2026-05-23 — Phase 9: Practice-Oriented Expansion Complete (Antigravity)]
 
 ### Session Accomplishments
