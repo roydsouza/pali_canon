@@ -66,6 +66,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_306_315|AN 1.306–315]] | 25. Dutiyavagga | Chapter Two | 1,236 |
 | [[an1_316_332|AN 1.316–332]] | 26. Tatiyavagga | Chapter Three | 1,013 |
 | [[an1_333_377|AN 1.333–377]] | 27. Catutthavagga | Chapter Four | 1,729 |
+| [[an1_378_393|AN 1.378–393]] | 28. Pasādakaradhammavagga | The Chapter on Inspiring Qualities | 201 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
