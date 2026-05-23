@@ -47,6 +47,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_51_60|AN 1.51–60]] | 6. Accharāsaṅghātavagga | The Chapter on a Finger-Snap | 755 |
 | [[an1_61_70|AN 1.61–70]] | 7. Vīriyārambhādivagga | The Chapter on Arousing Energy | 789 |
 | [[an1_71_81|AN 1.71–81]] | 8. Kalyāṇamittādivagga | 8. Good Friends | 761 |
+| [[an1_82_97|AN 1.82–97]] | 9. Pamādādivagga | 9. Negligence | 823 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
