@@ -46,6 +46,7 @@ layer: atthakatha
 | [[an1_71_81|AN 1.71–81]] | [[an1_71_81_att|8. Kalyāṇamittādivaggavaṇṇanā]] | CSCD | — | 646 |
 | [[an1_82_97|AN 1.82–97]] | [[an1_82_97_att|9. Pamādādivaggavaṇṇanā]] | CSCD | — | 106 |
 | [[an1_98_139|AN 1.98–139]] | [[an1_98_139_att|10. Dutiyapamādādivaggavaṇṇanā]] | CSCD | — | 1,528 |
+| [[an1_140_149|AN 1.140–149]] | [[an1_140_149_att|11. Adhammavaggavaṇṇanā]] | CSCD | — | 117 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
