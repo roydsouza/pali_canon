@@ -100,6 +100,16 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] ten_fetters, seven_purifications, five_powers (added 2026-05-22)
 - [x] All 19 lists cross-linked to canonical vault sources (reverse links in every sutta)
 
+### Phase 9 — Practice-Oriented Expansion (completed, 2026-05-23)
+- [x] **Jhāna Deepening** — `four_jhanas` mātikā + 5 suttas (MN 128, AN 9.34, AN 9.35, MN 8, AN 8.63) + `paths/entering_jhana.md`
+- [x] **Vipassanā Broadening** — 7 suttas (MN 148, SN 36.6, SN 36.11, SN 36.21, MN 28, MN 140, MN 2) + `paths/vipassana_practice.md`
+- [x] **Brahmavihāra Practice** — 3 new suttas (MN 7, DN 13, AN 11.15) + 3 existing suttas + `paths/brahmavihara_cultivation.md`
+- [x] **Anussati (Recollections)** — `six_recollections` mātikā + 3 suttas (AN 6.10, AN 11.12, AN 6.25) + `paths/anussati_practice.md`
+- [x] **Anupubbasikkhā (Gradual Training)** — `gradual_training` mātikā + 4 suttas (MN 27, MN 51, AN 8.54, AN 4.99) + `paths/gradual_training.md`
+- [x] **Maraṇasati (Death Contemplation)** — 3 new suttas (AN 6.19, AN 6.20, AN 8.73) + 1 existing sutta + `paths/maranasati.md`
+- [x] **Paritta Collection** — 1 new sutta (AN 4.67) + 3 existing suttas + `paritta/INDEX.md` + `three_refuges` cross-links
+- [x] **Vault Link Integrity** — 0 broken links across 951 files and 11,890 wikilinks.
+
 ---
 
 ## Pending Work

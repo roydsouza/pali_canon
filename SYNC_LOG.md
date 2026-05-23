@@ -1,5 +1,25 @@
 # Sync Log
 
+## [2026-05-23 — Phase 9: Practice-Oriented Expansion Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Practice-Oriented Expansion (Phase 9)**
+- **Mūla, Atthakathā, and Ṭīkā Migration**: Batch migrated all remaining 26 targeted suttas across all three layers (Mūla, Atthakathā, and Ṭīkā), including:
+  - **Jhāna**: MN 128, AN 9.34, AN 9.35, MN 8, AN 8.63
+  - **Vipassanā**: MN 148, SN 36.6, SN 36.11, SN 36.21 (combined into `sn36` files), MN 28, MN 140, MN 2
+  - **Brahmavihāra**: MN 7, DN 13, AN 11.15
+  - **Anussati**: AN 6.10, AN 11.12, AN 6.25
+  - **Anupubbasikkhā**: MN 27, MN 51, AN 8.54, AN 4.99
+  - **Maraṇasati**: AN 6.19, AN 6.20, AN 8.73
+  - **Paritta**: AN 4.67
+- **Mātikā Integration**: Fully populated the newly created `four_jhanas`, `six_recollections`, and `gradual_training` lists in `matika/`, and cross-linked them to their canonical sources.
+- **Thematic Reading Paths**: Created 6 beautifully formatted practice-focused reading path files under `paths/` and 1 protective chant index under `paritta/INDEX.md`.
+- **Vault Link Integrity**: Verified vault-wide link integrity. Replaced ambiguous links for `gradual_training` with path-specific references (`[[matika/gradual_training]]` and `[[paths/gradual_training]]`). Link validator confirms **0 broken links** across 951 files and 11,890 wikilinks.
+- **Status & Tasks Updates**: Updated parent indexes, `STATUS.md`, and `TASKS.md` with complete and accurate Phase 9 metrics.
+
+---
+
 ## [2026-05-23 — Phase 8: Theragāthā and Therīgāthā Complete (Antigravity)]
 
 ### Session Accomplishments
