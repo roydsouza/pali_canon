@@ -15,6 +15,7 @@ This directory contains sub-commentaries (Sumaṅgalavilāsinī-ṭīkā) on the
 
 | Sutta | Sub-commentary | Pali Source | Words |
 |---|---|---|---|
+| [[dn1\|DN 1]] | [[dn1_tik\|Brahmajālasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 29,825 |
 | [[dn2\|DN 2]] | [[dn2_tik\|Sāmaññaphalasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 13,655 |
 | [[dn22|DN22]] | [[dn22_tik|Mahāsatipaṭṭhānasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 12,626 |
 | [[dn9|DN9]] | [[dn9_tik|Poṭṭhapādasuttavaṇṇanātīkā]] | tipitaka.org CSCD | 4,057 |
