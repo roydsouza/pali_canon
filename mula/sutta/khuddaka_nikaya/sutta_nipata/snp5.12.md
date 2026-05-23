@@ -1,0 +1,103 @@
+---
+id: SNP5.12
+title_pali: Jatukaṇṇimāṇavapucchā
+title_en: The Questions of Jatukaṇṇī
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp5.12
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - parayanavagga
+  - questions
+  - wisdom
+  - four_noble_truths
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp5.12_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[four_noble_truths|Four Noble Truths]] | [[dependent_origination|Dependent Origination]]
+
+## SNP5.12: Jatukaṇṇimāṇavapucchā — *The Questions of Jatukaṇṇī*
+
+### Section 1
+
+**“Sutvānahaṁ vīramakāmakāmiṁ,**  
+*“Hearing of the hero <j>with no desire for sensual pleasures,”*
+**(iccāyasmā jatukaṇṇi)**  
+*said Venerable Jatukaṇṇī,*
+**Oghātigaṁ puṭṭhumakāmamāgamaṁ;**  
+*“who has passed over the flood, I’ve come <j>with a question for that desireless one.*
+**Santipadaṁ brūhi sahajanetta,**  
+*Tell me the state of peace, O natural visionary.*
+**Yathātacchaṁ bhagavā brūhi metaṁ.**  
+*Tell me this, Blessed One, as it really is.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.12_att#§1|Commentary §1]]
+
+### Section 2
+
+**Bhagavā hi kāme abhibhuyya iriyati,**  
+*For, having mastered sensual desires, <j>the Blessed One proceeds,*
+**Ādiccova pathaviṁ tejī tejasā;**  
+*as the blazing sun shines on the earth.*
+**Parittapaññassa me bhūripañña,**  
+*May you of vast wisdom explain the teaching*
+**Ācikkha dhammaṁ yamahaṁ vijaññaṁ;**  
+*to me of little wisdom so that I may understand*
+**Jātijarāya idha vippahānaṁ”.**  
+*the giving up of rebirth and old age here.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.12_att#§2|Commentary §2]]
+
+### Section 3
+
+**“Kāmesu vinaya gedhaṁ,**  
+*“With desire for sensual pleasures dispelled,”*
+**(jatukaṇṇīti bhagavā)**  
+*replied the Buddha,*
+**Nekkhammaṁ daṭṭhu khemato;**  
+*“seeing renunciation as sanctuary,*
+**Uggahītaṁ nirattaṁ vā,**  
+*don’t be taking up or putting down*
+**Mā te vijjittha kiñcanaṁ.**  
+*anything at all.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.12_att#§3|Commentary §3]]
+
+### Section 4
+
+**Yaṁ pubbe taṁ visosehi,**  
+*What came before, let wither away,*
+**pacchā te māhu kiñcanaṁ;**  
+*and after, let there be nothing.*
+**Majjhe ce no gahessasi,**  
+*If you don’t grasp at the middle,*
+**upasanto carissasi.**  
+*you will live at peace.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.12_att#§4|Commentary §4]]
+
+### Section 5
+
+**Sabbaso nāmarūpasmiṁ,**  
+*One rid of greed, brahmin,*
+**Vītagedhassa brāhmaṇa;**  
+*for the whole realm of name and form,*
+**Āsavāssa na vijjanti,**  
+*has no defilements by which*
+**Yehi maccuvasaṁ vaje”ti.**  
+*they might fall under the sway of Death.”*
+*Jatukaṇṇimāṇavapucchā ekādasamā.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp5.12_att#§5|Commentary §5]]
+
