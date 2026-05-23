@@ -48,3 +48,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an1_82_97|AN 1.82–97]] | [[an1_82_97_tik|9. Pamādādivaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 101 |
 | [[an1_98_139|AN 1.98–139]] | [[an1_98_139_tik|10. Dutiyapamādādivaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 509 |
 | [[an1_140_149|AN 1.140–149]] | [[an1_140_149_tik|11. Adhammavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 108 |
+| [[an1_150_169|AN 1.150–169]] | [[an1_150_169_tik|12. Anāpattivaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 104 |

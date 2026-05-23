@@ -50,6 +50,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_82_97|AN 1.82–97]] | 9. Pamādādivagga | 9. Negligence | 823 |
 | [[an1_98_139|AN 1.98–139]] | 10. Dutiyapamādādivagga | The Chapter on Negligence | 1,463 |
 | [[an1_140_149|AN 1.140–149]] | 11. Adhammavagga | The Chapter on Not the Teaching | 495 |
+| [[an1_150_169|AN 1.150–169]] | 12. Anāpattivagga | The Chapter on Non-offense | 798 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
