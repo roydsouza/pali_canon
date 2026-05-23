@@ -23,4 +23,5 @@ layer: atthakatha
 | [[sn45|SN45]] | [[sn45_att|Maggasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 3,463 |
 | [[sn55|SN55]] | [[sn55_att|Sotāpattisaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 2,613 |
 | [[sn48|SN48]] | [[sn48_att|Indriyasaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 3,037 |
+| [[sn36|SN 36]] | [[sn36_att|Vedanāsaṃyuttavaṇṇanā]] | tipitaka.org CSCD | 14 Sujato notes | 1,374 |
 

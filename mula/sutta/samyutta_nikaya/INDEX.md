@@ -23,5 +23,6 @@ layer: mula
 | [[sn45|SN45]] | Maggasaṃyutta | 7,202 |
 | [[sn55|SN55]] | Sotāpattisaṃyutta | 12,650 |
 | [[sn48|SN48]] | Indriyasaṃyutta | 6,760 |
+| [[sn36|SN 36]] | Vedanāsaṃyutta | Linked Discourses on Feeling | 2,516 |
 
 
