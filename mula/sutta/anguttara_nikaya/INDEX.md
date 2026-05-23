@@ -23,6 +23,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an9_34|AN 9.34]] | Nibbānasukhasutta | Extinguishment is Bliss | 1,672 |
 | [[an9_35|AN 9.35]] | Gāvīupamāsutta | The Simile of the Cow | 2,463 |
 | [[an8_63|AN 8.63]] | Saṅkhittasutta | A Teaching in Brief | 1,299 |
+| [[an11_15|AN 11.15]] | Mettāsutta | The Benefits of Love | 273 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

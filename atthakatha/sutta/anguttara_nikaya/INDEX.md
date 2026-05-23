@@ -22,6 +22,7 @@ layer: atthakatha
 | [[an9_34|AN 9.34]] | [[an9_34_att|Nibbānasukhasuttavaṇṇanā]] | CSCD | — | 124 |
 | [[an9_35|AN 9.35]] | [[an9_35_att|Gāvīupamāsuttavaṇṇanā]] | CSCD | — | 184 |
 | [[an8_63|AN 8.63]] | [[an8_63_att|Saṅkhittasuttavaṇṇanā]] | CSCD | — | 345 |
+| [[an11_15|AN 11.15]] | [[an11_15_att|Mettāsuttavaṇṇanā]] | CSCD | — | 322 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
