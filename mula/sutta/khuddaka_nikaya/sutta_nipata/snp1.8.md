@@ -19,7 +19,7 @@ tags:
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
 **Related Texts**: [[snp1.8_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
-**Mātikā**: [[four_sublime_states|Four Sublime States]]
+**Mātikā**: [[four_sublime_states|Four Sublime States]] | [[three_refuges|Three Refuges]]
 
 ## SNP 1.8: Mettasutta — *The Loving-Kindness Discourse*
 

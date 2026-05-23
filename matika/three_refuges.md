@@ -20,6 +20,7 @@ type: matika
 ## Related Lists
 * Related: [[five_precepts|Five Precepts]] (taking refuge is traditionally followed by taking the precepts)
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (the Dhamma refuge represents the path of practice)
+* Related: [[paritta/INDEX|Paritta Collection]] (protective chanting grounded in refuge in the Triple Gem)
 
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (practitioners of breathing mindfulness establish their training in refuge in the Buddha and the Dhamma)

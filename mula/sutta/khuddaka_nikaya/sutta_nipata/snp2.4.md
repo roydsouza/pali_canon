@@ -20,7 +20,7 @@ tags:
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
 **Related Texts**: [[snp2.4_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
-**Mātikā**: [[five_precepts|Five Precepts]]
+**Mātikā**: [[five_precepts|Five Precepts]] | [[three_refuges|Three Refuges]]
 
 ## SNP2.4: Maṅgalasutta — *Blessings*
 
