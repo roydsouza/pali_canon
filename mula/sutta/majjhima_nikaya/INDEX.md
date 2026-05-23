@@ -14,6 +14,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn44|MN44]] | Cūḷavedallasutta | The Shorter Analysis | 3,112 |
 | [[mn52|MN52]] | Aṭṭhakanāgarasutta | At Aṭṭhakanāgara | 1,701 |
 | [[mn111|MN111]] | Anupadasutta | One by One | 2,276 |
+| [[mn128|MN 128]] | Upakkilesasutta | Corruptions | 4,638 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
