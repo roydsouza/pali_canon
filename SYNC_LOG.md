@@ -1,5 +1,28 @@
 # Sync Log
 
+## [2026-05-23 — Phase 6: Sutta Nipāta Complete and Phase 0 Get Well (Antigravity)]
+
+### Session Accomplishments
+
+**Phase 0 - Get Well Issues Completed**
+- **Commit protocol**: Established commit-after-each-sutta discipline (documented in ROADMAP.md).
+- **STATUS.md script count**: Updated the script count to 94 Python scripts (49 generators, 7 crosslinkers, 25 inspectors, 7 tests, 6 utilities).
+- **TASKS.md Snp entry**: Clarified the remaining Snp scope in pending tasks.
+- **DN mātikā links**: Added forward mātikā links in DN 1, 16, 21 and reverse links in `three_refuges`, `five_precepts`, `four_sublime_states`, and `three_unwholesome_roots`.
+
+**Sutta Nipāta (Chapters 2 to 5) Migration (Phase 6)**
+- **Mūla**: Generated 61 new suttas under `mula/sutta/khuddaka_nikaya/sutta_nipata/` (snp2.1–snp2.14, snp3.1–snp3.12, snp4.1–snp4.16, snp5.1–snp5.19), each with interleaved Pali/English (Sujato) and collapsible callouts linking to commentary files. Sutta Nipāta is now 100% complete (73 suttas total).
+- **Atthakathā**: Generated 61 new commentary files under `atthakatha/sutta/khuddaka_nikaya/sutta_nipata/` (Paramatthajotikā II) with CSCD Pali commentary text and paragraph-level back-links to Mūla (1,730 paragraphs total).
+- **Index Integration**:
+  - Rebuilt Sutta Nipāta index tables in Mūla and Atthakathā layers.
+  - Updated parent indexes under Khuddaka Nikāya.
+- **Status Updates**:
+  - Updated `STATUS.md` metrics table.
+  - Updated `TASKS.md` checklists.
+- **Verification**: Ran `python3 scratch/validate_links.py` to confirm 0 broken links (363 files, 5890 wikilinks, all valid).
+
+---
+
 ## [2026-05-22 — Phase 6: Five Powers Mātikā Migration (Antigravity)]
 
 ### Session Accomplishments

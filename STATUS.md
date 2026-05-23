@@ -6,8 +6,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Suttas Complete | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 198 individual suttas + SN12/22/35/45/47/48/55/56 (146 selected) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 198 individual suttas + 26 DhpA chapters + SN12/22/35/45/46/47/48/54/55/56 (3,854¶) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Mūla (Root Texts)** | 259 individual suttas + SN12/22/35/45/47/48/55/56 (146 selected) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 259 individual suttas + 26 DhpA chapters + SN12/22/35/45/46/47/48/54/55/56 (5,585¶) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
 | **Ṭīkā (Sub-commentaries)** | 105 individual suttas + SN12/22/35/45/46/47/48/54/55/56 (1,918¶) | MN, DN, SN, AN | CSCD Pali (Udāna, Snp have no Ṭīkā) |
 | **Mātikā (Doctrinal Lists)** | 19 lists | — | Pali/English, cross-linked |
 
@@ -89,8 +89,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 #### Sutta Nipāta
 | Component | Status | Details |
 |---|---|---|
-| Mūla (Uragavagga, snp1.1–snp1.12) | ✅ 12 suttas (~244 verses) | Interleaved Pali/English |
-| Aṭṭhakathā (Uragavagga) | ✅ 12 suttas (957 paragraphs) | CSCD Pali |
+| Mūla (Chapters 1-5, snp1.1–snp5.19) | ✅ 73 suttas (~1140 verses) | Interleaved Pali/English |
+| Aṭṭhakathā (Chapters 1-5) | ✅ 73 suttas (2,688 paragraphs) | CSCD Pali |
 | Ṭīkā | ❌ None exists | No sub-commentary exists for Snp |
 ---
 

@@ -71,9 +71,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] Udāna Mūla — 8 vaggas, 80 suttas (46,198w); Bhikkhu Sujato translation
 - [x] Udāna Atthakathā — 8 vaggas, 1676 paragraphs (70,642w); CSCD Pali
 - [x] Udāna Mātikā cross-links — linked to five_precepts, eight_precepts, three_marks, dependent_origination, five_spiritual_faculties
-- [x] Sutta Nipāta Uragavagga (Chapter 1) Mūla — 12 suttas (snp1.1–snp1.12, ~244 verses); Bhikkhu Sujato translation
-- [x] Sutta Nipāta Uragavagga Atthakathā — 12 suttas (957 paragraphs); CSCD Pali
-- [x] Sutta Nipāta Mātikā cross-links — linked to five_hindrances, three_marks, four_sublime_states, four_foundations_of_mindfulness, five_spiritual_faculties
+- [x] Sutta Nipāta Mūla — all 5 chapters, 73 suttas (~1140 verses); Bhikkhu Sujato translation
+- [x] Sutta Nipāta Atthakathā — all 5 chapters, 73 suttas (2688 paragraphs); CSCD Paramatthajotikā II
+- [x] Sutta Nipāta Mātikā cross-links — linked to five_precepts, three_refuges, four_sublime_states, five_hindrances, three_marks, four_foundations_of_mindfulness, five_spiritual_faculties, four_noble_truths, dependent_origination, five_aggregates
 
 ### Vault Infrastructure
 - [x] CSS translation toggle (`pali-translation-toggle.css`)
@@ -102,11 +102,11 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] SN 51 (Iddhipādasaṃyutta) — CSCD: `s0305a.att6.xml` / `s0305t.tik6.xml` — lower priority
 
 ### Khuddaka Nikāya — Beyond Dhammapada
-- [ ] **Sutta Nipāta** — Remaining chapters (Chapter 1 Uragavagga complete: 12 suttas with mūla + att)
-      - [ ] Chapter 2 Cūḷavagga (14 suttas: snp2.1–snp2.14) — includes Ratana, Maṅgala (paritta)
-      - [ ] Chapter 3 Mahāvagga (12 suttas: snp3.1–snp3.12) — Pabbajjā, Sela, Dvayatānupassanā
-      - [ ] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
-      - [ ] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
+- [x] **Sutta Nipāta** — Remaining chapters (Chapters 2-5 complete: 61 suttas with mūla + att)
+      - [x] Chapter 2 Cūḷavagga (14 suttas: snp2.1–snp2.14) — includes Ratana, Maṅgala (paritta)
+      - [x] Chapter 3 Mahāvagga (12 suttas: snp3.1–snp3.12) — Pabbajjā, Sela, Dvayatānupassanā
+      - [x] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
+      - [x] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
 - [ ] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112`
 - [ ] Thera/Therīgāthā — short verses, SuttaCentral available
 
