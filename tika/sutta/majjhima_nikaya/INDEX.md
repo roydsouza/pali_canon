@@ -25,6 +25,7 @@ This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Midd
 | [[mn8|MN 8]] | [[mn8_tik|Sallekhasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,481 |
 | [[mn148|MN 148]] | [[mn148_tik|Chachakkasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 691 |
 | [[mn28|MN 28]] | [[mn28_tik|Mahāhatthipadopamasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,582 |
+| [[mn140|MN 140]] | [[mn140_tik|Dhātuvibhaṅgasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,259 |
 
 ---
 *Back to [[tika/sutta/INDEX|Sutta Sub-commentaries Index]]*
