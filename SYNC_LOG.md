@@ -203,7 +203,7 @@
 - **Atthakathā**: 106 paragraphs (3,037 words) in [[sn48_att]] parsed from tipitaka.org CSCD XML file `s0305a.att3.xml`.
 - **Ṭīkā**: 92 paragraphs (2,544 words) in [[sn48_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik3.xml`.
 - **Mātikā Integration**:
-  - Linked `[[sn48|SN 48: Indriyasaṃyutta]]` (specifically `[[sn48#SN 48.8|SN 48.8: Daṭṭhabbasutta]]`, `[[sn48#SN 48.9|SN 48.9: Vibhaṅgasutta]]`, `[[sn48#SN 48.10|SN 48.10: Dutiya Vibhaṅgasutta]]`) under Canonical References in [[five_spiritual_faculties]].
+  - Linked `[[sn48|SN 48: Indriyasaṃyutta]]` (specifically `[[sn48#SN 48.8: Daṭṭhabbasutta — *Should Be Seen*|SN 48.8: Daṭṭhabbasutta]]`, `[[sn48#SN 48.9: Paṭhamavibhaṅgasutta — *Analysis (1st)*|SN 48.9: Vibhaṅgasutta]]`, `[[sn48#SN 48.10: Dutiyavibhaṅgasutta — *Analysis (2nd)*|SN 48.10: Dutiya Vibhaṅgasutta]]`) under Canonical References in [[five_spiritual_faculties]].
 - **Targeted Cross-linking**:
   - Implemented Obsidian collapsible callout panels in [[sn48]] pointing to specific commentary and sub-commentary paragraph anchors.
   - Prepended `### §NNN` headers and added bidirectional navigation links between Mūla, Atthakathā, and Ṭīkā layers for the 6 key suttas:
@@ -231,7 +231,7 @@
 - **Ṭīkā**: 90 paragraphs (1,810 words) in [[sn55_tik]] parsed from tipitaka.org CSCD XML file `s0305t.tik10.xml`.
 - **Mātikā Integration**:
   - Linked `[[sn55|SN 55: Sotāpattisaṃyutta]]` to [[three_refuges]].
-  - Added `[[sn55|SN 55: Sotāpattisaṃyutta]]` (specifically `[[sn55#SN 55.7|SN 55.7: Veḷudvāreyyasutta]]`) to [[five_precepts]].
+  - Added `[[sn55|SN 55: Sotāpattisaṃyutta]]` (specifically `[[sn55#SN 55.7: Veḷudvāreyyasutta — *The People of Bamboo Gate*|SN 55.7: Veḷudvāreyyasutta]]`) to [[five_precepts]].
   - Added `[[sn55|SN 55: Sotāpattisaṃyutta]]` (wavering vs unwavering saddhā/confidence) to [[five_spiritual_faculties]].
 - **Targeted Cross-linking**:
   - Implemented Obsidian collapsible callout panels in [[sn55]] pointing to specific commentary and sub-commentary paragraph anchors.
@@ -749,7 +749,7 @@ This log tracks sync states and key technical context for agent pairs working on
 
 ### Current State
 - All 6 meditation-chapter commentaries complete (~116K words total, 61 origin stories).
-- Cross-links from commentary to mūla verse anchors are present (e.g., `[[dhp_07_arahantavagga#90|Dhp 90]]`).
+- Cross-links from commentary to mūla verse anchors are present (e.g., `[[dhp_07_arahantavagga#90. *Jīvakapañhavatthu*|Dhp 90]]`).
 - Remaining Dhammapada-aṭṭhakathā work: 20 non-meditation chapters (can reuse same script with expanded CHAPTERS list).
 - Next: MN expansion (MN 10, MN 20, etc.) or remaining DhpA chapters.
 

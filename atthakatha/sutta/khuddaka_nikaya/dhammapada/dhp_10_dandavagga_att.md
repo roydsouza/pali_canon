@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 10.1 The Story about the Group of Six Chabbaggiyānaṁ Vatthu
-*Verse(s): [[dhp_10_dandavagga#129|Dhp 129]]*
+*Verse(s): [[dhp_10_dandavagga#129. *Chabbaggiyabhikkhuvatthu*|Dhp 129]]*
 
 *Burlingame: The Band of Six*
 *Compare: Vin Cv 6 Āsanappaṭibāhanādi; Vin Pāc 74*
@@ -57,7 +57,7 @@ Everyone trembles at the stick, everyone is in fear of death, comparing oneself 
 ---
 
 ### 10.2 The Story about the Group of Six Chabbaggiyānaṁ Vatthu
-*Verse(s): [[dhp_10_dandavagga#130|Dhp 130]]*
+*Verse(s): [[dhp_10_dandavagga#130. *Chabbaggiyavatthu*|Dhp 130]]*
 
 *Burlingame: The Band of Six*
 *Compare: Vin Pāc 75*
@@ -88,7 +88,7 @@ Everyone trembles at the stick, for all of them their life is dear, comparing on
 ---
 
 ### 10.3 The Story about a Company of Boys Sambahulakumārakavatthu
-*Verse(s): [[dhp_10_dandavagga#131|Dhp 131]], [[dhp_10_dandavagga#132|Dhp 132]]*
+*Verse(s): [[dhp_10_dandavagga#131. *Sambahulakumārakavatthu*|Dhp 131]], [[dhp_10_dandavagga#132.|Dhp 132]]*
 
 *Burlingame: A Company of Boys*
 *Compare: Ud 2.3*
@@ -122,7 +122,7 @@ One who harms not with a stick those who also desire happiness, while seeking ha
 ---
 
 ### 10.4 The Story about the Elder Kuṇḍadhāna Kuṇḍadhānattheravatthu
-*Verse(s): [[dhp_10_dandavagga#133|Dhp 133]], [[dhp_10_dandavagga#134|Dhp 134]]*
+*Verse(s): [[dhp_10_dandavagga#133. *Koṇḍadhānattheravatthu*|Dhp 133]], [[dhp_10_dandavagga#134.|Dhp 134]]*
 
 *Burlingame: The Monk and the Phantom*
 *Compare: Thag-a 15*
@@ -193,7 +193,7 @@ If you make no sound like a gong that is broken, you are like one who has attain
 ---
 
 ### 10.5 The Story about Visākhā and Others Observing the Observance Days Visākhādīnaṁ Uposathikānaṁ Uposathakammavatthu
-*Verse(s): [[dhp_10_dandavagga#135|Dhp 135]]*
+*Verse(s): [[dhp_10_dandavagga#135. *Uposathikaitthīnaṁvatthu*|Dhp 135]]*
 
 *Burlingame: Visākhā and Her Companions Keep Fast-Day*
 *Keywords: Women, Aspirations, Great Disciples, Previous Buddhas*
@@ -221,7 +221,7 @@ Like a cowherd with stick drives cattle to pasture, so do old age and death driv
 ---
 
 ### 10.6 The Story about the Python Peta Ajagarapetavatthu
-*Verse(s): [[dhp_10_dandavagga#136|Dhp 136]]*
+*Verse(s): [[dhp_10_dandavagga#136. *Ajagarapetavatthu*|Dhp 136]]*
 
 *Burlingame: The Boa-Constrictor AJ: this is not very correct, as boa constrictors are not native to India, and are not pythons either. Ghost*
 *Compare: SN 19.1*
@@ -271,7 +271,7 @@ The fool does not yet understand the wicked deeds he is doing, the stupid one is
 ---
 
 ### 10.7 The Story about the Elder Mahā Moggallāna Mahāmoggallānattheravatthu
-*Verse(s): [[dhp_10_dandavagga#137|Dhp 137]], [[dhp_10_dandavagga#140|Dhp 140]]*
+*Verse(s): [[dhp_10_dandavagga#137. *Mahāmoggallānattheravatthu*|Dhp 137]], [[dhp_10_dandavagga#140.|Dhp 140]]*
 
 *Burlingame: Death of Mahā Moggallāna*
 *Compare: Ja 522 BG: This story is in general similar to the Introduction to Ja 522; but there are important differences. For example, in the Jātaka version, Moggallāna escapes on each of six successive days by flying up into the air; and instead of killing his father and mother, relents at the last moment and spares their lives.*
@@ -348,7 +348,7 @@ also his houses may be consumed by flames and fire, and at the death of the body
 ---
 
 ### 10.8 The Story about the Bhikkhu with Many Possessions Bahubhaṇḍikabhikkhuvatthu
-*Verse(s): [[dhp_10_dandavagga#141|Dhp 141]]*
+*Verse(s): [[dhp_10_dandavagga#141. *Bahubhaṇḍikabhikkhuvatthu*|Dhp 141]]*
 
 *Burlingame: The Monk of Many Possessions*
 *Compare: Ja 6*
@@ -410,7 +410,7 @@ Not nakedness, matted hair, mud, fasting, lying on stony ground, dust, dirt, or 
 ---
 
 ### 10.9 The Story about the Minister Santati Santatimahāmattavatthu
-*Verse(s): [[dhp_10_dandavagga#142|Dhp 142]]*
+*Verse(s): [[dhp_10_dandavagga#142. *Santatimahāmattavatthu*|Dhp 142]]*
 
 *Burlingame: Santati the King’s Minister*
 *Compare: Dhp-a 13.4*
@@ -470,7 +470,7 @@ Even if he were to adorn himself, but is peaceful, trained, settled, spiritual, 
 ---
 
 ### 10.10 The Story about the Elder Pilotika Pilotikatheravatthu
-*Verse(s): [[dhp_10_dandavagga#143|Dhp 143]], [[dhp_10_dandavagga#144|Dhp 144]]*
+*Verse(s): [[dhp_10_dandavagga#143. *Pilotikatissattheravatthu*|Dhp 143]], [[dhp_10_dandavagga#144.|Dhp 144]]*
 
 *Burlingame: The Monk and the Ragged Garment*
 *Compare: Dhp-a 25.10*
@@ -518,7 +518,7 @@ One who has understanding and good conduct, also mindfulness, will surely abando
 ---
 
 ### 10.11 The Story about the Novice Sukha Sukhasāmaṇeravatthu
-*Verse(s): [[dhp_10_dandavagga#145|Dhp 145]]*
+*Verse(s): [[dhp_10_dandavagga#145. *Sukhasāmaṇeravatthu*|Dhp 145]]*
 
 *Burlingame: Sukha the Novice*
 *Compare: Dhp-a 6.5*

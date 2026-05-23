@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §3-5
 
 > [!abstract]- Tīkā §3-5
-> [[an11_2_5_tik#§3-5|Sub-commentary §3-5]]
+> [[an11_2_5_tik#§2-5|Sub-commentary §3-5]]
 
 (3-5) Tatiye **hatūpaniso**ti hatakāraṇo. Catutthapañcamesu dvīhi therehi kathitabhāvova viseso.
 

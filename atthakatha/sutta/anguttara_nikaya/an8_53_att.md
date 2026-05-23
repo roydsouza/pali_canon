@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §51
 
 > [!abstract]- Tīkā §51
-> [[an8_53_tik#§51|Sub-commentary §51]]
+> [[an8_53_tik#§51-53|Sub-commentary §51]]
 
 (51) Chaṭṭhassa paṭhame **sakkesu viharatī**ti paṭhamagamanena gantvā viharati. **Mahāpajāpatī**ti puttapajāya ceva dhītupajāya ca mahantattā evaṃladdhanāmā. **Yena bhagavā tenupasaṅkamī**ti bhagavā kapilapuraṃ gantvā paṭhamameva nandaṃ pabbājesi, sattame divase rāhulakumāraṃ. **Cumbaṭakakalahe** (dī. ni. aṭṭha. 2.331; saṃ. ni. aṭṭha. 1.1.37) pana ubhayanagaravāsikesu yuddhatthāya nikkhantesu satthā gantvā te rājāno saññāpetvā **attadaṇḍasuttaṃ** (su. ni. 941 ādayo; mahāni. 170 ādayo) kathesi. Rājāno pasīditvā aḍḍhatiyasate aḍḍhatiyasate kumāre adaṃsu, tāni pañca kumārasatāni satthu santike pabbajiṃsu, atha nesaṃ pajāpatiyo sāsanaṃ pesetvā anabhiratiṃ uppādayiṃsu. Satthā tesaṃ anabhiratiyā uppannabhāvaṃ ñatvā te pañcasate daharabhikkhū kuṇāladahaṃ netvā attano kuṇālakāle nisinnapubbe pāsāṇatale nisīditvā **kuṇālajātakakathāya** (jā. 2.21.kuṇālajātaka) tesaṃ anabhiratiṃ vinodetvā sabbepi te sotāpattiphale patiṭṭhāpesi, puna mahāvanaṃ ānetvā arahattaphaleti. Tesaṃ cittajānanatthaṃ punapi pajāpatiyo sāsanaṃ pahiṇiṃsu. Te ‘‘abhabbā mayaṃ gharāvāsassā’’ti paṭisāsanaṃ pahiṇiṃsu. Tā ‘‘na dāni amhākaṃ gharaṃ gantuṃ yuttaṃ, mahāpajāpatiyā santikaṃ gantvā pabbajjaṃ anujānāpetvā pabbajissāmā’’ti pañcasatāpi mahāpajāpatiṃ upasaṅkamitvā ‘‘ayye, amhākaṃ pabbajjaṃ anujānāpethā’’ti āhaṃsu. Mahāpajāpatī tā itthiyo gahetvā yena bhagavā tenupasaṅkami. Setacchattassa heṭṭhā rañño parinibbutakāle upasaṅkamītipi vadantiyeva.
 

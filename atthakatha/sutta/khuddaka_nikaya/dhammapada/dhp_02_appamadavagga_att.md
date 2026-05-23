@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 2.1 The Story about Udena Udenavatthu
-*Verse(s): [[dhp_02_appamadavagga#21|Dhp 21]], [[dhp_02_appamadavagga#22|Dhp 22]], [[dhp_10_dandavagga#137|Dhp 137]], [[dhp_10_dandavagga#138|Dhp 138]], [[dhp_10_dandavagga#139|Dhp 139]], [[dhp_10_dandavagga#140|Dhp 140]], [[dhp_01_yamakavagga#1|Dhp 1]], [[dhp_14_buddhavagga#180|Dhp 180]], [[dhp_23_nagavagga#320|Dhp 320]], [[dhp_01_yamakavagga#1|Dhp 1]], [[dhp_16_piyavagga#213|Dhp 213]], [[dhp_23_nagavagga#321|Dhp 321]], [[dhp_23_nagavagga#322|Dhp 322]]*
+*Verse(s): [[dhp_02_appamadavagga#21. *Sāmāvatīvatthu*|Dhp 21]], [[dhp_02_appamadavagga#22.|Dhp 22]], [[dhp_10_dandavagga#137. *Mahāmoggallānattheravatthu*|Dhp 137]], [[dhp_10_dandavagga#138.|Dhp 138]], [[dhp_10_dandavagga#139.|Dhp 139]], [[dhp_10_dandavagga#140.|Dhp 140]], [[dhp_01_yamakavagga#Dhammapada — Chapter 1: Yamakavagga|Dhp 1]], [[dhp_14_buddhavagga#180.|Dhp 180]], [[dhp_23_nagavagga#320. *Attadantavatthu*|Dhp 320]], [[dhp_01_yamakavagga#Dhammapada — Chapter 1: Yamakavagga|Dhp 1]], [[dhp_16_piyavagga#213. *Visākhāvatthu*|Dhp 213]], [[dhp_23_nagavagga#321.|Dhp 321]], [[dhp_23_nagavagga#322.|Dhp 322]]*
 
 *Burlingame: Story-Cycle of King Udena or Udayana BG: The story of Udena is the longest, and in many respects the most interesting, of all the stories of the Dhammapada Commentary. It is in reality a cycle of six stories of diverse origin and character, dealing with the fortunes of Udena, his principal treasurer, and his three queen-consorts. Only two of the stories are mainly concerned with the fortunes of Udena, the rest being introduced by simple and familiar literary devices. The story of the fortunes of Udena in the Dhp-a stands in much the same relation to the embedded stories as the frame-story of Udena in the Kathāsaritsāgara to the rest of the collection. Parallels to one or more of the stories are found in Buddhaghosa’s Visuddhimagga, Buddhaghosa’s Commentaries on MN and AN, the Divyāvadāna, Kathāsaritsāgara, and other Sanskrit collections, and the Tibetan Kandjur. The kernel of two of the stories is derived from the Suttanipāta and the Udāna.*
 *Cast: King Allakappa, King Veṭhadīpaka, King Parantapa, Ghosaka, Kotūhalaka, Kāḷi, Kāpi, King Udena, Queen Sāmāvatī, Māgandiya, Queen Māgandiyā, Queen Vāsuladattā, Bhaddavatiya, Mitta, King Caṇḍa Pajjota, Kukkuṭa, Pāvāriya, Sumana, Khujjuttarā, Elder Ānanda*
@@ -504,7 +504,7 @@ Those who meditate all the time constant and firm in their effort, those wise on
 ---
 
 ### 2.2 The Story about Kumbhaghosaka Kumbhaghosakavatthu
-*Verse(s): [[dhp_02_appamadavagga#24|Dhp 24]]*
+*Verse(s): [[dhp_02_appamadavagga#24. *Kumbaghosakaseṭṭhivatthu*|Dhp 24]]*
 
 *Burlingame: The Voice of a Rich Man*
 *Cast: Kumbhaghosaka, King Bimbisāra*
@@ -569,7 +569,7 @@ For he who is active, mindful, pure in deeds and considerate, self-controlled, l
 ---
 
 ### 2.3 The Story about the Elder Culla Panthaka Cullapanthakattheravatthu AJ: PTS prints Cūḷapanthakatthera-vatthu, against its practice everywhere else of writing Culla-. For consistency I have changed it to the regular form.
-*Verse(s): [[dhp_02_appamadavagga#25|Dhp 25]]*
+*Verse(s): [[dhp_02_appamadavagga#25. *Cūḷapanthakavatthu*|Dhp 25]]*
 
 *Burlingame: Little Wayman*
 *Compare: Ja 4; AN-a 1.14.2.1; Thag-a 231; Thag-a 236 Parallels: Ja 4; Divyāvadāna, xxxv: 483-515; AN-a 1.14.2.1 & AN-a 1.14.2.2. 3a and 3b are almost word for word the same as the Introduction to Ja 4, whereas 3c is entirely different from the Story of the Past in the Jātaka. The Divyāvadāna version of the story of Culla Panthaka, Cuḍa Pakṣa, chap, xxxv, pp. 483-515, differs materially from the version common to Ja 4, and Dhp-a 2.3. See also Thag-a 231 and 236.*
@@ -723,7 +723,7 @@ Through activity, heedfulness, through self-control and through restraint, the s
 ---
 
 ### 2.4 The Story about the Fool’s Festival Bālanakkhattaghuṭṭhavatthu
-*Verse(s): [[dhp_02_appamadavagga#26|Dhp 26]], [[dhp_02_appamadavagga#27|Dhp 27]]*
+*Verse(s): [[dhp_02_appamadavagga#26. *Bālanakkhattasaṅghuṭṭhavatthu*|Dhp 26]], [[dhp_02_appamadavagga#27.|Dhp 27]]*
 
 *Burlingame: Fools’ Holiday*
 *Keywords: Festivals, Foolish Talk*
@@ -762,7 +762,7 @@ Do not cultivate heedlessness, do not take delight in pleasure, the heedful one,
 ---
 
 ### 2.5 The Story about the Elder Mahā Kassapa Mahākassapattheravatthu
-*Verse(s): [[dhp_02_appamadavagga#28|Dhp 28]]*
+*Verse(s): [[dhp_02_appamadavagga#28. *Mahākassapattheravatthu*|Dhp 28]]*
 
 *Burlingame: Kassapa the Great*
 *Keywords: Insight, Radiant Image, Foremost Disciples*
@@ -786,7 +786,7 @@ When the wise one eliminates heedlessness with his heedfulness, and mounts the p
 ---
 
 ### 2.6 The Story about Two Bhikkhu Friends, One Heedful and One Heedless Pamattāpamattadvesahāyakabhikkhūnaṁ
-*Verse(s): [[dhp_02_appamadavagga#29|Dhp 29]]*
+*Verse(s): [[dhp_02_appamadavagga#29. *Pamattāpamattadvesahāyakabhikkhuvatthu*|Dhp 29]]*
 
 *Burlingame: Two Friends*
 *Keywords: Heedfulness, Heedlessness, Hypocrisy, Meditation*
@@ -820,7 +820,7 @@ Heedful amongst the heedless ones, wakeful amongst the ones who sleep, like a sw
 ---
 
 ### 2.7 The Story about Mahāli’s Questions Mahālipañhavatthu
-*Verse(s): [[dhp_02_appamadavagga#30|Dhp 30]]*
+*Verse(s): [[dhp_02_appamadavagga#30. *Maghavatthu*|Dhp 30]]*
 
 *Burlingame: How Magha Became Sakka*
 *Compare: SN 11.12-13; Ja 31*
@@ -949,7 +949,7 @@ Through heedfulness did Maghavā attain leadership of the gods, the good always 
 ---
 
 ### 2.8 The Story about a Certain Bhikkhu Aññatarabhikkhussa Vatthu
-*Verse(s): [[dhp_02_appamadavagga#31|Dhp 31]]*
+*Verse(s): [[dhp_02_appamadavagga#31. *Aññatarabhikkhuvatthu*|Dhp 31]]*
 
 *Burlingame: A Monk Attains Arahatship*
 *Keywords: Meditation, Heedfulness, Radiant Image*
@@ -979,7 +979,7 @@ A monastic who delights in heedfulness, seeing danger in heedlessness, advances 
 ---
 
 ### 2.9 The Story about the Elder Nigamavāsī Tissa Nigamavāsitissattheravatthu
-*Verse(s): [[dhp_02_appamadavagga#32|Dhp 32]]*
+*Verse(s): [[dhp_02_appamadavagga#32. *Nigamavāsitissattheravatthu*|Dhp 32]]*
 
 *Burlingame: Tissa of the Market-Town*
 *Compare: Ja 429; Ja 430 BG: The Story of the Past presents an interesting problem. Dhp-a 1.28412-2855, is almost word for word the same as Ja 429: 3.4914-20. Dhp-a then makes Sakka utter, not the first stanza of Ja 429, but the first stanza of Ja 430, and refers the reader to the tenth Nipāta for the rest of the story. In Fausböll’s edition the story occurs in the ninth Nipāta. But it has ten stanzas and doubtless stood in the tenth Nipāta of the recension of the Jātaka Book, to which the compiler of the Dhammapada Commentary had access.*

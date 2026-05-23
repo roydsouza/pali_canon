@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 16.1 The Story about Three Monastics Tiṇṇaṁ Bhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_16_piyavagga#209|Dhp 209]], [[dhp_16_piyavagga#211|Dhp 211]]*
+*Verse(s): [[dhp_16_piyavagga#209. *Tayojanapabbajitavatthu*|Dhp 209]], [[dhp_16_piyavagga#211.|Dhp 211]]*
 
 *Burlingame: Mother and Father and Son*
 *Keywords: Families, Monastics, Bhikkhunīs*
@@ -80,7 +80,7 @@ Because of that the three people, thinking: “We are unable to live without eac
 ---
 
 ### 16.2 The Story about a Certain Head of a Family Aññatarakuṭumbikavatthu
-*Verse(s): [[dhp_16_piyavagga#212|Dhp 212]]*
+*Verse(s): [[dhp_16_piyavagga#212. *Aññatarakuṭumbikavatthu*|Dhp 212]]*
 
 *Burlingame: The Buddha Comforts the Afflicted*
 *Compare: Ja 354*
@@ -137,7 +137,7 @@ From loving there arises grief, from loving there arises fear, for one who is fr
 ---
 
 ### 16.3 The Story about Visākhā Visākhāvatthu
-*Verse(s): [[dhp_16_piyavagga#213|Dhp 213]]*
+*Verse(s): [[dhp_16_piyavagga#213. *Visākhāvatthu*|Dhp 213]]*
 
 *Burlingame: The Buddha Comforts the Afflicted*
 *Compare: Ud 8.8*
@@ -164,7 +164,7 @@ From fondness there arises grief, from fondness there arises fear, for one who i
 ---
 
 ### 16.4 The Story about the Licchavis Licchavīvatthu
-*Verse(s): [[dhp_16_piyavagga#214|Dhp 214]]*
+*Verse(s): [[dhp_16_piyavagga#214. *Licchavīvatthu*|Dhp 214]]*
 
 *Burlingame: The Licchavi Princes and the Courtezan*
 *Keywords: Jealousy, Courtesans*
@@ -192,7 +192,7 @@ From delight there arises grief, from delight there arises fear, for one who is 
 ---
 
 ### 16.5 The Story about the Youth Anitthigandha Anitthigandhakumāravatthu
-*Verse(s): [[dhp_16_piyavagga#215|Dhp 215]]*
+*Verse(s): [[dhp_16_piyavagga#215. *Anitthigandhakumāravatthu*|Dhp 215]]*
 
 *Burlingame: The Golden Maiden*
 *Compare: Ja 263; Ja 507; Ja 328; Ja 531; Thag-a 261; AN-a 1.14.3.4*
@@ -231,7 +231,7 @@ From desire there arises grief, from desire there arises fear, for one who is fr
 ---
 
 ### 16.6 The Story about a Certain Brahmin Aññatarabrāhmaṇavatthu
-*Verse(s): [[dhp_16_piyavagga#216|Dhp 216]]*
+*Verse(s): [[dhp_16_piyavagga#216. *Aññatarabrāhmaṇavatthu*|Dhp 216]]*
 
 *Burlingame: Set Not Your Heart on Worldly Possessions*
 *Compare: Ja 228*
@@ -268,7 +268,7 @@ From craving there arises grief, from craving there arises fear, for one who is 
 ---
 
 ### 16.7 The Story about Five Hundred Youths Pañcasatadārakavatthu
-*Verse(s): [[dhp_16_piyavagga#217|Dhp 217]]*
+*Verse(s): [[dhp_16_piyavagga#217. *Pañcasatadārakavatthu*|Dhp 217]]*
 
 *Burlingame: Kassapa Wins a Basket of Cakes*
 *Keywords: Offerings, Foremost Disciples*
@@ -302,7 +302,7 @@ Endowed with virtue and insight, principled and knowing the truths, doing the de
 ---
 
 ### 16.8 The Story about an Elder Who Was a Non-Returner Anāgāmittheravatthu
-*Verse(s): [[dhp_16_piyavagga#218|Dhp 218]]*
+*Verse(s): [[dhp_16_piyavagga#218. *Ekaanāgāmittheravatthu*|Dhp 218]]*
 
 *Burlingame: The Elder Who had Attained the Fruit of the Third Path*
 *Keywords: Attainments, Pure Abodes*
@@ -332,7 +332,7 @@ The one with desire for the undeclared, will be suffused with the awak’ning mi
 ---
 
 ### 16.9 The Story about Nandiya Nandiyavatthu
-*Verse(s): [[dhp_16_piyavagga#219|Dhp 219]], [[dhp_16_piyavagga#220|Dhp 220]]*
+*Verse(s): [[dhp_16_piyavagga#219. *Nandiyavatthu*|Dhp 219]], [[dhp_16_piyavagga#220.|Dhp 220]]*
 
 *Burlingame: Nandiya Attains Heavenly Glory*
 *Compare: Vv-a 5.2; Pv-a 4.4 BG: From this story is derived Vv-a 5.21. Vv-a 22004-22135 is almost word for word the same as Dhp-a 3.29010-29307. Vv-a 222-229 is lacking in Dhp-a. Cf. Pv-a 4.4.*

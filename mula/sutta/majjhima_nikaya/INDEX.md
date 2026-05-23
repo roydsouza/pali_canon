@@ -32,4 +32,15 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn117|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,126 |
 
 ---
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title", tags as "Tags"
+FROM "mula/sutta/majjhima_nikaya" AND #mula
+SORT file.name ASC
+```
+
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

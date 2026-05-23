@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 18.1 The Story about a Son of a Cow-Killer Goghātakaputtavatthu
-*Verse(s): [[dhp_18_malavagga#235|Dhp 235]], [[dhp_18_malavagga#238|Dhp 238]]*
+*Verse(s): [[dhp_18_malavagga#235. *Goghātakaputtavatthu*|Dhp 235]], [[dhp_18_malavagga#238.|Dhp 238]]*
 
 *Burlingame: The Cow-Killer and His Son*
 *Compare: Dhp-a 1.10; Dhp-a 5.1c; Dhp-a 12.1c; Dhp-a 24.11*
@@ -92,7 +92,7 @@ The path of Non-returning was explained by the verses above, but here the path o
 ---
 
 ### 18.2 The Story about a Certain Brahmin Aññatarabrāhmaṇavatthu
-*Verse(s): [[dhp_18_malavagga#239|Dhp 239]]*
+*Verse(s): [[dhp_18_malavagga#239. *Aññatarabrāhmaṇavatthu*|Dhp 239]]*
 
 *Burlingame: Little by Little*
 *Keywords: Offerings, Merit*
@@ -124,7 +124,7 @@ The intelligent person gradually, little by little, moment by moment, like a smi
 ---
 
 ### 18.3 The Story about the Elder Tissa Tissattheravatthu
-*Verse(s): [[dhp_18_malavagga#240|Dhp 240]]*
+*Verse(s): [[dhp_18_malavagga#240. *Tissattheravatthu*|Dhp 240]]*
 
 *Burlingame: The Louse That Would Have His Own*
 *Keywords: Discipline, Death, Craving, Similes*
@@ -162,7 +162,7 @@ As a rust stain arises from iron, and arisen it then eats it away, so with one w
 ---
 
 ### 18.4 The Story about the Elder Lāḷudāyi Lāḷudāyittheravatthu
-*Verse(s): [[dhp_18_malavagga#241|Dhp 241]]*
+*Verse(s): [[dhp_18_malavagga#241. *Lāḷudāyīvatthu*|Dhp 241]]*
 
 *Burlingame: Pride Goeth before a Fall*
 *Compare: Dhp-a 11.7; Ja 153*
@@ -219,7 +219,7 @@ Lack of repetition is the ruin of chants, a lack of maintenance is the ruin of h
 ---
 
 ### 18.5 The Story about a Certain Youth of Good Family Aññatarakulaputtavatthu
-*Verse(s): [[dhp_18_malavagga#242|Dhp 242]], [[dhp_18_malavagga#243|Dhp 243]]*
+*Verse(s): [[dhp_18_malavagga#242. *Aññatarakulaputtavatthu*|Dhp 242]], [[dhp_18_malavagga#243.|Dhp 243]]*
 
 *Burlingame: The Wickedness of Women*
 *Compare: Ja 65*
@@ -263,7 +263,7 @@ A stain that is worse than that stain, ignorance is the supreme stain, after aba
 ---
 
 ### 18.6 The Story about Culla Sāri Cullasārivatthu
-*Verse(s): [[dhp_18_malavagga#244|Dhp 244]], [[dhp_18_malavagga#245|Dhp 245]]*
+*Verse(s): [[dhp_18_malavagga#244. *Cūḷasāribhikkhuvatthu*|Dhp 244]], [[dhp_18_malavagga#245.|Dhp 245]]*
 
 *Burlingame: Courtesy and Rudeness*
 *Keywords: Discipline, Medicine*
@@ -298,7 +298,7 @@ Life is hard when endowed with shame, for the one seeking purity, for one sincer
 ---
 
 ### 18.7 The Story about Five Hundred Lay Disciples Pañcasata-Upāsakavatthu
-*Verse(s): [[dhp_18_malavagga#246|Dhp 246]], [[dhp_18_malavagga#248|Dhp 248]]*
+*Verse(s): [[dhp_18_malavagga#246. *Pañcaupāsakavatthu*|Dhp 246]], [[dhp_18_malavagga#248.|Dhp 248]]*
 
 *Burlingame: All of the Precepts are Hard to Keep*
 *Keywords: Precepts*
@@ -340,7 +340,7 @@ Know it thus, dear sir, a lack of restraint is a bad thing, let not greed and co
 ---
 
 ### 18.8 The Story about the Young Bhikkhu Tissa Tissadaharavatthu
-*Verse(s): [[dhp_18_malavagga#249|Dhp 249]], [[dhp_18_malavagga#250|Dhp 250]]*
+*Verse(s): [[dhp_18_malavagga#249. *Tissadaharavatthu*|Dhp 249]], [[dhp_18_malavagga#250.|Dhp 250]]*
 
 *Burlingame: The Fault-Finding Novice*
 *Compare: Ja 80; Ja 125*
@@ -404,7 +404,7 @@ For the one in whom dejection is cut off, destroyed at the root, dug up, does, b
 ---
 
 ### 18.9 The Story about Five Lay Disciples Pañca-Upāsakavatthu
-*Verse(s): [[dhp_18_malavagga#251|Dhp 251]]*
+*Verse(s): [[dhp_18_malavagga#251. *Pañcaupāsakavatthu*|Dhp 251]]*
 
 *Burlingame: The Inattentive Laymen*
 *Compare: Dhp-a 26.25*
@@ -447,7 +447,7 @@ There is no fire quite like passion, nothing that takes hold like hatred, there 
 ---
 
 ### 18.10 The Story about the Rich Man Meṇḍaka Meṇḍakaseṭṭhivatthu
-*Verse(s): [[dhp_18_malavagga#252|Dhp 252]]*
+*Verse(s): [[dhp_18_malavagga#252. *Meṇḍakaseṭṭhivatthu*|Dhp 252]]*
 
 *Burlingame: The Treasurer Meṇḍaka*
 *Compare: Vin Mv 5.34; Divy 9-10*
@@ -553,7 +553,7 @@ Easy to see are others’ faults, but one’s own fault is hard to see, for one 
 ---
 
 ### 18.11 The Story about the Elder Ujjhānasaññī Ujjhānasaññittheravatthu
-*Verse(s): [[dhp_18_malavagga#253|Dhp 253]]*
+*Verse(s): [[dhp_18_malavagga#253. *Ujjhānasaññittheravatthu*|Dhp 253]]*
 
 *Burlingame: The Fault-Finding Monk*
 *Keywords: Discipline, Blame*
@@ -579,7 +579,7 @@ One who looks for another’s faults, who is an abject complainer, for him the p
 ---
 
 ### 18.12 The Story about the Wanderer Subhadda Subhaddaparibbājakavatthu
-*Verse(s): [[dhp_18_malavagga#254|Dhp 254]]*
+*Verse(s): [[dhp_18_malavagga#254. *Subhaddaparibbājakavatthu*|Dhp 254]]*
 
 *Burlingame: Is There a Path through the Air?*
 *Compare: DN 16 BG: This story is derived from DN 2.148-153. Here, as elsewhere, the redactor makes such alterations in the story as serve his purpose.*

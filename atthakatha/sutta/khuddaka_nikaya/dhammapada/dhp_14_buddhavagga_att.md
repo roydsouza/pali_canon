@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 14.1 The Story about Māgandiya Māgandiyavatthu
-*Verse(s): [[dhp_14_buddhavagga#179|Dhp 179]], [[dhp_14_buddhavagga#180|Dhp 180]]*
+*Verse(s): [[dhp_14_buddhavagga#179. *Māradhītaravatthu*|Dhp 179]], [[dhp_14_buddhavagga#180.|Dhp 180]]*
 
 *Burlingame: The Buddha Has Nothing to Do with Women*
 *Compare: Dhp-a 2.1; Snp 4.9; Ja Nid BG: With Dhp-a 14.1a cf. Dhp-a 2.1. The source of this story is Snp 4.9, or some derivative thereof, 14.1b is derived from Ja Nid 1.7829-7930; translated by Rhys Davids, Buddhist Jātakas, pp. 107-109. For close parallels to 14.1, see Divyāvadāna, xxxvi, Part 1, pp. 515-529; also the Sanskrit fragment from Eastern Turkestan described by A. F. R. Hoernle, JRAS., 1916, 709 ff.*
@@ -94,7 +94,7 @@ Having seen Taṇhā and Aratī and Ragā, I had no desire for sexual intercours
 ---
 
 ### 14.2 The Story about the Twin Miracle Yamakapāṭihāriyavatthu
-*Verse(s): [[dhp_14_buddhavagga#181|Dhp 181]], [[dhp_24_tanhavagga#356|Dhp 356]], [[dhp_24_tanhavagga#357|Dhp 357]], [[dhp_24_tanhavagga#358|Dhp 358]], [[dhp_24_tanhavagga#359|Dhp 359]], [[dhp_01_yamakavagga#3|Dhp 3]], [[dhp_17_kodhavagga#222|Dhp 222]]*
+*Verse(s): [[dhp_14_buddhavagga#181. *Devorohaṇavatthu*|Dhp 181]], [[dhp_24_tanhavagga#356. *Aṅkuravatthu*|Dhp 356]], [[dhp_24_tanhavagga#357.|Dhp 357]], [[dhp_24_tanhavagga#358.|Dhp 358]], [[dhp_24_tanhavagga#359.|Dhp 359]], [[dhp_01_yamakavagga#3. *Tissattheravatthu*|Dhp 3]], [[dhp_17_kodhavagga#222. *Aññatarabhikkhuvatthu*|Dhp 222]]*
 
 *Burlingame: The Twin Miracle*
 *Compare: Ja 483; Vin Cv 5.8 BG: Parallels: Ja 483; Divyāvadāna, xii: 143-166. Materially different are the Jātaka and Divyāvadāna versions. The Dhammapada Commentary version appears to be entirely independent of the Jātaka version. The Jātaka version is very brief (only about one fifth as long as the Dhammapada Commentary version), and lacks the account of the finding of the block of wood and the fashioning of the bowl, the creation of the jeweled walk, and the offers of the six disciples to perform miracles. The Dhammapada Commentary version gives a multitude of details not found in the Jātaka version, especially in its accounts of Piṇḍola’s miracle, the Twin Miracle proper, and the teaching of the Abhidhamma in the World of the Thirty-three, 14.2a is an elaboration of Vin Cv 5.8. The Dhammapada Commentary version of the Twin Miracle, the Preaching of the Abhidhamma, and the Descent of the Deities, is referred to at Mil 34921, 3503-4.*
@@ -429,7 +429,7 @@ Of those who gathered, more than a thousand who were unwise might cry a hundred 
 ---
 
 ### 14.3 The Story about the Nāga King Erakapatta Erakapattanāgarājavatthu
-*Verse(s): [[dhp_14_buddhavagga#182|Dhp 182]]*
+*Verse(s): [[dhp_14_buddhavagga#182. *Erakapattanāgarājavatthu*|Dhp 182]]*
 
 *Burlingame: The King of the Dragons and His Daughters*
 *Cast: Buddha Kassapa, Erakapatta, Uttara*
@@ -494,7 +494,7 @@ The king of the Nāgas would have attained the fruition of Stream-entry on that 
 ---
 
 ### 14.4 The Story about the Edler Ānanda’s Question about the Observance Day Ānandatthera-Uposathapañhavatthu
-*Verse(s): [[dhp_14_buddhavagga#183|Dhp 183]], [[dhp_14_buddhavagga#185|Dhp 185]]*
+*Verse(s): [[dhp_14_buddhavagga#183. *Ānandattherapañhavatthu*|Dhp 183]], [[dhp_14_buddhavagga#185.|Dhp 185]]*
 
 *Burlingame: How Did the Seven Buddhas Keep Fast-Day?*
 *Cast: Elder Ānanda, Buddha Vipassī, Buddha Sikhi, Buddha Vessabhu, Buddha Kakusandha, Buddha Koṇāgamana, Buddha Kassapa*
@@ -537,7 +537,7 @@ Not finding fault and not hurting, restraint by the regulations, knowing the rig
 ---
 
 ### 14.5 The Story about a Discontented Bhikkhu Anabhiratabhikkhuvatthu
-*Verse(s): [[dhp_14_buddhavagga#186|Dhp 186]], [[dhp_14_buddhavagga#187|Dhp 187]]*
+*Verse(s): [[dhp_14_buddhavagga#186. *Anabhiratabhikkhuvatthu*|Dhp 186]], [[dhp_14_buddhavagga#187.|Dhp 187]]*
 
 *Burlingame: The Buddha Cures a Monk of Discontent*
 *Cast: King Mahāsammata, Roja, Vararoja, Kalyāṇa, Varakalyāṇa, Uposatha, Mandhātā, Four Great Kings, Sakka*
@@ -598,7 +598,7 @@ Not through coins is satisfaction found for sense desires, the wise one knowing:
 ---
 
 ### 14.6 The Story about the Brahmin Aggidatta Aggidattabrāhmaṇavatthu
-*Verse(s): [[dhp_14_buddhavagga#188|Dhp 188]], [[dhp_14_buddhavagga#192|Dhp 192]]*
+*Verse(s): [[dhp_14_buddhavagga#188. *Aggidattabrāhmaṇavatthu*|Dhp 188]], [[dhp_14_buddhavagga#192.|Dhp 192]]*
 
 *Burlingame: The Monk and the Dragon*
 *Cast: King Pasenadi, Aggidatta, Ahicchatta, Elder Mahā Moggallāna*
@@ -675,7 +675,7 @@ The Teacher surveyed their thoughts and said: “Aggidatta, destroy the doubt th
 ---
 
 ### 14.7 The Story about the Question Asked by Elder Ānanda Ānandattherapucchitapañhavatthu
-*Verse(s): [[dhp_14_buddhavagga#193|Dhp 193]]*
+*Verse(s): [[dhp_14_buddhavagga#193. *Ānandattherapañhavatthu*|Dhp 193]]*
 
 *Burlingame: Whence Come Men of Noble Birth?*
 *Keywords: Noble People, Good Birth*
@@ -703,7 +703,7 @@ A person of good breed is rare, that one is not born in all places, wherever tha
 ---
 
 ### 14.8 The Story about a Company of Bhikkhus Sambahulabhikkhuvatthu
-*Verse(s): [[dhp_14_buddhavagga#194|Dhp 194]]*
+*Verse(s): [[dhp_14_buddhavagga#194. *Sambahulabhikkhuvatthu*|Dhp 194]]*
 
 *Burlingame: What is the Pleasantest Thing in the World?*
 *Keywords: True Happiness, Monastics*
@@ -729,7 +729,7 @@ The arising of the Buddhas is good, the teaching of the True Dhamma is good, the
 ---
 
 ### 14.9 The Story about the Golden Shrine of Kassapa, the One of Ten Strengths Kassapadasabalassa Suvaṇṇacetiyavatthu
-*Verse(s): [[dhp_14_buddhavagga#195|Dhp 195]], [[dhp_14_buddhavagga#196|Dhp 196]]*
+*Verse(s): [[dhp_14_buddhavagga#195. *Kassapadasabalassasuvaṇṇacetiyavatthu*|Dhp 195]], [[dhp_14_buddhavagga#196.|Dhp 196]]*
 
 *Burlingame: Honor to Whom Honor is Due*
 *Keywords: Shrines, Reverence, Previous Buddhas*

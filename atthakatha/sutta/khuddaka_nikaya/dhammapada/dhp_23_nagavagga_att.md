@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 23.1 The Story about Speaking and Rousing Oneself Attānaṁ Ārabbha Kathikavatthu
-*Verse(s): [[dhp_23_nagavagga#320|Dhp 320]], [[dhp_23_nagavagga#322|Dhp 322]]*
+*Verse(s): [[dhp_23_nagavagga#320. *Attadantavatthu*|Dhp 320]], [[dhp_23_nagavagga#322.|Dhp 322]]*
 
 *Burlingame: The Sectaries Insult the Buddha*
 *Compare: Dhp-a 2.1*
@@ -69,7 +69,7 @@ Noble are the well-trained horses, the well-bred horses from Sindh, and the grea
 ---
 
 ### 23.2 The Story about the Bhikkhu Who Had Been an Elephant-Trainer Hatthācariyabhikkhuvatthu
-*Verse(s): [[dhp_23_nagavagga#323|Dhp 323]]*
+*Verse(s): [[dhp_23_nagavagga#323. *Hatthācariyapubbakabhikkhuvatthu*|Dhp 323]]*
 
 *Burlingame: The Monk Who Had Been an Elephant-Trainer*
 *Keywords: Animals, Training*
@@ -97,7 +97,7 @@ Not by vehicles can one go to the place beyond destinations, as one through trai
 ---
 
 ### 23.3 The Story about the Old Brahmin’s Sons Parijiṇṇabrāhmaṇaputtavatthu
-*Verse(s): [[dhp_23_nagavagga#324|Dhp 324]]*
+*Verse(s): [[dhp_23_nagavagga#324. *Parijiṇṇabrāhmaṇaputtavatthu*|Dhp 324]]*
 
 *Burlingame: The Old Brahmin and His Sons*
 *Compare: SN 7.13; Dhp-a 8.14 BG: This story is an elaboration of SN 7.13. Dhp-a 4.817-916 is word for word the same as SN 1.17534-17634. Cf. Dhp-a 8.14.*
@@ -158,7 +158,7 @@ As the Teacher related this previous life, his hearers shed floods of tears, and
 ---
 
 ### 23.4 The Story about Pasenadi Kosala Pasenadikosalavatthu
-*Verse(s): [[dhp_23_nagavagga#325|Dhp 325]]*
+*Verse(s): [[dhp_23_nagavagga#325. *Pasenadikosalavatthu*|Dhp 325]]*
 
 *Burlingame: On Moderation in Eating*
 *Compare: Dhp-a 15.6; SN 3.2.3*
@@ -189,7 +189,7 @@ The Teacher taught this verse to the young Brahmin Uttara and said to him: “Wh
 ---
 
 ### 23.5 The Story about the Novice Sāṇu Sānusāmaṇeravatthu
-*Verse(s): [[dhp_23_nagavagga#326|Dhp 326]]*
+*Verse(s): [[dhp_23_nagavagga#326. *Sānusāmaṇeravatthu*|Dhp 326]]*
 
 *Burlingame: The Novice and the Ogress*
 *Compare: SN 10.5; Thag-a 44; Dhp-a 26.21*
@@ -281,7 +281,7 @@ Venerable Sānu mastered the Three Baskets, the word of the Buddha. He became a 
 ---
 
 ### 23.6 The Story about the Elephant Baddheraka Baddherakahatthivatthu
-*Verse(s): [[dhp_23_nagavagga#327|Dhp 327]]*
+*Verse(s): [[dhp_23_nagavagga#327. *Pāveyyakahatthivatthu*|Dhp 327]]*
 
 *Burlingame: An Elephant Sticks Fast in the Mud*
 *Keywords: Animals, Kings, Similes*
@@ -311,7 +311,7 @@ You should delight in heedfulness, you should always protect your mind, raise yo
 ---
 
 ### 23.7 The Story about a Company of Bhikkhus Sambahulabhikkhuvatthu
-*Verse(s): [[dhp_23_nagavagga#328|Dhp 328]], [[dhp_23_nagavagga#330|Dhp 330]]*
+*Verse(s): [[dhp_23_nagavagga#328. *Sambahulabhikkhuvatthu*|Dhp 328]], [[dhp_23_nagavagga#330.|Dhp 330]]*
 
 *Burlingame: An Elephant Waits Upon the Buddha*
 *Compare: Dhp-a 1.5b*
@@ -363,7 +363,7 @@ It is better to live alone, there is no friendship with a fool, one should live 
 ---
 
 ### 23.8 The Story about Māra Māravatthu
-*Verse(s): [[dhp_23_nagavagga#331|Dhp 331]], [[dhp_23_nagavagga#333|Dhp 333]]*
+*Verse(s): [[dhp_23_nagavagga#331. *Māravatthu*|Dhp 331]], [[dhp_23_nagavagga#333.|Dhp 333]]*
 
 *Burlingame: Māra Tempts the Buddha*
 *Compare: SN 4.20 BG: Cf. E. Windisch, Māra und Buddha, pp. 107-109.*

@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 19.1 The Story about the Ministers of Justice Vinicchayamahāmattavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#256|Dhp 256]], [[dhp_19_dhammatthavagga#257|Dhp 257]]*
+*Verse(s): [[dhp_19_dhammatthavagga#256. *Vinicchayamahāmattavatthu*|Dhp 256]], [[dhp_19_dhammatthavagga#257.|Dhp 257]]*
 
 *Burlingame: The Unjust Judges*
 *Keywords: Justice, Righteousness, Ministers*
@@ -59,7 +59,7 @@ The one who settles for other people without haste, justly and impartially, the 
 ---
 
 ### 19.2 The Story about the Group of Six Chabbaggiyavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#258|Dhp 258]]*
+*Verse(s): [[dhp_19_dhammatthavagga#258. *Chabbaggiyavatthu*|Dhp 258]]*
 
 *Burlingame: Not Therefore is a Man called Wise for His Much Speaking*
 *Keywords: Discipline*
@@ -85,7 +85,7 @@ One is not a wise person merely because of speaking much; being safe, hatred-fre
 ---
 
 ### 19.3 The Story about the Elder Ekudāna Ekudānattheravatthu
-*Verse(s): [[dhp_19_dhammatthavagga#259|Dhp 259]]*
+*Verse(s): [[dhp_19_dhammatthavagga#259. *Ekudānakhīṇāsavavatthu*|Dhp 259]]*
 
 *Burlingame: Not Therefore is a Man Praised for His Much Speaking*
 *Compare: Ud 4.7; Thag-a 68*
@@ -126,7 +126,7 @@ One is not a Dhamma-bearer merely through speaking much, but the one who, having
 ---
 
 ### 19.4 The Story about the Elder Lakuṇḍaka Bhaddiya Lakuṇḍakabhaddiyattheravatthu
-*Verse(s): [[dhp_19_dhammatthavagga#260|Dhp 260]], [[dhp_19_dhammatthavagga#261|Dhp 261]]*
+*Verse(s): [[dhp_19_dhammatthavagga#260. *Lakuṇḍakabhaddiyattheravatthu*|Dhp 260]], [[dhp_19_dhammatthavagga#261.|Dhp 261]]*
 
 *Burlingame: Can a Young Monk be an “Elder”?*
 *Keywords: Old Age, Understanding*
@@ -157,7 +157,7 @@ In whom is truth, Dhamma, restraint, non-violence, and good training, the wise o
 ---
 
 ### 19.5 The Story about a Company of Bhikkhus Sambahulabhikkhuvatthu
-*Verse(s): [[dhp_19_dhammatthavagga#262|Dhp 262]], [[dhp_19_dhammatthavagga#263|Dhp 263]]*
+*Verse(s): [[dhp_19_dhammatthavagga#262. *Sambahulabhikkhuvatthu*|Dhp 262]], [[dhp_19_dhammatthavagga#263.|Dhp 263]]*
 
 *Burlingame: What is an Accomplished Gentleman?*
 *Keywords: Jealousy, Vanity, Gains and Fame*
@@ -190,7 +190,7 @@ the one in whom this is cut-off, destroyed at the root and dug up, that sage who
 ---
 
 ### 19.6 The Story about Hatthaka Hatthakavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#264|Dhp 264]], [[dhp_19_dhammatthavagga#265|Dhp 265]]*
+*Verse(s): [[dhp_19_dhammatthavagga#264. *Hatthakavatthu*|Dhp 264]], [[dhp_19_dhammatthavagga#265.|Dhp 265]]*
 
 *Burlingame: It is Not Tonsure that Makes the Monk*
 *Keywords: Debates, Sectarians*
@@ -225,7 +225,7 @@ The one who quenches wicked deeds, small and great, in every way – through the
 ---
 
 ### 19.7 The Story about a Certain Brahmin Aññatarabrāhmaṇavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#266|Dhp 266]], [[dhp_19_dhammatthavagga#267|Dhp 267]]*
+*Verse(s): [[dhp_19_dhammatthavagga#266. *Aññatarabrāhmaṇavatthu*|Dhp 266]], [[dhp_19_dhammatthavagga#267.|Dhp 267]]*
 
 *Burlingame: What Is It That Makes the Monk?*
 *Keywords: Almsrounds, Sectarians*
@@ -258,7 +258,7 @@ Warding off both merit and demerit, the one who lives the spiritual life, if he 
 ---
 
 ### 19.8 The Story about the Sectarians Titthiyavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#268|Dhp 268]], [[dhp_19_dhammatthavagga#269|Dhp 269]]*
+*Verse(s): [[dhp_19_dhammatthavagga#268. *Titthiyavatthu*|Dhp 268]], [[dhp_19_dhammatthavagga#269.|Dhp 269]]*
 
 *Burlingame: It Is Not Silence That Makes the Sage*
 *Keywords: Sectarians, Thanksgiving, Wisdom*
@@ -297,7 +297,7 @@ The seer who rejects wicked deeds through that is considered a sage; whoever und
 ---
 
 ### 19.9 The Story about the Fisherman Named Ariya Ariyabālisikavatthu
-*Verse(s): [[dhp_19_dhammatthavagga#270|Dhp 270]]*
+*Verse(s): [[dhp_19_dhammatthavagga#270. *Bālisikavatthu*|Dhp 270]]*
 
 *Burlingame: Noble Is as Noble Does*
 *Keywords: Killing, Wrong Livelihood*
@@ -327,7 +327,7 @@ Through not hurting living beings one is an Ariya, the one who does not hurt any
 ---
 
 ### 19.10 The Story about a Company of Bhikkhus Endowed with Virtue and So On Sambahulasīlādisampannabhikkhuvatthu
-*Verse(s): [[dhp_19_dhammatthavagga#271|Dhp 271]], [[dhp_19_dhammatthavagga#272|Dhp 272]]*
+*Verse(s): [[dhp_19_dhammatthavagga#271. *Sambahulasīlādisampannabhikkhuvatthu*|Dhp 271]], [[dhp_19_dhammatthavagga#272.|Dhp 272]]*
 
 *Burlingame: Be Not Puffed Up*
 *Keywords: Discipline, Attainments, Striving*

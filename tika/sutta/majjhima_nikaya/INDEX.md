@@ -33,4 +33,15 @@ This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Midd
 | [[mn117|MN 117]] | [[mn117_tik|Mahācattārīsakasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,073 |
 
 ---
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title"
+FROM "tika/sutta/majjhima_nikaya" AND #tika
+SORT file.name ASC
+```
+
 *Back to [[tika/sutta/INDEX|Sutta Sub-commentaries Index]]*

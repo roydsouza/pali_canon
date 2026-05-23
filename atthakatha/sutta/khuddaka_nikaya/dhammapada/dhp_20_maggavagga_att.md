@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 20.1 The Story about Five Hundred Bhikkhus Pañcasatabhikkhuvatthu
-*Verse(s): [[dhp_20_maggavagga#273|Dhp 273]], [[dhp_20_maggavagga#276|Dhp 276]]*
+*Verse(s): [[dhp_20_maggavagga#273. *Pañcasatabhikkhuvatthu*|Dhp 273]], [[dhp_20_maggavagga#276.|Dhp 276]]*
 
 *Burlingame: The Eightfold Path is the Best of Paths*
 *Keywords: Noble Eightfold Path*
@@ -73,7 +73,7 @@ Your duty is to have ardour declare the Realised Ones, on this path meditators w
 ---
 
 ### 20.2 The Story about the Characteristic of Impermanence Aniccalakkhaṇavatthu
-*Verse(s): [[dhp_20_maggavagga#277|Dhp 277]]*
+*Verse(s): [[dhp_20_maggavagga#277. *Aniccalakkhaṇavatthu*|Dhp 277]]*
 
 *Burlingame: Impermanence*
 *Keywords: Insight, Past Lives*
@@ -99,7 +99,7 @@ All conditions are impermanent, when one sees this with deep wisdom, then one gr
 ---
 
 ### 20.2 The Story about the Characteristic of Impermanence Aniccalakkhaṇavatthu
-*Verse(s): [[dhp_20_maggavagga#277|Dhp 277]]*
+*Verse(s): [[dhp_20_maggavagga#277. *Aniccalakkhaṇavatthu*|Dhp 277]]*
 
 *Burlingame: Impermanence*
 *Keywords: Insight, Past Lives*
@@ -125,7 +125,7 @@ All conditions are impermanent, when one sees this with deep wisdom, then one gr
 ---
 
 ### 20.4 The Story about the Characteristic of Non-Self Anattalakkhaṇavatthu
-*Verse(s): [[dhp_20_maggavagga#279|Dhp 279]]*
+*Verse(s): [[dhp_20_maggavagga#279. *Anattalakkhaṇavatthu*|Dhp 279]]*
 
 *Burlingame: Unreality*
 *Keywords: Insight, Past Lives*
@@ -153,7 +153,7 @@ All aggregates are without self, when one sees this with deep wisdom, then one g
 ---
 
 ### 20.5 The Story about the Elder Padhānakammika Tissa Padhānakammikatissattheravatthu
-*Verse(s): [[dhp_20_maggavagga#280|Dhp 280]]*
+*Verse(s): [[dhp_20_maggavagga#280. *Padhānakammikatissattheravatthu*|Dhp 280]]*
 
 *Burlingame: Do Not Postpone until Tomorrow*
 *Compare: Ja 71*
@@ -204,7 +204,7 @@ The one who has not timely energy, youthful, strong, but given to laziness, lack
 ---
 
 ### 20.6 The Story about the Pig Peta Sūkarapetavatthu
-*Verse(s): [[dhp_20_maggavagga#281|Dhp 281]]*
+*Verse(s): [[dhp_20_maggavagga#281. *Sūkarapetavatthu*|Dhp 281]]*
 
 *Burlingame: The Pig-Ghost*
 *Compare: SN 19.2; Pv-a 1.3*
@@ -269,7 +269,7 @@ Verbally guarded, well-restrained in mind, not doing demerit with the body, one 
 ---
 
 ### 20.7 The Story about the Elder Poṭhila Poṭhilattheravatthu
-*Verse(s): [[dhp_20_maggavagga#282|Dhp 282]]*
+*Verse(s): [[dhp_20_maggavagga#282. *Poṭṭhilattheravatthu*|Dhp 282]]*
 
 *Burlingame: Poṭhila the Empty-Head*
 *Keywords: Practice, Recitation, Meditation, Pride, Insight, Radiant Image*
@@ -305,7 +305,7 @@ From effort arises wisdom, without effort wisdom is lost, having understood thes
 ---
 
 ### 20.8 The Story about a Company of Old Elders Sambahulamahallakattheravatthu
-*Verse(s): [[dhp_20_maggavagga#283|Dhp 283]], [[dhp_20_maggavagga#284|Dhp 284]]*
+*Verse(s): [[dhp_20_maggavagga#283. *Pañcamahallakabhikkhuvatthu*|Dhp 283]], [[dhp_20_maggavagga#284.|Dhp 284]]*
 
 *Burlingame: The Old Monks and the Old Woman*
 *Compare: Ja 146*
@@ -353,7 +353,7 @@ For as long as an atom of desire of a man for a woman isn’t cut down, for just
 ---
 
 ### 20.9 The Story about the Elder Suvaṇṇakāra Suvaṇṇakārattheravatthu
-*Verse(s): [[dhp_20_maggavagga#285|Dhp 285]]*
+*Verse(s): [[dhp_20_maggavagga#285. *Suvaṇṇakārattheravatthu*|Dhp 285]]*
 
 *Burlingame: “The Grass Withereth, the Flower Fadeth”*
 *Keywords: Meditation, Insight, Radiant Image*
@@ -393,7 +393,7 @@ Cut off any affection for one’s self, like an autumn lotus plucked with the ha
 ---
 
 ### 20.10 The Story about the Merchant Mahā Dhana Mahādhanavāṇijavatthu
-*Verse(s): [[dhp_20_maggavagga#286|Dhp 286]]*
+*Verse(s): [[dhp_20_maggavagga#286. *Mahādhanavāṇijavatthu*|Dhp 286]]*
 
 *Burlingame: You Shalt Surely Die*
 *Keywords: Merchants, Death, Offerings*
@@ -432,7 +432,7 @@ The merchant accompanied the Teacher on his way for a short distance and then tu
 ---
 
 ### 20.11 The Story about Kisā Gotamī Kisāgotamīvatthu
-*Verse(s): [[dhp_20_maggavagga#287|Dhp 287]], [[dhp_08_sahassavagga#114|Dhp 114]], [[dhp_01_yamakavagga#8|Dhp 8]], [[dhp_01_yamakavagga#13|Dhp 13]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_12_attavagga#166|Dhp 166]]*
+*Verse(s): [[dhp_20_maggavagga#287. *Kisāgotamīvatthu*|Dhp 287]], [[dhp_08_sahassavagga#114. *Kisāgotamīvatthu*|Dhp 114]], [[dhp_01_yamakavagga#8.|Dhp 8]], [[dhp_01_yamakavagga#13. *Nandattheravatthu*|Dhp 13]], [[dhp_02_appamadavagga#30. *Maghavatthu*|Dhp 30]], [[dhp_12_attavagga#166. *Attadatthattheravatthu*|Dhp 166]]*
 
 *Burlingame: The Bereaved Mother and the Pinch of Mustard-Seed*
 *Compare: Dhp-a 8.13; Thīg-a 63*
@@ -461,7 +461,7 @@ That person whose mind is attached, besotted by cattle and children, is snatched
 ---
 
 ### 20.12 The Story about Paṭācārā Paṭācārāvatthu
-*Verse(s): [[dhp_20_maggavagga#288|Dhp 288]], [[dhp_20_maggavagga#289|Dhp 289]], [[dhp_08_sahassavagga#113|Dhp 113]], [[dhp_01_yamakavagga#8|Dhp 8]], [[dhp_01_yamakavagga#12|Dhp 12]]*
+*Verse(s): [[dhp_20_maggavagga#288. *Paṭācārāvatthu*|Dhp 288]], [[dhp_20_maggavagga#289.|Dhp 289]], [[dhp_08_sahassavagga#113. *Paṭācārātherīvatthu*|Dhp 113]], [[dhp_01_yamakavagga#8.|Dhp 8]], [[dhp_01_yamakavagga#12.|Dhp 12]]*
 
 *Burlingame: The Woman Who Was Bereft of All Her Family*
 *Compare: Dhp-a 8.12; AN-a 1.14.5.4; Thīg-a 47*

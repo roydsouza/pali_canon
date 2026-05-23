@@ -177,4 +177,4 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
     *   [[five_powers|Five Powers (Pañcabala)]]
     *   [[four_jhanas|Four Jhānas (Cattāri Jhānāni)]]
     *   [[six_recollections|Six Recollections (Cha Anussati)]]
-    *   [[gradual_training|Gradual Training (Anupubbasikkhā)]]
+    *   [[matika/gradual_training|Gradual Training (Anupubbasikkhā)]]

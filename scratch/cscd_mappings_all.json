@@ -523,5 +523,149 @@
         "pattern": "7-10\\.\\s+Khippanisantisutt\u0101diva\u1e47\u1e47an\u0101"
       }
     ]
+  },
+  "an7.65": {
+    "att": [
+      {
+        "file": "s0403a.att46.xml",
+        "heading": "9. Satthus\u0101sananasuttava\u1e47\u1e47an\u0101",
+        "pattern": "9\\.\\s+Satthus\u0101sananasuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0403t.tik40.xml",
+        "heading": "9. Satthus\u0101sananasuttava\u1e47\u1e47an\u0101",
+        "pattern": "9\\.\\s+Satthus\u0101sananasuttava\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an8.53": {
+    "att": [
+      {
+        "file": "s0404a.att5.xml",
+        "heading": "1. Gotam\u012bsuttava\u1e47\u1e47an\u0101",
+        "pattern": "1\\.\\s+Gotam\u012bsuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik5.xml",
+        "heading": "1-3. Gotam\u012bsutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "1-3\\.\\s+Gotam\u012bsutt\u0101diva\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an11.1": {
+    "att": [
+      {
+        "file": "s0404a.att15.xml",
+        "heading": "1. Kimatthiyasuttava\u1e47\u1e47an\u0101",
+        "pattern": "1\\.\\s+Kimatthiyasuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik13.xml",
+        "heading": "1. Kimatthiyasuttava\u1e47\u1e47an\u0101",
+        "pattern": "1\\.\\s+Kimatthiyasuttava\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an11.2": {
+    "att": [
+      {
+        "file": "s0404a.att15.xml",
+        "heading": "2. Cetan\u0101kara\u1e47\u012byasuttava\u1e47\u1e47an\u0101",
+        "pattern": "2\\.\\s+Cetan\u0101kara\u1e47\u012byasuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik13.xml",
+        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an11.3": {
+    "att": [
+      {
+        "file": "s0404a.att15.xml",
+        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
+        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik13.xml",
+        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an11.4": {
+    "att": [
+      {
+        "file": "s0404a.att15.xml",
+        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
+        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik13.xml",
+        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "an11.5": {
+    "att": [
+      {
+        "file": "s0404a.att15.xml",
+        "heading": "3-5. Upanisasuttattayava\u1e47\u1e47an\u0101",
+        "pattern": "3-5\\.\\s+Upanisasuttattayava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0404t.tik13.xml",
+        "heading": "2-5. Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "2-5\\.\\s+Cetan\u0101kara\u1e47\u012byasutt\u0101diva\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "mn22": {
+    "att": [
+      {
+        "file": "s0201a.att3.xml",
+        "heading": "2. Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101",
+        "pattern": "2\\.\\s+Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0201t.tik3.xml",
+        "heading": "2. Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101",
+        "pattern": "2\\.\\s+Alagadd\u016bpamasuttava\u1e47\u1e47an\u0101"
+      }
+    ]
+  },
+  "mn117": {
+    "att": [
+      {
+        "file": "s0203a.att1.xml",
+        "heading": "7. Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101",
+        "pattern": "7\\.\\s+Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0203t.tik1.xml",
+        "heading": "7. Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101",
+        "pattern": "7\\.\\s+Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101"
+      }
+    ]
   }
 }

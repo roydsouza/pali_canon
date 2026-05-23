@@ -114,7 +114,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §139
 
 > [!abstract]- Tīkā §139
-> [[mn117_tik#§139|Sub-commentary §139]]
+> [[mn117_tik#Sub-commentary on Majjhima Nikāya: Mahācattārīsakasutta|Sub-commentary §139]]
 
 (139) **Pāṇātipātā veramaṇī**tiādīsupi cetanā viratīti ubhayampi vaṭṭatiyeva.
 

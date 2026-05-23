@@ -30,7 +30,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §2
 
 > [!abstract]- Tīkā §2
-> [[an11_2_5_tik#§2|Sub-commentary §2]]
+> [[an11_2_5_tik#§2-5|Sub-commentary §2]]
 
 (2) Dutiye **na cetanāya karaṇīya**nti na cetetvā kappetvā pakappetvā kātabbaṃ. **Dhammatā esā**ti dhammasabhāvo eso kāraṇaniyamo ayaṃ. **Abhisandentī**ti pavattenti. **Paripūrentī**ti paripuṇṇaṃ karonti. **Apārā pāraṃ gamanāyā**ti orimatīrabhūtā tebhūmakavaṭṭā nibbānapāraṃ gamanatthāya.
 

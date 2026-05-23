@@ -69,4 +69,15 @@ layer: atthakatha
 | [[an1_616_627|AN 1.616–627]] | [[an1_616_627_att|31. Amatavaggavaṇṇanā]] | CSCD | — | 93 |
 
 ---
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title"
+FROM "atthakatha/sutta/anguttara_nikaya" AND #atthakatha
+SORT file.name ASC
+```
+
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*

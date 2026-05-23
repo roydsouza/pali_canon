@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 6.1 The Story about the Elder Rādha Rādhattheravatthu
-*Verse(s): [[dhp_06_panditavagga#76|Dhp 76]]*
+*Verse(s): [[dhp_06_panditavagga#76. *Rādhattheravatthu*|Dhp 76]]*
 
 *Burlingame: A Poor Man Wins Spiritual Treasure*
 *Keywords: Chief Disciples, Kings, Bodhisatta, Animals*
@@ -114,7 +114,7 @@ One should treat one who shows your faults just like one who points out treasure
 ---
 
 ### 6.2 The Story about the Followers of Assaji and Punabbasu Assajipunabbasukānaṁ Vatthu
-*Verse(s): [[dhp_06_panditavagga#77|Dhp 77]]*
+*Verse(s): [[dhp_06_panditavagga#77. *Assajipunabbasukavatthu*|Dhp 77]]*
 
 *Burlingame: The Insolent Monks*
 *Compare: Vin Cv 1.3*
@@ -145,7 +145,7 @@ One should both advise and instruct, and forbid whatever is vile, for it is dear
 ---
 
 ### 6.3 The Story about the Elder Channa Channattheravatthu
-*Verse(s): [[dhp_06_panditavagga#78|Dhp 78]]*
+*Verse(s): [[dhp_06_panditavagga#78. *Channattheravatthu*|Dhp 78]]*
 
 *Burlingame: Channa, Elder*
 *Compare: Vin Cv 11; DN 16; Thag-a 69*
@@ -177,7 +177,7 @@ After the decease of the Teacher Channa was summoned. The Elder Ānanda pronounc
 ---
 
 ### 6.4 The Story about the Elder Mahā Kappina Mahākappinattheravatthu
-*Verse(s): [[dhp_06_panditavagga#79|Dhp 79]]*
+*Verse(s): [[dhp_06_panditavagga#79. *Mahākappinattheravatthu*|Dhp 79]]*
 
 *Burlingame: Kappina the Great, Elder*
 *Compare: Thag-a 235; AN-a 1.14.4.9*
@@ -287,7 +287,7 @@ The one who drinks Dhamma lives well, with a clear mind, the Dhamma that is made
 ---
 
 ### 6.6 The Story about the Elder Lakuṇṭaka Bhaddiya Lakuṇṭakabhaddiyattheravatthu
-*Verse(s): [[dhp_06_panditavagga#81|Dhp 81]]*
+*Verse(s): [[dhp_06_panditavagga#81. *Lakuṇḍakabhaddiyattheravatthu*|Dhp 81]]*
 
 *Burlingame: Unshaken as a Rock*
 *Compare: Ud 7*
@@ -314,7 +314,7 @@ Just as solid rock is not shaken by the wind, so the wise are not moved by eithe
 ---
 
 ### 6.7 The Story about the Mother of Kāṇā Kāṇamātāvatthu
-*Verse(s): [[dhp_06_panditavagga#82|Dhp 82]]*
+*Verse(s): [[dhp_06_panditavagga#82. *Kāṇamātāvatthu*|Dhp 82]]*
 
 *Burlingame: After the Storm, Calm*
 *Compare: Ja 137; Vin Pāc. 34*
@@ -379,7 +379,7 @@ Like a lake that is deep and clear, like a lake that is unruffled, just so the w
 ---
 
 ### 6.8 The Story about Five Hundred Bhikkhus Pañcasatabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_06_panditavagga#83|Dhp 83]]*
+*Verse(s): [[dhp_06_panditavagga#83. *Pañcasatabhikkhuvatthu*|Dhp 83]]*
 
 *Burlingame: A Pack of Vagabonds*
 *Compare: Vin Pār 1; Ja 183*
@@ -426,7 +426,7 @@ True people surely everywhere renounce, the good do not talk about sense-pleasur
 ---
 
 ### 6.9 The Story about the Elder Dhammika Dhammikattheravatthu
-*Verse(s): [[dhp_06_panditavagga#84|Dhp 84]]*
+*Verse(s): [[dhp_06_panditavagga#84. *Dhammikattheravatthu*|Dhp 84]]*
 
 *Burlingame: Husband and Wife*
 *Compare: Dhp-a 24.4*
@@ -457,7 +457,7 @@ Not for one’s own sake and not for another’s sake, not desiring a child, ric
 ---
 
 ### 6.10 The Story about Listening to the Dhamma Dhammassavanavatthu
-*Verse(s): [[dhp_06_panditavagga#85|Dhp 85]], [[dhp_06_panditavagga#86|Dhp 86]]*
+*Verse(s): [[dhp_06_panditavagga#85. *Dhammassavanattheravatthu*|Dhp 85]], [[dhp_06_panditavagga#86.|Dhp 86]]*
 
 *Burlingame: “Few There Be That Find It”*
 *Keywords: Pollutants, Listening to Dhamma*
@@ -483,7 +483,7 @@ Amongst humans few people go beyond, the rest of the people run down the bank, b
 ---
 
 ### 6.11 The Story about Five Hundred Visiting Bhikkhus Pañcasata-āgantukabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_06_panditavagga#87|Dhp 87]], [[dhp_06_panditavagga#89|Dhp 89]]*
+*Verse(s): [[dhp_06_panditavagga#87. *Pañcasataāgantukabhikkhuvatthu*|Dhp 87]], [[dhp_06_panditavagga#89.|Dhp 89]]*
 
 *Burlingame: Abandon the Dark State*
 *Keywords: Renunciation, Monastics*

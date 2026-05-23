@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 26.1 The Story about the Brahmin Pasādabahula Pasādabahulabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#383|Dhp 383]]*
+*Verse(s): [[dhp_26_brahmanavagga#383. *Pasādabahulabrāhmaṇavatthu*|Dhp 383]]*
 
 *Burlingame: Brahmin Great-Joy*
 *Keywords: Offerings, Faith*
@@ -52,7 +52,7 @@ Strive and cut off the stream, remove desire, Brahmin, knowing the destruction o
 ---
 
 ### 26.2 The Story about a Company of Bhikkhus Sambahulabhikkhuvatthu
-*Verse(s): [[dhp_26_brahmanavagga#384|Dhp 384]]*
+*Verse(s): [[dhp_26_brahmanavagga#384. *Sambahulabhikkhuvatthu*|Dhp 384]]*
 
 *Burlingame: What Are the “Two States”?*
 *Keywords: Insight, Meditation*
@@ -76,7 +76,7 @@ When a Brahmin has, through two states, crossed over, then for one who knows, al
 ---
 
 ### 26.3 The Story about Māra Māravatthu
-*Verse(s): [[dhp_26_brahmanavagga#385|Dhp 385]]*
+*Verse(s): [[dhp_26_brahmanavagga#385. *Māravatthu*|Dhp 385]]*
 
 *Burlingame: What Is the “Far Shore”?*
 *Keywords: Māra*
@@ -102,7 +102,7 @@ For whom the near shore, the far shore, or both do not exist, free of anxiety, b
 ---
 
 ### 26.4 The Story about a Certain Brahmin Aññatarabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#386|Dhp 386]]*
+*Verse(s): [[dhp_26_brahmanavagga#386. *Aññatarabrāhmaṇavatthu*|Dhp 386]]*
 
 *Burlingame: What Is a Brahmin?*
 *Keywords: Brahmins*
@@ -128,7 +128,7 @@ The meditator sitting down, dustless, who has done his duty, without pollutants,
 ---
 
 ### 26.5 The Story about the Elder Ānanda Ānandattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#387|Dhp 387]]*
+*Verse(s): [[dhp_26_brahmanavagga#387. *Ānandattheravatthu*|Dhp 387]]*
 
 *Burlingame: The Buddhas Shine Both Day and Night*
 *Keywords: Similes*
@@ -156,7 +156,7 @@ The sun shines by day, the moon shines by night, the accoutred noble is radiant,
 ---
 
 ### 26.6 The Story about a Certain One Gone Forth Aññatarapabbajitavatthu
-*Verse(s): [[dhp_26_brahmanavagga#388|Dhp 388]]*
+*Verse(s): [[dhp_26_brahmanavagga#388. *Aññatarabrāhmaṇapabbajitavatthu*|Dhp 388]]*
 
 *Burlingame: What Is a Monk?*
 *Keywords: Brahmins*
@@ -182,7 +182,7 @@ Warding wickedness one’s called a Brahmin, an austere one is called an ascetic
 ---
 
 ### 26.7 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#389|Dhp 389]], [[dhp_26_brahmanavagga#390|Dhp 390]]*
+*Verse(s): [[dhp_26_brahmanavagga#389. *Sāriputtattheravatthu*|Dhp 389]], [[dhp_26_brahmanavagga#390.|Dhp 390]]*
 
 *Burlingame: The Patient Subdues the Violent*
 *Keywords: Brahmins, Forgiveness*
@@ -221,7 +221,7 @@ It is no little good for the Brahmin: when the mind is held back from what is de
 ---
 
 ### 26.8 The Story about Mahā Pajāpatī Gotamī Mahāpajāpatigotamīvatthu
-*Verse(s): [[dhp_26_brahmanavagga#391|Dhp 391]]*
+*Verse(s): [[dhp_26_brahmanavagga#391. *Mahāpajāpatigotamīvatthu*|Dhp 391]]*
 
 *Burlingame: Mahā Pajāpatī Gotamī Receives the Precepts*
 *Compare: Vin Cv 10.1*
@@ -250,7 +250,7 @@ For whom there is no wrong-doing by body, by voice or by mind, being restrained 
 ---
 
 ### 26.9 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#392|Dhp 392]]*
+*Verse(s): [[dhp_26_brahmanavagga#392. *Sāriputtattheravatthu*|Dhp 392]]*
 
 *Burlingame: Reverence to Whom Reverence Is Due*
 *Keywords: Respect, Teachers*
@@ -278,7 +278,7 @@ That one from whom one learned Dhamma taught by the Perfect Sambuddha, with resp
 ---
 
 ### 26.10 The Story about the Brahmin with Matted Hair Jaṭilabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#393|Dhp 393]]*
+*Verse(s): [[dhp_26_brahmanavagga#393. *Jaṭilabrāhmaṇavatthu*|Dhp 393]]*
 
 *Burlingame: What Is a Brahmin?*
 *Compare: Dhp-a 26.13*
@@ -305,7 +305,7 @@ Not because of matted hair, family or birth is one a true Brahmin, in whom there
 ---
 
 ### 26.11 The Story about the Fraudulent Brahmin Kuhakabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#394|Dhp 394]]*
+*Verse(s): [[dhp_26_brahmanavagga#394. *Kuhakabrāhmaṇavatthu*|Dhp 394]]*
 
 *Burlingame: The Trickster Brahman*
 *Compare: Ja 325; Ja 138; Ja 277*
@@ -364,7 +364,7 @@ Why do you have your hair matted, stupid one, and why your deer-skin? Within you
 ---
 
 ### 26.12 The Story about Kisā Gotamī Kisāgotamīvatthu
-*Verse(s): [[dhp_26_brahmanavagga#395|Dhp 395]]*
+*Verse(s): [[dhp_26_brahmanavagga#395. *Kisāgotamīvatthu*|Dhp 395]]*
 
 *Burlingame: Kisā Gotamī, Wearer of Refuse-Rags*
 *Compare: Dhp-a 26.20*
@@ -391,7 +391,7 @@ That one who wears discarded clothes, who is lean with protruding veins, who med
 ---
 
 ### 26.13 The Story about One Brahmin Ekabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#396|Dhp 396]]*
+*Verse(s): [[dhp_26_brahmanavagga#396. *Ekabrāhmaṇavatthu*|Dhp 396]]*
 
 *Burlingame: What is a Brahman?*
 *Compare: Dhp-a 6.10*
@@ -418,7 +418,7 @@ I do not call one a Brahmin because of being born from a certain womb, that one 
 ---
 
 ### 26.14 The Story about Uggasena Uggasenavatthu
-*Verse(s): [[dhp_26_brahmanavagga#397|Dhp 397]], [[dhp_24_tanhavagga#348|Dhp 348]]*
+*Verse(s): [[dhp_26_brahmanavagga#397. *Uggasenaseṭṭhiputtavatthu*|Dhp 397]], [[dhp_24_tanhavagga#348. *Uggasenavatthu*|Dhp 348]]*
 
 *Burlingame: Uggasena the Acrobat*
 *Compare: Dhp-a 24.6*
@@ -476,7 +476,7 @@ Whoever has cut off all the fetters surely does not tremble, surmounting attachm
 ---
 
 ### 26.15 The Story about Two Brahmins Dviṇṇaṁ Brāhmaṇānaṁ Vatthu
-*Verse(s): [[dhp_26_brahmanavagga#398|Dhp 398]]*
+*Verse(s): [[dhp_26_brahmanavagga#398. *Dvebrāhmaṇavatthu*|Dhp 398]]*
 
 *Burlingame: A Tug of War*
 *Keywords: Brahmins, Similes, Animals*
@@ -504,7 +504,7 @@ Whoever has cut off the thong, the strap, the rope, together with the bridle, wh
 ---
 
 ### 26.16 The Story about the Insolent Bhāradvāja Akkosabhāradvājavatthu
-*Verse(s): [[dhp_26_brahmanavagga#399|Dhp 399]]*
+*Verse(s): [[dhp_26_brahmanavagga#399. *Akkosakabhāradvājavatthu*|Dhp 399]]*
 
 *Burlingame: The Patient Subdues the Insolent*
 *Compare: SN 7.11*
@@ -552,7 +552,7 @@ Whoever, being pure, forbears with punishment, bondage, abuse, having the streng
 ---
 
 ### 26.17 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_03_cittavagga#40|Dhp 40]]*
+*Verse(s): [[dhp_03_cittavagga#40. *Pañcasatabhikkhuvatthu*|Dhp 40]]*
 
 *Burlingame: Sāriputta is Reviled by His Mother*
 *Keywords: Great Disciples, Offerings, Reviling*
@@ -582,7 +582,7 @@ Whoever is controlled of mind, dutiful, virtuous, taint-free, well-trained and i
 ---
 
 ### 26.18 The Story about the Elder Uppalavaṇṇā Uppalavaṇṇattherīvatthu
-*Verse(s): [[dhp_26_brahmanavagga#401|Dhp 401]]*
+*Verse(s): [[dhp_26_brahmanavagga#401. *Uppalavaṇṇāttherīvatthu*|Dhp 401]]*
 
 *Burlingame: Are Not the Arahats Creatures of Flesh and Blood?*
 *Compare: Dhp-a 5.10*
@@ -611,7 +611,7 @@ Like water on the lotus leaf, like a mustard seed on needle, he who is unsmeared
 ---
 
 ### 26.19 The Story about a Certain Brahmin Aññatarabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#402|Dhp 402]]*
+*Verse(s): [[dhp_26_brahmanavagga#402. *Aññatarabrāhmaṇavatthu*|Dhp 402]]*
 
 *Burlingame: A Slave Lays Down His Burden*
 *Keywords: Brahmins, Slaves*
@@ -637,7 +637,7 @@ Whoever knows here and now the destruction of his suffering, putting down the bu
 ---
 
 ### 26.20 The Story about the Bhikkhunī Khemā Khemābhikkhunīvatthu
-*Verse(s): [[dhp_26_brahmanavagga#403|Dhp 403]]*
+*Verse(s): [[dhp_26_brahmanavagga#403. *Khemābhikkhunīvatthu*|Dhp 403]]*
 
 *Burlingame: Khemā the Wise*
 *Compare: Dhp-a 26.12*
@@ -662,7 +662,7 @@ The deeply wise sagacious one, skilled in what is path and not path, who has rea
 ---
 
 ### 26.21 The Story about the Elder Pabbhāravāsī Tissa Pabbhāravāsitissattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#404|Dhp 404]]*
+*Verse(s): [[dhp_26_brahmanavagga#404. *Pabbhāravāsitissattheravatthu*|Dhp 404]]*
 
 *Burlingame: The Monk and the Goddess*
 *Compare: Dhp-a 23.5*
@@ -717,7 +717,7 @@ Whoever does not mix with the householders or the houseless, wand’ring homeles
 ---
 
 ### 26.22 The Story about a Certain Bhikkhu Aññatarabhikkhuvatthu
-*Verse(s): [[dhp_26_brahmanavagga#405|Dhp 405]]*
+*Verse(s): [[dhp_26_brahmanavagga#405. *Aññatarabhikkhuvatthu*|Dhp 405]]*
 
 *Burlingame: The Monk and the Woman*
 *Keywords: Women, Anger*
@@ -747,7 +747,7 @@ Whoever has laid down the stick used against fearful and fearless beings, who ne
 ---
 
 ### 26.23 The Story about the Four Novices Catunnaṁ Sāmaṇerānaṁ Vatthu
-*Verse(s): [[dhp_26_brahmanavagga#406|Dhp 406]]*
+*Verse(s): [[dhp_26_brahmanavagga#406. *Sāmaṇerānaṁvatthu*|Dhp 406]]*
 
 *Burlingame: The Four Novices*
 *Keywords: Chief Disciples, Novices, Offerings, Merit*
@@ -795,7 +795,7 @@ Being friendly with the hostile, calm amongst those holding a stick, not attache
 ---
 
 ### 26.24 The Story about the Elder Mahā Panthaka Mahāpanthakattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#407|Dhp 407]]*
+*Verse(s): [[dhp_26_brahmanavagga#407. *Mahāpanthakattheravatthu*|Dhp 407]]*
 
 *Burlingame: Did Mahā Panthaka Yield to Anger?*
 *Compare: Dhp-a 2.3*
@@ -822,7 +822,7 @@ Whoever has dropped off passion and hatred, conceit and anger, like a mustard se
 ---
 
 ### 26.25 The Story about the Elder Pilindavaccha Pilindavacchattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#408|Dhp 408]]*
+*Verse(s): [[dhp_26_brahmanavagga#408. *Pilindavacchattheravatthu*|Dhp 408]]*
 
 *Burlingame: The Force of Habit*
 *Compare: Ud 3.6; AN-a 1.14.3.7; Dhp-a 18.9*
@@ -849,7 +849,7 @@ Whoever speaks a word of truth that is informed and is not coarse, through which
 ---
 
 ### 26.26 The Story about a Certain Elder Aññatarattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#409|Dhp 409]]*
+*Verse(s): [[dhp_26_brahmanavagga#409. *Aññatarattheravatthu*|Dhp 409]]*
 
 *Burlingame: The Monk Who Was Accused of Theft*
 *Keywords: Discipline*
@@ -879,7 +879,7 @@ Whoever here does not take what is not given, long, short, small, large, attract
 ---
 
 ### 26.27 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#410|Dhp 410]]*
+*Verse(s): [[dhp_26_brahmanavagga#410. *Sāriputtattheravatthu*|Dhp 410]]*
 
 *Burlingame: Sāriputta is Misunderstood*
 *Keywords: Offerings, Discipline, Merit, Foremost Disciples*
@@ -907,7 +907,7 @@ For the one who has no longings in this world or in the next world, being withou
 ---
 
 ### 26.28 The Story about the Elder Mahā Moggallāna Mahāmoggallānattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#411|Dhp 411]]*
+*Verse(s): [[dhp_26_brahmanavagga#411. *Mahāmoggallānattheravatthu*|Dhp 411]]*
 
 *Burlingame: Moggallāna is Misunderstood*
 *Keywords: Chief Disciples, Offerings, Discipline, Merit*
@@ -935,7 +935,7 @@ For the one who has no desires, who, through knowledge, is without doubt, who ha
 ---
 
 ### 26.29 The Story about the Elder Revata Revatattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#412|Dhp 412]], [[dhp_07_arahantavagga#98|Dhp 98]]*
+*Verse(s): [[dhp_26_brahmanavagga#412. *Revatattheravatthu*|Dhp 412]], [[dhp_07_arahantavagga#98. *Khadiravaniyarevatattheravatthu*|Dhp 98]]*
 
 *Burlingame: Renounce Both Good and Evil*
 *Compare: Dhp-a 7.9*
@@ -1030,7 +1030,7 @@ Whoever here has overcome clinging to merit, demerit, who is griefless, dustless
 ---
 
 ### 26.30 The Story about the Elder Candābha Candābhattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#413|Dhp 413]]*
+*Verse(s): [[dhp_26_brahmanavagga#413. *Candābhattheravatthu*|Dhp 413]]*
 
 *Burlingame: Elder Moonlight*
 *Compare: Dhp-a 26.37*
@@ -1079,7 +1079,7 @@ Whoever, just like the moon, is stainless, pure, clear, undisturbed, and has des
 ---
 
 ### 26.31 The Story about the Elder Sīvali Sīvalittheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#414|Dhp 414]]*
+*Verse(s): [[dhp_26_brahmanavagga#414. *Sīvalittheravatthu*|Dhp 414]]*
 
 *Burlingame: Seven Years in the Womb*
 *Compare: Ud 2.8; Ja 100; Thag-a 60; AN-a 1.14.2.9; Dhp-a 7.9c BG: Parallels: Ud 2.8; Ja 100; Thag-a, 60; AN-a 1.14.2.9 about Suppavāsā. The Udāna version is more detailed than the Jātaka version, and the Jātaka version more detailed than the Dhp-a version. Dhp-a 4.19215-19305 is almost word for word the same as Ud 158-15, agreeing with the Udāna rather than with the Jātaka. According to the Udāna and the Jātaka, a lay supporter of Moggallāna postpones his entertainment of the Buddha at the latter’s request, to enable him to accept Suppāvāsa’s invitation. Dhp-a omits this. On the other hand, the Udāna has nothing to say about Sīvali’s retirement from the world, which the Jātaka gives at length, and Dhp-a very briefly. The author of Dhp-a has evidently used both the Udāna and the Jātaka as his authorities. With the account of the Buddha’s easing of Suppāvāsa’s birth-pains by a benediction, cf. the account in Dhp-a 13.6 (MN 86) of Aṅgulimāla’s easing of a woman’s birth-pains by an act of truth. For Suppāvāsa’s entertainment of the Buddha, see AN 2.62-63. For the story of Sīvali as recipient of offerings, see Dhp-a 7.9b; Thag-a 60; AN-a 1.14.2.9. For the story of Sīvali’s past deeds, see Dhp-a 7.9c; Ja 100; AN-a 1.14.2.9. The account in Thag-a 60 of Sīvali’s birth, retirement from the world, and reception of offerings, is evidently derived from at least three different sources; namely, Jātaka Commentary, Dhammapada Commentary and the Aṅguttara Commentary.*
@@ -1110,7 +1110,7 @@ He who has crossed the difficult path through births, deaths and delusion, the m
 ---
 
 ### 26.32 The Story about the Elder Sundarasamudda Sundarasamuddattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#415|Dhp 415]]*
+*Verse(s): [[dhp_26_brahmanavagga#415. *Sundarasamuddattheravatthu*|Dhp 415]]*
 
 *Burlingame: A Courtezan tempts the Monk Ocean-of-Beauty*
 *Compare: Ja 14; Ja 536; Thag-a 224 BG: The introductory part of this story (text: 4.19418-19625) is a very free version of the Introduction to Ja 14. The account of the temptation of the monk is almost word for word the same as Ja 536, 5.43328-43408. This story affords an unusually striking example of the literary methods of the author. The words “Khalu samma Puṇṇamukha,” appropriate enough at Jātaka, V. 43328, are out of place here. From this story is derived Thag-a 224.*
@@ -1174,7 +1174,7 @@ Having related in detail this Birth Story about the Wind-Deer, found in the Firs
 ---
 
 ### 26.33 The Story about the Elder Jaṭila Jaṭilattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#416|Dhp 416]]*
+*Verse(s): [[dhp_26_brahmanavagga#416. *Jaṭilattheravatthu*|Dhp 416]]*
 
 *Burlingame: Jotika and Jaṭila*
 *Cast: Sena, Aparājita, Buddha Vipassī, Aparājita (2), Meṇḍaka, Jotika, Sakka, King Bimbisāra, Prince Ajātasattu, Jaṭila, Elder Mahā Kaccāna, Buddha Kassapa*
@@ -1359,7 +1359,7 @@ Whoever, giving up craving, would wander homeless in this world, destroying crav
 ---
 
 ### 26.34 The Story about the Elder Jotika Jotikattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#416|Dhp 416]], [[dhp_26_brahmanavagga#416|Dhp 416]]*
+*Verse(s): [[dhp_26_brahmanavagga#416. *Jaṭilattheravatthu*|Dhp 416]], [[dhp_26_brahmanavagga#416. *Jaṭilattheravatthu*|Dhp 416]]*
 
 *Burlingame: Ajātasattu Attacks Jotika’s Palace*
 *Cast: Prince Ajātasattu, Devadatta, King Bimbisāra, Yakkha Yamakoḷi, Satulakāyī*
@@ -1396,7 +1396,7 @@ Whoever, giving up craving, would wander homeless in this world, destroying crav
 ---
 
 ### 26.35 The Story about the Elder, Formerly an Acrobat Naṭapubbakattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#417|Dhp 417]]*
+*Verse(s): [[dhp_26_brahmanavagga#417. *Naṭaputtakattheravatthu*|Dhp 417]]*
 
 *Burlingame: The Monk Who Was Once a Mime*
 *Keywords: Acrobats*
@@ -1424,7 +1424,7 @@ Abandoning the human yoke, overcoming the divine yoke, being unattached to all y
 ---
 
 ### 26.36 The Story about the Elder, Formerly an Acrobat Naṭapubbakattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#418|Dhp 418]]*
+*Verse(s): [[dhp_26_brahmanavagga#418. *Naṭaputtakattheravatthu*|Dhp 418]]*
 
 *Burlingame: The Monk Who Was Once a Mime*
 *Keywords: Acrobats*
@@ -1452,7 +1452,7 @@ Abandoning delight and hate, cooled off and free from all cleaving, a hero who v
 ---
 
 ### 26.37 The Story about the Elder Vaṅgīsa Vaṅgīsattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#419|Dhp 419]], [[dhp_26_brahmanavagga#420|Dhp 420]]*
+*Verse(s): [[dhp_26_brahmanavagga#419. *Vaṅgīsattheravatthu*|Dhp 419]], [[dhp_26_brahmanavagga#420.|Dhp 420]]*
 
 *Burlingame: The Skull-Tapper*
 *Compare: Thag-a 264; Thag-a 151; AN-a 1.14.3.4; Dhp-a 26.30b BG: From this story are derived Thag-a 264 (Vaṅgīsa) and Thag-a 151 (Migasira). Cf. AN-a 1.14.3.4 about Vangīsa. For a Sanskrit parallel from Eastern Turkestan, see A. F. R. Hoernle, JRAS., 1916, 709 ff. (fifth fragment). Cf. Dhp-a 26.30b.*
@@ -1500,7 +1500,7 @@ For the one whose destiny is unknown to Devas, Gandhabbas, humans – pollutant-
 ---
 
 ### 26.38 The Story about the Elder Dhammadinnā Dhammadinnattherīvatthu
-*Verse(s): [[dhp_26_brahmanavagga#421|Dhp 421]]*
+*Verse(s): [[dhp_26_brahmanavagga#421. *Dhammadinnāttherīvatthu*|Dhp 421]]*
 
 *Burlingame: Husband and Wife*
 *Compare: AN-a 1.14.5.5; Thīg-a 12; MN 44*
@@ -1533,7 +1533,7 @@ For whom there is nothing in the past, the future or the present, having nothing
 ---
 
 ### 26.39 The Story about the Elder Aṅgulimāla Aṅgulimālattheravatthu
-*Verse(s): [[dhp_26_brahmanavagga#422|Dhp 422]]*
+*Verse(s): [[dhp_26_brahmanavagga#422. *Aṅgulimālattheravatthu*|Dhp 422]]*
 
 *Burlingame: Aṅgulimāla the Fearless*
 *Compare: Dhp-a 13.10; Dhp-a 13.6; MN 86*
@@ -1578,7 +1578,7 @@ A noble leader, heroic, a great seer, victorious, free of lust, cleansed and awa
 ---
 
 ### 26.40 The Story about the Brahmin Devahita Devahitabrāhmaṇavatthu
-*Verse(s): [[dhp_26_brahmanavagga#423|Dhp 423]]*
+*Verse(s): [[dhp_26_brahmanavagga#423. *Devahitabrāhmaṇavatthu*|Dhp 423]]*
 
 *Burlingame: It Is the Giver That Makes the Gift*
 *Compare: SN 7.2.3*

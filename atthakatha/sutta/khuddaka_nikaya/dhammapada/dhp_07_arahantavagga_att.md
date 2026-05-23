@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 7.1 The Story about Jīvaka’s Question Jīvakapañhavatthu
-*Verse(s): [[dhp_07_arahantavagga#90|Dhp 90]]*
+*Verse(s): [[dhp_07_arahantavagga#90. *Jīvakapañhavatthu*|Dhp 90]]*
 
 *Burlingame: The Realised One Suffers Not*
 *Compare: Vin Mv 8.1*
@@ -58,7 +58,7 @@ For the one who has reached his goal, who grieves not, released on all sides, wh
 ---
 
 ### 7.2 The Story about the Elder Mahā Kassapa Mahākassapattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#91|Dhp 91]]*
+*Verse(s): [[dhp_07_arahantavagga#91. *Mahākassapattheravatthu*|Dhp 91]]*
 
 *Burlingame: Free from Attachment*
 *Keywords: Walkabout, Obedience, Great Disciples*
@@ -98,7 +98,7 @@ The mindful ones who are striving do not delight in a dwelling, like geese who a
 ---
 
 ### 7.3 The Story about the Elder Belaṭṭhisīsa Belaṭṭhasīsattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#92|Dhp 92]]*
+*Verse(s): [[dhp_07_arahantavagga#92. *Belaṭṭhasīsattheravatthu*|Dhp 92]]*
 
 *Burlingame: A Monk Stores Food*
 *Compare: Vin Pāc 38*
@@ -125,7 +125,7 @@ For those who have no stores, who know their food aright, for those whose resort
 ---
 
 ### 7.4 The Story about the Elder Anuruddha Anuruddhattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#93|Dhp 93]]*
+*Verse(s): [[dhp_07_arahantavagga#93. *Anuruddhattheravatthu*|Dhp 93]]*
 
 *Burlingame: The Monk and the Goddess*
 *Cast: Elder Anuruddha, Devadhītā Jālinī, Elder Mahā Kassapa, Elder Sāriputta, Elder Ānanda, Elder Mahā Moggallāna, Sakka*
@@ -164,7 +164,7 @@ For him whose pollutants are destroyed, who is not dependent on the foods, for h
 ---
 
 ### 7.5 The Story about the Elder Mahā Kaccāyana Mahākaccāyanattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#94|Dhp 94]]*
+*Verse(s): [[dhp_07_arahantavagga#94. *Mahākaccāyanattheravatthu*|Dhp 94]]*
 
 *Burlingame: Sakka Honors a Monk*
 *Keywords: Great Disciples, Respect, Offerings*
@@ -194,7 +194,7 @@ For the one whose senses are stilled, like horses well-trained by their groom, w
 ---
 
 ### 7.6 The Story about the Elder Sāriputta Sāriputtattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#95|Dhp 95]]*
+*Verse(s): [[dhp_07_arahantavagga#95. *Sāriputtattheravatthu*|Dhp 95]]*
 
 *Burlingame: A Fancied Slight*
 *Compare: AN 9.11*
@@ -235,7 +235,7 @@ One untroubled just like the earth, steadfast just like a city-post, like a lake
 ---
 
 ### 7.7 The Story about Kosambivāsī Tissa’s Novice Kosambivāsitissasāmaṇeravatthu
-*Verse(s): [[dhp_07_arahantavagga#96|Dhp 96]]*
+*Verse(s): [[dhp_07_arahantavagga#96. *Kosambivāsitissattherasāmaṇeravatthu*|Dhp 96]]*
 
 *Burlingame: The Loss of an Eye*
 *Keywords: Novices, Injuries, Forgiveness*
@@ -277,7 +277,7 @@ His mind is calm, his speech is calm, and his actions are also calm, liberated b
 ---
 
 ### 7.8 The Story about the Question and Answer to the Elder Sāriputta Sāriputtattherassa Pañhavissajjanavatthu
-*Verse(s): [[dhp_07_arahantavagga#97|Dhp 97]]*
+*Verse(s): [[dhp_07_arahantavagga#97. *Sāriputtattheravatthu*|Dhp 97]]*
 
 *Burlingame: Not by the Faith of Another*
 *Compare: SN 48.44*
@@ -308,7 +308,7 @@ At the end of the verse those thirty forest-dwelling bhikkhus reached Arahatship
 ---
 
 ### 7.9 The Story about the Elder Khadiravaniya Revata Khadiravaniyarevatattheravatthu
-*Verse(s): [[dhp_07_arahantavagga#98|Dhp 98]], [[dhp_26_brahmanavagga#412|Dhp 412]]*
+*Verse(s): [[dhp_07_arahantavagga#98. *Khadiravaniyarevatattheravatthu*|Dhp 98]], [[dhp_26_brahmanavagga#412. *Revatattheravatthu*|Dhp 412]]*
 
 *Burlingame: Elder Revata of the Acacia Forest*
 *Compare: Thag-a 42; AN-a ii.192ff; Thag-a 60; AN-a ii.196ff; Ja 100; Dhp-a 26.31; Ud 2.8 This story is made up of three independent stories, with a fourth story implied. In 9a Revata becomes a monk and retires to the forest. Parallels: Thag-a 42; AN-a 1.14.2.5. In 9b the Buddha visits Revata, and the monks are entertained by Devatās through Sīvali’s merit. Parallels: Thag-a 60; 9c is the story of Sīvali’s past deeds. Parallels: Ja 100; AN-a 1.14.2.9. For the story of Sīvali’s birth, see Dhp-a 26.31; Ud 2.8; Ja 100; Thag-a 60; AN-a 1.14.2.9.*
@@ -408,7 +408,7 @@ The Teacher came in and asked them: “Bhikkhus, what is it that you are sitting
 ---
 
 ### 7.10 The Story about a Certain Woman Aññatara-itthīvatthu
-*Verse(s): [[dhp_07_arahantavagga#99|Dhp 99]]*
+*Verse(s): [[dhp_07_arahantavagga#99. *Aññataraitthivatthu*|Dhp 99]]*
 
 *Burlingame: A Courtezan Tempts a Monk*
 *Compare: Dhp-a 26.32*

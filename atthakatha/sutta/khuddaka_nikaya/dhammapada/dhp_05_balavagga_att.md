@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 5.1 The frame-story, is the story of the king and the poor man with a beautiful wife and turns on the David and Uriah motif (2 Samuel xi; cf. The story of King Cyrus and Queen Panthea, Xenophon’s Cyrop. vi). The same story occurs in Petavatthu Commentary, 4.1 & 4.15.
-*Verse(s): [[dhp_05_balavagga#60|Dhp 60]], [[dhp_01_yamakavagga#15|Dhp 15]]*
+*Verse(s): [[dhp_05_balavagga#60. *Aññatarapurisavatthu*|Dhp 60]], [[dhp_01_yamakavagga#15. *Cundasūkarikavatthu*|Dhp 15]]*
 
 *Compare: Ja 314; Ja 418; Ja 77; Ja 18; Pv-a 4.15; Dhp-a 8.3; Dhp-a 8.9*
 *Cast: King Pasenadi Kosala, the elephant Puṇḍarīka, Queen Mallikā (Queen Dinnā), Buddha Kassapa, Sakka, King Uggasena*
@@ -184,7 +184,7 @@ If beings knew thus: this leads to a rebirth full of suffering, no one would kil
 ---
 
 ### 5.2 The Story about the Elder Mahā Kassapa’s Pupil Mahākassapattherassa Saddhivihārikavatthu
-*Verse(s): [[dhp_05_balavagga#61|Dhp 61]]*
+*Verse(s): [[dhp_05_balavagga#61. *Mahākassapasaddhivihārikavatthu*|Dhp 61]]*
 
 *Burlingame: The Rebellious Pupil*
 *Compare: Ja 321*
@@ -253,7 +253,7 @@ If while roaming one cannot find one better or same as oneself, one should resol
 ---
 
 ### 5.3 The Story about the Rich Man Ānanda Ānandaseṭṭhivatthu
-*Verse(s): [[dhp_05_balavagga#62|Dhp 62]]*
+*Verse(s): [[dhp_05_balavagga#62. *Ānandaseṭṭhivatthu*|Dhp 62]]*
 
 *Burlingame: A Jonah in the House*
 *Compare: Ja 41 BG: This story is referred to at Mil 35010.*
@@ -299,7 +299,7 @@ As the Teacher was going his rounds for alms, accompanied by the Elder Ānanda a
 ---
 
 ### 5.4 The Story about the Thieves Who Broke Their Bonds Gaṇṭhikabhedakacoravatthu
-*Verse(s): [[dhp_05_balavagga#63|Dhp 63]]*
+*Verse(s): [[dhp_05_balavagga#63. *Gaṇṭhibhedakacoravatthu*|Dhp 63]]*
 
 *Burlingame: The Pickpocket*
 *Keywords: Thieves, Listening to Dhamma*
@@ -327,7 +327,7 @@ The fool who knows his foolishness, is at least wise in that matter, the fool wh
 ---
 
 ### 5.5 The Story about the Elder Udāyī Udāyittheravatthu
-*Verse(s): [[dhp_05_balavagga#64|Dhp 64]]*
+*Verse(s): [[dhp_05_balavagga#64. *Udāyittheravatthu*|Dhp 64]]*
 
 *Burlingame: The Wise Fool*
 *Keywords: Fools, Wisdom*
@@ -353,7 +353,7 @@ Even if a fool attends on a wise man for his whole life long, he does not learn 
 ---
 
 ### 5.6 The Story about 30 Bhikkhus from Pāṭheyya Tiṁsamattapāṭheyyakabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_05_balavagga#65|Dhp 65]]*
+*Verse(s): [[dhp_05_balavagga#65. *Tiṁsapāveyyakabhikkhuvatthu*|Dhp 65]]*
 
 *Burlingame: From Vice to Virtue*
 *Compare: Vin Mv 1.14; Ja 388, Dhp-a 1.8e*
@@ -384,7 +384,7 @@ If a perceptive man attends on a wise man for a second, he quickly learns Dhamma
 ---
 
 ### 5.7 The Story about the Leper Suppabuddha Suppabuddhakuṭṭhivatthu
-*Verse(s): [[dhp_05_balavagga#66|Dhp 66]]*
+*Verse(s): [[dhp_05_balavagga#66. *Suppabuddhakuṭṭhivatthu*|Dhp 66]]*
 
 *Burlingame: A Leper is Tempted to Deny His Faith*
 *Compare: Ud 5.3*
@@ -437,7 +437,7 @@ Stupid fools live having themselves as their own foes, committing wicked deeds, 
 ---
 
 ### 5.8 The Story about a Farmer Kassakavatthu
-*Verse(s): [[dhp_05_balavagga#67|Dhp 67]]*
+*Verse(s): [[dhp_05_balavagga#67. *Kassakavatthu*|Dhp 67]]*
 
 *Burlingame: A Farmer Is Unjustly Accused of Thieves*
 *Cast: The Farmer, Elder Ānanda*
@@ -476,7 +476,7 @@ That deed is not at all well done, which, having done, one has regret, for which
 ---
 
 ### 5.9 The Story about Sumana the Garland-Maker Sumanamālakāravatthu
-*Verse(s): [[dhp_05_balavagga#68|Dhp 68]]*
+*Verse(s): [[dhp_05_balavagga#68. *Sumanamālākāravatthu*|Dhp 68]]*
 
 *Burlingame: Sumana the Gardener BG: This story is referred to at Mil 11512, 29119-21, 3509. On an interesting reference to another story about the same person at Khp-a 12916-13024, see Introduction, §7d, last paragraph.*
 *Cast: The Garland-Maker Sumana, King Bimbisāra, Elder Ānanda*
@@ -539,7 +539,7 @@ But that deed is truly well done, which, having done, one has no regret, about w
 ---
 
 ### 5.10 The Story about the Elder Uppalavaṇṇā Uppalavaṇṇattherīvatthu
-*Verse(s): [[dhp_05_balavagga#69|Dhp 69]], [[dhp_26_brahmanavagga#401|Dhp 401]], [[dhp_02_appamadavagga#26|Dhp 26]], [[dhp_01_yamakavagga#18|Dhp 18]]*
+*Verse(s): [[dhp_05_balavagga#69. *Uppalavaṇṇattherīvatthu*|Dhp 69]], [[dhp_26_brahmanavagga#401. *Uppalavaṇṇāttherīvatthu*|Dhp 401]], [[dhp_02_appamadavagga#26. *Bālanakkhattasaṅghuṭṭhavatthu*|Dhp 26]], [[dhp_01_yamakavagga#18. *Sumanadevīvatthu*|Dhp 18]]*
 
 *Burlingame: Rape of Uppalavaṇṇā*
 *Compare: Vin Bhī Pār 1, AN-a 1.14.5.3, Thig-a 64 BG: See also Tibetan Tales, x: 206-215.*
@@ -581,7 +581,7 @@ Now the Teacher summoned King Pasenadi Kosala and said to him: “Your majesty, 
 ---
 
 ### 5.11 The Story about the Ājīvaka Jambuka Jambukājīvakavatthu
-*Verse(s): [[dhp_05_balavagga#70|Dhp 70]]*
+*Verse(s): [[dhp_05_balavagga#70. *Jambukattheravatthu*|Dhp 70]]*
 
 *Burlingame: Jambuka the Naked Ascetic*
 *Compare: Thag-a 190 BG: This story is referred to at Mil 35010-11.*
@@ -659,7 +659,7 @@ From month to month the fool may eat food with the tip of kusa-grass, but he’s
 ---
 
 ### 5.12 The Story about the Snake Peta Ahipetavatthu
-*Verse(s): [[dhp_05_balavagga#71|Dhp 71]]*
+*Verse(s): [[dhp_05_balavagga#71. *Ahipetavatthu*|Dhp 71]]*
 
 *Burlingame: The Snake-Ghost and the Crow-Ghost*
 *Compare: SN 19.1; Dhp-a 5.13, Dhp-a 10.6, Dhp-a 20.6, Dhp-a 22.2*
@@ -718,7 +718,7 @@ A wicked deed that has been done, like milk, does not turn all at once, smoulder
 ---
 
 ### 5.13 The Story about the Peta with Sixty Hammers Saṭṭhikūṭapetavatthu
-*Verse(s): [[dhp_05_balavagga#72|Dhp 72]]*
+*Verse(s): [[dhp_05_balavagga#72. *Saṭṭhikūṭapetavatthu*|Dhp 72]]*
 
 *Burlingame: The Sledge-Hammer Ghost*
 *Compare: SN 19.1; Dhp-a 5.12, Dhp-a 10.6, Dhp-a 20.6, Dhp-a 22.2; Pv-a 4.16; Ja 107 BG: The Story of the Present is from SN 19.1. The Story of the Past follows closely the Story of the Past in Ja 107. The Jātaka, however, says nothing about the cripple killing a Paccekabuddha. The Dhp-a story is evidently derived Pv-a 4.16.*
@@ -772,7 +772,7 @@ Learning arises for a fool only to his disadvantage, it destroys the fool’s go
 ---
 
 ### 5.14 The Story about the Edler Sudhamma Sudhammattheravatthu
-*Verse(s): [[dhp_05_balavagga#73|Dhp 73]], [[dhp_05_balavagga#74|Dhp 74]], [[dhp_21_pakinnakavagga#303|Dhp 303]], [[dhp_02_appamadavagga#29|Dhp 29]], [[dhp_11_jaravagga#149|Dhp 149]]*
+*Verse(s): [[dhp_05_balavagga#73. *Cittagahapativatthu*|Dhp 73]], [[dhp_05_balavagga#74.|Dhp 74]], [[dhp_21_pakinnakavagga#303. *Cittagahapativatthu*|Dhp 303]], [[dhp_02_appamadavagga#29. *Pamattāpamattadvesahāyakabhikkhuvatthu*|Dhp 29]], [[dhp_11_jaravagga#149. *Sambahulaadhimānikabhikkhuvatthu*|Dhp 149]]*
 
 *Burlingame: Citta and Sudhamma*
 *Compare: Vin Cv 11.4*
@@ -861,7 +861,7 @@ During the term of life allotted to him he performed works of merit, and after h
 ---
 
 ### 5.15 The Story about the Elder Vanavāsī Tissa Vanavāsitissattheravatthu
-*Verse(s): [[dhp_05_balavagga#75|Dhp 75]]*
+*Verse(s): [[dhp_05_balavagga#75. *Vanavāsitissasāmaṇeravatthu*|Dhp 75]]*
 
 *Burlingame: A Seven-Year-Old Novice Wins All Hearts*
 *Cast: Elder Sāriputta, Brahmin Mahāsena, Brahmin Vaṅganta, Vanavāsī Tissa (Piṇḍapātadāyaka Tissa, Kambaladāyaka Tissa), Brahmin Mahāsena, Elder Sāriputta, Elder Mahā Moggallāna, Upasāḷhaka, Elder Ānanda*

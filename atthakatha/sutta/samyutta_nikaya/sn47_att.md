@@ -33,7 +33,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §367
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.1|Mūla SN 47.1]]
+> - **Mūla**: [[sn47#SN 47.1: Ambapālisutta — *In Ambapālī’s Mango Grove*|Mūla SN 47.1]]
 > - **Tīkā**: [[sn47_tik#§367|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā §367]]
 
 (367) Satipaṭṭhānasaṃyuttassa paṭhame **ambapālivane**ti ambapāliyā nāma rūpūpajīviniyā ropite ambavane. Taṃ kira tassā uyyānaṃ ahosi. Sā satthu dhammadesanaṃ sutvā pasannacittā tattha vihāraṃ kāretvā tathāgatassa niyyātesi. Taṃ sandhāyetaṃ vuttaṃ. **Ekāyanvāya**nti ekāyano ayaṃ. Tattha **ekāyano**ti ekamaggo. Maggassa hi –
@@ -210,7 +210,7 @@ Yo tuṇhībhūto ciraṃ dhammaṃ vā kammaṭṭhānaṃ vā manasikatvā apa
 ### §374
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.8|Mūla SN 47.8]]
+> - **Mūla**: [[sn47#SN 47.8: Sūdasutta — *Cooks*|Mūla SN 47.8]]
 > - **Tīkā**: [[sn47_tik#§374|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā §374]]
 
 (374) Aṭṭhame **sūdo**ti bhattakārako. **Nānaccayehī**ti nānācayehi, nānāvidhehīti attho. Ayameva vā pāṭho. **Ambilaggehī**ti ambilakoṭṭhāsehi. Eseva nayo sabbattha. **Abhiharatī**ti gahaṇatthāya hatthaṃ pasāreti. **Bahuṃ gaṇhātī**ti ekaggahaṇena bahuṃ gaṇhantopi punappunaṃ gaṇhantopi bahuṃ gaṇhateva. **Abhihārāna**nti sataṃ vā sahassaṃ vā ukkhipitvā abhihaṭānaṃ dāyānaṃ. **Upakkilesā**ti pañca nīvaraṇā. **Nimittaṃ na uggaṇhātī**ti ‘‘imaṃ me kammaṭṭhānaṃ anulomaṃ vā gotrabhuṃ vā āhacca ṭhita’’nti na jānāti, attano cittassa nimittaṃ gaṇhituṃ na sakkoti. Imasmiṃ sutte pubbabhāgavipassanā satipaṭṭhānāva kathitā.
@@ -220,7 +220,7 @@ Yo tuṇhībhūto ciraṃ dhammaṃ vā kammaṭṭhānaṃ vā manasikatvā apa
 ### §375
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.9|Mūla SN 47.9]]
+> - **Mūla**: [[sn47#SN 47.9: Gilānasutta — *Sick*|Mūla SN 47.9]]
 > - **Tīkā**: [[sn47_tik#§375|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā §375]]
 
 (375) Navame **beḷuvagāmake**ti vesāliyā samīpe evaṃnāmako pādagāmo atthi, tasmiṃ. **Yathāmitta**ntiādīsu **mittā**ti mittāva. **Sandiṭṭhā**ti tattha tattha saṅgamma diṭṭhamattā nātidaḷhamittā . **Sambhattā**ti suṭṭhu bhattā sinehavanto daḷhamittā. Yesaṃ yattha yattha evarūpā bhikkhū atthi, te tattha tattha vassaṃ upethāti attho. Kasmā evamāha? Tesaṃ phāsuvihāratthāya. Tesaṃ kira beḷuvagāmake senāsanaṃ nappahoti, bhikkhāpi mandā. Samantā vesāliyā pana bahūni senāsanāni, bhikkhāpi sulabhā. Tasmā evamāha.
@@ -415,7 +415,7 @@ Catutthe **aciraparinibbutesu sāriputtamoggallānesū**ti naciraparinibbutesu d
 ### §386
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.20|Mūla SN 47.20]]
+> - **Mūla**: [[sn47#SN 47.20: Janapadakalyāṇīsutta — *The Finest Lady in the Land*|Mūla SN 47.20]]
 > - **Tīkā**: [[sn47_tik#§386|Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā §386]]
 
 (386) Dasame **janapadakalyāṇī**ti janapadamhi kalyāṇī uttamā chasarīradosarahitā pañcakalyāṇasamannāgatā. Sā hi yasmā nātidīghā nātirassā, nātikisā nātithūlā, nātikāḷā nāccodātā, atikkantā, mānusavaṇṇaṃ appattā dibbavaṇṇaṃ, tasmā chasarīradosarahitā. Chavikalyāṇaṃ, maṃsakalyāṇaṃ, nhārukalyāṇaṃ, aṭṭhikalyāṇaṃ, vayakalyāṇanti imehi pana kalyāṇehi samannāgatattā pañcakalyāṇehi samannāgatā nāma. Tassā hi āgantukobhāsakiccaṃ natthi, attano sarīrobhāseneva dvādasahatthaṭṭhāne ālokaṃ karoti, piyaṅgusāmā vā hoti, suvaṇṇasāmā vā, ayamassā chavikalyāṇatā. Cattāro panassā hatthapādā mukhapariyosānañca lākhārasaparikammakataṃ viya rattapavāḷarattakambalasadisaṃ hoti, ayamassā maṃsakalyāṇatā. Vīsati pana nakhapattāni maṃsato amuttaṭṭhāne lākhārasapūritāni viya, muttaṭṭhāne khīradhārāsadisāni, honti ayamassā nhārukalyāṇakatā. Dvattiṃsa dantā suphusitā sudhotavajirapanti viya khāyanti, ayamassā aṭṭhikalyāṇatā. Vīsativassasatikāpi pana samānā soḷasavassuddesikā viya hoti nippalitā, ayamassā vayakalyāṇatā.

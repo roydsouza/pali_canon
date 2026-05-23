@@ -45,7 +45,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §999
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.3|Mūla SN 55.3]]
+> - **Mūla**: [[sn55#SN 55.3: Dīghāvuupāsakasutta — *With Dīghāvu*|Mūla SN 55.3]]
 > - **Atthakathā**: [[sn55_att#§999|Sotāpattisaṃyuttavaṇṇanā §999]]
 
 (999) Yadaggena tasmiṃ upāsake yathāvuttāni sotāpattiyaṅgāni saṃvijjanti, tadaggena so tesu vattissatīti āha **‘‘catūsu sotāpattiyaṅgesu sandissasī’’**ti. Vijjaṃ bhajantīti **vijjābhāgiyā,** tesu koṭṭhāsesu pariyāpannāti vuttaṃ **‘‘vijjābhāgiyeti vijjākoṭṭhāsike’’**ti.
@@ -69,7 +69,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §1003
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.7|Mūla SN 55.7]]
+> - **Mūla**: [[sn55#SN 55.7: Veḷudvāreyyasutta — *The People of Bamboo Gate*|Mūla SN 55.7]]
 > - **Atthakathā**: [[sn55_att#§1003|Sotāpattisaṃyuttavaṇṇanā §1003]]
 
 (1003) **Paveṇiāgatassā**ti anekapurisayugavasena paramparāgatassa. **Attani upanetabba**nti attani netvā parasmiṃ upanetabbaṃ. Tenāha **‘‘yo kho myāyaṃ dhammo appiyo amanāpo, parassapeso dhammo appiyo amanāpo’’**tiādi. **Amantabhāsenā**ti samphassa samphappalāpassa amantāya mantārahitabhāsanena.
@@ -201,7 +201,7 @@ Sagāthakapuññābhisandavaggavaṇṇanā niṭṭhitā.
 ### §1050
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.54|Mūla SN 55.54]]
+> - **Mūla**: [[sn55#SN 55.54: Gilānasutta — *Sick*|Mūla SN 55.54]]
 > - **Atthakathā**: [[sn55_att#§1050|Sotāpattisaṃyuttavaṇṇanā §1050]]
 
 (1050) **Na kho paneta**nti na kho etaṃ, noti ca amhehīti atthoti āha **‘‘na kho amhehī’’**tiādi. Assasantīti **assāsanīyā**ti āha **‘‘assāsakarehī’’**ti. Marissatīti **māriso,** ekantabhāvimaraṇo, so pana maraṇādhīnavuttikoti vuttaṃ **‘‘maraṇapaṭibaddho’’**ti. **Adhimuccehī**ti adhimuttiṃ uppādehi. Taṃ pana tathā cittassa paṇidhānaṃ ṭhapananti āha **‘‘ṭhapehī’’**ti. **Āgamanīyaguṇesū**ti pubbabhāgaguṇesu. **Pamāṇaṃ nāma natthi** anantāparimāṇattā. **Nānākaraṇaṃ natthi** vimuttiyā ninnānattā.

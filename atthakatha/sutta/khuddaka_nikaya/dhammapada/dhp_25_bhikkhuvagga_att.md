@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 25.1 The Story about Five Bhikkhus Pañcabhikkhuvatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#360|Dhp 360]], [[dhp_25_bhikkhuvagga#361|Dhp 361]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#360. *Pañcabhikkhuvatthu*|Dhp 360]], [[dhp_25_bhikkhuvagga#361.|Dhp 361]]*
 
 *Burlingame: Guard the Doors of the Senses*
 *Compare: Ja 132; Ja 96 BG: The Story of the Past is a brief outline of Ja 96. The title given to this Jātaka in Fausböll’s edition is Telapatta: but it is referred to, both at Dhp-a 4.8317 and at Jātaka, 1.47001 as the Takkasilā Jātaka.*
@@ -63,7 +63,7 @@ The restraint of the eye is good, the restraint of the ear is good, the restrain
 ---
 
 ### 25.2 The Story about the Goose-Killing Bhikkhu Haṁsaghātakabhikkhuvatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#362|Dhp 362]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#362. *Haṁsaghātakabhikkhuvatthu*|Dhp 362]]*
 
 *Burlingame: The Goose-Killing Monk*
 *Compare: Ja 276; Ja 107*
@@ -113,7 +113,7 @@ One who controls his hands, controls his feet, controls his speech, controls the
 ---
 
 ### 25.3 The Story about Kokālika Kokālikavatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#363|Dhp 363]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#363. *Kokālikavatthu*|Dhp 363]]*
 
 *Burlingame: The Monk Who Failed to Hold His Tongue*
 *Compare: Ja 481; SN 6.10; AN 10.89; Snp 3.10; Ja 215 BG: The Jātaka version of the story of Kokālika is contained in the Introduction to Ja 481. But the author of the Dhammapada Commentary, instead of employing or referring to the Jātaka version, refers the reader to the Kokālika Sutta and to the Commentary thereon; that is to say, either to SN 6.10, or to Snp 3.10. The Story of the Past, The Talkative Tortoise, is derived from Ja 215. Dhp-a 4.9116-9208 is identical with Jātaka, 2.1762-18. The rest of the story is given more briefly. For a discussion of the motif, see Bloomfield, JAOS., 36. 60.*
@@ -168,7 +168,7 @@ That bhikkhu who controls his mouth, who speaks well, and who is modest, who exp
 ---
 
 ### 25.4 The Story about the Elder Dhammārāma Dhammārāmattheravatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#364|Dhp 364]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#364. *Dhammārāmattheravatthu*|Dhp 364]]*
 
 *Burlingame: By Righteousness Men Honor the Buddha*
 *Compare: Dhp-a 12.10; Dhp-a 15.7*
@@ -201,7 +201,7 @@ The one who finds pleasure in the Dhamma, delights in Dhamma, reflects on Dhamma
 ---
 
 ### 25.5 The Story about a Treacherous Bhikkhu Vipakkhasevakabhikkhuvatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#365|Dhp 365]], [[dhp_25_bhikkhuvagga#366|Dhp 366]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#365. *Vipakkhasevakabhikkhuvatthu*|Dhp 365]], [[dhp_25_bhikkhuvagga#366.|Dhp 366]]*
 
 *Burlingame: The Traitor Monk*
 *Compare: Ja 26*
@@ -259,7 +259,7 @@ If a bhikkhu gains but little, he should not despise his gains, for even the god
 ---
 
 ### 25.6 The Story about the Brahmin Pañcaggadāyaka Pañcaggadāyakabrāhmaṇavatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#367|Dhp 367]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#367. *Pañcaggadāyakabrāhmaṇavatthu*|Dhp 367]]*
 
 *Burlingame: The Brahmin Who Gave the Gifts of First-Fruits*
 *Compare: Snp-a 1.12; Dhp-a 8.1c*
@@ -300,7 +300,7 @@ The one who does not have fondness at all for mind and body, who grieves not for
 ---
 
 ### 25.7 The Story about a Company of Bhikkhus Sambahulānaṁ Bhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#368|Dhp 368]], [[dhp_25_bhikkhuvagga#376|Dhp 376]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#368. *Sambahulabhikkhuvatthu*|Dhp 368]], [[dhp_25_bhikkhuvagga#376.|Dhp 376]]*
 
 *Burlingame: The Conversions of a Pack of Thieves*
 *Compare: Vin Mv 5.13; Ud 5.6; Ud-a 5.6; Thag-a 208; AN-a 1.14.7.8*
@@ -424,7 +424,7 @@ Then, when the Teacher had taught these verses, at the conclusion of each of the
 ---
 
 ### 25.8 The Story about the Five Hundred Bhikkhus Pañcasatabhikkhuvatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#377|Dhp 377]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#377. *Pañcasatabhikkhuvatthu*|Dhp 377]]*
 
 *Burlingame: “The Grass Withereth, the Flower Fadeth”*
 *Compare: Dhp-a 20.9*
@@ -451,7 +451,7 @@ Just as striped jasmine casts off its withered flowers, just so, bhikkhus, cast 
 ---
 
 ### 25.9 The Story about the Elder Santakāya Santakāyattheravatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#378|Dhp 378]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#378. *Santakāyattheravatthu*|Dhp 378]]*
 
 *Burlingame: The Monk Whose Mother Was a Lioness*
 *Keywords: Animals, Similes*
@@ -481,7 +481,7 @@ Calm in body and calm in speech, having calmness and composure, having thrown of
 ---
 
 ### 25.10 The Story about the Elder Naṅgalakula Naṅgalakulattheravatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#379|Dhp 379]], [[dhp_25_bhikkhuvagga#380|Dhp 380]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#379. *Naṅgalakulattheravatthu*|Dhp 379]], [[dhp_25_bhikkhuvagga#380.|Dhp 380]]*
 
 *Burlingame: The Monk and the Ragged Garment*
 *Compare: Dhp-a 10.10*
@@ -521,7 +521,7 @@ Self is the protector of self, self is the refuge of the self, therefore one sho
 ---
 
 ### 25.11 The Story about the Elder Vakkali Vakkalittheravatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#381|Dhp 381]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#381. *Vakkalittheravatthu*|Dhp 381]]*
 
 *Burlingame: “Whosoever Beholds the Dhamma, He Beholds Me”*
 *Compare: SN 22.87; AN-a 1.14.2.10; Thag-a 205; Iti 5.3 BG: The author of Thag-a names the AN-a 1.14.2.10 about Vakkali and the Dhp-a as his authorities.*
@@ -565,7 +565,7 @@ Praising the Realised One, he descended to the ground and stood in the presence 
 ---
 
 ### 25.12 The Story about the Novice Sumana Sumanasāmaṇeravatthu
-*Verse(s): [[dhp_25_bhikkhuvagga#382|Dhp 382]]*
+*Verse(s): [[dhp_25_bhikkhuvagga#382. *Sumanasāmaṇeravatthu*|Dhp 382]]*
 
 *Burlingame: The Novice and the Dragon*
 *Compare: Thag-a 219; AN-a 1.14.1.5; Dhp-a 1.12a*

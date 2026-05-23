@@ -43,7 +43,7 @@ Dutiyasamaṇabrāhmaṇasuttavaṇṇanā
 ### §478
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.8|Mūla SN 48.8]]
+> - **Mūla**: [[sn48#SN 48.8: Daṭṭhabbasutta — *Should Be Seen*|Mūla SN 48.8]]
 > - **Atthakathā**: [[sn48_att#§478|Indriyasaṃyuttavaṇṇanā §478]]
 
 (478) Soto āpajjīyati etenāti **sotāpatti,** anāgataṃ pati paṭhamamaggo. **Soto**ti ariyamaggasoto daṭṭhabbo. **Āpajjīyatī**tiādito paṭipajjīyati. Paṭhamamaggapaṭilābhanimittāni sotāpannassa aṅgāni idha **‘‘sotāpattiyaṅgānī’’**ti vuttāni. Tāni pana tīsu ṭhānesu saddhā ariyakantasīlañcāti veditabbāni. **Savisaye**ti sakavisaye. **Jeṭṭhakabhāvadassanattha**nti padhānabhāvadassanatthaṃ. Yattha saddhādiindriyānaṃ sātisayakiccaṃ, tesaṃ kiccātirekataṃ dassetunti attho. Idāni tamatthaṃ upamāhi vibhāvetuṃ **‘‘yathā hī’’**tiādi vuttaṃ. **Patvā**ti attano kiccātirekaṭṭhānaṃ paṭilabhitvā. **Pubbaṅgama**nti saddahanakiccesu purecāraṃ dhorayhaṃ. **Sesāni** vīriyindriyādīni. **Tadanvayānī**ti tadanugatāni tassa saddhindriyādikassa pakkhikāni. Esa nayo sesesupi. **Jhānavimokkhe**ti jhānasaṅkhāte vimokkhe samādhipadhānatāya jhānānaṃ. Evañca katvā ‘‘sotāpattiyaṅgāni patvā’’ti idañca vacanaṃ samatthitaṃ hoti. Saddhūpanisañhi sīlanti. **Ariyasaccāni patvā**ti cattāri saccāni abhisametabbāni pāpuṇitvā.
@@ -51,7 +51,7 @@ Dutiyasamaṇabrāhmaṇasuttavaṇṇanā
 ### §479-480
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.9|Mūla SN 48.9]] & [[sn48#SN 48.10|Mūla SN 48.10]]
+> - **Mūla**: [[sn48#SN 48.9: Paṭhamavibhaṅgasutta — *Analysis (1st)*|Mūla SN 48.9]] & [[sn48#SN 48.10: Dutiyavibhaṅgasutta — *Analysis (2nd)*|Mūla SN 48.10]]
 > - **Atthakathā**: [[sn48_att#§479-480|Indriyasaṃyuttavaṇṇanā §479-480]]
 
 9-10. Paṭhamavibhaṅgasuttādivaṇṇanā
@@ -173,7 +173,7 @@ Sukhindriyavaggavaṇṇanā niṭṭhitā.
 ### §512
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.42|Mūla SN 48.42]]
+> - **Mūla**: [[sn48#SN 48.42: Uṇṇābhabrāhmaṇasutta — *The Brahmin Uṇṇābha*|Mūla SN 48.42]]
 > - **Atthakathā**: [[sn48_att#§512|Indriyasaṃyuttavaṇṇanā §512]]
 
 (512) **Aññamaññassā**ti añño aññassa. **Na paccanubho**ti attano avisayabhāvato. Idāni taṃ aññavisayataṃ anvayato byatirekato vibhāvetuṃ **‘‘sace hī’’**tiādi vuttaṃ.
@@ -195,7 +195,7 @@ Visayāni paṭisaranti etthāti **paṭisaraṇaṃ**. Indriyaviññāṇāni h
 ### §520
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.50|Mūla SN 48.50]]
+> - **Mūla**: [[sn48#SN 48.50: Āpaṇasutta — *At Āpaṇa*|Mūla SN 48.50]]
 > - **Atthakathā**: [[sn48_att#§520|Indriyasaṃyuttavaṇṇanā §520]]
 
 (520) **Upari****saha vipassanāya tayo maggā**ti vipassanāya saha sotāpattiphalato upari tayo maggā. Maggādhigamena idāni paccakkhabhūtattā ‘‘ime kho te dhammā’’ti vuttā. Tattha yaṃ aggabhūtaṃ, tassa vasena dassetuṃ **‘‘arahattaphalindriyaṃ nāmā’’**ti vuttaṃ indriyabhāvasāmaññena ekajjhaṃ katvā. **Ativijjhitvā passāmī**ti sacchikatvā yāthāvato passāmi. **Catūhi indriyehī**ti vīriyindriyādīhi catūhi indriyehi. Sā vipassanāmaggaphalasahagatā siyāti missakā vuttā.

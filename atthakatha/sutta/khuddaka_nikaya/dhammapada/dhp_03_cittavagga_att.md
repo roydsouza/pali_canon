@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 3.1 The Story about Elder Meghiya Meghiyattheravatthu
-*Verse(s): [[dhp_03_cittavagga#33|Dhp 33]]*
+*Verse(s): [[dhp_03_cittavagga#33. *Meghiyattheravatthu*|Dhp 33]]*
 
 *Burlingame: Elder Meghiya*
 *Compare: AN 9.3; Ud 4.1; Thag-a 66*
@@ -76,7 +76,7 @@ Like a fish thrown up on dry land, pulled out from its watery home, mind is agit
 ---
 
 ### 3.2 The Story about a Certain Bhikkhu Aññatarabhikkhussa Vatthu
-*Verse(s): [[dhp_03_cittavagga#35|Dhp 35]]*
+*Verse(s): [[dhp_03_cittavagga#35. *Aññatarabhikkhuvatthu*|Dhp 35]]*
 
 *Burlingame: The Mind-Reader*
 *Cast: Mātika, Mātika’s mother*
@@ -147,7 +147,7 @@ By the power of the Deva ear the bhikkhu immediately heard what she said. Discer
 ---
 
 ### 3.3 The Story about a Dissatisfied Bhikkhu Ukkaṇṭhitabhikkhussa Vatthu
-*Verse(s): [[dhp_03_cittavagga#36|Dhp 36]]*
+*Verse(s): [[dhp_03_cittavagga#36. *Aññataraukkaṇṭhitabhikkhuvatthu*|Dhp 36]]*
 
 *Burlingame: A Discontented bhikkhu*
 *Keywords: Faith, Discontent, Rich Men, Guarding the Mind*
@@ -183,7 +183,7 @@ Hard to see and very subtle, and flitting wherever it will, the sage should sure
 ---
 
 ### 3.4 The Story about Nephew Saṅgharakkhita Bhāgineyyasaṅgharakkhitavatthu
-*Verse(s): [[dhp_03_cittavagga#37|Dhp 37]]*
+*Verse(s): [[dhp_03_cittavagga#37. *Saṅgharakkhitabhāgineyyattheravatthu*|Dhp 37]]*
 
 *Burlingame: Nephew Saṅgharakkhita*
 *Keywords: Discontent, Restraint*
@@ -223,7 +223,7 @@ Those who will restrain the mind that roams far away, and is lonesome, without a
 ---
 
 ### 3.5 The Story about the Elder Cittahattha Cittahatthattheravatthu
-*Verse(s): [[dhp_03_cittavagga#38|Dhp 38]], [[dhp_03_cittavagga#39|Dhp 39]]*
+*Verse(s): [[dhp_03_cittavagga#38. *Cittahatthattheravatthu*|Dhp 38]], [[dhp_03_cittavagga#39.|Dhp 39]]*
 
 *Burlingame: Elder Thought-Controlled*
 *Compare: Ja 70 BG: This is a free version of Ja 70. The Jātaka, however, quotes not Dhp 38, but Dhp 35.*
@@ -291,7 +291,7 @@ When the Teacher had finished this lesson, he said: “Bhikkhus, at that time I 
 ---
 
 ### 3.6 The Story about 500 Bhikkhus with Insight Pañcasatavipassakabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_03_cittavagga#40|Dhp 40]]*
+*Verse(s): [[dhp_03_cittavagga#40. *Pañcasatabhikkhuvatthu*|Dhp 40]]*
 
 *Burlingame: Monks and Tree Devatās BG: For a similar story, see Khp-a 232.7-235.23, 251.25-252.20. Khp-a is much longer and more detailed. The author of Khp-a, after giving his own version of the Buddha’s final instructions to the monks, says Apare pan’ āhu, and then proceeds to give an entirely different account.*
 *Compare: Khp-a 1.9 AJ: the commentary to Mettasutta.*
@@ -365,7 +365,7 @@ Knowing this body is frail like a jar, establishing the mind like a fortress, fi
 ---
 
 ### 3.7 The Story about the Elder Pūtigatta Tissa Pūtigattatissattheravatthu
-*Verse(s): [[dhp_03_cittavagga#41|Dhp 41]]*
+*Verse(s): [[dhp_03_cittavagga#41. *Pūtigattatissattheravatthu*|Dhp 41]]*
 
 *Burlingame: Cruelty a Cause of Boils*
 *Keywords: Diseases, Nursing, Insight, Past Lives, Previous Buddhas*
@@ -409,7 +409,7 @@ Bhikkhus, it was through the meritorious deed Tissa did then that this fruit acc
 ---
 
 ### 3.8 The Story about Nanda the Herdsman Nandagopālavatthu
-*Verse(s): [[dhp_03_cittavagga#42|Dhp 42]]*
+*Verse(s): [[dhp_03_cittavagga#42. *Nandagopālakavatthu*|Dhp 42]]*
 
 *Burlingame: Nanda the Herdsman*
 *Compare: Ud 4.3*
@@ -444,7 +444,7 @@ Whatever an aggressor might do to an aggressor, or an enemy to an enemy: a mind 
 ---
 
 ### 3.9 The Story about the Elder Soreyya Soreyyattheravatthu
-*Verse(s): [[dhp_03_cittavagga#43|Dhp 43]]*
+*Verse(s): [[dhp_03_cittavagga#43. *Soreyyavatthu*|Dhp 43]]*
 
 *Burlingame: Mother of Two and Father of Two*
 *Keywords: Sex Change, Rich Men, Solitude*

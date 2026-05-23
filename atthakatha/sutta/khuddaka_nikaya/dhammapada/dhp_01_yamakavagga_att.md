@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 1.1 The Story about the Elder CakkhupālaCakkhupālattheravatthu
-*Verse(s): [[dhp_01_yamakavagga#1|Dhp 1]]*
+*Verse(s): [[dhp_01_yamakavagga#Dhammapada — Chapter 1: Yamakavagga|Dhp 1]]*
 
 *Burlingame: “If Thine Eye Offend Thee, Pluck It Out”*
 *Compare: Thag-a 95*
@@ -198,7 +198,7 @@ At the end of the verse 30,000 bhikkhus became Arahats with the analytic knowled
 ---
 
 ### 1.2 The Story about Maṭṭhakuṇḍalī Maṭṭhakuṇḍalivatthu
-*Verse(s): [[dhp_01_yamakavagga#2|Dhp 2]]*
+*Verse(s): [[dhp_01_yamakavagga#2. *Maṭṭhakuṇḍalīvatthu*|Dhp 2]]*
 
 *Burlingame: Why Cry for the Moon?*
 *Compare: Ja 449; Ja 454; Vv-a 7.9; Pv-a 2.5 BG: The author has evidently worked over Ja 449, both Introduction and the Story of the Past, making one story out of two and expanding the original considerably. The Buddha’s conversion of Maṭṭhakuṇḍali, a prominent feature of the Dhp-a story, is lacking in the Jātaka version. The Vv-a version is derived, not from the Jātaka Book, but from Dhp-a. It is much briefer at the beginning and end; elsewhere more diffuse. Vv-a, 3253-32613, is word for word the same as Dhp-a, 1.29-30. This story is referred to at Mil 35011-12.*
@@ -364,7 +364,7 @@ At the end of the verse 84,000 living beings comprehended the Dhamma, and the De
 ---
 
 ### 1.3 The Story about the Elder Thulla Tissa Thullatissattheravatthu
-*Verse(s): [[dhp_01_yamakavagga#3|Dhp 3]], [[dhp_01_yamakavagga#4|Dhp 4]]*
+*Verse(s): [[dhp_01_yamakavagga#3. *Tissattheravatthu*|Dhp 3]], [[dhp_01_yamakavagga#4.|Dhp 4]]*
 
 *Burlingame: Tissa the Fat*
 *Compare: Thag-a 39; SN 22.84; Ja 497*
@@ -442,7 +442,7 @@ At the end of the verse 100,000 bhikkhus attained the fruition of Stream-entry. 
 ---
 
 ### 1.4 The Story about the Yakkhinī Kāḷi Kāḷiyakkhinīvatthu
-*Verse(s): [[dhp_01_yamakavagga#5|Dhp 5]]*
+*Verse(s): [[dhp_01_yamakavagga#5. *Kāḷayakkhinīvatthu*|Dhp 5]]*
 
 *Burlingame: “Not Hatred for Hatred”*
 *Compare: Dhp-a 21.2; Dhp-a 10.8; Ja 510; Ja 513*
@@ -524,7 +524,7 @@ Straightaway all the residents of the city rendered honor to her. On her part, f
 ---
 
 ### 1.5 The Story about Those from Kosambī Kosambakavatthu
-*Verse(s): [[dhp_01_yamakavagga#6|Dhp 6]], [[dhp_23_nagavagga#328|Dhp 328]], [[dhp_23_nagavagga#329|Dhp 329]], [[dhp_02_appamadavagga#28|Dhp 28]], [[dhp_14_buddhavagga#182|Dhp 182]], [[dhp_23_nagavagga#330|Dhp 330]]*
+*Verse(s): [[dhp_01_yamakavagga#6. *Kosambakavatthu*|Dhp 6]], [[dhp_23_nagavagga#328. *Sambahulabhikkhuvatthu*|Dhp 328]], [[dhp_23_nagavagga#329.|Dhp 329]], [[dhp_02_appamadavagga#28. *Mahākassapattheravatthu*|Dhp 28]], [[dhp_14_buddhavagga#182. *Erakapattanāgarājavatthu*|Dhp 182]], [[dhp_23_nagavagga#330.|Dhp 330]]*
 
 *Burlingame: The Quarrelsome Monks of Kosambī*
 *Cast: Kosambī bhikkhus, Pārileyyaka the elephant, Elder Ānanda, Brahmadatta, Dīghati Kosala, Prince Dīghāvu, Bālaka, Elder Bhagu, Anāthapiṇḍika, Visākhā*
@@ -628,7 +628,7 @@ The others do not understand that we should restrain ourselves here, but for tho
 ---
 
 ### 1.6 The Story about Culla Kāḷa and Mahā Kāḷa Cullakāḷa-Mahākāḷavatthu
-*Verse(s): [[dhp_01_yamakavagga#7|Dhp 7]], [[dhp_01_yamakavagga#8|Dhp 8]]*
+*Verse(s): [[dhp_01_yamakavagga#7. *Mahākāḷattheravatthu*|Dhp 7]], [[dhp_01_yamakavagga#8.|Dhp 8]]*
 
 *Burlingame: Kāḷa Junior and Kāḷa Senior*
 *Cast: Culla Kāḷa, Majjhima Kāḷa, Mahā Kāḷa*
@@ -706,7 +706,7 @@ Mahā Kāḷa’s former wives surrounded him and said to him: “By whose leave
 ---
 
 ### 1.7 The Story about Devadatta Devadattavatthu
-*Verse(s): [[dhp_01_yamakavagga#9|Dhp 9]], [[dhp_01_yamakavagga#10|Dhp 10]]*
+*Verse(s): [[dhp_01_yamakavagga#9. *Devadattavatthu*|Dhp 9]], [[dhp_01_yamakavagga#10.|Dhp 10]]*
 
 *Burlingame: Devadatta Wears an Unbecoming Robe*
 *Compare: Ja 221*
@@ -781,7 +781,7 @@ The one who, steady in virtue, throws out any impurity, endowed with both restra
 ---
 
 ### 1.8 The Story about the Chief Disciples Aggasāvakavatthu
-*Verse(s): [[dhp_01_yamakavagga#11|Dhp 11]], [[dhp_01_yamakavagga#12|Dhp 12]]*
+*Verse(s): [[dhp_01_yamakavagga#11. *Sāriputtattheravatthu*|Dhp 11]], [[dhp_01_yamakavagga#12.|Dhp 12]]*
 
 *Burlingame: The Chief Disciples*
 *Compare: Ja Nid; Vin Mv 1; Khp-a 7; Pv-a 4 BG: 8a is a brief outline of Nidānakathā, 1.213-8524: translated by Rhys Davids, Buddhist Jātakas, pp. 2-119. 8b is derived from Vin Mv 1.23-24. 4: 1.3923-437. With 8f (Dhp-a 1. 10017-10421) cf. Khp-a 2024-2066, and Pv-a 1922-2316. Pv-a is here almost word for word the same as Khp-a.*
@@ -1095,7 +1095,7 @@ Knowing the essential in what is essential, and the unessential in the unessenti
 ---
 
 ### 1.9 The Story about the Elder Nanda Nandattheravatthu
-*Verse(s): [[dhp_01_yamakavagga#13|Dhp 13]], [[dhp_01_yamakavagga#14|Dhp 14]]*
+*Verse(s): [[dhp_01_yamakavagga#13. *Nandattheravatthu*|Dhp 13]], [[dhp_01_yamakavagga#14.|Dhp 14]]*
 
 *Burlingame: Nanda the Elder*
 *Compare: Ja Nid; Ud 3.2; Ja 182; AN-a 1.14.4.8; Thag-a 139 BG: 9a follows Ja Nid 1.8524-9214, frequently word for word. 9b is almost word for word the same as Ud 3.2. Parallel to 9b is Ja 182. 9c is entirely different from the Story of the Past in Ja 182. Cf. Chavannes, Cinq cents Contes et Apologues, 409: 3.87-94; Thag-a 139; AN-a 1.14.4.8; and Winternitz, History of Buddhist Literature, p. 207.*
@@ -1208,7 +1208,7 @@ When the Teacher had ended his lesson, he concluded the Birth Story AJ: not reco
 ---
 
 ### 1.10 The Story about the Pig Butcher Cunda Cundasūkarikavatthu
-*Verse(s): [[dhp_01_yamakavagga#15|Dhp 15]]*
+*Verse(s): [[dhp_01_yamakavagga#15. *Cundasūkarikavatthu*|Dhp 15]]*
 
 *Burlingame: Cunda the Pig Butcher*
 *Keywords: Killing, Wrong Livelihood, Retribution, Avīci, Animals*
@@ -1268,7 +1268,7 @@ Here he laments, after death he laments, the wicked one laments in both places, 
 ---
 
 ### 1.11 The Story about the Lay Disciple Dhammika Dhammika-Upāsakassa Vatthu
-*Verse(s): [[dhp_01_yamakavagga#16|Dhp 16]]*
+*Verse(s): [[dhp_01_yamakavagga#16. *Dhammikaupāsakavatthu*|Dhp 16]]*
 
 *Burlingame: The Righteous Lay Friend AJ: this is a misinterpretation by the translator, Dhammika (meaning ‘righteous’), was the layman’s name, it is not an adjective.*
 *Keywords: Offerings, Faith, Devatās, Heaven*
@@ -1306,7 +1306,7 @@ Here he rejoices, after death he rejoices, the righteous one rejoices in both pl
 ---
 
 ### 1.12 The Story about Devadatta Devadattassa Vatthu
-*Verse(s): [[dhp_01_yamakavagga#17|Dhp 17]], [[dhp_12_attavagga#163|Dhp 163]]*
+*Verse(s): [[dhp_01_yamakavagga#17. *Devadattavatthu*|Dhp 17]], [[dhp_12_attavagga#163. *Saṅghabhedaparisakkanavatthu*|Dhp 163]]*
 
 *Burlingame: Devadatta’s Career*
 *Compare: Vin Cv 7; Dhp-a 25.12b; Ja 542; Ja 533; Ja 466; Ja 404*
@@ -1574,7 +1574,7 @@ Here he suffers, after death he suffers, the wicked one suffers in both places, 
 ---
 
 ### 1.13 The Story about Queen Sumanā Sumanādeviyā Vatthu
-*Verse(s): [[dhp_01_yamakavagga#18|Dhp 18]]*
+*Verse(s): [[dhp_01_yamakavagga#18. *Sumanadevīvatthu*|Dhp 18]]*
 
 *Burlingame: Lady Sumanā*
 *Cast: Visākhā, Anāthapiṇḍika, Mahā Subhaddā, Culla Subhaddā, Sumanā*
@@ -1613,7 +1613,7 @@ At the end of the verse many became Stream-enterers and so on, and benefit arose
 ---
 
 ### 1.14 The Story about Two Monastic Friends Dvesahayakabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_01_yamakavagga#19|Dhp 19]], [[dhp_01_yamakavagga#20|Dhp 20]]*
+*Verse(s): [[dhp_01_yamakavagga#19. *Dvesahāyakabhikkhuvatthu*|Dhp 19]], [[dhp_01_yamakavagga#20.|Dhp 20]]*
 
 *Burlingame: Two Friends*
 *Keywords: Pride, Devas, Recitation, Meditation*

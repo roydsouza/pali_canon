@@ -36,7 +36,7 @@ Mahāvaggaṭīkā
 
 ### §1-2
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.2|Mūla SN 45.2]]
+> - **Mūla**: [[sn45#SN 45.2: Upaḍḍhasutta — *Half the Spiritual Life*|Mūla SN 45.2]]
 > - **Atthakathā**: [[sn45_att#§1-2|Maggasaṃyuttavaṇṇanā §1-2]]
 
 1-2. Avijjāsuttādivaṇṇanā
@@ -60,7 +60,7 @@ Avijjāsuttādivaṇṇanā niṭṭhitā.
 ### §3
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.3|Mūla SN 45.3]]
+> - **Mūla**: [[sn45#SN 45.3: Sāriputtasutta — *Sāriputta*|Mūla SN 45.3]]
 > - **Atthakathā**: [[sn45_att#§3|Maggasaṃyuttavaṇṇanā §3]]
 
 (3) Sāvakabodhi sāvakapāramiyo, tappariyāpannaṃ ñāṇaṃ sāvakapāramiñāṇaṃ, taṃ pana dvinnaṃ aggasāvakānaṃ tatthapi dhammasenāpatino eva savisesaṃ matthakaṃ pattaṃ, na itaresanti āha – **‘‘sāvaka…pe… appattatāyā’’**ti. Tasmā tassa matthakappattiyā maggabrahmacariye ijjhante tassa ekadeso idha ijjhati, na sakalanti. Na hi addhabrahmacariyaṃ nāma atthi, tasmā vuttaṃ, **‘‘sakalampi****…pe… labbhatī’’**ti, taṃ pana bhaṇḍāgāriko nāññāsi ñāṇassa sāvakavisayepi sappadesikattā, dhammasenāpati pana ñāṇassa tattha nippadesikattā aññāsīti. Tenāha – **‘‘ānandatthero…pe… aññāsī’’**ti. **Evamāhā**ti ‘‘sakalamidaṃ, bhante’’ti evaṃ avoca.
@@ -102,7 +102,7 @@ Dutiyaaññatarabhikkhusuttavaṇṇanā niṭṭhitā.
 ### §8
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.8|Mūla SN 45.8]]
+> - **Mūla**: [[sn45#SN 45.8: Vibhaṅgasutta — *Analysis*|Mūla SN 45.8]]
 > - **Atthakathā**: [[sn45_att#§8|Maggasaṃyuttavaṇṇanā §8]]
 
 (8) **Ekena pariyāyena aṭṭhaṅgikamaggaṃ vibhajitvā**ti ‘‘sammādiṭṭhī’’tiādinā ekena pariyāyena ariyaṃ aṭṭhaṅgikaṃ maggaṃ vibhāgena dassetvā ‘‘katamā ca, bhikkhave, sammādiṭṭhī’’tiādinā **puna aparena pariyāyena vibhajitukāmo**. Uggahadhāraṇaparicayañāṇānipi savanañāṇe eva avarodhaṃ gacchantīti **‘‘savanasammasanapaṭivedhapaccavekkhaṇavasenā’’**ti vuttaṃ.
@@ -212,7 +212,7 @@ Ekadhammapeyyālavaggādivaṇṇanā niṭṭhitā.
 ### §139
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.139|Mūla SN 45.139]]
+> - **Mūla**: [[sn45#SN 45.139: Tathāgatasutta — *The Realized One*|Mūla SN 45.139]]
 > - **Atthakathā**: [[sn45_att#§139|Maggasaṃyuttavaṇṇanā §139]]
 
 (139) **Kārāpakaappamādo** nāma ‘‘ime akusalā dhammā pahātabbā, ime kusalā dhammā uppādetabbā’’ti vuttavajjetabbavajjanasampādetabbasampādanavasena pavatto appamādo. **Esā**ti appamādo. **Lokiyova. Na** lokuttaro. **Aya**nti **esā**ti ca appamādameva vadati. **Tesa**nti catubhūmakadhammānaṃ. **Paṭilābhakaṭṭhenā**ti paṭilābhāpanaṭṭhena.

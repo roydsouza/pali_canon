@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 9.1 The Story about the Brahmin Culla Ekasāṭaka Cullekasāṭakabrāhmaṇavatthu
-*Verse(s): [[dhp_09_papavagga#116|Dhp 116]]*
+*Verse(s): [[dhp_09_papavagga#116. *Cūḷekasāṭakabrāhmaṇavatthu*|Dhp 116]]*
 
 *Burlingame: The Brahmin with a Single Robe BG: This story is referred to at Mil 11512.*
 *Cast: Buddha Vipassī, Mahā Ekasāṭaka, Culla Ekasāṭaka*
@@ -67,7 +67,7 @@ At the end of the verse many bhikkhus reached the fruition of Stream-entry and s
 ---
 
 ### 9.2 The Story about the Elder Seyyasaka Seyyasakattheravatthu
-*Verse(s): [[dhp_09_papavagga#117|Dhp 117]]*
+*Verse(s): [[dhp_09_papavagga#117. *Seyyasakattheravatthu*|Dhp 117]]*
 
 *Burlingame: A Discontented Monk*
 *Compare: Vin Ss 1*
@@ -94,7 +94,7 @@ If a person should do that which is wrong, he should not do it again and again, 
 ---
 
 ### 9.3 The Story about the Devadhītā Lāja Lājadevadhītāvatthu
-*Verse(s): [[dhp_09_papavagga#118|Dhp 118]]*
+*Verse(s): [[dhp_09_papavagga#118. *Lājadevadhītāvatthu*|Dhp 118]]*
 
 *Burlingame: Goddess and Monk*
 *Keywords: Great Disciples, Offerings, Devadhītās, Death, Radiant Image*
@@ -132,7 +132,7 @@ If a person should make merit, he should do it again and again, let him place hi
 ---
 
 ### 9.4 The Story about the Wealthy Anāthapiṇḍika Anāthapiṇḍikaseṭṭhivatthu
-*Verse(s): [[dhp_09_papavagga#119|Dhp 119]], [[dhp_09_papavagga#120|Dhp 120]]*
+*Verse(s): [[dhp_09_papavagga#119. *Anāthapiṇḍikaseṭṭhivatthu*|Dhp 119]], [[dhp_09_papavagga#120.|Dhp 120]]*
 
 *Burlingame: Anāthapiṇḍika and the Goddess*
 *Compare: Ja 40, AN 9.19 BG: This story is for the most part an abbreviated version of the Introduction to Ja 40. The text is frequently word for word the same as the Jātaka. Dhp-a 1001-1104 is derived from AN 9.19.*
@@ -192,7 +192,7 @@ The fortunate experience wickedness as long as the fortune does not ripen, but w
 ---
 
 ### 9.5 The Story about a Bhikkhu Unrestrained with the Requisites Asaññataparikkhārabhikkhuvatthu
-*Verse(s): [[dhp_09_papavagga#121|Dhp 121]]*
+*Verse(s): [[dhp_09_papavagga#121. *Asaññataparikkhāravatthu*|Dhp 121]]*
 
 *Burlingame: The Monk Who Failed to Keep His Requisites in Order*
 *Keywords: Requisites, Discipline*
@@ -220,7 +220,7 @@ One should not despise wickedness thinking: it will not come to me, through the 
 ---
 
 ### 9.6 The Story about the Rich Man Biḷālapādaka Biḷālapādakaseṭṭhivatthu
-*Verse(s): [[dhp_09_papavagga#122|Dhp 122]]*
+*Verse(s): [[dhp_09_papavagga#122. *Biḷālapādakaseṭṭhivatthu*|Dhp 122]]*
 
 *Burlingame: Treasurer Catfoot*
 *Compare: Dhp-a 6.5a*
@@ -267,7 +267,7 @@ One should not despise one’s merit thinking: it will not come to me, through t
 ---
 
 ### 9.7 The Story about the Merchant Mahā Dhana Mahādhanavāṇijavatthu
-*Verse(s): [[dhp_09_papavagga#123|Dhp 123]]*
+*Verse(s): [[dhp_09_papavagga#123. *Mahādhanavāṇijavatthu*|Dhp 123]]*
 
 *Burlingame: Merchant Great-Wealth*
 *Keywords: Thieves, Similes*
@@ -301,7 +301,7 @@ Like a merchant on fearful path, with few friends and great wealth, as one lovin
 ---
 
 ### 9.8 The Story about Kukkuṭamitta Kukkuṭamittavatthu
-*Verse(s): [[dhp_09_papavagga#124|Dhp 124]]*
+*Verse(s): [[dhp_09_papavagga#124. *Kukkuṭamittanesādavatthu*|Dhp 124]]*
 
 *Burlingame: The Enchanted Hunters*
 *Keywords: Hunters, Conversions, Shrines, Rich Men, Merit, Past Lives, Previous Buddhas*
@@ -375,7 +375,7 @@ So it happened that solely because of her former love for him the rich man’s d
 ---
 
 ### 9.9 The Story about the Hunter Koka’s Dogs Kokasunakhaluddakavatthu
-*Verse(s): [[dhp_09_papavagga#125|Dhp 125]]*
+*Verse(s): [[dhp_09_papavagga#125. *Kokasunakhaluddakavatthu*|Dhp 125]]*
 
 *Burlingame: The Hunter Who Was Devoured by His Own Dogs*
 *Compare: Ja 367, Dhp-a 1.1a*
@@ -420,7 +420,7 @@ One offends against the inoffensive, a purified and passionless person, that wic
 ---
 
 ### 9.10 The Story about Elder Tissa, Who Frequented a Jeweller Maṇikārakulūpagatissattheravatthu
-*Verse(s): [[dhp_09_papavagga#126|Dhp 126]]*
+*Verse(s): [[dhp_09_papavagga#126. *Maṇikārakulūpakatissattheravatthu*|Dhp 126]]*
 
 *Burlingame: The Jeweler, the Monk, and the Heron BG: For a discussion of the motif on which this story turns, see Bloomfield, JAOS., 36, 63-65.*
 *Cast: Elder Tissa, King Pasenadi*
@@ -461,7 +461,7 @@ Some are reborn in the womb, those who do wrong in Niraya Hell, the righteous on
 ---
 
 ### 9.11 The Story about Three Groups Tayojanavatthu
-*Verse(s): [[dhp_09_papavagga#127|Dhp 127]]*
+*Verse(s): [[dhp_09_papavagga#127. *Tayojanavatthu*|Dhp 127]]*
 
 *Burlingame: Three Parties of Monks*
 *Keywords: Monastics, Death, Ships, Murder, Famines, Cruelty, Past Lives*
@@ -533,7 +533,7 @@ Neither in the sky, nor in the ocean, nor after entering a mountain cleft: there
 ---
 
 ### 9.12 The Story about Suppabuddha the Sākiyan Suppabuddhasakkavatthu
-*Verse(s): [[dhp_09_papavagga#128|Dhp 128]]*
+*Verse(s): [[dhp_09_papavagga#128. *Suppabuddhasakyavatthu*|Dhp 128]]*
 
 *Burlingame: Suppabuddha Insults the Teacher*
 *Keywords: Arrogance, Destinies, Avīci*

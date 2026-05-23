@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 13.1 The Story about a Certain Young Bhikkhu Aññataradaharabhikkhuvatthu
-*Verse(s): [[dhp_13_lokavagga#167|Dhp 167]]*
+*Verse(s): [[dhp_13_lokavagga#167. *Daharabhikkhuvatthu*|Dhp 167]]*
 
 *Burlingame: A Young Girl Jests with a Young Monk*
 *Keywords: Insults*
@@ -66,7 +66,7 @@ One should not follow lowly things, one should not abide heedlessly, one should 
 ---
 
 ### 13.2 The Story about Suddhodana Suddhodanavatthu
-*Verse(s): [[dhp_13_lokavagga#168|Dhp 168]], [[dhp_13_lokavagga#169|Dhp 169]]*
+*Verse(s): [[dhp_13_lokavagga#168. *Suddhodanavatthu*|Dhp 168]], [[dhp_13_lokavagga#169.|Dhp 169]]*
 
 *Burlingame: The Buddha Visits Kapila*
 *Compare: Dhp-a 1.9a*
@@ -102,7 +102,7 @@ One should live by Dhamma, with good conduct and not with bad conduct, living by
 ---
 
 ### 13.3 The Story about 500 Bhikkhus with Insight Pañcasatavipassakabhikkhuvatthu
-*Verse(s): [[dhp_13_lokavagga#170|Dhp 170]]*
+*Verse(s): [[dhp_13_lokavagga#170. *Pañcasatavipassakabhikkhuvatthu*|Dhp 170]]*
 
 *Burlingame: Five Hundred Monks Attain Insight*
 *Compare: Dhp-a 4.2*
@@ -131,7 +131,7 @@ One should see it as a bubble, one should see it as a mirage, looking on the wor
 ---
 
 ### 13.4 The Story about Prince Abhaya Abhayarājakumāravatthu
-*Verse(s): [[dhp_13_lokavagga#171|Dhp 171]]*
+*Verse(s): [[dhp_13_lokavagga#171. *Abhayarājakumāravatthu*|Dhp 171]]*
 
 *Burlingame: Prince Abhaya Loses His Nautch-Girl*
 *Compare: Dhp-a 10.9*
@@ -162,7 +162,7 @@ Come, look upon this world adorned like a king’s gilded chariot, where fools b
 ---
 
 ### 13.5 The Story about the Elder Sammuñjani Sammuñjanittheravatthu
-*Verse(s): [[dhp_13_lokavagga#172|Dhp 172]]*
+*Verse(s): [[dhp_13_lokavagga#172. *Sammajjanattheravatthu*|Dhp 172]]*
 
 *Burlingame: The Monk with a Broom*
 *Keywords: Discipline, Meditation, Heedfulness*
@@ -196,7 +196,7 @@ Whoever was heedless before, but then later is not heedless, that one shines bri
 ---
 
 ### 13.6 The Story about the Elder Aṅgulimāla Aṅgulimālattheravatthu
-*Verse(s): [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_13_lokavagga#172|Dhp 172]], [[dhp_13_lokavagga#173|Dhp 173]], [[dhp_25_bhikkhuvagga#382|Dhp 382]], [[dhp_06_panditavagga#80|Dhp 80]], [[dhp_02_appamadavagga#26|Dhp 26]], [[dhp_02_appamadavagga#27|Dhp 27]]*
+*Verse(s): [[dhp_13_lokavagga#173. *Aṅgulimālattheravatthu*|Dhp 173]], [[dhp_13_lokavagga#172. *Sammajjanattheravatthu*|Dhp 172]], [[dhp_13_lokavagga#173. *Aṅgulimālattheravatthu*|Dhp 173]], [[dhp_25_bhikkhuvagga#382. *Sumanasāmaṇeravatthu*|Dhp 382]], [[dhp_06_panditavagga#80. *Paṇḍitasāmaṇeravatthu*|Dhp 80]], [[dhp_02_appamadavagga#26. *Bālanakkhattasaṅghuṭṭhavatthu*|Dhp 26]], [[dhp_02_appamadavagga#27.|Dhp 27]]*
 
 *Burlingame: Conversions of the Robber Finger-Garland*
 *Compare: MN 86*
@@ -335,7 +335,7 @@ The person whose wicked deed is covered over by a good deed – that one shines 
 ---
 
 ### 13.7 The Story about the Weaver’s Daughter Pesakāradhītāvatthu
-*Verse(s): [[dhp_13_lokavagga#174|Dhp 174]]*
+*Verse(s): [[dhp_13_lokavagga#174. *Pesakāradhītāvatthu*|Dhp 174]]*
 
 *Burlingame: The Weaver’s Daughters BG: This story is referred to at Mil 350.*
 *Keywords: Listening to Dhamma, Death, Duties, Riddles, Grief*
@@ -389,7 +389,7 @@ Straightaway there arose within him intense grief. Wailing: “There is none oth
 ---
 
 ### 13.8 The Story about Thirty Bhikkhus Tiṁsabhikkhuvatthu
-*Verse(s): [[dhp_13_lokavagga#175|Dhp 175]]*
+*Verse(s): [[dhp_13_lokavagga#175. *Tiṁsabhikkhuvatthu*|Dhp 175]]*
 
 *Burlingame: Thirty Monks*
 *Keywords: Listening to Dhamma*
@@ -419,7 +419,7 @@ Geese go through the path of the sky, through the heavens by their power, the wi
 ---
 
 ### 13.9 The Story about the Young Brahmin Girl Ciñcā Ciñcamāṇavikāvatthu
-*Verse(s): [[dhp_13_lokavagga#176|Dhp 176]]*
+*Verse(s): [[dhp_13_lokavagga#176. *Ciñcamāṇavikāvatthu*|Dhp 176]]*
 
 *Burlingame: Ciñcā Falsely Accuses the Buddha*
 *Compare: Ja 472; Dhp-a 22.1 BG: The Story of the Present is almost word for word the same as the Introduction to Ja 472. Of the story of Prince Paduma and the queen, only a brief outline is given. Cf. the story of Sundarī, 22.1; also Feer’s comparative study of the stories of Ciñcā and Sundarī in JA., 1897, 288-317.*
@@ -478,7 +478,7 @@ For the person speaking falsely who transgresses in this one thing, who has aban
 ---
 
 ### 13.10 The Story about the Gifts beyond Compare Asadisadānavatthu
-*Verse(s): [[dhp_13_lokavagga#177|Dhp 177]], [[dhp_26_brahmanavagga#422|Dhp 422]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_02_appamadavagga#27|Dhp 27]]*
+*Verse(s): [[dhp_13_lokavagga#177. *Asadisadānavatthu*|Dhp 177]], [[dhp_26_brahmanavagga#422. *Aṅgulimālattheravatthu*|Dhp 422]], [[dhp_02_appamadavagga#30. *Maghavatthu*|Dhp 30]], [[dhp_02_appamadavagga#27.|Dhp 27]]*
 
 *Burlingame: Gifts beyond Compare*
 *Compare: DN-a 19*
@@ -543,7 +543,7 @@ The miserly go not to the world of Devas, fools surely do not praise giving, but
 ---
 
 ### 13.11 The Story about Anāthapiṇḍika’s Son Kāla Anāthapiṇḍakaputtakālavatthu
-*Verse(s): [[dhp_13_lokavagga#178|Dhp 178]]*
+*Verse(s): [[dhp_13_lokavagga#178. *Anāthapiṇḍikaputtakālavatthu*|Dhp 178]]*
 
 *Burlingame: Virtue Bought and Paid For*
 *Keywords: Foremost Disciples, Rich Men, Listening to Dhamma, Offerings*

@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 4.1 The Story about 500 Bhikkhus Engaged in Talking about the Soil Paṭhavikathāpasutapañcasatabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_04_pupphavagga#44|Dhp 44]], [[dhp_04_pupphavagga#45|Dhp 45]]*
+*Verse(s): [[dhp_04_pupphavagga#44. *Pathavikathāpasutapañcasatabhikkhuvatthu*|Dhp 44]], [[dhp_04_pupphavagga#45.|Dhp 45]]*
 
 *Burlingame: The Soil of the Heart*
 *Keywords: Similes*
@@ -61,7 +61,7 @@ The trainee knows this earth and the lower realm, together with the gods. The tr
 ---
 
 ### 4.2 The Story about the Elder Who Meditated on a Mirage Marīcikammaṭṭhānikattherassa Vatthu
-*Verse(s): [[dhp_04_pupphavagga#46|Dhp 46]]*
+*Verse(s): [[dhp_04_pupphavagga#46. *Marīcikammaṭṭhānikabhikkhuvatthu*|Dhp 46]]*
 
 *Burlingame: A Monk Attains Arahatship*
 *Compare: Dhp-a 8.3*
@@ -94,7 +94,7 @@ Knowing that this body is just like froth, understanding it is like a mirage, cu
 ---
 
 ### 4.3 The Story about Viḍūḍabha Viḍūḍabhavatthu
-*Verse(s): [[dhp_04_pupphavagga#47|Dhp 47]]*
+*Verse(s): [[dhp_04_pupphavagga#47. *Viṭaṭūbhavatthu*|Dhp 47]]*
 
 *Burlingame: Viḍūḍabha Wreaks Vengeance on the Sākiyans*
 *Compare: Ja 465; Ja 346 BG: The story of Viḍūḍabha is the same story as that related in the Introduction to Ja 465. Dhp-a 1.3468-35723, is almost word for word the same as Ja 4.14611-15229. Cf. Rhys Davids, Buddhist India, p. 11. The embedded Story of the Past (Dhp-a 1.34218-3454) is a free version of Ja 346.*
@@ -328,7 +328,7 @@ Death takes up and carries away the one whose mind is attached to collecting flo
 ---
 
 ### 4.4 The Story about the One Who Honoured Her Husband Patipūjikāyavatthu
-*Verse(s): [[dhp_04_pupphavagga#48|Dhp 48]]*
+*Verse(s): [[dhp_04_pupphavagga#48. *Patipūjikakumārivatthu*|Dhp 48]]*
 
 *Burlingame: Husband-Honorer*
 *Keywords: Past Lives, Offerings, Heedlessness, Devaputtas, Accharās*
@@ -372,7 +372,7 @@ The End-Maker takes control of the one whose mind is attached to collecting flow
 ---
 
 ### 4.5 The Story about the Selfish Kosiya Macchariyakosiyavatthu
-*Verse(s): [[dhp_04_pupphavagga#49|Dhp 49]]*
+*Verse(s): [[dhp_04_pupphavagga#49. *Macchariyakosiyaseṭṭhivatthu*|Dhp 49]]*
 
 *Burlingame: Niggardly Kosiya*
 *Compare: Ja 78*
@@ -473,7 +473,7 @@ At this threat Illīsa, quaking for his life, cried out: “Henceforth I will be
 ---
 
 ### 4.6 The Story about the Ājīvaka Pāṭhika Pāṭhikājīvakavatthu
-*Verse(s): [[dhp_04_pupphavagga#50|Dhp 50]]*
+*Verse(s): [[dhp_04_pupphavagga#50. *Pāveyyaājīvakavatthu*|Dhp 50]]*
 
 *Burlingame: Pāṭhika the Naked Ascetic*
 *Keywords: Ājīvakas, Offerings, Jealousy*
@@ -513,7 +513,7 @@ Not the wrong of others, or what others have done or have not done, one should c
 ---
 
 ### 4.7 The Story about the Lay Disciple Chattapāṇi Chattapāṇi-Upāsakassa Vatthu
-*Verse(s): [[dhp_04_pupphavagga#51|Dhp 51]], [[dhp_04_pupphavagga#52|Dhp 52]]*
+*Verse(s): [[dhp_04_pupphavagga#51. *Chattapāṇiupāsakavatthu*|Dhp 51]], [[dhp_04_pupphavagga#52.|Dhp 52]]*
 
 *Burlingame: The King and the King of Kings*
 *Keywords: Non-returners, Kings, Queens, Listening to Dhamma*
@@ -562,7 +562,7 @@ Just like a beautiful flower, which has both colour and fragrance, so are well-s
 ---
 
 ### 4.8 The Story about Visākhā Visākhāya Vatthu
-*Verse(s): [[dhp_04_pupphavagga#53|Dhp 53]]*
+*Verse(s): [[dhp_04_pupphavagga#53. *Visākhāvatthu*|Dhp 53]]*
 
 *Burlingame: Marriage of Visākhā*
 *Compare: AN-a 1.14.7.2; Dhp-a 21.8 BG: Warren’s version of this beautiful story (Harvard Oriental Series, vol. 3, pp. 451-481: cf. vol. 28, p. 67) was the first Occidental translation of a considerable part of this text. The story occurs also at AN-a 1.14.7.2. Cf. Dhp-a 21.8.*
@@ -849,7 +849,7 @@ Just as from a heap of flowers one might make a lot of garlands, so should many 
 ---
 
 ### 4.9 The Story about the Elder Ānanda’s Questions Ānandattherassa Pañhāvatthu
-*Verse(s): [[dhp_04_pupphavagga#54|Dhp 54]], [[dhp_04_pupphavagga#55|Dhp 55]]*
+*Verse(s): [[dhp_04_pupphavagga#54. *Ānandattherapañhavatthu*|Dhp 54]], [[dhp_04_pupphavagga#55.|Dhp 55]]*
 
 *Burlingame: Elder Ānanda’s Question*
 *Compare: AN 3.79*
@@ -891,7 +891,7 @@ At the end of the verse many became Stream-enterers and so on, and there was ben
 ---
 
 ### 4.10 The Story about Giving Alms to the Elder Mahā Kassapa Mahākassapattherassa Piṇḍapātadinnavatthu
-*Verse(s): [[dhp_04_pupphavagga#56|Dhp 56]]*
+*Verse(s): [[dhp_04_pupphavagga#56. *Mahākassapattherapiṇḍapātadinnavatthu*|Dhp 56]]*
 
 *Burlingame: Sakka Gives Alms to Kassapa the Great*
 *Compare: Ud 3.7*
@@ -956,7 +956,7 @@ Pinwheel and sandalwood fragrance are insignificant, but the fragrance of one wh
 ---
 
 ### 4.11 The Story about the Elder Godhika’s Parinibbāna Godhikattherassa Parinibbānavatthu
-*Verse(s): [[dhp_04_pupphavagga#57|Dhp 57]]*
+*Verse(s): [[dhp_04_pupphavagga#57. *Godhikattheraparinibbānavatthu*|Dhp 57]]*
 
 *Burlingame: Godhika Attains Nibbāna*
 *Compare: SN 4.23 BG: This story is almost word for word the same as SN 4.23. Cf. E. Windisch, Māra und Buddha, pp. 113-116.*
@@ -1027,7 +1027,7 @@ Māra cannot find the path of those who are endowed with virtue, who live heedfu
 ---
 
 ### 4.12 The Story about Garahadinna Garahadinnavatthu
-*Verse(s): [[dhp_04_pupphavagga#58|Dhp 58]], [[dhp_04_pupphavagga#59|Dhp 59]]*
+*Verse(s): [[dhp_04_pupphavagga#58. *Garahadinnavatthu*|Dhp 58]], [[dhp_04_pupphavagga#59.|Dhp 59]]*
 
 *Burlingame: Sirigutta and Garahadinna*
 *Compare: Ja 40 BG: This story is referred to at Thag-a 230, and at Milindapañha 350.*

@@ -72,4 +72,15 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_616_627|AN 1.616–627]] | 31. Amatavagga | The Chapter on Freedom From Death | 688 |
 
 ---
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title", tags as "Tags"
+FROM "mula/sutta/anguttara_nikaya" AND #mula
+SORT file.name ASC
+```
+
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

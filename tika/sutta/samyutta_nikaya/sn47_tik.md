@@ -33,7 +33,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §367
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.1|Mūla SN 47.1]]
+> - **Mūla**: [[sn47#SN 47.1: Ambapālisutta — *In Ambapālī’s Mango Grove*|Mūla SN 47.1]]
 > - **Atthakathā**: [[sn47_att#§367|Satipaṭṭhānasaṃyuttavaṇṇanā §367]]
 
 (367) **Ekāyanvāya**nti sandhivasena vuttaṃ o-kārassa va-kāraṃ a-kārassa dīghaṃ katvā. Ayaṃ kira saṃyuttābhilāpo, tattha ayana-saddo maggapariyāyo. Na kevalaṃ ayameva, atha kho aññepi maggapariyāyāti paduddhāraṃ karonto **‘‘maggassa hī’’**tiādiṃ vatvā yadi maggapariyāyo āyana-saddo, kasmā puna maggoti vuttanti codanaṃ sandhāyāha **‘‘tasmā’’**tiādi. Tattha **ekamaggo**ti ekova maggo. Na hi nibbānagāmimaggo añño atthīti. Nanu satipaṭṭhānaṃ idha maggoti adhippetaṃ, tadaññepi bahū maggadhammā atthīti? Saccaṃ atthi, te pana satipaṭṭhānaggahaṇeneva gahitā tadavinābhāvato. Tathā hi ñāṇavīriyādayo niddese gahitā, uddese satiyā eva gahaṇaṃ veneyyajjhāsayavasenāti daṭṭhabbaṃ, satiyā maggabhāvadassanatthañca. **Na dvedhāpathabhūto**ti iminā imassa dvayabhāvābhāvaṃ viya anibbānagāmibhāvābhāvañca dasseti. **Nibbānagamanaṭṭhenā**ti nibbānaṃ gacchati etenāti nibbānagamanaṃ, so eva aviparītabhāvanāya attho, tena nibbānagamanaṭṭhena, nibbānādhigamūpāyatāyāti attho. **Magganīyaṭṭhenā**ti gavesitabbatāya.
@@ -174,7 +174,7 @@ Satisuttavaṇṇanā niṭṭhitā.
 ### §374
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.8|Mūla SN 47.8]]
+> - **Mūla**: [[sn47#SN 47.8: Sūdasutta — *Cooks*|Mūla SN 47.8]]
 > - **Atthakathā**: [[sn47_att#§374|Satipaṭṭhānasaṃyuttavaṇṇanā §374]]
 
 (374) Āhārasampādanena taṃtaṃāhāravatthugate sūdeti paggharetīti **sūdo,** bhattakārako. Daharehi manāpataraṃ accetabbato atikkamitabbato accayā, bhojane rasavisesā, tasmā **nānaccayehī**ti nānappakārarasavisesehīti attho. Tena vuttaṃ ‘‘nānaccayehī’’tiādi. Aggīyati asaṅkarato vibhajīyatīti aggo, ambilameva aggo **ambilaggo**ti āha – **‘‘ambilaggehīti ambilakoṭṭhāsehī’’**ti. Dātuṃ abhiharitabbatāya **abhihārā,** deyyadhammā. Tenāha – **‘‘abhihaṭānaṃ dāyāna’’**nti. **Idaṃ me kammaṭṭhānaṃ anulomaṃvā**ti idaṃ mama kammaṭṭhānaṃ evaṃ pavattamānaṃ anulomāvasānameva hutvā tiṭṭhati. Evaṃ puna pavattamānaṃ ussakkitvā visesanibbattanatthameva hotīti evaṃ **nimittaṃ gahetuṃ na sakkoti** bālo abyatto, paṇḍito pana sakkoti. **Attano cittassā**ti attano bhāvanācittassa. **Pubbabhāgavipassanā satipaṭṭhānāva kathitā** ‘‘sakassa cittassa nimittaṃ uggaṇhātī’’ti vuttattā.
@@ -184,7 +184,7 @@ Satisuttavaṇṇanā niṭṭhitā.
 ### §375
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.9|Mūla SN 47.9]]
+> - **Mūla**: [[sn47#SN 47.9: Gilānasutta — *Sick*|Mūla SN 47.9]]
 > - **Atthakathā**: [[sn47_att#§375|Satipaṭṭhānasaṃyuttavaṇṇanā §375]]
 
 (375) **Pādagāmo**ti nagarassa padasadiso mahantagāmo. Tenevāha **‘‘vesāliyaṃ viharati veḷuvagāmake’’**ti. Ahitanisedhana-hitaniyojana-byasanapariccajana-lakkhaṇo mittabhāvo yesu atthi, te **mittā**. Ye pana diṭṭhamattasahāyā, te **sandiṭṭhā**. Ye savisesaṃ bhattimanto, te **sambhattā**ti dassento **‘‘mittāti mittāvā’’**tiādimāha. **Assā**ti bhagavato. Pañcamiyaṃ aṭṭhamiyaṃ cātuddasiyaṃ pañcadasiyanti ekekasmiṃ pakkhe cattāro vāre katvā māsassa **aṭṭhavāre**.
@@ -282,7 +282,7 @@ Piyāyitabbato **piyehi**. Manassa vaḍḍhanato **manāpehi. Jātiyā**ti khat
 ### §386
 
 > [!info]- Related Links
-> - **Mūla**: [[sn47#SN 47.20|Mūla SN 47.20]]
+> - **Mūla**: [[sn47#SN 47.20: Janapadakalyāṇīsutta — *The Finest Lady in the Land*|Mūla SN 47.20]]
 > - **Atthakathā**: [[sn47_att#§386|Satipaṭṭhānasaṃyuttavaṇṇanā §386]]
 
 (386) **Janapadasmiṃ kalyāṇī**ti sakalajanapade bhaddā rūpasampattiyā sikkhāsampattiyā ca sundarā seṭṭhā. Rūpasampatti ca nāma sabbaso rūpadosābhāvena rūpaguṇapāripūriyā hotīti tadubhayaṃ dassetuṃ **‘‘chasarīradosarahitā pañcakalyāṇasamannāgatā’’**ti vuttaṃ. Taṃ duvidhampi vivaranto **‘‘sā hī’’**tiādimāha. **Pañcakalyāṇasamannāgatā**ti pañcavidhasarīraguṇasampadāhi samannāgatā. **Nātidīghā nātirassā**ti pamāṇamajjhimā dīghatarappamāṇā na hoti, na atirassā, lakuṇḍakarūpā na hoti. **Nātikisā**ti ativiya kisathaddhamaṃsalohitā dissamānā aṭṭhisarīrā jālasarīrā na hoti. **Nātithūlā**ti bhāriyamaṃsā mahodarā na hoti. **Nātikāḷā nāccodātā**ti ativiya kāḷavaṇṇā jhāmaṅgāro viya , dadhitakkādīhi pamajjitamattakaṃsalohavaṇṇā na hoti. Manussaloke tādisiyā rūpasampattiyā abhāvato **atikkantā manussavaṇṇaṃ**. Yathā pamāṇayuttā, evaṃ ārohapariṇāhayogato ca paresaṃ pasādāvahā nātidīghatādayo. Evaṃ manussānaṃ dibbarūpatāsampattīpīti vuttaṃ **‘‘appattā dibbavaṇṇa’’**nti. Ettha ca nātidīghanātirassatāvacanena ārohasampatti vuttā ubbedhena pāsādikabhāvato. Kisathūladosābhāvavacanena pariṇāhasampatti vuttā. Ubhayenapi saṇṭhānasampadā vibhāvitā, nātikāḷatāvacanena vaṇṇasampatti vuttā vivaṇṇatābhāvato. **Piyaṅgusāmā**ti pariṇatapiyaṅgupupphasadisasarīranibhāsā. **Mukhapariyosāna**nti adharoṭṭhamāha. **Ayaṃ** yathāvuttā sarīravaṇṇasampatti. **Assā**ti janapadakalyāṇiyā. **Chavikalyāṇatā** chavisampattihetukattā tassā. Esa nayo sesesupi. Nakhā eva pattasadisatāya **nakhapattāni**.

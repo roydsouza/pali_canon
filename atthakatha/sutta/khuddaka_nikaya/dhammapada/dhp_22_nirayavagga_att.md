@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 22.1 The Story about the Wanderer Sundarī Sundarīparibbājikāvatthu
-*Verse(s): [[dhp_22_nirayavagga#306|Dhp 306]]*
+*Verse(s): [[dhp_22_nirayavagga#306. *Sundarīparibbājikāvatthu*|Dhp 306]]*
 
 *Burlingame: Murder of Sundarī*
 *Compare: Ud 4.8; Ja 285; Dhp-a 13.9 BG: This story is almost word for word the same as the Introduction to Ja 285. The Jātaka version is in turn derived from Ud 4.8. Ja 2. 41513 refers to the Vin Mv 1.24. 6 (cf. Ud 455-7). Cf. the story of Ciñcā, Dhp-a 13.9; also Feer’s comparative study of the stories of Ciñcā and Sundarī in JA., 1897, 288-317.*
@@ -71,7 +71,7 @@ The king’s men seized those villains and brought them before the king. The kin
 ---
 
 ### 22.2 The Story about the Fruits and Powers of People’s Bad Conduct Duccaritaphalānubhāvasattavatthu
-*Verse(s): [[dhp_22_nirayavagga#307|Dhp 307]]*
+*Verse(s): [[dhp_22_nirayavagga#307. *Duccaritaphalapīḷitavatthu*|Dhp 307]]*
 
 *Burlingame: The Skeleton-Ghost*
 *Compare: SN 29.1*
@@ -98,7 +98,7 @@ Many wearing the robe around their necks are wicked, unrestrained, the wicked th
 ---
 
 ### 22.3 The Story about the Bhikkhus Who Lived on the Banks of the Vaggumudā Vaggumudātīriyabhikkhuvatthu
-*Verse(s): [[dhp_22_nirayavagga#308|Dhp 308]]*
+*Verse(s): [[dhp_22_nirayavagga#308. *Vaggumudātīriyabhikkhuvatthu*|Dhp 308]]*
 
 *Burlingame: Magic for Meat*
 *Compare: Vin Pār 4*
@@ -143,7 +143,7 @@ It’s better to eat a glowing iron ball, like a flame of fire, than that the mo
 ---
 
 ### 22.4 The Story about Khema Khemavatthu
-*Verse(s): [[dhp_22_nirayavagga#309|Dhp 309]], [[dhp_22_nirayavagga#310|Dhp 310]]*
+*Verse(s): [[dhp_22_nirayavagga#309. *Khemakaseṭṭhiputtavatthu*|Dhp 309]], [[dhp_22_nirayavagga#310.|Dhp 310]]*
 
 *Burlingame: The Man Whom Women Loved*
 *Keywords: Rich Men, Adultery, Kings, Past Lives, Previous Buddhas*
@@ -178,7 +178,7 @@ What was his former deed? It is said that in the dispensation of the Buddha Kass
 ---
 
 ### 22.5 The Story about a Stubborn Bhikkhu Dubbacabhikkhuvatthu
-*Verse(s): [[dhp_22_nirayavagga#311|Dhp 311]], [[dhp_22_nirayavagga#313|Dhp 313]]*
+*Verse(s): [[dhp_22_nirayavagga#311. *Dubbacabhikkhuvatthu*|Dhp 311]], [[dhp_22_nirayavagga#313.|Dhp 313]]*
 
 *Burlingame: The Presumptuous Monk*
 *Keywords: Discipline*
@@ -218,7 +218,7 @@ If he would do what should be done, he should be firm in his effort, for the wan
 ---
 
 ### 22.6 The Story about the Woman Jealous by Nature Issāpakata-Itthivatthu
-*Verse(s): [[dhp_22_nirayavagga#314|Dhp 314]]*
+*Verse(s): [[dhp_22_nirayavagga#314. *Issāpakataitthivatthu*|Dhp 314]]*
 
 *Burlingame: The Jealous Woman*
 *Keywords: Cruelty, Servants, Listening to Dhamma*
@@ -244,7 +244,7 @@ Better undone is wrong-doing, wrong-doing one later regrets, better done is what
 ---
 
 ### 22.7 The Story about a Company of Bhikkhus Sambahulabhikkhuvatthu
-*Verse(s): [[dhp_22_nirayavagga#315|Dhp 315]]*
+*Verse(s): [[dhp_22_nirayavagga#315. *Sambahulabhikkhuvatthu*|Dhp 315]]*
 
 *Burlingame: Fortify Yourself Like a City*
 *Keywords: Thieves, Monastics*
@@ -272,7 +272,7 @@ As a border town is guarded on the inside and the outside, so one should watch o
 ---
 
 ### 22.8 The Story about the Nigaṇṭhas Nigaṇṭhānaṁ Vatthu
-*Verse(s): [[dhp_22_nirayavagga#316|Dhp 316]], [[dhp_22_nirayavagga#317|Dhp 317]]*
+*Verse(s): [[dhp_22_nirayavagga#316. *Nigaṇṭhavatthu*|Dhp 316]], [[dhp_22_nirayavagga#317.|Dhp 317]]*
 
 *Burlingame: Degrees of Nakedness*
 *Keywords: Sectarians, Naked Ascetics, Shame*
@@ -305,7 +305,7 @@ Seeing fear in what’s not fearful, not seeing fear in what’s fearful, undert
 ---
 
 ### 22.9 The Story about the Sectarian Disciples Titthiyasāvakavatthu
-*Verse(s): [[dhp_22_nirayavagga#318|Dhp 318]], [[dhp_22_nirayavagga#319|Dhp 319]]*
+*Verse(s): [[dhp_22_nirayavagga#318. *Titthiyasāvakavatthu*|Dhp 318]], [[dhp_22_nirayavagga#319.|Dhp 319]]*
 
 *Burlingame: Children Visit the Buddha*
 *Keywords: Sectarians, Listening to Dhamma*

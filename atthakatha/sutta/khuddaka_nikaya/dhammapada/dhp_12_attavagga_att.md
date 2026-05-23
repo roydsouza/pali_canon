@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 12.1 The Story about Prince Bodhi Bodhirājakumāravatthu
-*Verse(s): [[dhp_12_attavagga#157|Dhp 157]]*
+*Verse(s): [[dhp_12_attavagga#157. *Bodhirājakumāravatthu*|Dhp 157]]*
 
 *Burlingame: Prince Bodhi and the Magic Bird*
 *Compare: Ja 353; Snp-a 5, Vatthugāthā; Vin Cv 5; MN 85 BG: In the Introduction to Ja 353, the brief statement is made that Prince Bodhi put out the builder’s eyes for fear that he might build a similar palace for another. There is no reference, however, to the story of the magic bird. The story of the Buddha’s visit to Prince Bodhi is derived either from the Vin Cv 5.21, or from MN 85.*
@@ -74,7 +74,7 @@ If one regards oneself as dear, one should guard oneself well, during one of thr
 ---
 
 ### 12.2 The Story about the Elder Upananda the Sakyan Upanandasakyaputtattheravatthu
-*Verse(s): [[dhp_12_attavagga#158|Dhp 158]]*
+*Verse(s): [[dhp_12_attavagga#158. *Upanandasakyaputtattheravatthu*|Dhp 158]]*
 
 *Burlingame: The Greedy Monk*
 *Compare: Ja 400 BG: This story is a free version of Ja 400. Cf. Tibetan Tales, xxxiv, pp. 332-334.*
@@ -118,7 +118,7 @@ First one should establish oneself in what is suitable, then one can advise anot
 ---
 
 ### 12.3 The Story about the Elder Padhānika Tissa Padhānikatissattheravatthu
-*Verse(s): [[dhp_12_attavagga#159|Dhp 159]]*
+*Verse(s): [[dhp_12_attavagga#159. *Padhānikatissattheravatthu*|Dhp 159]]*
 
 *Burlingame: “Be Ye Doers of the Word”*
 *Compare: Ja 119 BG: This story is a very free version of the Introduction to Ja 119.*
@@ -161,7 +161,7 @@ He should do as he would advise another to do, then being well-trained, he could
 ---
 
 ### 12.4 The Story about the Elder, the Mother of Kumāra Kassapa Kumārakassapamātuttherīvatthu
-*Verse(s): [[dhp_12_attavagga#160|Dhp 160]]*
+*Verse(s): [[dhp_12_attavagga#160. *Kumārakassapamātuttherivatthu*|Dhp 160]]*
 
 *Burlingame: “And Hate Not His Father and Mother”*
 *Compare: Ja 12; AN-a 1.14.3.9 BG: This story follows closely the Introduction to Ja 12. The Jātaka version, however, lacks the account of the meeting between Kumāra Kassapa and his mother. Compare AN-a 1.14.3.9 about Kumāra Kassapa.*
@@ -251,7 +251,7 @@ For the self is the friend of self, for what other friend would there be? When t
 ---
 
 ### 12.5 The Story about the Lay Disciple Mahā Kāla Mahākāla-Upāsakavatthu
-*Verse(s): [[dhp_12_attavagga#161|Dhp 161]]*
+*Verse(s): [[dhp_12_attavagga#161. *Mahākālaupāsakavatthu*|Dhp 161]]*
 
 *Burlingame: Killing of Mahā Kāla*
 *Compare: Dhp-a 12.9; Thag-a 121; Thag-a 244*
@@ -296,7 +296,7 @@ That wickedness done by oneself, born and arising in oneself, crushes the one wh
 ---
 
 ### 12.6 The Story about Devadatta Devadattavatthu
-*Verse(s): [[dhp_12_attavagga#162|Dhp 162]]*
+*Verse(s): [[dhp_12_attavagga#162. *Devadattavatthu*|Dhp 162]]*
 
 *Burlingame: Devadatta Seeks to Slay the Realised One*
 *Compare: Dhp-a 1.12*
@@ -325,7 +325,7 @@ The one who lacks virtue, like deadly creeper on tree, makes himself just as his
 ---
 
 ### 12.7 The Story about Trying for a Schism in the Saṅgha Saṅghabhedaparisakkanavatthu
-*Verse(s): [[dhp_12_attavagga#163|Dhp 163]]*
+*Verse(s): [[dhp_12_attavagga#163. *Saṅghabhedaparisakkanavatthu*|Dhp 163]]*
 
 *Burlingame: Devadatta Seeks to Cause a Schism in the Order*
 *Compare: Vin Cv 7.3; Ud 5.8*
@@ -356,7 +356,7 @@ Easily done are things not good, unbeneficial for oneself, but that which is ben
 ---
 
 ### 12.8 The Story about the Elder Kāla Kālattheravatthu
-*Verse(s): [[dhp_12_attavagga#164|Dhp 164]]*
+*Verse(s): [[dhp_12_attavagga#164. *Kālattheravatthu*|Dhp 164]]*
 
 *Burlingame: The Jealous Monk*
 *Keywords: Jealousy, Monastics, Listening to Dhamma, Reviling*
@@ -386,7 +386,7 @@ Whoever reviles the worthy teaching of the Noble Ones who live by Dhamma, that s
 ---
 
 ### 12.9 The Story about the Lay Disciple Culla Kāla Cullakāla-Upāsakavatthu
-*Verse(s): [[dhp_12_attavagga#165|Dhp 165]]*
+*Verse(s): [[dhp_12_attavagga#165. *Cūḷakālaupāsakavatthu*|Dhp 165]]*
 
 *Burlingame: Courtezans Save a Layman’s Life*
 *Compare: Dhp-a 12.5, Thag-a 121; Thag-a 244*
@@ -415,7 +415,7 @@ By self is a wicked deed done, by self is one defiled, by self is a wicked deed 
 ---
 
 ### 12.10 The Story about the Elder Attadattha Attadatthattheravatthu
-*Verse(s): [[dhp_12_attavagga#166|Dhp 166]]*
+*Verse(s): [[dhp_12_attavagga#166. *Attadatthattheravatthu*|Dhp 166]]*
 
 *Burlingame: By Righteousness Men Honor the Buddha*
 *Compare: Dhp-a 15.7; Dhp-a 25.4; DN 16*

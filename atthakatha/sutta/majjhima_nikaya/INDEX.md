@@ -26,4 +26,15 @@ This directory contains commentaries on the Middle Length Discourses (Majjhima N
 | [[mn117|MN 117]] | [[mn117_att|Mahācattārīsakasuttavaṇṇanā]] | CSCD | 22 Sujato notes | 2,102 |
 
 ---
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title"
+FROM "atthakatha/sutta/majjhima_nikaya" AND #atthakatha
+SORT file.name ASC
+```
+
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*

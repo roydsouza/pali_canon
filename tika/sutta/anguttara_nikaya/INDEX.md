@@ -67,3 +67,13 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an1_378_393|AN 1.378–393]] | [[an1_378_393_tik|28. Pasādakaradhammavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 1,306 |
 | [[an1_394_574|AN 1.394–574]] | [[an1_394_574_tik|29. Aparaaccharāsaṅghātavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 6,453 |
 | [[an1_575_615|AN 1.575–615]] | [[an1_575_615_tik|30. Kāyagatāsativaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,181 |
+
+
+---
+
+## 🔗 Live Index (via Dataview)
+```dataview
+TABLE title_pali as "Pali Title", title_en as "English Title"
+FROM "tika/sutta/anguttara_nikaya" AND #tika
+SORT file.name ASC
+```

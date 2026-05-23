@@ -45,7 +45,7 @@ source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
 ### §999
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.3|Mūla SN 55.3]]
+> - **Mūla**: [[sn55#SN 55.3: Dīghāvuupāsakasutta — *With Dīghāvu*|Mūla SN 55.3]]
 > - **Tīkā**: [[sn55_tik#§999|Sotāpattisaṃyuttavaṇṇanāṭīkā §999]]
 
 (999) Tatiye **tasmā**ti yasmā catūsu sotāpattiyaṅgesu sandissasi, tasmā. **Vijjābhāgiye**ti vijjākoṭṭhāsike. **Sabbasaṅkhāresū**ti sabbesu tebhūmakasaṅkhāresu. Evamassa upari tiṇṇaṃ maggānaṃ vipassanā kathitā. **Vighāta**nti dukkhaṃ.
@@ -75,7 +75,7 @@ Catuttha uttānameva. Pañcame **sotāpattiyaṅga**nti sotāpattiyā pubbabhāg
 ### §1003
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.7|Mūla SN 55.7]]
+> - **Mūla**: [[sn55#SN 55.7: Veḷudvāreyyasutta — *The People of Bamboo Gate*|Mūla SN 55.7]]
 > - **Tīkā**: [[sn55_tik#§1003|Sotāpattisaṃyuttavaṇṇanāṭīkā §1003]]
 
 (1003) Sattame **veḷudvāra**nti gāmadvāre paveṇiāgatassa veḷugacchassa atthitāya evaṃladdhanāmo gāmo. **Attupanāyika**nti attani upanetabbaṃ. **Samphabhāsenā**ti amantabhāsena. **Samphappalāpabhāsenā**ti samphappalāpasambhāsena niratthakena aññāṇavacanenāti attho.
@@ -228,7 +228,7 @@ Sagāthakapuññābhisandavaggo pañcamo.
 ### §1050
 
 > [!info]- Related Links
-> - **Mūla**: [[sn55#SN 55.54|Mūla SN 55.54]]
+> - **Mūla**: [[sn55#SN 55.54: Gilānasutta — *Sick*|Mūla SN 55.54]]
 > - **Tīkā**: [[sn55_tik#§1050|Sotāpattisaṃyuttavaṇṇanāṭīkā §1050]]
 
 (1050) Catutthe **na kho paneta**nti na kho amhehi etaṃ. **Sappañño upāsako**ti sotāpanno adhippeto. **Assāsanīyehi dhammehī**ti assāsakarehi dhammehi. **Assāsatāyasmā**ti assāsatu āyasmā. **Māriso**ti maraṇapaṭibaddho. **Maraṇadhammo**ti maraṇasabhāvo. **Adhimocehī**ti ṭhapehi. **Adhimocita**nti ṭhapitaṃ. **Evaṃ****vimuttacittassā**ti evaṃ arahattaphalavimuttiyā vimuttacittassa. **Yadidaṃ vimuttiyā vimutta**nti yaṃ idaṃ vimuttiṃ ārabbha vimuttiyā nānākaraṇaṃ vattabbaṃ siyā, na taṃ vadāmi. Bhikkhusaṅghassa hi cetiyaṅgaṇabodhiyaṅgaṇavattesu ceva asītikkhandhakavattesu cāti āgamanīyaguṇesu pamāṇaṃ nāma natthi, paṭividdhe pana magge vā phale vā upāsakānañca bhikkhūnañca nānākaraṇaṃ natthi.

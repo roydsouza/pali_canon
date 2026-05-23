@@ -538,7 +538,7 @@ Puṅgavā vuccanti usabhā, asantasanaparissayasahanassa paripālanādiguṇehi
 ### §6-8
 
 > [!abstract]- Atthakathā §6-8
-> [[an1_1_10_att#§6-8|Commentary §6-8]]
+> [[an1_1_10_att#§6|Commentary §6-8]]
 
 (6-8) **Tesa**nti suttānaṃ. **Uppaṇḍetvā gaṇhituṃ na icchī**ti tassa thokaṃ virūpadhātukattā na icchi. **Anatikkamanto**ti saṃsandento. **Dve hatthaṃ pattānī**ti dve uppalāni hatthaṃ gatāni. **Pahaṭṭhākāraṃ dassetvā**ti aparāhi itthīhi ekekaṃ laddhaṃ, mayā dve laddhānīti santuṭṭhākāraṃ dassetvā. **Parodī**ti tassā pubbasāmikassa mukhagandhaṃ saritvā. Tassa hi mukhato uppalagandho vāyati. **Hāretvā**ti tasmā ṭhānā apanetvā, ‘‘harāpetvā’’ti vā pāṭho, ayamevattho.
 
@@ -570,7 +570,7 @@ Paṭhamavaggavaṇṇanāya anuttānatthadīpanā niṭṭhitā.
 ### §9
 
 > [!abstract]- Atthakathā §9
-> [[an1_1_10_att#§9|Commentary §9]]
+> [[an1_1_10_att#Commentary on Aṅguttara Nikāya: 1. Rūpādivagga|Commentary §9]]
 
 (9) **Samayaṃ avilomento**ti siddhantaṃ avirodhento. Etena atthadosābhāvamāha. Aviruddhattā eva hi theravādāpi idha pakāsīyissanti. **Theravaṃsadīpāna**nti thirehi sīlakkhandhādīhi samannāgatattā therā , mahākassapādayo, tehi āgatā ācariyaparamparā theravaṃso. Tappariyāpannā hutvā āgamādhigamasampannattā paññāpajjotena tassa samujjalanato theravaṃsadīpā, mahāvihāravāsino therā, tesaṃ. Vividhehi ākārehi nicchīyatīti vinicchayo, gaṇṭhiṭṭhānesu khīlamaddanākārena pavattā vimaticchedakathā. Suṭṭhu nipuṇo saṇho vinicchayo etesanti **sunipuṇavinicchayā**. Atha vā vinicchinotīti vinicchayo, yathāvuttatthavisayaṃ ñāṇaṃ. Suṭṭhu nipuṇo cheko vinicchayo etesanti **sunipuṇavinicchayā**. Etena mahākassapādittheraparamparābhato, tatoyeva ca aviparīto saṇhasukhumo mahāvihāravāsīnaṃ vinicchayoti tassa pamāṇabhūtataṃ dasseti.
 
@@ -578,7 +578,7 @@ Paṭhamavaggavaṇṇanāya anuttānatthadīpanā niṭṭhitā.
 ### §10
 
 > [!abstract]- Atthakathā §10
-> [[an1_1_10_att#§10|Commentary §10]]
+> [[an1_1_10_att#§1|Commentary §10]]
 
 (10) **Sujanassa****cā**ti **ca**-saddo sampiṇḍanattho. Tena ‘‘na kevalaṃ jambudīpavāsīnaṃyeva atthāya, atha kho sādhujanānaṃ tosanatthañcā’’ti dasseti. Tena ca ‘‘tambapaṇṇidīpavāsīnampi atthāyā’’ti ayamattho siddho hoti uggahaṇādisukaratāya tesampi bahūpakārattā. **Ciraṭṭhitattha**nti ciraṭṭhitiatthaṃ, cirakālāvaṭṭhānāyāti attho. Idañhi atthappakāsanaṃ aviparītabyañjanasunikkhepassa atthasunītassa ca upāyabhāvato saddhammassa ciraṭṭhitiyā saṃvattati. Vuttañhetaṃ bhagavatā –
 

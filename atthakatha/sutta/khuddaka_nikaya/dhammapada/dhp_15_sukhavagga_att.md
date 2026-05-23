@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 15.1 The Story about Settling a Dispute amongst Relatives Ñātikalahavūpasamanavatthu
-*Verse(s): [[dhp_15_sukhavagga#197|Dhp 197]], [[dhp_15_sukhavagga#199|Dhp 199]]*
+*Verse(s): [[dhp_15_sukhavagga#197. *Ñātikalahavūpasamanavatthu*|Dhp 197]], [[dhp_15_sukhavagga#199.|Dhp 199]]*
 
 *Burlingame: A Quarrel among Brethren*
 *Compare: Ja 536 This story is a brief outline of the Introduction to Ja 536. Dhp-a 3.25406-25519 is almost word for word the same as Jātaka, v. 41215-41310, and Dhp-a 3.2561-9 is almost word for word the same as Jātaka, v. 4144-11. The Dhammapada Commentary version then concludes very briefly, saying nothing about the relation of Jātakas by the Buddha.*
@@ -83,7 +83,7 @@ Let us live on without longing, amongst those who do have longing, amongst human
 ---
 
 ### 15.2 The Story about Māra Māravatthu
-*Verse(s): [[dhp_15_sukhavagga#200|Dhp 200]]*
+*Verse(s): [[dhp_15_sukhavagga#200. *Māravatthu*|Dhp 200]]*
 
 *Burlingame: Māra Possesses Villagers*
 *Compare: SN 4.2.8 This story is derived from SN 4.2.8. Cf. E. Windisch, Māra und Buddha, pp. 102-104.*
@@ -114,7 +114,7 @@ We can live happily enough having no possessions ourselves, we will feed on joy 
 ---
 
 ### 15.3 The Story about the Defeat of the King of Kosala Kosalarañño Parājayavatthu
-*Verse(s): [[dhp_15_sukhavagga#201|Dhp 201]]*
+*Verse(s): [[dhp_15_sukhavagga#201. *Kosalaraññoparājayavatthu*|Dhp 201]]*
 
 *Burlingame: Defeat of the King of Kosala*
 *Keywords: Wars, Kings*
@@ -142,7 +142,7 @@ The victor generates hatred, the defeated finds suffering, the one at peace live
 ---
 
 ### 15.4 The Story about a Certain Maiden of Family Aññatarakuladārikāvatthu
-*Verse(s): [[dhp_15_sukhavagga#202|Dhp 202]]*
+*Verse(s): [[dhp_15_sukhavagga#202. *Aññatarakuladārikāvatthu*|Dhp 202]]*
 
 *Burlingame: “Look Not on a Woman to Lust after Her”*
 *Keywords: Lust, Marriages*
@@ -168,7 +168,7 @@ There is no bonfire like passion, there is no offence like hatred, there is no s
 ---
 
 ### 15.5 The Story about a Certain Lay Disciple Aññatara-Upāsakavatthu
-*Verse(s): [[dhp_15_sukhavagga#203|Dhp 203]]*
+*Verse(s): [[dhp_15_sukhavagga#203. *Ekaupāsakavatthu*|Dhp 203]]*
 
 *Burlingame: The Buddha Feeds the Hungry*
 *Keywords: Hunger, Listening to Dhamma*
@@ -208,7 +208,7 @@ Hunger is the supreme sickness, conditions the supreme suffering, knowing this a
 ---
 
 ### 15.6 The Story about Pasedani Kosala Pasenadikosalavatthu
-*Verse(s): [[dhp_15_sukhavagga#204|Dhp 204]], [[dhp_23_nagavagga#325|Dhp 325]], [[dhp_02_appamadavagga#30|Dhp 30]], [[dhp_06_panditavagga#77|Dhp 77]]*
+*Verse(s): [[dhp_15_sukhavagga#204. *Pasenadikosalavatthu*|Dhp 204]], [[dhp_23_nagavagga#325. *Pasenadikosalavatthu*|Dhp 325]], [[dhp_02_appamadavagga#30. *Maghavatthu*|Dhp 30]], [[dhp_06_panditavagga#77. *Assajipunabbasukavatthu*|Dhp 77]]*
 
 *Burlingame: On Moderation in Eating*
 *Compare: SN 3.13; Dhp-a 23.4*
@@ -251,7 +251,7 @@ Health is the supreme gain, content the supreme wealth, faith is the supreme kin
 ---
 
 ### 15.7 The Story about the Elder Tissa Tissattheravatthu
-*Verse(s): [[dhp_15_sukhavagga#205|Dhp 205]]*
+*Verse(s): [[dhp_15_sukhavagga#205. *Tissattheravatthu*|Dhp 205]]*
 
 *Compare: Dhp-a 12.10; Dhp-a 25.4*
 *Burlingame: By Righteousness Men Honor the Buddha*
@@ -282,7 +282,7 @@ Savouring the taste of solitude, and savouring the taste of peace, he is fearles
 ---
 
 ### 15.8 The Story about Sakka’s Attendance Sakkupaṭṭhānavatthu
-*Verse(s): [[dhp_15_sukhavagga#206|Dhp 206]], [[dhp_15_sukhavagga#208|Dhp 208]]*
+*Verse(s): [[dhp_15_sukhavagga#206. *Sakkavatthu*|Dhp 206]], [[dhp_15_sukhavagga#208.|Dhp 208]]*
 
 *Burlingame: Sakka Ministers to the Buddha*
 *Keywords: Sickness, Good Companions*

@@ -43,7 +43,7 @@ Sukkapakkhe pana adhimokkhavasena āvajjanasamudayā saddhindriyasamudayo hoti, 
 ### §478
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.8|Mūla SN 48.8]]
+> - **Mūla**: [[sn48#SN 48.8: Daṭṭhabbasutta — *Should Be Seen*|Mūla SN 48.8]]
 > - **Tīkā**: [[sn48_tik#§478|Indriyasaṃyuttavaṇṇanāṭīkā §478]]
 
 (478) Aṭṭhame **kattha ca, bhikkhave, saddhindriyaṃ daṭṭhabbaṃ, catūsu sotāpattiyaṅgesū**tiādi imesaṃ indriyānaṃ savisaye jeṭṭhakabhāvadassanatthaṃ vuttaṃ. Yathā hi cattāro seṭṭhiputtā rājāti rājapañcamesu sahāyesu ‘‘nakkhattaṃ kīḷissāmā’’ti vīthiṃ otiṇṇesu ekassa seṭṭhiputtassa gehaṃ gatakāle itare cattāro tuṇhī nisīdanti, gehasāmikova – ‘‘imesaṃ khādanīyaṃ bhojanīyaṃ detha, gandhamālālaṅkārādīni dethā’’ti gehe vicāreti. Dutiyassa, tatiyassa, catutthassa gehaṃ gatakāle itare cattāro tuṇhī nisīdanti, gehasāmikova – ‘‘imesaṃ khādanīyaṃ bhojanīyaṃ detha, gandhamālālaṅkārādīni dethā’’ti gehe vicāreti. Atha sabbapacchā rañño gehaṃ gatakāle kiñcāpi rājā sabbattha issaro, imasmiṃ pana kāle attano geheyeva – ‘‘imesaṃ khādanīyaṃ bhojanīyaṃ detha, gandhamālālaṅkārādīni dethā’’ti gehe vicāreti. Evameva saddhāpañcamakesu indriyesu tesu sahāyesu ekato vīthiṃ otarantesu viya ekārammaṇe uppajjamānesupi yathā paṭhamassa gehe itare cattāro tuṇhī nisīdanti, gehasāmikova vicāreti, evaṃ sotāpattiyaṅgāni patvā adhimokkhalakkhaṇaṃ saddhindriyameva jeṭṭhakaṃ hoti pubbaṅgamaṃ, sesāni tadanvayāni honti. Yathā dutiyassa gehe itare cattāro tuṇhī nisīdanti, gehasāmikova vicāreti, evaṃ sammappadhānāni patvā paggahalakkhaṇaṃ vīriyindriyameva jeṭṭhakaṃ hoti pubbaṅgamaṃ, sesāni tadanvayāni honti. Yathā tatiyassa gehe itare cattāro tuṇhī nisīdanti, gehasāmikova vicāreti, evaṃ satipaṭṭhānāni patvā upaṭṭhānalakkhaṇaṃ satindriyameva jeṭṭhakaṃ hoti pubbaṅgamaṃ, sesāni tadanvayāni honti. Yathā catutthassa gehe itare cattāro tuṇhī nisīdanti, gehasāmikova vicāreti, evaṃ jhānavimokkhe patvā avikkhepalakkhaṇaṃ samādhindriyameva jeṭṭhakaṃ hoti pubbaṅgamaṃ, sesāni tadanvayāni honti. Sabbapacchā rañño gehaṃ gatakāle pana yathā itare cattāro tuṇhī nisīdanti, rājāva gehe vicāreti, evameva ariyasaccāni patvā pajānanalakkhaṇaṃ paññindriyameva jeṭṭhakaṃ hoti pubbaṅgamaṃ, sesāni tadanvayāni hontīti.
@@ -51,7 +51,7 @@ Sukkapakkhe pana adhimokkhavasena āvajjanasamudayā saddhindriyasamudayo hoti, 
 ### §479-480
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.9|Mūla SN 48.9]] & [[sn48#SN 48.10|Mūla SN 48.10]]
+> - **Mūla**: [[sn48#SN 48.9: Paṭhamavibhaṅgasutta — *Analysis (1st)*|Mūla SN 48.9]] & [[sn48#SN 48.10: Dutiyavibhaṅgasutta — *Analysis (2nd)*|Mūla SN 48.10]]
 > - **Tīkā**: [[sn48_tik#§479-480|Indriyasaṃyuttavaṇṇanāṭīkā §479-480]]
 
 9-10. Paṭhamavibhaṅgasuttādivaṇṇanā
@@ -187,7 +187,7 @@ Kiṃ pana buddharasmiyo madditvā sūriyarasmi anto pavisituṃ sakkotīti? Na 
 ### §512
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.42|Mūla SN 48.42]]
+> - **Mūla**: [[sn48#SN 48.42: Uṇṇābhabrāhmaṇasutta — *The Brahmin Uṇṇābha*|Mūla SN 48.42]]
 > - **Tīkā**: [[sn48_tik#§512|Indriyasaṃyuttavaṇṇanāṭīkā §512]]
 
 (512) Dutiye **gocaravisaya**nti gocarabhūtaṃ visayaṃ. **Aññamaññassā**ti cakkhu sotassa, sotaṃ vā cakkhussāti evaṃ ekaṃ ekassa gocaravisayaṃ na paccanubhoti. Sace hi nīlādibhedaṃ rūpārammaṇaṃ samodhānetvā sotindriyassa upaneyya – ‘‘iṅgha tvaṃ tāva naṃ vavatthapehi vibhāvehi ‘kinnāmetaṃ ārammaṇa’’’nti. Cakkhuviññāṇaṃ vināpi mukhena attano dhammatāya evaṃ vadeyya – ‘‘are, andhabāla, vassasatampi vassasahassampi vassasatasahassampi paridhāvamāno aññatra mayā kuhiṃ etassa jānanakaṃ labhissasi, taṃ āhara, cakkhupasāde upanehi, ahametaṃ ārammaṇaṃ jānissāmi – yadi vā nīlaṃ, yadi vā pītakaṃ. Na hi eso aññassa visayo, mayhameveso visayo’’ti. Sesadvāresupi eseva nayo. Evametāni aññamaññassa gocaravisayaṃ na paccanubhonti nāma.
@@ -211,7 +211,7 @@ Tattha pañcakulikagāmā viya pañcapasādā daṭṭhabbā, pañca dubbalabhoj
 ### §514
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.44|Mūla SN 48.44]]
+> - **Mūla**: [[sn48#SN 48.44: Pubbakoṭṭhakasutta — *At the Eastern Gate*|Mūla SN 48.44]]
 
 (514) Catutthe **amatogadha**nti amatabbhantaraṃ. **Amataparāyaṇa**nti amatanibbattikaṃ. **Amatapariyosāna**nti amataniṭṭhaṃ. **Sādhu sādhū**ti therassa byākaraṇaṃ pasaṃsanto sādhukāraṃ deti.
 
@@ -224,7 +224,7 @@ Tattha pañcakulikagāmā viya pañcapasādā daṭṭhabbā, pañca dubbalabhoj
 ### §520
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.50|Mūla SN 48.50]]
+> - **Mūla**: [[sn48#SN 48.50: Āpaṇasutta — *At Āpaṇa*|Mūla SN 48.50]]
 > - **Tīkā**: [[sn48_tik#§520|Indriyasaṃyuttavaṇṇanāṭīkā §520]]
 
 (520) Dasame **ime kho te dhammā**ti upari saha vipassanāya tayo maggā. **Ye me pubbe sutāva ahesu**nti ye dhammā mayā pubbe ‘‘arahattaphalindriyaṃ nāma atthī’’ti kathentānaṃyeva sutā ahesuṃ. **Kāyena ca phusitvā**ti nāmakāyena ca phusitvā paṭilabhitvā. **Paññāya ca ativijjha passāmī**ti paccavekkhaṇapaññāya ca ativijjhitvā passāmi. **Yā hissa, bhante, saddhā**ti ayaṃ katarasaddhā? Catūhi indriyehi sampayuttā saddhā heṭṭhā kathitāva, ayaṃ pana paccavekkhaṇasaddhā. Sampayuttasaddhā hi missakā, paccavekkhaṇasaddhā lokiyāva. Sesaṃ sabbattha uttānamevāti.
@@ -248,7 +248,7 @@ Jarāvaggo pañcamo.
 ### §524-525
 
 > [!info]- Related Links
-> - **Mūla**: [[sn48#SN 48.54|Mūla SN 48.54]]
+> - **Mūla**: [[sn48#SN 48.54: Padasutta — *Footprints*|Mūla SN 48.54]]
 
 4-5. Padasuttādivaṇṇanā
 

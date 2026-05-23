@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 21.1 The Story about Ascending the Ganges Gaṅgārohaṇavatthu
-*Verse(s): [[dhp_21_pakinnakavagga#290|Dhp 290]]*
+*Verse(s): [[dhp_21_pakinnakavagga#290. *Attanopubbakammavatthu*|Dhp 290]]*
 
 *Burlingame: The Ascent of the Ganges*
 *Compare: Khp-a 6; Ja 163 BG: This story is taken almost word for word from Khp-a 6: 16022-16510, 19622-20106. Khp-a 16319-21 and 16402 are lacking in Dhammapada Commentary. Dhp-a 3.44306-44421 is more diffuse than Khp-a 1979-21. The author of Khp-a says of the story (16415-17): This version is taken from older commentaries, evam . . . porāṇehi vaṇṇīyati. Cf. Mahāvastu, i: 253 ff.*
@@ -122,7 +122,7 @@ If, by renouncing a small good, one might see a good that is large, the wise sho
 ---
 
 ### 21.2 The Story about a Woman Who Ate Chicken Eggs Kukkuṭa-Aṇḍakhādikāvatthu
-*Verse(s): [[dhp_21_pakinnakavagga#291|Dhp 291]]*
+*Verse(s): [[dhp_21_pakinnakavagga#291. *Kukkuṭaṇḍakhādikāvatthu*|Dhp 291]]*
 
 *Burlingame: “Not Hatred for Hatred”*
 *Compare: Dhp-a 1.5*
@@ -173,7 +173,7 @@ One who desires happiness for oneself by causing suffering for another, being as
 ---
 
 ### 21.3 The Story about the Bhikkhus of Bhaddiya Bhaddiyabhikkhuvatthu
-*Verse(s): [[dhp_21_pakinnakavagga#292|Dhp 292]], [[dhp_21_pakinnakavagga#293|Dhp 293]]*
+*Verse(s): [[dhp_21_pakinnakavagga#292. *Bhaddiyānaṁbhikkhūnaṁvatthu*|Dhp 292]], [[dhp_21_pakinnakavagga#293.|Dhp 293]]*
 
 *Burlingame: The Monks Who Were Given to Vanities*
 *Compare: Vin Mv 5.8*
@@ -209,7 +209,7 @@ But those who always properly undertake body-mindfulness don’t practice what�
 ---
 
 ### 21.4 The Story about the Elder Lakuṇṭaka Bhaddiya Lakuṇṭakabhaddiyattheravatthu
-*Verse(s): [[dhp_21_pakinnakavagga#294|Dhp 294]], [[dhp_21_pakinnakavagga#295|Dhp 295]]*
+*Verse(s): [[dhp_21_pakinnakavagga#294. *Lakuṇḍakabhaddiyavatthu*|Dhp 294]], [[dhp_21_pakinnakavagga#295.|Dhp 295]]*
 
 *Burlingame: The Monk Who Had Killed His Mother and Father*
 *Keywords: Killing, Similes*
@@ -244,7 +244,7 @@ Destroying mother and father, and two prosp’rous kings, destroying a vicious t
 ---
 
 ### 21.5 The Story about a Son of a Wagon Driver Dārusākaṭikaputtavatthu
-*Verse(s): [[dhp_21_pakinnakavagga#296|Dhp 296]], [[dhp_21_pakinnakavagga#301|Dhp 301]]*
+*Verse(s): [[dhp_21_pakinnakavagga#296. *Dārusākaṭikaputtavatthu*|Dhp 296]], [[dhp_21_pakinnakavagga#301.|Dhp 301]]*
 
 *Burlingame: The Youth and the Demons*
 *Keywords: Amanussa, Meditation, Protective Chanting*
@@ -315,7 +315,7 @@ Gotama’s disciples always awake to a good wakening, those who day and night ha
 ---
 
 ### 21.6 The Story about the Vajjian Bhikkhu Vajjiputtakabhikkhuvatthu
-*Verse(s): [[dhp_21_pakinnakavagga#302|Dhp 302]]*
+*Verse(s): [[dhp_21_pakinnakavagga#302. *Vajjiputtakabhikkhuvatthu*|Dhp 302]]*
 
 *Burlingame: The Vajjian Prince Who Became a Monk*
 *Compare: SN 9.9; Thag-a 62*
@@ -355,7 +355,7 @@ The going-forth is hard, it is hard to find real delight therein, but it is also
 ---
 
 ### 21.7 The Story about the Householder Citta Cittagahapativatthu
-*Verse(s): [[dhp_21_pakinnakavagga#303|Dhp 303]]*
+*Verse(s): [[dhp_21_pakinnakavagga#303. *Cittagahapativatthu*|Dhp 303]]*
 
 *Burlingame: Citta the Faithful Lay Disciple*
 *Compare: Dhp-a 5.14*
@@ -382,7 +382,7 @@ The faithful one who is endowed with virtue, and has wealth and fame, whatever p
 ---
 
 ### 21.8 The Story about Cullā Subhaddā Cullasubhaddāvatthu
-*Verse(s): [[dhp_21_pakinnakavagga#304|Dhp 304]]*
+*Verse(s): [[dhp_21_pakinnakavagga#304. *Cūḷasubhaddāvatthu*|Dhp 304]]*
 
 *Burlingame: Cullā Subhaddā the Virtuous BG: This story is referred to at Mil 35014.*
 *Compare: Dhp-a 4.8*
@@ -464,7 +464,7 @@ The Teacher selected five hundred pure ones, who had destroyed the pollutants, a
 ---
 
 ### 21.9 The Story about the Elder Ekavihārī Ekavihārittheravatthu
-*Verse(s): [[dhp_21_pakinnakavagga#305|Dhp 305]]*
+*Verse(s): [[dhp_21_pakinnakavagga#305. *Ekavihārittheravatthu*|Dhp 305]]*
 
 *Burlingame: The Solitary Monk*
 *Keywords: Solitude, Good Example*

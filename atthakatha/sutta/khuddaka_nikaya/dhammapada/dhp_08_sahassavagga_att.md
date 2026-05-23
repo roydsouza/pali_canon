@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 8.1 The Story about the Copper-Toothed Executioner Tambadāṭhikacoraghātakavatthu
-*Verse(s): [[dhp_08_sahassavagga#100|Dhp 100]]*
+*Verse(s): [[dhp_08_sahassavagga#100. *Tambadāṭhikacoraghātakavatthu*|Dhp 100]]*
 
 *Burlingame: A Public Executioner*
 *Keywords: Past Deeds, Forgiveness, Listening to Dhamma, Yakkhinīs, Heaven*
@@ -80,7 +80,7 @@ Though there are a thousand sayings consisting of quite useless words, better is
 ---
 
 ### 8.2 The Story about the Elder Bāhiya Dārucīriya Bāhiyadāruciriyattheravatthu
-*Verse(s): [[dhp_08_sahassavagga#101|Dhp 101]]*
+*Verse(s): [[dhp_08_sahassavagga#101. *Bāhiyadārucīriyattheravatthu*|Dhp 101]]*
 
 *Burlingame: Conversions of Bāhiya Dārucīriya*
 *Compare: Ud 1.10; AN-a 1.14.3.8*
@@ -154,7 +154,7 @@ Though there are a thousand verses consisting of quite useless words, better is 
 ---
 
 ### 8.3 The Story about the Elder Kuṇḍalakesī Kuṇḍalakesittherīvatthu
-*Verse(s): [[dhp_08_sahassavagga#102|Dhp 102]], [[dhp_08_sahassavagga#103|Dhp 103]]*
+*Verse(s): [[dhp_08_sahassavagga#102. *Kuṇḍalakesitherīvatthu*|Dhp 102]], [[dhp_08_sahassavagga#103.|Dhp 103]]*
 
 *Burlingame: The Maiden Who Married a Thief*
 *Compare: AN-a 1.14.5.9; Thig-a 46; Ja 318; Ja 419 BG: Parallels: Kathāsaritsāgara, Tawney’s translation, ii. 493.*
@@ -237,7 +237,7 @@ One may conquer a thousand men a thousand times in a battle, but having conquere
 ---
 
 ### 8.4 The Story about the Brahmin Who Asked about Loss Anatthapucchakabrāhmaṇavatthu
-*Verse(s): [[dhp_08_sahassavagga#104|Dhp 104]], [[dhp_08_sahassavagga#105|Dhp 105]]*
+*Verse(s): [[dhp_08_sahassavagga#104. *Anatthapucchakabrāhmaṇavatthu*|Dhp 104]], [[dhp_08_sahassavagga#105.|Dhp 105]]*
 
 *Burlingame: Gain and Loss*
 *Keywords: Self-Conquest*
@@ -269,7 +269,7 @@ Conquest over self is better than that over other people, for the one who conque
 ---
 
 ### 8.5 The Story about the Elder Sāriputta’s Brahmin Uncle Sāriputtattherassa Mātulabrāhmaṇavatthu
-*Verse(s): [[dhp_08_sahassavagga#106|Dhp 106]]*
+*Verse(s): [[dhp_08_sahassavagga#106. *Sāriputtattherassa mātulabrāhmaṇavatthu*|Dhp 106]]*
 
 *Burlingame: Sāriputta’s Uncle*
 *Keywords: Offerings, Worship, Great Disciples*
@@ -295,7 +295,7 @@ One might give alms impartially with a thousand coins of money month by month fo
 ---
 
 ### 8.6 The Story about the Elder Sāriputta’s Nephew Sāriputtattherassa Bhāgineyyavatthu
-*Verse(s): [[dhp_08_sahassavagga#107|Dhp 107]]*
+*Verse(s): [[dhp_08_sahassavagga#107. *Sāriputtattherassa bhāgineyyavatthu*|Dhp 107]]*
 
 *Burlingame: Sāriputta’s Nephew*
 *Keywords: Sacrifice, Worship, Great Disciples*
@@ -323,7 +323,7 @@ One person might care for the fire in the woods for a hundred years; and one mig
 ---
 
 ### 8.7 The Story about the Elder Sāriputta’s Brahmin Companion Sāriputtattherassa Sahāyakabrāhmaṇavatthu
-*Verse(s): [[dhp_08_sahassavagga#108|Dhp 108]]*
+*Verse(s): [[dhp_08_sahassavagga#108. *Sāriputtatherassa sahāyakabrāhmaṇavatthu*|Dhp 108]]*
 
 *Burlingame: Sāriputta’s Friend*
 *Keywords: Sacrifice, Worship, Great Disciples*
@@ -349,7 +349,7 @@ Whatever the alms or the sacrifice one seeking merit may give for a year, that i
 ---
 
 ### 8.8 The Story about the Youth Dīghāyu Dīghāyukumāravatthu
-*Verse(s): [[dhp_08_sahassavagga#109|Dhp 109]]*
+*Verse(s): [[dhp_08_sahassavagga#109. *Āyuvaḍḍhanakumāravatthu*|Dhp 109]]*
 
 *Burlingame: The Lad Whose Years Increased*
 *Keywords: Protection Chanting, Longevity, Devatās*
@@ -393,7 +393,7 @@ For the one who is constantly worshipping honourable elders, four things increas
 ---
 
 ### 8.9 The Story about the Novice Saṅkicca Saṅkiccasāmaṇeravatthu
-*Verse(s): [[dhp_08_sahassavagga#110|Dhp 110]], [[dhp_08_sahassavagga#110|Dhp 110]]*
+*Verse(s): [[dhp_08_sahassavagga#110. *Saṅkiccasāmaṇeravatthu*|Dhp 110]], [[dhp_08_sahassavagga#110. *Saṅkiccasāmaṇeravatthu*|Dhp 110]]*
 
 *Burlingame: Saṁkicca the Novice*
 *Cast: Elder Sāriputta, Novice Saṅkicca, Novice Atimuttaka*
@@ -490,7 +490,7 @@ The thieves heard their reproaches and lamentations, and perceiving that the you
 ---
 
 ### 8.10 The Story about the Elder Khāṇu Koṇḍañña Khāṇukoṇḍaññattheravatthu
-*Verse(s): [[dhp_08_sahassavagga#111|Dhp 111]]*
+*Verse(s): [[dhp_08_sahassavagga#111. *Khāṇukoṇḍaññattheravatthu*|Dhp 111]]*
 
 *Burlingame: The Monk and the Thieves*
 *Keywords: Thieves, Conversions, Amanussa*
@@ -520,7 +520,7 @@ One might live for a hundred years, lacking in wisdom, uncomposed, but one day i
 ---
 
 ### 8.11 The Story about the Elder Sappadāsa Sappadāsattheravatthu
-*Verse(s): [[dhp_08_sahassavagga#112|Dhp 112]]*
+*Verse(s): [[dhp_08_sahassavagga#112. *Sabbadāsattheravatthu*|Dhp 112]]*
 
 *Burlingame: On the Razor’s Edge*
 *Compare: Thag-a 215*
@@ -567,7 +567,7 @@ One might live for a hundred years, indolent, with less energy, but one day is b
 ---
 
 ### 8.12 The Story about the Elder Paṭācārā Paṭācārātherīvatthu
-*Verse(s): [[dhp_08_sahassavagga#113|Dhp 113]], [[dhp_20_maggavagga#288|Dhp 288]], [[dhp_20_maggavagga#289|Dhp 289]], [[dhp_01_yamakavagga#2|Dhp 2]], [[dhp_19_dhammatthavagga#269|Dhp 269]]*
+*Verse(s): [[dhp_08_sahassavagga#113. *Paṭācārātherīvatthu*|Dhp 113]], [[dhp_20_maggavagga#288. *Paṭācārāvatthu*|Dhp 288]], [[dhp_20_maggavagga#289.|Dhp 289]], [[dhp_01_yamakavagga#2. *Maṭṭhakuṇḍalīvatthu*|Dhp 2]], [[dhp_19_dhammatthavagga#269.|Dhp 269]]*
 
 *Burlingame: Paṭācārā is Bereft of All Her Family*
 *Compare: Dhp-a 20.12; AN-a 1.14.5.4; Thīg-a 47 BG: Parallels: AN-a 1.14.5.4; Thīg-a 47. On the relations of the three versions, see Introduction, § 7 d, Synoptical Table, and especially p. 50. Cf. Thīg 218-219, and Tibetan Tales, xi: 216-226.*
@@ -652,7 +652,7 @@ At the end of the discourse Paṭācārā attained Arahatship together with the 
 ---
 
 ### 8.13 The Story about Kisā Gotamī Kisāgotamīvatthu
-*Verse(s): [[dhp_08_sahassavagga#114|Dhp 114]], [[dhp_20_maggavagga#287|Dhp 287]]*
+*Verse(s): [[dhp_08_sahassavagga#114. *Kisāgotamīvatthu*|Dhp 114]], [[dhp_20_maggavagga#287. *Kisāgotamīvatthu*|Dhp 287]]*
 
 *Burlingame: Kisā Gotamī Seeks Mustard Seed to Cure Her Dead Child*
 *Compare: Dhp-a 20.11; AN-a 1.14.5.12; Thīg-a 63 BG: Parallels: Tibetan Tales, xi, pp. 216-226. In Thīg and in the Tibetan version, certain episodes of the story of Paṭācārā (viii. 12) are incorporated in the story of Kisā Gotamī. Cf. Die Legende von Kisāgotamī. Eine literarhistorische Untersuchung. Von Jakob H. Thiessen, Breslau, 1880.*
@@ -703,7 +703,7 @@ One might live for a hundred years without seeing the deathless state, but a lif
 ---
 
 ### 8.14 The Story about the Elder Bahuputtikā Bahuputtikattherīvatthu
-*Verse(s): [[dhp_08_sahassavagga#115|Dhp 115]]*
+*Verse(s): [[dhp_08_sahassavagga#115. *Bahuputtikattherīvatthu*|Dhp 115]]*
 
 *Burlingame: The Widow Bahuputtikā and Her Ungrateful Children*
 *Compare: Dhp-a 23.3*

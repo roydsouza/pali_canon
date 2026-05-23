@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 11.1 The Story about Visākhā’s Companions Visākhāya Sahāyikānaṁ Vatthu
-*Verse(s): [[dhp_11_jaravagga#146|Dhp 146]]*
+*Verse(s): [[dhp_11_jaravagga#146. *Visākhāyasahāyikānaṁvatthu*|Dhp 146]]*
 
 *Burlingame: Visākhā’s Companions Intoxicate Themselves*
 *Compare: Ja 512 BG: This story is a very free version of the Introduction to Ja 512.*
@@ -71,7 +71,7 @@ The Teacher replied: “Yes, Visākhā, strong drink is indeed a wicked thing, f
 ---
 
 ### 11.2 The Story about Sirimā Sirimāvatthu
-*Verse(s): [[dhp_11_jaravagga#147|Dhp 147]], [[dhp_17_kodhavagga#223|Dhp 223]]*
+*Verse(s): [[dhp_11_jaravagga#147. *Sirimāvatthu*|Dhp 147]], [[dhp_17_kodhavagga#223. *Uttarāupāsikavatthu*|Dhp 223]]*
 
 *Burlingame: The Teacher Cures a Monk of Love*
 *Compare: Vv-a 1.16 BG: From this story is derived Vv-a 1.16. Vv-a 7504-7728 is almost word for word the same as Dhp-a 3.10418-10906. This story is referred to at Mil 35013. See Cunningham’s Stūpa of Bhārhut Plate xxiii. 1.*
@@ -124,7 +124,7 @@ See this beautified manikin, a heap of sores that is raised up, sick, imagined i
 ---
 
 ### 11.3 The Story about the Elder Uttarī Uttarittherīvatthu
-*Verse(s): [[dhp_11_jaravagga#148|Dhp 148]]*
+*Verse(s): [[dhp_11_jaravagga#148. *Uttarātherīvatthu*|Dhp 148]]*
 
 *Burlingame: The Aged Nun*
 *Keywords: Old Age, Death, Decay, Bhikkhunīs*
@@ -152,7 +152,7 @@ This body is worn out, a nest of disease, perishing, putrid, the putrid body wil
 ---
 
 ### 11.4 The Story about Many Vain Bhikkhus Sambahula-Adhimānikabhikkhūnaṁ Vatthu
-*Verse(s): [[dhp_11_jaravagga#149|Dhp 149]]*
+*Verse(s): [[dhp_11_jaravagga#149. *Sambahulaadhimānikabhikkhuvatthu*|Dhp 149]]*
 
 *Burlingame: A Company of Over-Confident Monks*
 *Keywords: Overestimation, Meditation, Death, Radiant Image*
@@ -184,7 +184,7 @@ Like discarded white gourds thrown away in autumn are these grey bones; seeing t
 ---
 
 ### 11.5 The Story about the Elder Janapada Kaḷyāṇī Rūpanandā Janapadakalyāṇirūpanandattherīvatthu
-*Verse(s): [[dhp_11_jaravagga#150|Dhp 150]]*
+*Verse(s): [[dhp_11_jaravagga#150. *Janapadakalyāṇīrūpanandātherīvatthu*|Dhp 150]]*
 
 *Burlingame: The Nun and the Phantom*
 *Compare: Dhp-a 24.5; AN-a 14.5.4.6; Thīg-a 41; Thīg-a 52 BG: On the literary relations of all these stories, see Introduction, § 7d, pages 48-51.*
@@ -246,7 +246,7 @@ This fortress is made out of bones, plastered over with flesh and blood, but hid
 ---
 
 ### 11.6 The Story about Queen Mallikā Mallikādevīvatthu
-*Verse(s): [[dhp_11_jaravagga#151|Dhp 151]]*
+*Verse(s): [[dhp_11_jaravagga#151. *Mallikādevīvatthu*|Dhp 151]]*
 
 *Burlingame: Queen Mallikā and Her Dog*
 *Compare: Vv-a 3.8 BG: At Vv-a 3.8, Dhammapāla refers to the Story of Mallikā in the Dhammapada-vaṇṇanā. He then gives a brief outline of the story, which is to the effect that after the death of the Buddha, Mallikā the wife of Bandhula went in state and did honor to his relics. The Dhammapada Commentary contains no such story about Mallikā the wife of Bandhula, or about Mallikā the wife of Pasenadi. It seems probable that Dhammapāla here gives a wrong reference. For references in the Dhammapada-aṭṭhakathā to Mallikā the wife of Bandhula, see 1.349, 1.412; to Mallikā the wife of Pasenadi, 1.382, 2.1-19, 3.119-123, 3.183-189. Cf. Jātaka, 3.405, Khp-a 1292°, and Mil 29117-19.*
@@ -293,7 +293,7 @@ Royal chariots will decay, and the body also decays, but the Dhamma does not dec
 ---
 
 ### 11.7 The Story about the Elder Lāḷudāyi Lāḷudāyittheravatthu
-*Verse(s): [[dhp_11_jaravagga#152|Dhp 152]]*
+*Verse(s): [[dhp_11_jaravagga#152. *Lāḷudāyītheravatthu*|Dhp 152]]*
 
 *Burlingame: The Monk Who Always Said the Wrong Thing*
 *Compare: Ja 211; Dhp-a 18.4*
@@ -349,7 +349,7 @@ The person of little learning increases in age like an ox, for although his fles
 ---
 
 ### 11.8 The Story about the Exalted Utterances (Spoken) to Elder Ānanda Ānandattherassa Udānavatthu
-*Verse(s): [[dhp_11_jaravagga#153|Dhp 153]], [[dhp_11_jaravagga#154|Dhp 154]]*
+*Verse(s): [[dhp_11_jaravagga#153. *Udānavatthu*|Dhp 153]], [[dhp_11_jaravagga#154.|Dhp 154]]*
 
 *Burlingame: Elder Ānanda’s Stanzas AJ: titled such, even though the verses are not spoken by Ānanda, but the Buddha.*
 *Compare: Nidānakathā BG: Ja Nid vs 278-279 (Jātaka, 1.76). The “Builder of the House” is of course craving, (taṇhā), the cause of rebirth and suffering.*
@@ -383,7 +383,7 @@ O housebuilder, now you are seen! You will not build the house again: all your r
 ---
 
 ### 11.9 The Story about Mahā Dhana, the Rich Man’s Son Mahādhanaseṭṭhiputtavatthu
-*Verse(s): [[dhp_11_jaravagga#155|Dhp 155]], [[dhp_11_jaravagga#156|Dhp 156]]*
+*Verse(s): [[dhp_11_jaravagga#155. *Mahādhanaseṭṭhiputtavatthu*|Dhp 155]], [[dhp_11_jaravagga#156.|Dhp 156]]*
 
 *Burlingame: Great-Wealth, the Treasurer’s Son*
 *Keywords: Marriages, Rich Men, Profligacy, Beggars*

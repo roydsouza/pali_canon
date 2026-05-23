@@ -36,7 +36,7 @@ Mahāvagga-aṭṭhakathā
 
 ### §1-2
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.2|Mūla SN 45.2]]
+> - **Mūla**: [[sn45#SN 45.2: Upaḍḍhasutta — *Half the Spiritual Life*|Mūla SN 45.2]]
 > - **Tīkā**: [[sn45_tik#§1-2|Maggasaṃyuttavaṇṇanāṭīkā §1-2]]
 
 1-2. Avijjāsuttādivaṇṇanā
@@ -56,7 +56,7 @@ Yampi abhidhamme vuttaṃ ‘‘tasmiṃ kho pana samaye pañcaṅgiko maggo hot
 ### §3
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.3|Mūla SN 45.3]]
+> - **Mūla**: [[sn45#SN 45.3: Sāriputtasutta — *Sāriputta*|Mūla SN 45.3]]
 > - **Tīkā**: [[sn45_tik#§3|Maggasaṃyuttavaṇṇanāṭīkā §3]]
 
 (3) Tatiye **sakalamidaṃ bhante**ti ānandatthero sāvakapāramīñāṇassa matthakaṃ appattatāya sakalampi maggabrahmacariyaṃ kalyāṇamittasannissayena labbhatīti na aññāsi, dhammasenāpati pana sāvakapāramīñāṇassa matthake ṭhitattā aññāsi, tasmā evamāha. Tenevassa bhagavā **sādhu sādhū**ti sādhukāramadāsi.
@@ -98,7 +98,7 @@ Pañcame **ayamevā**ti evasaddo niyamattho. Tena aññaṃ maggaṃ paṭikkhip
 ### §8
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.8|Mūla SN 45.8]]
+> - **Mūla**: [[sn45#SN 45.8: Vibhaṅgasutta — *Analysis*|Mūla SN 45.8]]
 > - **Tīkā**: [[sn45_tik#§8|Maggasaṃyuttavaṇṇanāṭīkā §8]]
 
 (8) Aṭṭhame **katamā ca bhikkhave sammādiṭṭhī**ti ekena pariyāyena aṭṭhaṅgikamaggaṃ vibhajitvā puna aparena pariyāyena vibhajitukāmo idaṃ desanaṃ ārabhi. Tattha **dukkhe ñāṇa**nti savanasammasanapaṭivedhapaccavekkhaṇavasena catūhākārehi uppannaṃ ñāṇaṃ. Samudayepi eseva nayo. Sesesu pana dvīsu sammasanassa abhāvā tividhameva vaṭṭati. Evametaṃ ‘‘dukkhe ñāṇa’’ntiādinā catusaccakammaṭṭhānaṃ dassitaṃ.
@@ -210,7 +210,7 @@ Ekadhammapeyyālopi gaṅgāpeyyālopi pāṭiyekkaṃ puggalajjhāsayavaseneva 
 ### §139
 
 > [!info]- Related Links
-> - **Mūla**: [[sn45#SN 45.139|Mūla SN 45.139]]
+> - **Mūla**: [[sn45#SN 45.139: Tathāgatasutta — *The Realized One*|Mūla SN 45.139]]
 > - **Tīkā**: [[sn45_tik#§139|Maggasaṃyuttavaṇṇanāṭīkā §139]]
 
 (139) Appamādapeyyāle **evameva kho**ti ettha yathā sabbasattānaṃ sammāsambuddho aggo, evaṃ sabbesaṃ kusaladhammānaṃ kārāpakaappamādo aggoti daṭṭhabbo. Nanu cesa lokiyova, kusaladhammā pana lokuttarāpi. Ayañca kāmāvacarova, kusaladhammā pana catubhūmakā. Kathamesa tesaṃ aggoti? Paṭilābhakaṭṭhena. Appamādena hi te paṭilabbhanti, tasmā so tesaṃ aggo. Tenetaṃ vuttaṃ **sabbe te appamādamūlakā**tiādi.

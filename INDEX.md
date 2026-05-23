@@ -17,17 +17,20 @@ The vault is divided into four primary segments. Click on each section below to 
     *   *Status*: **Active**. Sub-commentary for all migrated suttas (Dhammapada ṭīkā pending).
 *   **[[matika/INDEX|Mātika (Buddhist Lists)]]**
     *   *Description*: Systematically cataloged registers of Buddhist lists with Romanized Pali and item-by-item translations.
-    *   *Status*: **Active**. 19 lists migrated and cross-linked to canonical sources.
+    *   *Status*: **Active**. 22 lists migrated and cross-linked to canonical sources.
+*   **[[practice/INDEX|Practice Dashboard (Meditation & Study)]]**
+    *   *Description*: Tools for active practice, meditation logs, templates, and verse memorization logs.
+    *   *Status*: **Active**. Templates, memorization log, and practice note dashboard integrated.
 
 ---
 
 ## Vault-Wide Migration Status
 
-*   **Nikāyas Active**: Majjhima (10), Dīgha (4), Saṃyutta (76), Aṅguttara (14), Khuddaka/Dhammapada (423v)
-*   **Total Individual Suttas**: 104 (all three layers)
-*   **Estimated Total Word Count**: ~800K+ across all layers
+*   **Nikāyas Active**: Majjhima (12), Dīgha (4), Saṃyutta (76), Aṅguttara (52), Khuddaka/Dhammapada (423v)
+*   **Total Individual Suttas**: 144 (all three layers where available)
+*   **Estimated Total Word Count**: ~900K+ across all layers
 *   **Active Piṭakas**: Sutta Piṭaka (Vinaya and Abhidhamma scaffolded)
-*   **Last Updated**: 2026-05-22
+*   **Last Updated**: 2026-05-23
 *   **Excluded Directories**:
     *   `scratch/`: Contains internal XML and JSON raw assets, download scripts, and utility modules. (Not indexed).
 
@@ -49,6 +52,18 @@ The toggle remembers its state across notes within the session. Restart Obsidian
 **Double-click any Pali word** to open the Digital Pāli Dictionary (DPD) sidebar. It shows the word's definition, grammatical form, root, and sutta references. See [[SIMSAPA-DPD]] for full details and troubleshooting.
 
 The Simsapa desktop app must be running for lookups to work.
+
+---
+
+## 🕒 Recently Modified / Revisited
+*This dashboard shows the most recently edited or updated files in the vault, generated using Dataview.*
+
+```dataview
+TABLE file.mtime as "Modified Time", type as "Type"
+FROM ""
+SORT file.mtime DESC
+LIMIT 5
+```
 
 ---
 *Created and maintained as a structured database for Buddhist studies.*

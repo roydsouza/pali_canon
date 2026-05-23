@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 24.1 The Story about Kapilamaccha Kapilamacchavatthu
-*Verse(s): [[dhp_24_tanhavagga#334|Dhp 334]], [[dhp_24_tanhavagga#337|Dhp 337]]*
+*Verse(s): [[dhp_24_tanhavagga#334. *Kapilamacchavatthu*|Dhp 334]], [[dhp_24_tanhavagga#337.|Dhp 337]]*
 
 *Burlingame: Redfish*
 *Compare: Ud 3.3; Thag-a 178*
@@ -142,7 +142,7 @@ This I say to you: “Good luck to as many as have assembled,” dig up the root
 ---
 
 ### 24.2 The Story about the Young Sow Sūkarapotikāvatthu
-*Verse(s): [[dhp_24_tanhavagga#338|Dhp 338]], [[dhp_24_tanhavagga#343|Dhp 343]]*
+*Verse(s): [[dhp_24_tanhavagga#338. *Sūkarapotikāvatthu*|Dhp 338]], [[dhp_24_tanhavagga#343.|Dhp 343]]*
 
 *Burlingame: The Young Sow*
 *Cast: Elder Ānanda, Buddha Kakusandha, Princess Ubbarī, Sumanā, Lakuṇṭaka Atimbara, King Duṭṭhagāmaṇī, Elder Anula, Elder Mahā Tissa*
@@ -222,7 +222,7 @@ Having thus passed through thirteen states of existence, for better or for worse
 ---
 
 ### 24.3 The Story about the Runaway Bhikkhu Vibbhantabhikkhuvatthu
-*Verse(s): [[dhp_24_tanhavagga#344|Dhp 344]]*
+*Verse(s): [[dhp_24_tanhavagga#344. *Vibbhantabhikkhuvatthu*|Dhp 344]]*
 
 *Burlingame: The Renegade Monk*
 *Keywords: Thieves, Meditation, Kings, Radiant Image, Insight*
@@ -250,7 +250,7 @@ Now on hearing this doctrinal instruction, the runaway bhikkhu, even as he lay o
 ---
 
 ### 24.4 The Story about the Prison House Bandhanāgāravatthu
-*Verse(s): [[dhp_24_tanhavagga#345|Dhp 345]], [[dhp_24_tanhavagga#346|Dhp 346]]*
+*Verse(s): [[dhp_24_tanhavagga#345. *Bandhanāgāravatthu*|Dhp 345]], [[dhp_24_tanhavagga#346.|Dhp 346]]*
 
 *Burlingame: The Prison-House*
 *Compare: Ja 201*
@@ -293,7 +293,7 @@ That bondage is not so strong say the wise, that is made of iron or wood or reed
 ---
 
 ### 24.5 The Story about the Elder Khemā Khemātherīvatthu
-*Verse(s): [[dhp_24_tanhavagga#347|Dhp 347]]*
+*Verse(s): [[dhp_24_tanhavagga#347. *Khemātherīvatthu*|Dhp 347]]*
 
 *Burlingame: Beauty Is But Skin-Deep*
 *Compare: Dhp-a 11.5; AN-a 1.14.5.2; Thīg-a 52; AN-a 1.14.5.6; Thīg-a 41*
@@ -328,7 +328,7 @@ The Teacher said to the king: “Great king, Khemā ought either to go forth or 
 ---
 
 ### 24.6 The Story about Uggasena Uggasenavatthu
-*Verse(s): [[dhp_24_tanhavagga#348|Dhp 348]], [[dhp_26_brahmanavagga#397|Dhp 397]]*
+*Verse(s): [[dhp_24_tanhavagga#348. *Uggasenavatthu*|Dhp 348]], [[dhp_26_brahmanavagga#397. *Uggasenaseṭṭhiputtavatthu*|Dhp 397]]*
 
 *Burlingame: The Youth Who Married a Female Acrobat*
 *Keywords: Acrobats, Marriages, Rich Men, Listening to Dhamma, Past Lives, Previous Buddhas*
@@ -401,7 +401,7 @@ Remaining in this state of existence during the term of life allotted [30.231] t
 ---
 
 ### 24.7 The Story about the Wise Archer Culla Dhanuggaha Culladhanuggahapaṇḍitavatthu
-*Verse(s): [[dhp_24_tanhavagga#349|Dhp 349]], [[dhp_24_tanhavagga#350|Dhp 350]]*
+*Verse(s): [[dhp_24_tanhavagga#349. *Cūḷadhanuggahapaṇḍitavatthu*|Dhp 349]], [[dhp_24_tanhavagga#350.|Dhp 350]]*
 
 *Burlingame: Young Archer the Wise*
 *Compare: Ja 374; Ja 425 BG: This story is a free version of Ja 374. Cf. also Ja 425; and Tibetan Tales, xii: 227-235.*
@@ -481,7 +481,7 @@ Whoever delights in calming of thoughts, who cultivates what is unattractive, wi
 ---
 
 ### 24.8 The Story about Māra Māravatthu
-*Verse(s): [[dhp_24_tanhavagga#351|Dhp 351]], [[dhp_24_tanhavagga#352|Dhp 352]]*
+*Verse(s): [[dhp_24_tanhavagga#351. *Māravatthu*|Dhp 351]], [[dhp_24_tanhavagga#352.|Dhp 352]]*
 
 *Burlingame: Māra Seeks in Vain to Frighten Rāhula*
 *Keywords: Novices, Great Disciples*
@@ -516,7 +516,7 @@ Without craving and attachment, skilled in words and explanation, knowing how sy
 ---
 
 ### 24.9 The Story about the Ājīvaka Upaka Upakājīvakavatthu
-*Verse(s): [[dhp_24_tanhavagga#353|Dhp 353]]*
+*Verse(s): [[dhp_24_tanhavagga#353. *Upakājīvakavatthu*|Dhp 353]]*
 
 *Burlingame: The Skeptical Ascetic*
 *Compare: Vin Mv 1.6; MN 26; Thīg-a 68*
@@ -543,7 +543,7 @@ All-Conquering, All-Wise am I, undefiled regarding all things, having given up e
 ---
 
 ### 24.10 The Story about Sakka’s Question Sakkapañhavatthu
-*Verse(s): [[dhp_24_tanhavagga#354|Dhp 354]]*
+*Verse(s): [[dhp_24_tanhavagga#354. *Sakkapañhavatthu*|Dhp 354]]*
 
 *Burlingame: The Summum Bonum*
 *Compare: DN 11 BG: Cf. the last half of the Kevaḍḍha Sutta, DN 11.*
@@ -580,7 +580,7 @@ When the Teacher heard Sakka’s request, he gathered together the Saṅgha of b
 ---
 
 ### 24.11 The Story about the Childless Rich Man Aputtakaseṭṭhivatthu
-*Verse(s): [[dhp_24_tanhavagga#355|Dhp 355]]*
+*Verse(s): [[dhp_24_tanhavagga#355. *Aputtakaseṭṭhivatthu*|Dhp 355]]*
 
 *Burlingame: Treasurer Childless*
 *Compare: SN 3.20; Ja 390*
@@ -627,7 +627,7 @@ Riches destroy the stupid one who does not seek the way beyond, through his crav
 ---
 
 ### 24.12 The Story about Aṅkura Aṅkuravatthu
-*Verse(s): [[dhp_24_tanhavagga#356|Dhp 356]], [[dhp_24_tanhavagga#359|Dhp 359]]*
+*Verse(s): [[dhp_24_tanhavagga#356. *Aṅkuravatthu*|Dhp 356]], [[dhp_24_tanhavagga#359.|Dhp 359]]*
 
 *Burlingame: The Greater and the Lesser Gift*
 *Compare: Dhp-a 14.2f*

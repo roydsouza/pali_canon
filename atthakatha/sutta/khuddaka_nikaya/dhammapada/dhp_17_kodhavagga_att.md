@@ -24,7 +24,7 @@ source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
 *Translation: Bhante Ānandajoti's revised edition of Burlingame's Buddhist Legends.*
 
 ### 17.1 The Story about the Noble Maiden Rohinī Rohinīkhattiyakaññāvatthu
-*Verse(s): [[dhp_17_kodhavagga#221|Dhp 221]]*
+*Verse(s): [[dhp_17_kodhavagga#221. *Rohinīkhattiyakaññāvatthu*|Dhp 221]]*
 
 *Burlingame: How Anger Marred a Maiden’s Looks*
 *Keywords: Sickness, Offerings, Queens, Past Lives, Devaputtas*
@@ -74,7 +74,7 @@ Then Sakka said to them: “Friends, as for you, your thoughts are on fire. For 
 ---
 
 ### 17.2 The Story about a Certain Bhikkhu Aññatarabhikkhuvatthu
-*Verse(s): [[dhp_17_kodhavagga#222|Dhp 222]]*
+*Verse(s): [[dhp_17_kodhavagga#222. *Aññatarabhikkhuvatthu*|Dhp 222]]*
 
 *Burlingame: The Tree Devatā and the Monk*
 *Compare: Vin Pāc 11*
@@ -107,7 +107,7 @@ But even after the Devatā had become a Stream-enterer, she stood weeping. The T
 ---
 
 ### 17.3 The Story about the Lay Disciple Uttarā Uttarā-Upāsikāvatthu
-*Verse(s): [[dhp_17_kodhavagga#223|Dhp 223]]*
+*Verse(s): [[dhp_17_kodhavagga#223. *Uttarāupāsikavatthu*|Dhp 223]]*
 
 *Burlingame: The Poor Man and His Daughters*
 *Compare: Vv-a 1.15; AN-a 1.14.7.5, Dhp-a 11.2 BG: From this story is derived Vv-a 1.15: 62-69. Vv-a 6302-6926 is almost word for word the same as Dhp-a 3.30210-31312. Cf. AN-a 1.14.7.5. This story is referred to at Mil 11513, 2919-11. For the story of Sirimā’s death, see Dhp-a 11.2.*
@@ -189,7 +189,7 @@ Through kindness one should overcome anger, through goodness overcome lack of go
 ---
 
 ### 17.4 The Story about the Elder Mahā Moggallāna’s Question Mahāmoggallānattherapañhavatthu
-*Verse(s): [[dhp_17_kodhavagga#224|Dhp 224]]*
+*Verse(s): [[dhp_17_kodhavagga#224. *Mahāmoggallānapañhavatthu*|Dhp 224]]*
 
 *Burlingame: Do Trifling Acts of Merit Lead to Heaven?*
 *Compare: Vv-a Introduction*
@@ -224,7 +224,7 @@ One should speak out the truth, one should not get angry, when requested then gi
 ---
 
 ### 17.5 The Story about the Brahmin from Sāketa Sāketabrāhmaṇavatthu
-*Verse(s): [[dhp_17_kodhavagga#225|Dhp 225]]*
+*Verse(s): [[dhp_17_kodhavagga#225. *Buddhapitubrāhmaṇavatthu*|Dhp 225]]*
 
 *Burlingame: A Brahmin Greets the Buddha as His Son*
 *Compare: Ja 68; AN-a 1.14.6.10 BG: This story is almost word for word the same as Ja 68. Cf. AN-a 1.14.6.10 about Nakulapita. It is referred to at Mil 35014-15.*
@@ -317,7 +317,7 @@ Those sages without violence, constantly restrained in body, go to the deathless
 ---
 
 ### 17.6 The Story about Puṇṇā Puṇṇāya Vatthu
-*Verse(s): [[dhp_17_kodhavagga#226|Dhp 226]]*
+*Verse(s): [[dhp_17_kodhavagga#226. *Puṇṇadāsīvatthu*|Dhp 226]]*
 
 *Burlingame: It Is the Giver That Makes the Gift*
 *Compare: Ja 254 BG: This story is referred to at Mil 11514.*
@@ -414,7 +414,7 @@ The Teacher thus related the Birth Story about Rice Powder and the Sindh Horse i
 ---
 
 ### 17.7 The Story about the Lay Disciple Atula Atula-Upāsakavatthu
-*Verse(s): [[dhp_17_kodhavagga#227|Dhp 227]]*
+*Verse(s): [[dhp_17_kodhavagga#227. *Atulaupāsakavatthu*|Dhp 227]]*
 
 *Burlingame: Nothing, Too Much, and Too Little*
 *Keywords: Listening to Dhamma, Blame, Praise*
@@ -467,7 +467,7 @@ one who is like a golden coin, who is there worthy to blame him? That one is pra
 ---
 
 ### 17.8 The Story about the Group of Six Chabbaggiyavatthu
-*Verse(s): [[dhp_17_kodhavagga#231|Dhp 231]], [[dhp_17_kodhavagga#234|Dhp 234]]*
+*Verse(s): [[dhp_17_kodhavagga#231. *Chabbaggiyavatthu*|Dhp 231]], [[dhp_17_kodhavagga#234.|Dhp 234]]*
 
 *Burlingame: The Group of Six*
 *Compare: Vin Mv 5.6*
