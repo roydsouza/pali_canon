@@ -1,0 +1,225 @@
+---
+id: SNP4.10
+title_pali: Purābhedasutta
+title_en: Before the Breakup
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp4.10
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - atthakavagga
+  - non-clinging
+  - views
+  - three_marks
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp4.10_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[three_marks|Three Marks]] | [[five_aggregates|Five Aggregates]]
+
+## SNP4.10: Purābhedasutta — *Before the Breakup*
+
+### Section 1
+
+**“Kathaṁdassī kathaṁsīlo,**  
+*“Seeing how, behaving how,*
+**upasantoti vuccati;**  
+*is one said to be at peace?*
+**Taṁ me gotama pabrūhi,**  
+*When asked, Gotama, please tell me*
+**pucchito uttamaṁ naraṁ”.**  
+*about the ultimate person.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§1|Commentary §1]]
+
+### Section 2
+
+**“Vītataṇho purā bhedā,**  
+*“Rid of craving before the breakup,”*
+**(iti bhagavā)**  
+*said the Buddha,*
+**Pubbamantamanissito;**  
+*“not dependent on the first beginning,*
+**Vemajjhe nupasaṅkheyyo,**  
+*unfathomable in the middle,*
+**Tassa natthi purakkhataṁ.**  
+*they are not governed by anything.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§2|Commentary §2]]
+
+### Section 3
+
+**Akkodhano asantāsī,**  
+*Unangry, unafraid,*
+**avikatthī akukkuco;**  
+*not boastful or regretful,*
+**Mantabhāṇī anuddhato,**  
+*thoughtful in counsel, not restless—*
+**sa ve vācāyato muni.**  
+*truly that sage is controlled in speech.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§3|Commentary §3]]
+
+### Section 4
+
+**Nirāsatti anāgate,**  
+*Rid of attachment to the future,*
+**atītaṁ nānusocati;**  
+*they don’t grieve for the past.*
+**Vivekadassī phassesu,**  
+*A seer of seclusion in the midst of contacts*
+**diṭṭhīsu ca na nīyati.**  
+*is not led astray among views.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§4|Commentary §4]]
+
+### Section 5
+
+**Patilīno akuhako,**  
+*Withdrawn, free of deceit,*
+**apihālu amaccharī;**  
+*they’re not envious or stingy,*
+**Appagabbho ajeguccho,**  
+*nor rude or disgusting,*
+**pesuṇeyye ca no yuto.**  
+*or given to slander.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§5|Commentary §5]]
+
+### Section 6
+
+**Sātiyesu anassāvī,**  
+*Not swept up in pleasures,*
+**atimāne ca no yuto;**  
+*or given to arrogance,*
+**Saṇho ca paṭibhānavā,**  
+*they’re gentle and articulate,*
+**na saddho na virajjati.**  
+*neither hungering nor growing dispassionate.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§6|Commentary §6]]
+
+### Section 7
+
+**Lābhakamyā na sikkhati,**  
+*Not training for desire for profit,*
+**alābhe ca na kuppati;**  
+*nor getting annoyed at lack of profit;*
+**Aviruddho ca taṇhāya,**  
+*they are not hostile due to craving,*
+**rasesu nānugijjhati.**  
+*for they are not greedy for flavors.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§7|Commentary §7]]
+
+### Section 8
+
+**Upekkhako sadā sato,**  
+*Equanimous, ever mindful,*
+**na loke maññate samaṁ;**  
+*they never conceive themselves in the world*
+**Na visesī na nīceyyo,**  
+*as equal, special, or less than;*
+**tassa no santi ussadā.**  
+*they have no pretensions.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§8|Commentary §8]]
+
+### Section 9
+
+**Yassa nissayanā natthi,**  
+*They have no dependencies,*
+**ñatvā dhammaṁ anissito;**  
+*understanding the teaching, they are independent.*
+**Bhavāya vibhavāya vā,**  
+*No craving is found in them*
+**taṇhā yassa na vijjati.**  
+*to continue existence or to end it.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§9|Commentary §9]]
+
+### Section 10
+
+**Taṁ brūmi upasantoti,**  
+*I declare them to be at peace,*
+**Kāmesu anapekkhinaṁ;**  
+*unconcerned for sensual pleasures.*
+**Ganthā tassa na vijjanti,**  
+*No ties are found in them,*
+**Atarī so visattikaṁ.**  
+*they have crossed over clinging.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§10|Commentary §10]]
+
+### Section 11
+
+**Na tassa puttā pasavo,**  
+*They have no children or livestock,*
+**Khettaṁ vatthuñca vijjati;**  
+*nor possess fields or lands.*
+**Attā vāpi nirattā vā,**  
+*No picking up or putting down*
+**Na tasmiṁ upalabbhati.**  
+*is found in them.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§11|Commentary §11]]
+
+### Section 12
+
+**Yena naṁ vajjuṁ puthujjanā,**  
+*That by which one might describe*
+**Atho samaṇabrāhmaṇā;**  
+*an ordinary person or ascetics and brahmins*
+**Taṁ tassa apurakkhataṁ,**  
+*has no importance to them,*
+**Tasmā vādesu nejati.**  
+*which is why they’re unperturbed by words.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§12|Commentary §12]]
+
+### Section 13
+
+**Vītagedho amaccharī,**  
+*Freed of greed, not stingy,*
+**Na ussesu vadate muni;**  
+*a sage doesn’t speak of themselves as being*
+**Na samesu na omesu,**  
+*among superiors, inferiors, or equals.*
+**Kappaṁ neti akappiyo.**  
+*One not prone to creation <j>does not return to creation.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§13|Commentary §13]]
+
+### Section 14
+
+**Yassa loke sakaṁ natthi,**  
+*They who have nothing in the world of their own*
+**Asatā ca na socati;**  
+*do not grieve for that which is not,*
+**Dhammesu ca na gacchati,**  
+*or drift among the teachings;*
+**Sa ve santoti vuccatī”ti.**  
+*that’s who is said to be at peace.”*
+*Purābhedasuttaṁ dasamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp4.10_att#§14|Commentary §14]]
+
