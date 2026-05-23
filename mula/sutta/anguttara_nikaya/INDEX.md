@@ -54,6 +54,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_170_187|AN 1.170–187]] | 13. Ekapuggalavagga | The Chapter on One Individual | 779 |
 | [[an1_188_197|AN 1.188–197]] | 14. Paṭhamavagga | Chapter One | 223 |
 | [[an1_198_208|AN 1.198–208]] | 15. Dutiyavagga | Chapter Two | 241 |
+| [[an1_209_218|AN 1.209–218]] | 16. Tatiyavagga | Chapter Three | 231 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
