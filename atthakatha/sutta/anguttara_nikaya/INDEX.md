@@ -21,6 +21,7 @@ layer: atthakatha
 | [[an10_60|AN 10.60]] | [[an10_60_att|Girimānandasuttavaṇṇanā]] | Manorathapūraṇī (CSCD) | — | 141 |
 | [[an9_34|AN 9.34]] | [[an9_34_att|Nibbānasukhasuttavaṇṇanā]] | CSCD | — | 124 |
 | [[an9_35|AN 9.35]] | [[an9_35_att|Gāvīupamāsuttavaṇṇanā]] | CSCD | — | 184 |
+| [[an8_63|AN 8.63]] | [[an8_63_att|Saṅkhittasuttavaṇṇanā]] | CSCD | — | 345 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
