@@ -29,6 +29,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn140\|MN 140]] | Dhātuvibhaṅgasutta | The Analysis of the Elements | 5,249 |
 | [[mn148\|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
 | [[mn22|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 6,958 |
+| [[mn117|MN 117]] | Mahācattārīsakasutta | The Great Forty | 3,126 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
