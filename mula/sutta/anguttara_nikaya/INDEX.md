@@ -42,6 +42,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_1_10|AN 1.1–10]] | 1. Rūpādivagga | The Chapter on What Occupies the Mind | 671 |
 | [[an1_11_20|AN 1.11–20]] | 2. Nīvaraṇappahānavagga | The Chapter on Giving Up the Hindrances | 928 |
 | [[an1_21_30|AN 1.21–30]] | 3. Akammaniyavagga | 3. Unworkable | 619 |
+| [[an1_31_40|AN 1.31–40]] | 4. Adantavagga | 4. Wild | 613 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
