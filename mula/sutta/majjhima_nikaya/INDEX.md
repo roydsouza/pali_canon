@@ -28,6 +28,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 | [[mn128\|MN 128]] | Upakkilesasutta | Corruptions | 4,638 |
 | [[mn140\|MN 140]] | Dhātuvibhaṅgasutta | The Analysis of the Elements | 5,249 |
 | [[mn148\|MN 148]] | Chachakkasutta | Six By Six | 4,061 |
+| [[mn22|MN 22]] | Alagaddūpamasutta | The Simile of the Cobra | 6,958 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
