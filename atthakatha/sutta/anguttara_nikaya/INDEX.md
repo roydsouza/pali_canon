@@ -55,6 +55,7 @@ layer: atthakatha
 | [[an1_219_234|AN 1.219–234]] | [[an1_219_234_att|17. Catutthavaggavaṇṇanā]] | CSCD | — | 7,560 |
 | [[an1_235_247|AN 1.235–247]] | [[an1_235_247_att|18. Pañcamavaggavaṇṇanā]] | CSCD | — | 6,769 |
 | [[an1_248_257|AN 1.248–257]] | [[an1_248_257_att|19. Chaṭṭhavaggavaṇṇanā]] | CSCD | — | 3,101 |
+| [[an1_258_267|AN 1.258–267]] | [[an1_258_267_att|20. Sattamavaggavaṇṇanā]] | CSCD | — | 9,222 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
