@@ -1,0 +1,142 @@
+---
+id: SNP2.5
+title_pali: Sūcilomasutta
+title_en: With Spiky
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: sutta_nipata
+sutta_number: snp2.5
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - ethics
+  - conduct
+  - lay_practice
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp2.5_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[five_precepts|Five Precepts]]
+
+## SNP2.5: Sūcilomasutta — *With Spiky*
+
+### Section 1
+
+**Evaṁ me sutaṁ—**  
+*So I have heard.*
+**ekaṁ samayaṁ bhagavā gayāyaṁ viharati ṭaṅkitamañce sūcilomassa yakkhassa bhavane.**  
+*At one time the Buddha was staying near Gayā on the cut-stone ledge in the haunt of Spiky the native spirit.*
+**Tena kho pana samayena kharo ca yakkho sūcilomo ca yakkho bhagavato avidūre atikkamanti.**  
+*Now at that time the native spirits Shaggy and Spiky were passing by not far from the Buddha.*
+**Atha kho kharo yakkho sūcilomaṁ yakkhaṁ etadavoca:**  
+*So Shaggy said to Spiky,*
+**“eso samaṇo”ti.**  
+*“That’s an ascetic.”*
+**“Neso samaṇo, samaṇako eso.**  
+*“That’s no ascetic, he’s a faker!*
+**Yāvāhaṁ jānāmi yadi vā so samaṇo, yadi vā so samaṇako”ti.**  
+*I’ll soon find out whether he’s an ascetic or a faker.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§1|Commentary §1]]
+
+### Section 2
+
+**Atha kho sūcilomo yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato kāyaṁ upanāmesi.**  
+*Then Spiky went up to the Buddha and leaned up against his body,*
+**Atha kho bhagavā kāyaṁ apanāmesi.**  
+*but the Buddha pulled away.*
+**Atha kho sūcilomo yakkho bhagavantaṁ etadavoca:**  
+*Then Spiky said to the Buddha,*
+**“bhāyasi maṁ, samaṇā”ti?**  
+*“Are you afraid, ascetic?”*
+**“Na khvāhaṁ taṁ, āvuso, bhāyāmi;**  
+*“No, respectable sir, I’m not afraid.*
+**api ca te samphasso pāpako”ti.**  
+*But your touch is nasty.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§2|Commentary §2]]
+
+### Section 3
+
+**“Pañhaṁ taṁ, samaṇa, pucchissāmi.**  
+*“I will ask you a question, ascetic.*
+**Sace me na byākarissasi, cittaṁ vā te khipissāmi, hadayaṁ vā te phālessāmi, pādesu vā gahetvā pāragaṅgāya khipissāmī”ti.**  
+*If you don’t answer me, I’ll drive you insane, or explode your heart, or grab you by the feet and throw you to the far shore of the Ganges!”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§3|Commentary §3]]
+
+### Section 4
+
+**“Na khvāhaṁ taṁ, āvuso, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo me cittaṁ vā khipeyya hadayaṁ vā phāleyya pādesu vā gahetvā pāragaṅgāya khipeyya.**  
+*“I don’t see anyone in this world with its gods, Māras, and Divinities, this population with its ascetics and brahmins, its gods and humans who could do that to me.*
+**Api ca tvaṁ, āvuso, puccha yadākaṅkhasī”ti.**  
+*But anyway, ask what you wish.”*
+**Atha kho sūcilomo yakkho bhagavantaṁ gāthāya ajjhabhāsi:**  
+*Then Spiky addressed the Buddha in verse:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§4|Commentary §4]]
+
+### Section 5
+
+**“Rāgo ca doso ca kutonidānā,**  
+*“Where do greed and hate come from?*
+**Aratī ratī lomahaṁso kutojā;**  
+*From where spring discontent, desire, and terror?*
+**Kuto samuṭṭhāya manovitakkā,**  
+*Where do the mind’s thoughts originate,*
+**Kumārakā dhaṅkamivossajanti”.**  
+*like a crow let loose by boys.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§5|Commentary §5]]
+
+### Section 6
+
+**“Rāgo ca doso ca itonidānā,**  
+*“Greed and hate come from here;*
+**Aratī ratī lomahaṁso itojā;**  
+*from here spring discontent, desire, and terror;*
+**Ito samuṭṭhāya manovitakkā,**  
+*here’s where the mind’s thoughts originate,*
+**Kumārakā dhaṅkamivossajanti.**  
+*like a crow let loose by boys.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§6|Commentary §6]]
+
+### Section 7
+
+**Snehajā attasambhūtā,**  
+*Born of affection, originating in oneself,*
+**Nigrodhasseva khandhajā;**  
+*like prop roots sprouting from a banyan;*
+**Puthū visattā kāmesu,**  
+*the many kinds of attachment to sensual pleasures*
+**Māluvāva vitatāvane.**  
+*are like camel’s foot creeper <j>creeping through the woods.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§7|Commentary §7]]
+
+### Section 8
+
+**Ye naṁ pajānanti yatonidānaṁ,**  
+*Those who understand where they come from*
+**Te naṁ vinodenti suṇohi yakkha;**  
+*get rid of them—listen up, spirit!*
+**Te duttaraṁ oghamimaṁ taranti,**  
+*They cross this flood so hard to cross,*
+**Atiṇṇapubbaṁ apunabbhavāyā”ti.**  
+*not crossed before, so as to not be reborn.”*
+*Sūcilomasuttaṁ pañcamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp2.5_att#§8|Commentary §8]]
+
