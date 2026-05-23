@@ -1,0 +1,106 @@
+---
+id: ITI28
+title_pali: Dukkhavihārasutta
+title_en: Living in Suffering
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti28
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - virtue
+  - ethical_conduct
+  - monastic
+---
+
+# Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Related Texts**: [[iti28_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[five_precepts|Five Precepts]]
+
+## ITI28: Dukkhavihārasutta — *Living in Suffering*
+
+### Section 1
+
+**(…) Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:**  
+*This was said by the Buddha, the Perfected One: that is what I heard.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+
+### Section 2
+
+**“Dvīhi, bhikkhave, dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṁ viharati savighātaṁ saupāyāsaṁ sapariḷāhaṁ;**  
+*“Mendicants, when a mendicant has two qualities they live unhappily in this very life—with distress, anguish, and fever—*
+**kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā.**  
+*and when the body breaks up, after death, they can expect a bad rebirth.*
+**Katamehi dvīhi?**  
+*What two?*
+**Indriyesu aguttadvāratāya ca, bhojane amattaññutāya ca.**  
+*Not guarding the sense doors and eating too much.*
+**Imehi kho, bhikkhave, dvīhi dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṁ viharati savighātaṁ saupāyāsaṁ sapariḷāhaṁ;**  
+*When a mendicant possesses these two qualities they live unhappily in this very life—with distress, anguish, and fever—*
+**kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā”ti.**  
+*and when the body breaks up, after death, they can expect a bad rebirth.”*
+**Etamatthaṁ bhagavā avoca.**  
+*The Buddha spoke this matter.*
+**Tatthetaṁ iti vuccati:**  
+*On this it is said:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+
+### Section 3
+
+**“Cakkhu sotañca ghānañca,**  
+*“Eye, ear, nose,*
+**jivhā kāyo tathā mano;**  
+*tongue, body, and likewise mind:*
+**Etāni yassa dvārāni,**  
+*a mendicant who leaves these*
+**aguttāni ca bhikkhuno.**  
+*sense doors unguarded—*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+
+### Section 4
+
+**Bhojanamhi amattaññū,**  
+*immoderate in eating,*
+**indriyesu asaṁvuto;**  
+*sense faculties unrestrained—*
+**Kāyadukkhaṁ cetodukkhaṁ,**  
+*reaps suffering*
+**dukkhaṁ so adhigacchati.**  
+*both physical and mental.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+
+### Section 5
+
+**Ḍayhamānena kāyena,**  
+*Burning in body,*
+**Ḍayhamānena cetasā;**  
+*burning in mind,*
+**Divā vā yadi vā rattiṁ,**  
+*by day or by night*
+**Dukkhaṁ viharati tādiso”ti.**  
+*such a person lives in suffering.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+
+### Section 6
+
+**Ayampi attho vutto bhagavatā, iti me sutanti.**  
+*This too is a matter that was spoken by the Blessed One: that is what I heard.*
+*Paṭhamaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti28_att|Commentary]]
+

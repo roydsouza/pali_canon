@@ -1,0 +1,34 @@
+---
+id: iti4_att
+title_pali: 4. Kodhasuttavaṇṇanā
+title_en: Commentary on Anger
+type: atthakatha
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti4
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Mūla**: [[iti4|ITI4: Kodhasutta]]
+**Tīkā**: (No Ṭīkā available)
+
+*Paramatthadīpanī*
+*3 paragraphs — Pali text CSCD.*
+
+## 4. Kodhasuttavaṇṇanā
+
+*Pali text — CSCD (Chattha Sangayana Tipitaka). Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### §4
+
+> [!info]- Related Links
+> - **Mūla**: [[iti4|ITI4 Mūla]]
+
+Catutthe **kodha**nti dosaṃ. Doso eva hi kodhapariyāyena bujjhanakānaṃ puggalānaṃ ajjhāsayavasena evaṃ vutto. Tasmā dutiyasutte vuttanayenevettha attho veditabbo. Apica kujjhanalakkhaṇo kodho, āghātakaraṇaraso, cittassa byāpattibhāvapaccupaṭṭhāno, cetaso pūtibhāvoti daṭṭhabboti ayampi viseso veditabbo.
+
+Catutthasuttavaṇṇanā niṭṭhitā.
+

@@ -1,0 +1,36 @@
+---
+id: iti73_att
+title_pali: 4. Santatarasuttavaṇṇanā
+title_en: Commentary on More Peaceful
+type: atthakatha
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti73
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Mūla**: [[iti73|ITI73: Santatarasutta]]
+**Tīkā**: (No Ṭīkā available)
+
+*Paramatthadīpanī*
+*4 paragraphs — Pali text CSCD.*
+
+## 4. Santatarasuttavaṇṇanā
+
+*Pali text — CSCD (Chattha Sangayana Tipitaka). Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### §73
+
+> [!info]- Related Links
+> - **Mūla**: [[iti73|ITI73 Mūla]]
+
+Catutthe **rūpehī**ti rūpāvacaradhammehi. **Santatarā**ti atisayena santā. Rūpāvacaradhammā hi kilesavikkhambhanato vitakkādioḷārikaṅgappahānato samādhibhūmibhāvato ca santā nāma, āruppā pana tehipi aṅgasantatāya ceva ārammaṇasantatāya ca atisayena santavuttikā, tena santatarāti vuttā. **Nirodho**ti nibbānaṃ. Saṅkhārāvasesasukhumabhāvappattitopi hi catutthāruppato phalasamāpattiyova santatarā kilesadarathapaṭipassaddhito nibbānārammaṇato ca, kimaṅgaṃ pana sabbasaṅkhārasamatho nibbānaṃ. Tena vuttaṃ ‘‘āruppehi nirodho santataro’’ti.
+
+Gāthāsu **rūpūpagā**ti rūpabhavūpagā. Rūpabhavo hi idha rūpanti vutto, ‘‘rūpūpapattiyā maggaṃ bhāvetī’’tiādīsu viya. **Arūpaṭṭhāyino**ti arūpāvacarā. **Nirodhaṃ appajānantā, āgantāro punabbhava**nti etena rūpārūpāvacaradhammehi nirodhassa santabhāvameva dasseti. **Arūpesu asaṇṭhitā**ti arūparāgena arūpabhavesu appatiṭṭhahantā, tepi parijānantāti attho. **Nirodhe ye vimuccantī**ti ettha **ye**ti nipātamattaṃ. Sesaṃ heṭṭhā vuttanayameva.
+
+Catutthasuttavaṇṇanā niṭṭhitā.
+

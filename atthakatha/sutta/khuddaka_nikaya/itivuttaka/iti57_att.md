@@ -1,0 +1,40 @@
+---
+id: iti57_att
+title_pali: 7-8. Āsavasuttadvayavaṇṇanā
+title_en: Commentary on Defilements (2nd)
+type: atthakatha
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti57
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Mūla**: [[iti57|ITI57: Dutiyaāsavasutta]]
+**Tīkā**: (No Ṭīkā available)
+
+*Paramatthadīpanī*
+*7 paragraphs — Pali text CSCD.*
+
+## 7-8. Āsavasuttadvayavaṇṇanā
+
+*Pali text — CSCD (Chattha Sangayana Tipitaka). Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### §56-57
+
+> [!info]- Related Links
+> - **Mūla**: [[iti57|ITI57 Mūla]]
+
+Sattame **kāmāsavo**ti kāmesu āsavo, kāmasaṅkhāto vā āsavo kāmāsavo , atthato pana kāmarāgo rūpādiabhirati ca kāmāsavo. Rūpārūpabhavesu chandarāgo jhānanikanti sassatadiṭṭhisahagato rāgo bhavapatthanā ca **bhavāsavo**. Avijjāva **avijjāsavo**.
+
+**Āsavānañca sambhava**nti ettha ayonisomanasikāro avijjādayo ca kilesā āsavānaṃ sambhavo. Vuttañhetaṃ –
+
+  ‘‘Ayoniso, bhikkhave, manasikaroto anuppannā ceva āsavā uppajjanti, uppannā ca āsavā pavaḍḍhantī’’ti (ma. ni. 1.15).  
+  ‘‘Avijjā, bhikkhave, pubbaṅgamā akusalānaṃ dhammānaṃ samāpattiyā anvadeva ahirikaṃ anottappa’’nti (itivu. 40) ca.  
+**Maggañca khayagāmina**nti āsavānaṃ khayagāminaṃ ariyamaggañca. Tattha kāmāsavo anāgāmimaggena pahīyati, bhavāsavo avijjāsavo ca arahattamaggena. Kāmupādānaṃ viya kāmāsavopi aggamaggavajjhoti ca vadanti. Sesaṃ vuttanayameva. Aṭṭhame apubbaṃ natthi.
+
+Sattamaaṭṭhamasuttavaṇṇanā niṭṭhitā.
+

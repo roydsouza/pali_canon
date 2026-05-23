@@ -1,0 +1,34 @@
+---
+id: iti103_att
+title_pali: 4. Samaṇabrāhmaṇasuttavaṇṇanā
+title_en: Commentary on Ascetics and Brahmins
+type: atthakatha
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti103
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[atthakatha/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Mūla**: [[iti103|ITI103: Samaṇabrāhmaṇasutta]]
+**Tīkā**: (No Ṭīkā available)
+
+*Paramatthadīpanī*
+*3 paragraphs — Pali text CSCD.*
+
+## 4. Samaṇabrāhmaṇasuttavaṇṇanā
+
+*Pali text — CSCD (Chattha Sangayana Tipitaka). Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### §103
+
+> [!info]- Related Links
+> - **Mūla**: [[iti103|ITI103 Mūla]]
+
+Catutthe **ye hi kecī**ti ye keci. **Idaṃ dukkhanti yathābhūtaṃ nappajānantī**ti ‘‘idaṃ dukkhaṃ, ettakaṃ dukkhaṃ, na ito bhiyyo’’ti aviparītaṃ sabhāvasarasalakkhaṇato vipassanāpaññāsahitāya maggapaññāya dukkhasaccaṃ na jānanti na paṭivijjhanti. Sesesupi eseva nayo. **Na me te, bhikkhave**tiādīsu ayaṃ saṅkhepattho – bhikkhave, catusaccakammaṭṭhānaṃ ananuyuttā pabbajjāmattasamaṇā ceva jātimattabrāhmaṇā ca na mayā te samitapāpasamaṇesu samaṇoti, bāhitapāpabrāhmaṇesu brāhmaṇoti ca sammatā anuññātā. Kasmā? Samaṇakaraṇānaṃ brāhmaṇakaraṇānañca dhammānaṃ abhāvatoti. Tenevāha ‘‘na ca pana te āyasmanto’’tiādi. Tattha **sāmaññattha**nti sāmaññasaṅkhātaṃ atthaṃ, cattāri sāmaññaphalānīti attho. **Brahmaññattha**nti tasseva vevacanaṃ. Apare pana ‘‘sāmaññatthanti cattāro ariyamaggā, brahmaññatthanti cattāri ariyaphalānī’’ti vadanti. Sesaṃ vuttanayameva. Sukkapakkho vuttavipariyāyena veditabbo. Gāthāsu apubbaṃ natthi.
+
+Catutthasuttavaṇṇanā niṭṭhitā.
+

@@ -1,0 +1,128 @@
+---
+id: ITI92
+title_pali: Saṅghāṭikaṇṇasutta
+title_en: The Corner of the Cloak
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+subcollection: itivuttaka
+sutta_number: iti92
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+tags:
+  - ativuttaka
+  - tika
+  - path
+---
+
+# Khuddaka Nikāya: Itivuttaka
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
+**Related Texts**: [[iti92_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
+
+## ITI92: Saṅghāṭikaṇṇasutta — *The Corner of the Cloak*
+
+### Section 1
+
+**Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:**  
+*This was said by the Buddha, the Perfected One: that is what I heard.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 2
+
+**“Saṅghāṭikaṇṇe cepi, bhikkhave, bhikkhu gahetvā piṭṭhito piṭṭhito anubandho assa pāde pādaṁ nikkhipanto,**  
+*“Mendicants, suppose a mendicant were to hold the corner of my cloak and follow behind me step by step.*
+**so ca hoti abhijjhālu kāmesu tibbasārāgo byāpannacitto paduṭṭhamanasaṅkappo muṭṭhassati asampajāno asamāhito vibbhantacitto pākatindriyo;**  
+*Yet they covet sensual pleasures; they’re infatuated, full of ill will and malicious intent. They are unmindful, lacking situational awareness and immersion, with straying minds and undisciplined faculties.*
+**atha kho so ārakāva mayhaṁ, ahañca tassa.**  
+*Then they are far from me, and I from them.*
+**Taṁ kissa hetu?**  
+*Why is that?*
+**Dhammañhi so, bhikkhave, bhikkhu na passati.**  
+*Because that mendicant does not see the teaching.*
+**Dhammaṁ apassanto na maṁ passati.**  
+*Not seeing the teaching, they do not see me.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 3
+
+**Yojanasate cepi so, bhikkhave, bhikkhu vihareyya.**  
+*Suppose a mendicant were to live a hundred leagues away.*
+**So ca hoti anabhijjhālu kāmesu na tibbasārāgo abyāpannacitto apaduṭṭhamanasaṅkappo upaṭṭhitassati sampajāno samāhito ekaggacitto saṁvutindriyo;**  
+*Yet they do not covet sensual pleasures; they’re not infatuated, or full of ill will and malicious intent. They have established mindfulness, situational awareness and immersion, with unified mind and restrained faculties.*
+**atha kho so santikeva mayhaṁ, ahañca tassa.**  
+*Then they are close to me, and I to them.*
+**Taṁ kissa hetu?**  
+*Why is that?*
+**Dhammañhi so, bhikkhave, bhikkhu passati;**  
+*Because that mendicant sees the teaching.*
+**dhammaṁ passanto maṁ passatī”ti.**  
+*Seeing the teaching, they see me.”*
+**Etamatthaṁ bhagavā avoca.**  
+*The Buddha spoke this matter.*
+**Tatthetaṁ iti vuccati:**  
+*On this it is said:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 4
+
+**“Anubandhopi ce assa,**  
+*“One full of desire and distress*
+**mahiccho ca vighātavā;**  
+*may follow close behind,*
+**Ejānugo anejassa,**  
+*yet see how distant they are—*
+**nibbutassa anibbuto;**  
+*the stirred from the still,*
+**Giddho so vītagedhassa,**  
+*the burning from the quenched,*
+**passa yāvañca ārakā.**  
+*the greedy from the greedless.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 5
+
+**Yo ca dhammamabhiññāya,**  
+*An astute person who has understood*
+**dhammamaññāya paṇḍito;**  
+*and directly known the teaching,*
+**Rahadova nivāte ca,**  
+*grows calm, as unperturbed*
+**anejo vūpasammati.**  
+*as a lake free of wind.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 6
+
+**Anejo so anejassa,**  
+*See how close they are—*
+**nibbutassa ca nibbuto;**  
+*the still to the still,*
+**Agiddho vītagedhassa,**  
+*the quenched to the quenched,*
+**passa yāvañca santike”ti.**  
+*the greedless to the greedless.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
+### Section 7
+
+**Ayampi attho vutto bhagavatā, iti me sutanti.**  
+*This too is a matter that was spoken by the Blessed One: that is what I heard.*
+*Tatiyaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
+
