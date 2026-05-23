@@ -61,6 +61,7 @@ layer: atthakatha
 | [[an1_287_295|AN 1.287–295]] | [[an1_287_295_att|23. Tatiyavaggavaṇṇanā]] | CSCD | — | 384 |
 | [[an1_296_305|AN 1.296–305]] | [[an1_296_305_att|24. Paṭhamavaggavaṇṇanā]] | CSCD | — | 919 |
 | [[an1_306_315|AN 1.306–315]] | [[an1_306_315_att|25. Dutiyavaggavaṇṇanā]] | CSCD | — | 1,153 |
+| [[an1_316_332|AN 1.316–332]] | [[an1_316_332_att|26. Tatiyavaggavaṇṇanā]] | CSCD | — | 979 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
