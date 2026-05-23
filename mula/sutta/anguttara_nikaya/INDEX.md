@@ -48,6 +48,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_61_70|AN 1.61–70]] | 7. Vīriyārambhādivagga | The Chapter on Arousing Energy | 789 |
 | [[an1_71_81|AN 1.71–81]] | 8. Kalyāṇamittādivagga | 8. Good Friends | 761 |
 | [[an1_82_97|AN 1.82–97]] | 9. Pamādādivagga | 9. Negligence | 823 |
+| [[an1_98_139|AN 1.98–139]] | 10. Dutiyapamādādivagga | The Chapter on Negligence | 1,463 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
