@@ -20,6 +20,7 @@ This directory contains commentaries on the Middle Length Discourses (Majjhima N
 | [[mn28|MN 28]] | [[mn28_att|Mahāhatthipadopamasuttavaṇṇanā]] | CSCD | 30 Sujato notes | 4,188 |
 | [[mn140|MN 140]] | [[mn140_att|Dhātuvibhaṅgasuttavaṇṇanā]] | CSCD | 37 Sujato notes | 6,097 |
 | [[mn7|MN 7]] | [[mn7_att|Vatthasuttavaṇṇanā]] | CSCD | 24 Sujato notes | 4,334 |
+| [[mn27|MN 27]] | [[mn27_att|Cūḷahatthipadopamasuttavaṇṇanā]] | CSCD | 45 Sujato notes | 6,291 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
