@@ -38,6 +38,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an11_2|AN 11.2]] | Cetanākaraṇīyasutta | Making a Wish | 687 |
 | [[an11_3|AN 11.3]] | Paṭhamaupanisāsutta | Vital Conditions (1st) | 773 |
 | [[an11_4|AN 11.4]] | Dutiyaupanisāsutta | Vital Conditions (2nd) | 805 |
+| [[an11_5|AN 11.5]] | Tatiyaupanisāsutta | Vital Conditions (3rd) | 787 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*
