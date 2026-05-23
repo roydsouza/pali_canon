@@ -43,6 +43,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 | [[an1_11_20|AN 1.11–20]] | 2. Nīvaraṇappahānavagga | The Chapter on Giving Up the Hindrances | 928 |
 | [[an1_21_30|AN 1.21–30]] | 3. Akammaniyavagga | 3. Unworkable | 619 |
 | [[an1_31_40|AN 1.31–40]] | 4. Adantavagga | 4. Wild | 613 |
+| [[an1_41_50|AN 1.41–50]] | 5. Paṇihitaacchavagga | The Chapter on a Spike | 1,117 |
 
 ---
 *Back to [[mula/sutta/INDEX|Sutta Index]]*

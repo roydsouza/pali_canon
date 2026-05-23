@@ -40,6 +40,7 @@ layer: atthakatha
 | [[an1_11_20|AN 1.11–20]] | [[an1_11_20_att|2. Nīvaraṇappahānavaggavaṇṇanā]] | CSCD | — | 3,416 |
 | [[an1_21_30|AN 1.21–30]] | [[an1_21_30_att|3. Akammaniyavaggavaṇṇanā]] | CSCD | — | 348 |
 | [[an1_31_40|AN 1.31–40]] | [[an1_31_40_att|4. Adantavaggavaṇṇanā]] | CSCD | — | 216 |
+| [[an1_41_50|AN 1.41–50]] | [[an1_41_50_att|5. Paṇihitaacchavaggavaṇṇanā]] | CSCD | — | 971 |
 
 ---
 *Back to [[atthakatha/sutta/INDEX|Sutta Commentaries Index]]*
