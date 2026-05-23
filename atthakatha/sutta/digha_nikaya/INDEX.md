@@ -19,3 +19,4 @@ layer: atthakatha
 | [[dn15|DN15]] | [[dn15_att|Mahānidānasuttavaṇṇanā]] | CSCD | 80 Sujato notes | 10,236 |
 | [[dn16|DN16]] | [[dn16_att|Mahāparinibbānasuttavaṇṇanā]] | CSCD | 0 Sujato notes | 20,417 |
 | [[dn21|DN21]] | [[dn21_att|Sakkapañhasuttavaṇṇanā]] | CSCD | 0 Sujato notes | 8,558 |
+| [[dn13|DN 13]] | [[dn13_att|Tevijjasuttavaṇṇanā]] | CSCD | 22 Sujato notes | 2,506 |

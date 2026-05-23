@@ -20,3 +20,4 @@ The Dīgha Nikāya ("Long Discourses") contains 34 suttas, covering a wide range
 | [[dn15|DN 15]] | Mahānidānasutta | The Great Discourse on Causation | 6,706 |
 | [[dn16|DN16]] | Mahāparinibbānasutta | 35,860 |
 | [[dn21|DN21]] | Sakkapañhasutta | 8,125 |
+| [[dn13|DN 13]] | Tevijjasutta | Experts in the Three Vedas | 5,917 |
