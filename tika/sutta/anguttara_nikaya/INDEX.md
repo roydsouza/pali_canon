@@ -22,3 +22,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an9_36|AN 9.36]] | [[an9_36_tik|Jhānasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 196 |
 | [[an10_2_6|AN 10.2–6]] | [[an10_2_6_tik|Ānisaṃsasuttānivaṇṇanāṭīkā]] | tipitaka.org CSCD | 3,062 |
 | [[an9_34|AN 9.34]] | [[an9_34_tik|Nibbānasukhasuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 107 |
+| [[an9_35|AN 9.35]] | [[an9_35_tik|Gāvīupamāsuttavaṇṇanāṭīkā]] | tipitaka.org CSCD | 154 |

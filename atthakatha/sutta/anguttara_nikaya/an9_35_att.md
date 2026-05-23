@@ -1,0 +1,36 @@
+---
+id: an9_35_att
+title_pali: Gāvīupamāsuttavaṇṇanā
+title_en: Commentary on Gāvīupamāsutta (The Simile of the Cow)
+type: atthakatha
+pitaka: sutta
+nikaya: an
+sutta: an9.35
+layer: atthakatha
+mula_file: [[an9_35]]
+tika_file: [[an9_35_tik]]
+source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+---
+
+# Commentary on Aṅguttara Nikāya: Gāvīupamāsutta
+*AN 9.35 — The Simile of the Cow*
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[atthakatha/INDEX|Atthakathā]] / [[atthakatha/sutta/INDEX|Sutta]] / [[atthakatha/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Mūla**: [[an9_35|AN 9.35 — Gāvīupamāsutta]]
+**Tīkā**: [[an9_35_tik|Gāvīupamāsuttavaṇṇanāṭīkā (Sub-commentary)]]
+
+*2 paragraphs — Pali text CSCD.*
+## 4. Gāvīupamāsuttavaṇṇanā
+
+*Pali text — CSCD. Use Simsapa DPD for word lookups (double-click any Pali word).*
+
+### 4. Gāvīupamāsuttavaṇṇanā
+
+
+### §35
+
+> [!abstract]- Tīkā §35
+> [[an9_35_tik#§35|Sub-commentary §35]]
+
+(35) Catutthe **pabbateyyā**ti pabbatacārinī. **Na suppatiṭṭhitaṃ patiṭṭhāpetvā**ti yathā suppatiṭṭhitā hoti, evaṃ na patiṭṭhāpetvā. **Taṃ nimitta**nti taṃ paṭhamajjhānasaṅkhātaṃ nimittaṃ. **Na svādhiṭṭhitaṃ adhiṭṭhātī**ti yathā suṭṭhu adhiṭṭhitaṃ hoti, na evaṃ adhiṭṭhāti. **Anabhihiṃsamāno**ti apothento aviheṭhento. **Mudu cittaṃ hoti kammañña**nti yathā vipassanācittaṃ lokuttaramaggakkhaṇe mudu kammakkhamaṃ kammayoggaṃ hoti, evamassa abhiññāpādakaṃ catutthajjhānacittaṃ mudu hoti kammaññaṃ . **Appamāṇo samādhī**ti catubrahmavihārasamādhipi maggaphalasamādhipi appamāṇo samādhi nāma, idha pana ‘‘appamāṇaṃ appamāṇārammaṇa’’nti iminā pariyāyena suppaguṇasamādhi appamāṇasamādhīti daṭṭhabbo. **So appamāṇena samādhinā subhāvitenā**ti imasmiṃ ṭhāne ayaṃ bhikkhu vipassanaṃ vaḍḍhetvā arahattaṃ patto. Idāni khīṇāsavassa abhiññāpaṭipāṭiṃ dassento **yassa yassa cā**tiādimāha.
+
