@@ -43,3 +43,4 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 | [[an1_31_40|AN 1.31–40]] | [[an1_31_40_tik|4. Adantavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 162 |
 | [[an1_41_50|AN 1.41–50]] | [[an1_41_50_tik|5. Paṇihitaacchavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,170 |
 | [[an1_51_60|AN 1.51–60]] | [[an1_51_60_tik|6. Accharāsaṅghātavaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 2,211 |
+| [[an1_61_70|AN 1.61–70]] | [[an1_61_70_tik|7. Vīriyārambhādivaggavaṇṇanāṭīkā]] | tipitaka.org CSCD | 887 |
