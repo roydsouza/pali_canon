@@ -74,6 +74,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] Sutta Nipāta Mūla — all 5 chapters, 73 suttas (~1140 verses); Bhikkhu Sujato translation
 - [x] Sutta Nipāta Atthakathā — all 5 chapters, 73 suttas (2688 paragraphs); CSCD Paramatthajotikā II
 - [x] Sutta Nipāta Mātikā cross-links — linked to five_precepts, three_refuges, four_sublime_states, five_hindrances, three_marks, four_foundations_of_mindfulness, five_spiritual_faculties, four_noble_truths, dependent_origination, five_aggregates
+- [x] Itivuttaka Mūla — all 4 nipātas, 112 suttas; Bhikkhu Sujato translation
+- [x] Itivuttaka Atthakathā — all 4 nipātas, 112 suttas (1166 paragraphs); CSCD Paramatthadīpanī
+- [x] Itivuttaka Mātikā cross-links — linked to four_noble_truths, three_marks, noble_eightfold_path, three_unwholesome_roots, five_hindrances, ten_fetters, four_sublime_states, five_precepts, four_foundations_of_mindfulness, five_aggregates
 
 ### Vault Infrastructure
 - [x] CSS translation toggle (`pali-translation-toggle.css`)
@@ -107,7 +110,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
       - [x] Chapter 3 Mahāvagga (12 suttas: snp3.1–snp3.12) — Pabbajjā, Sela, Dvayatānupassanā
       - [x] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
       - [x] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
-- [ ] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112`
+- [x] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112` (112 suttas complete in mūla + att)
 - [ ] Thera/Therīgāthā — short verses, SuttaCentral available
 
 ### Dīgha Nikāya — Expansion

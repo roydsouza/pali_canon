@@ -1,5 +1,22 @@
 # Sync Log
 
+## [2026-05-23 — Phase 7: Itivuttaka Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Itivuttaka (112 suttas) Migration (Phase 7)**
+- **Mūla**: Generated 112 new suttas under `mula/sutta/khuddaka_nikaya/itivuttaka/` (iti1–iti112) with interleaved Pali/English (Sujato) and collapsible callouts linking to commentary files.
+- **Atthakathā**: Generated 112 new commentary files under `atthakatha/sutta/khuddaka_nikaya/itivuttaka/` (Paramatthadīpanī) with CSCD Pali commentary text and paragraph-level back-links to Mūla (1,166 paragraphs total).
+- **Index Integration**:
+  - Rebuilt Itivuttaka index tables in Mūla and Atthakathā layers.
+  - Updated parent indexes under Khuddaka Nikāya.
+- **Status Updates**:
+  - Updated `STATUS.md` metrics table and lists catalog.
+  - Updated `TASKS.md` checklists.
+- **Verification**: Ran `python3 scratch/validate_links.py` to confirm 0 broken links (589 files, 8517 wikilinks, all valid).
+
+---
+
 ## [2026-05-23 — Phase 6: Sutta Nipāta Complete and Phase 0 Get Well (Antigravity)]
 
 ### Session Accomplishments
