@@ -1,66 +1,88 @@
 # Pali Canon Vault Index
 
-Welcome to the Obsidian Pali Canon Vault. This vault is organized to host root Canonical Pali texts (Mūla) alongside their respective Commentaries (Atthakathā) and Sub-commentaries (Tīkā), structured symmetrically by Pitaka and Nikaya.
+<div class="db-header">
+  <h1>Obsidian Pali Canon Vault</h1>
+  <p>An offline study and practice library for the Theravāda tradition</p>
+</div>
 
-## Directory Structure & Status
+<div class="db-grid">
 
-The vault is divided into four primary segments. Click on each section below to explore its nested directories:
+  <div class="db-card jhana">
+    <div>
+      <span class="db-badge jhana">Mūla (Root Texts)</span>
+      <h3>Discourse Collections</h3>
+      <p>Pali root texts interleaved with Bhikkhu Sujato's segment translations.</p>
+      <ul class="db-link-list">
+        <li>[[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya (Long)]] <span class="db-badge jhana">8 Suttas</span></li>
+        <li>[[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya (Middle)]] <span class="db-badge jhana">22 Suttas</span></li>
+        <li>[[mula/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya (Connected)]] <span class="db-badge jhana">11 Saṃyuttas</span></li>
+        <li>[[mula/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya (Numerical)]] <span class="db-badge jhana">35 Groups</span></li>
+        <li>[[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya (Minor)]] <span class="db-badge jhana">Dhp & Udāna</span></li>
+      </ul>
+    </div>
+  </div>
 
-*   **[[mula/INDEX|Mūla (Canonical Texts)]]**
-    *   *Description*: The original discourses, rules, and scholastic treatises of the Tipiṭaka.
-    *   Status: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya initiated (Bhikkhu & Bhikkhunī Pātimokkha). Abhidhamma scaffolded.
-* **[[atthakatha/INDEX|Atthakathā (Commentaries)]]**
-    *   Description: Traditional explanations and clarifications of the canonical root texts.
-    *   Status: **Active**. Commentary for all migrated suttas + Dhammapada-aṭṭhakathā (26 chapters, 294 stories, ~498K words).
-* **[[tika/INDEX|Tīkā (Sub-commentaries)]]**
-    *   Description: Sub-commentaries explaining the commentary texts.
-    *   Status: **Active**. Sub-commentary for all migrated suttas (Dhammapada ṭīkā pending).
-* **[[matika/INDEX|Mātika (Buddhist Lists)]]**
-    *   Description: Systematically cataloged registers of Buddhist lists with Romanized Pali and item-by-item translations.
-    *   Status: **Active**. 22 lists migrated and cross-linked to canonical sources.
-* **[[practice/INDEX|Practice Dashboard (Meditation & Study)]]**
-    *   Description: Tools for active practice, meditation logs, templates, and verse memorization logs.
-    *   Status: **Active**. Templates, memorization log, and practice note dashboard integrated.
+  <div class="db-card vipassana">
+    <div>
+      <span class="db-badge vipassana">Aṭṭhakathā & Tīkā</span>
+      <h3>Traditional Exegesis</h3>
+      <p>Classical commentaries and sub-commentaries linked paragraph-by-paragraph to Mūla suttas.</p>
+      <ul class="db-link-list">
+        <li>[[atthakatha/INDEX|Aṭṭhakathā (Commentaries)]]</li>
+        <li>[[tika/INDEX|Tīkā (Sub-commentaries)]]</li>
+        <li>[[mula/vinaya/INDEX|Vinaya Piṭaka (Monastic Rules)]]</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="db-card matika">
+    <div>
+      <span class="db-badge matika">Mātikā</span>
+      <h3>Doctrinal Hub</h3>
+      <p>22 core Buddhist lists mapping mental states, practices, and stages of awakening.</p>
+      <ul class="db-link-list">
+        <li>[[matika/INDEX|Explore Doctrinal Lists]]</li>
+        <li>[[matika/four_noble_truths|Four Noble Truths]]</li>
+        <li>[[matika/four_foundations_of_mindfulness|Four Satipaṭṭhānā]]</li>
+        <li>[[matika/noble_eightfold_path|Noble Eightfold Path]]</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="db-card practice">
+    <div>
+      <span class="db-badge practice">Practice Center</span>
+      <h3>Daily Practice & Support</h3>
+      <p>Interactive tools to track sessions, recollections, protective chanting, and verse memorization.</p>
+      <ul class="db-link-list">
+        <li>[[practice/INDEX|🧘 Practice Dashboard]]</li>
+        <li>[[practice/memorization_log|📖 Verse Memorization Log]]</li>
+        <li>[[CHANTING|🎧 Chanting Integration Guide]]</li>
+        <li>[[paritta/INDEX|🛡️ Protective Chants (Paritta)]]</li>
+      </ul>
+    </div>
+  </div>
+
+</div>
 
 ---
 
-## Vault-Wide Migration Status
-
-*   **Nikāyas Active**: Majjhima (22 suttas), Dīgha (8 suttas), Saṃyutta (11 saṃyuttas / 225 selected suttas), Aṅguttara (35 suttas/groups / 662 suttas), Khuddaka (6 collections / Dhammapada 423 verses)
-*   **Total Individual Suttas/Poems**: 1,458 (Mūla) / 1,172 (Atthakathā) / 306 (Ṭīkā) where available
-*   **Estimated Total Word Count**: ~900K+ across all layers
-*   **Active Piṭakas**: Sutta Piṭaka, Vinaya Piṭaka (Abhidhamma scaffolded)
-*   **Last Updated**: 2026-05-24
-*   **Excluded Directories**:
-    *   `scratch/`: Contains internal XML and JSON raw assets, download scripts, and utility modules. (Not indexed).
-
----
-
-## Reading Tools
+## 🛠️ Reading Tools
 
 ### Translation Toggle — `Cmd+R`
-
 Press **`Cmd+R`** to show or hide the English translations. This lets you read the Pali alone or with the interleaved English.
-
-- **Pali-only mode**: English translations (italic lines) are hidden. Good for reading or reciting Pali directly.
-- **Pali + English mode**: Both lines visible side by side. Good for study or when checking meaning.
-
-The toggle remembers its state across notes within the session. Restart Obsidian resets to whatever state was last saved.
+*   **Pali-only mode**: English translations (italic lines) are hidden. Good for recitation.
+*   **Pali + English mode**: Both lines visible side by side. Good for translation study.
 
 ### Pali Word Lookup — double-click
-
-**Double-click any Pali word** to open the Digital Pāli Dictionary (DPD) sidebar. It shows the word's definition, grammatical form, root, and sutta references. See [[SIMSAPA-DPD]] for full details and troubleshooting.
-
-The Simsapa desktop app must be running for lookups to work.
+**Double-click any Pali word** to open the Digital Pāli Dictionary (DPD) sidebar. It shows the word's definition, grammatical form, root, and references. See [[SIMSAPA-DPD]] for troubleshooting.
 
 ### Audio Chanting Integration
-
-Learn how to configure and play chanting audio files (e.g., Pātimokkha recitations) directly within your study notes. See [[CHANTING|Audio Chanting Integration Guide]] for configuration details and guidelines.
+Learn how to configure and play chanting audio files (e.g., Pātimokkha recitations) directly within your study notes. See [[CHANTING|Audio Chanting Integration Guide]] for configuration details.
 
 ---
 
 ## 🕒 Recently Modified / Revisited
-*This dashboard shows the most recently edited or updated files in the vault, generated using Dataview.*
 
 ```dataview
 TABLE file.mtime as "Modified Time", type as "Type"

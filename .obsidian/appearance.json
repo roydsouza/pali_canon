@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "pali-translation-toggle"
+    "pali-translation-toggle",
+    "dashboard-styles"
   ]
 }
