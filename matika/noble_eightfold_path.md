@@ -10,21 +10,21 @@ type: matika
 
 ## The List
 
-1. **Sammādiṭṭhi**  
+1. **[[right_view|Sammādiṭṭhi]]**  
    *Right view*
-2. **Sammāsaṅkappo**  
+2. **[[right_intention|Sammāsaṅkappo]]**  
    *Right intention / Right thought*
-3. **Sammāvācā**  
+3. **[[right_speech|Sammāvācā]]**  
    *Right speech*
-4. **Sammākammanto**  
+4. **[[right_action|Sammākammanto]]**  
    *Right action*
-5. **Sammāājīvo**  
+5. **[[right_livelihood|Sammāājīvo]]**  
    *Right livelihood*
-6. **Sammāvāyāmo**  
+6. **[[right_effort|Sammāvāyāmo]]**  
    *Right effort*
-7. **Sammāsati**  
+7. **[[right_mindfulness|Sammāsati]]**  
    *Right mindfulness*
-8. **Sammāsamādhi**  
+8. **[[right_concentration|Sammāsamādhi]]**  
    *Right concentration*
 
 ## Related Lists

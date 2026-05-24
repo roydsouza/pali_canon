@@ -149,6 +149,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Interactive Home Dashboard** — Rebuild root `INDEX.md` and `practice/INDEX.md` using curated styling (glassmorphism/gradients) and Dataview cards for reading paths.
 - [x] **Chanting Review & Memorization System** — Connect Spaced Repetition cards to review workflows and integrate chanting audio tracking into the memorization log.
 
+### Phase 20.1 — Noble Eightfold Path Factors Expansion (completed, 2026-05-24)
+- [x] **Noble Eightfold Path Factors Expansion** — Create individual files for each of the 8 path factors under `matika/`, detailing their canonical definitions, practice descriptions, and sutta links.
+
 ---
 
 ## Pending Work

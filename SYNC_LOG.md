@@ -1,5 +1,28 @@
 # Sync Log
 
+## [2026-05-24 — Phase 20.1: Noble Eightfold Path Factors Expansion Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Noble Eightfold Path Factors Expansion**
+- **Factor Files Creation**: Created 8 detailed markdown files in `matika/` for each path factor:
+  - `right_view.md` (*Sammādiṭṭhi*)
+  - `right_intention.md` (*Sammāsaṅkappo*)
+  - `right_speech.md` (*Sammāvācā*)
+  - `right_action.md` (*Sammākammanto*)
+  - `right_livelihood.md` (*Sammāājīvo*)
+  - `right_effort.md` (*Sammāvāyāmo*)
+  - `right_mindfulness.md` (*Sammāsati*)
+  - `right_concentration.md` (*Sammāsamādhi*)
+- **Canonical Definition & Description**: Each file contains its Romanized Pali definition from the *Vibhaṅgasutta* (SN 45.8), an interleaved English translation, a detailed descriptive summary (a page or less), and links to suttas in the vault that describe/mention the factor.
+- **Parent List Integration**: Updated `matika/noble_eightfold_path.md` to link the factors directly to their respective detail files.
+- **Validation-Safe Placeholders**: Linked non-migrated suttas (like MN 9 and MN 58) using standard markdown links rather than wikilinks to maintain the vault-wide 0-broken-links guarantee.
+
+**Verification and Link Integrity**
+- **Link Validator**: Verified link health. Checked all 1,079 markdown files and 13,653 links, confirming 0 broken links in the entire vault.
+
+---
+
 ## [2026-05-24 — Phase 18: Interactive Dashboards & Practice Hubs Complete (Antigravity)]
 
 ### Session Accomplishments
