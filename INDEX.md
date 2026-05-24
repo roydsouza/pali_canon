@@ -12,13 +12,13 @@
       <span class="db-badge jhana">Mūla (Root Texts)</span>
       <h3>Discourse Collections</h3>
       <p>Pali root texts interleaved with Bhikkhu Sujato's segment translations.</p>
-      <ul class="db-link-list">
-        <li>[[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya (Long)]] <span class="db-badge jhana">8 Suttas</span></li>
-        <li>[[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya (Middle)]] <span class="db-badge jhana">22 Suttas</span></li>
-        <li>[[mula/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya (Connected)]] <span class="db-badge jhana">11 Saṃyuttas</span></li>
-        <li>[[mula/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya (Numerical)]] <span class="db-badge jhana">35 Groups</span></li>
-        <li>[[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya (Minor)]] <span class="db-badge jhana">Dhp & Udāna</span></li>
-      </ul>
+
+- [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya (Long)]] <span class="db-badge jhana">8 Suttas</span>
+- [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya (Middle)]] <span class="db-badge jhana">22 Suttas</span>
+- [[mula/sutta/samyutta_nikaya/INDEX|Saṃyutta Nikāya (Connected)]] <span class="db-badge jhana">11 Saṃyuttas</span>
+- [[mula/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya (Numerical)]] <span class="db-badge jhana">35 Groups</span>
+- [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya (Minor)]] <span class="db-badge jhana">Dhp & Udāna</span>
+
     </div>
   </div>
 
@@ -27,11 +27,11 @@
       <span class="db-badge vipassana">Aṭṭhakathā & Tīkā</span>
       <h3>Traditional Exegesis</h3>
       <p>Classical commentaries and sub-commentaries linked paragraph-by-paragraph to Mūla suttas.</p>
-      <ul class="db-link-list">
-        <li>[[atthakatha/INDEX|Aṭṭhakathā (Commentaries)]]</li>
-        <li>[[tika/INDEX|Tīkā (Sub-commentaries)]]</li>
-        <li>[[mula/vinaya/INDEX|Vinaya Piṭaka (Monastic Rules)]]</li>
-      </ul>
+
+- [[atthakatha/INDEX|Aṭṭhakathā (Commentaries)]]
+- [[tika/INDEX|Tīkā (Sub-commentaries)]]
+- [[mula/vinaya/INDEX|Vinaya Piṭaka (Monastic Rules)]]
+
     </div>
   </div>
 
@@ -40,12 +40,12 @@
       <span class="db-badge matika">Mātikā</span>
       <h3>Doctrinal Hub</h3>
       <p>22 core Buddhist lists mapping mental states, practices, and stages of awakening.</p>
-      <ul class="db-link-list">
-        <li>[[matika/INDEX|Explore Doctrinal Lists]]</li>
-        <li>[[matika/four_noble_truths|Four Noble Truths]]</li>
-        <li>[[matika/four_foundations_of_mindfulness|Four Satipaṭṭhānā]]</li>
-        <li>[[matika/noble_eightfold_path|Noble Eightfold Path]]</li>
-      </ul>
+
+- [[matika/INDEX|Explore Doctrinal Lists]]
+- [[matika/four_noble_truths|Four Noble Truths]]
+- [[matika/four_foundations_of_mindfulness|Four Satipaṭṭhānā]]
+- [[matika/noble_eightfold_path|Noble Eightfold Path]]
+
     </div>
   </div>
 
@@ -54,12 +54,12 @@
       <span class="db-badge practice">Practice Center</span>
       <h3>Daily Practice & Support</h3>
       <p>Interactive tools to track sessions, recollections, protective chanting, and verse memorization.</p>
-      <ul class="db-link-list">
-        <li>[[practice/INDEX|🧘 Practice Dashboard]]</li>
-        <li>[[practice/memorization_log|📖 Verse Memorization Log]]</li>
-        <li>[[CHANTING|🎧 Chanting Integration Guide]]</li>
-        <li>[[paritta/INDEX|🛡️ Protective Chants (Paritta)]]</li>
-      </ul>
+
+- [[practice/INDEX|🧘 Practice Dashboard]]
+- [[practice/memorization_log|📖 Verse Memorization Log]]
+- [[CHANTING|🎧 Chanting Integration Guide]]
+- [[paritta/INDEX|🛡️ Protective Chants (Paritta)]]
+
     </div>
   </div>
 
