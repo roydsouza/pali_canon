@@ -1,4 +1,4 @@
-&# Pali Canon Vault Index
+# Pali Canon Vault Index
 
 <div class="db-header">
   <h1>Obsidian Pali Canon Vault</h1>
@@ -61,6 +61,8 @@
         <li><a class="internal-link" href="paritta/INDEX.md">🛡️ Protective Chants (Paritta)</a></li>
       </ul>
     </div>
+  </div>
+
 </div>
 
 ---
