@@ -128,7 +128,7 @@ def generate_mula(vault, sutta_id, data):
         
     print(f"Generated Mūla: {out_path} ({len(lines)} lines)")
 
-def generate_layer(vault, sutta_id, layer_name, mapping_info):
+def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
     if not mapping_info:
         return
         
@@ -185,16 +185,109 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info):
     ])
     
     for rend, paranum, text in filtered:
+        if paranum:
+            lines.append(f"\n### §{paranum}\n")
+            
         prefix = f"({paranum}) " if paranum else ""
         if rend in ('gatha', 'gathalast', 'indent'):
             lines.append(f"  {text}  ")
         else:
             lines.append(f"{prefix}{text}\n")
             
+        if paranum and suffix == "att" and has_tika:
+            tika_link = (
+                f"\n> [!abstract]- Tīkā §{paranum}\n"
+                f"> [[{other_ref}#§{paranum}|Sub-commentary §{paranum}]]\n"
+            )
+            lines.append(tika_link)
+            
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
         
     print(f"Generated {layer_name.upper()}: {out_path} ({len(lines)} lines)")
+
+def normalize_pali(text):
+    if not text:
+        return ""
+    text = text.replace('*', ' ')
+    text = re.sub(r'[\[\]#|—\-–]', ' ', text)
+    text = text.lower()
+    replacements = {
+        'ā': 'a', 'ī': 'i', 'ū': 'u',
+        'ṅ': 'n', 'ñ': 'n', 'ṇ': 'n',
+        'ṭ': 't', 'ḍ': 'd', 'ḷ': 'l', 
+        'ṁ': 'm', 'ṃ': 'm'
+    }
+    for k, v in replacements.items():
+        text = text.replace(k, v)
+    text = re.sub(r'[^a-z\s]', '', text)
+    return ' '.join(text.split())
+
+def extract_anchors_from_att(att_content):
+    pattern = re.compile(r'\((\d+)\)\s+(.*?)(?:nti|ti)\b', re.DOTALL)
+    anchors = {}
+    ordinals = {
+        'pathame', 'dutiye', 'tatiye', 'catutthe', 'pancame', 'chatthe',
+        'sattame', 'atthame', 'navame', 'dasame', 'ekadasame', 'dvadasame',
+        'telasame', 'catuddasame', 'pannarasame', 'solasame', 'sattarasame',
+        'attharasame', 'ekunavisitime', 'visitime'
+    }
+    for m in pattern.finditer(att_content):
+        para_num = int(m.group(1))
+        anchor_text = m.group(2).strip()
+        anchor_cleaned = re.sub(r'<[^>]+>', '', anchor_text)
+        words = anchor_cleaned.split()
+        if words:
+            first_word_norm = normalize_pali(words[0])
+            if first_word_norm in ordinals:
+                words = words[1:]
+        if len(words) > 10:
+            anchor_cleaned = " ".join(words[:6])
+        else:
+            anchor_cleaned = " ".join(words)
+        anchors[para_num] = anchor_cleaned
+    return anchors
+
+
+def crosslink_mula(mula_path, att_anchors, att_base, tik_base):
+    with open(mula_path, "r", encoding="utf-8") as f:
+        mula_content = f.read()
+    mula_lines = mula_content.splitlines(keepends=True)
+    mula_modified = False
+    
+    for para_num, anchor_text in sorted(att_anchors.items()):
+        if f"[[{att_base}#§{para_num}" in mula_content:
+            continue
+        norm_anchor = normalize_pali(anchor_text)
+        if not norm_anchor:
+            continue
+        matched_idx = -1
+        for idx, line in enumerate(mula_lines):
+            if line.startswith("#") or line.startswith("---") or line.startswith(">"):
+                continue
+            norm_line = normalize_pali(line)
+            if norm_anchor in norm_line:
+                matched_idx = idx
+                break
+        if matched_idx != -1:
+            callout = (
+                f"\n> [!info]- Commentary §{para_num}\n"
+                f"> **Atthakathā**: [[{att_base}#§{para_num}|Commentary §{para_num}]]"
+            )
+            if tik_base:
+                callout += f"  ·  **Tīkā**: [[{tik_base}#§{para_num}|Sub-commentary §{para_num}]]"
+            callout += "\n\n"
+            mula_lines.insert(matched_idx, callout)
+            mula_modified = True
+            mula_content = "".join(mula_lines)
+            mula_lines = mula_content.splitlines(keepends=True)
+        else:
+            print(f"  Warning: could not resolve Mūla anchor '{anchor_text}' for §{para_num}")
+            
+    if mula_modified:
+        with open(mula_path, "w", encoding="utf-8") as f:
+            f.write(mula_content)
+        print(f"Updated Mūla file {os.path.basename(mula_path)} with paragraph callouts.")
 
 def main():
     parser = argparse.ArgumentParser(description="Unified Sutta generator engine.")
@@ -224,9 +317,10 @@ def main():
         if sutta_map:
             att_maps = sutta_map.get("att", [])
             tika_maps = sutta_map.get("tika", [])
+            has_tika = bool(tika_maps)
             
             if att_maps:
-                generate_layer(vault, sutta_id, "att", att_maps[0])
+                generate_layer(vault, sutta_id, "att", att_maps[0], has_tika=has_tika)
             if tika_maps:
                 generate_layer(vault, sutta_id, "tika", tika_maps[0])
         else:
@@ -234,6 +328,25 @@ def main():
     else:
         print("Mappings file cscd_mappings_all.json not found. Skipping commentary layers.")
         
+    # 3. Post-generation: Auto-crosslink Mūla and Aṭṭhakathā/Ṭīkā
+    nikaya_dir, _, _ = get_nikaya_details(sutta_id)
+    mula_file_path = os.path.join(vault, "mula/sutta", nikaya_dir, f"{sutta_id}.md")
+    att_file_path = os.path.join(vault, "atthakatha/sutta", nikaya_dir, f"{sutta_id}_att.md")
+    tika_file_path = os.path.join(vault, "tika/sutta", nikaya_dir, f"{sutta_id}_tik.md")
+    
+    if os.path.exists(mula_file_path) and os.path.exists(att_file_path):
+        print(f"Post-processing cross-links for {sutta_id}...")
+        with open(att_file_path, "r", encoding="utf-8") as f:
+            att_content = f.read()
+        att_anchors = extract_anchors_from_att(att_content)
+        if att_anchors:
+            print(f"Found {len(att_anchors)} paragraph anchors for cross-linking.")
+            att_base = f"{sutta_id}_att"
+            tik_base = f"{sutta_id}_tik" if os.path.exists(tika_file_path) else ""
+            crosslink_mula(mula_file_path, att_anchors, att_base, tik_base)
+        else:
+            print("No paragraph anchors found in Atthakathā for auto-linking.")
+            
     print("Generation complete.")
 
 if __name__ == "__main__":

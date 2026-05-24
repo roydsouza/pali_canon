@@ -41,9 +41,9 @@ def parse_headers_and_anchors(filepath):
         
     return headers
 
-def validate_vault():
+def validate_vault(target_files=None):
     all_files = get_markdown_files(VAULT_DIR, EXCLUDE_INDEX_DIRS)
-    scan_files = get_markdown_files(VAULT_DIR, EXCLUDE_SCAN_DIRS)
+    scan_files = target_files if target_files is not None else get_markdown_files(VAULT_DIR, EXCLUDE_SCAN_DIRS)
     
     # Map from relative path from vault root (no ext), and filename (no ext) to absolute path
     # e.g., "mula/sutta/digha_nikaya/dn9" -> "/Users/rds/pali_canon/mula/sutta/digha_nikaya/dn9.md"
@@ -66,10 +66,8 @@ def validate_vault():
         else:
             file_map[filename_no_ext] = filepath
 
-    # Pre-parse headers for all files to check anchor resolution
+    # Lazy-loaded headers dictionary to avoid pre-parsing all files
     file_headers = {}
-    for filepath in all_files:
-        file_headers[filepath] = parse_headers_and_anchors(filepath)
 
     # Wikilink pattern: [[target]] or [[target|label]]
     # target may contain an anchor: e.g. target#anchor
@@ -182,6 +180,20 @@ def validate_vault():
         return True
 
 if __name__ == "__main__":
-    success = validate_vault()
+    import argparse
+    parser = argparse.ArgumentParser(description="Pali Canon Vault Link Validator")
+    parser.add_argument("--files", nargs="*", help="Specific files to validate. If empty, validates all files.")
+    args = parser.parse_args()
+    
+    target_files = []
+    if args.files:
+        for f in args.files:
+            abs_f = os.path.abspath(f)
+            if os.path.exists(abs_f) and abs_f.endswith(".md"):
+                target_files.append(abs_f)
+            else:
+                pass
+                
+    success = validate_vault(target_files=target_files if target_files else None)
     if not success:
         sys.exit(1)
