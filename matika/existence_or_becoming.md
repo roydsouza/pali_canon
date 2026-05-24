@@ -1,0 +1,32 @@
+---
+id: existence_or_becoming
+title_pali: Bhava
+type: matika
+---
+
+# Existence / Becoming (Bhava)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[dependent_origination|Dependent Origination]]
+
+---
+
+## Canonical Definition
+
+> "Tayo me bhavā: kāmabhavañca, rūpabhavañca, arūpabhavañca..."
+> 
+> *“Three kinds of existence: sensual existence, material existence, immaterial existence...”*
+
+---
+
+## Detailed Description
+
+Bhava is the process of becoming. It is the active kamma-process (*kammabhava*) that creates the conditions for future rebirth (*uppattibhava*) across the three realms of existence: the sensual realm, the fine-material realm, and the immaterial realm.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [SN 12.2: Vibhaṅgasutta](../mula/sutta/samyutta_nikaya/INDEX.md)
+*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)

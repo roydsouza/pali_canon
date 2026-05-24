@@ -1,0 +1,32 @@
+---
+id: clinging_to_rites_and_rituals
+title_pali: Sīlabbataparāmāsa
+type: matika
+---
+
+# Clinging to Rites & Rituals (Sīlabbataparāmāsa)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[ten_fetters|Ten Fetters]]
+
+---
+
+## Canonical Definition
+
+> "Iti sīlena... iti vatena suddhīti abhiveso..."
+> 
+> *“The adherence to the belief that purity comes merely through rules... and vows...”*
+
+---
+
+## Detailed Description
+
+Sīlabbataparāmāsa is the belief that liberation can be achieved simply by external rules, rituals, moral vows, or ascetic practices alone, without purifying the mind. It is abandoned at stream-entry.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 22: Alagaddūpamasutta](../mula/sutta/majjhima_nikaya/mn22.md)
+*   [matika/ten_fetters](ten_fetters.md)

@@ -1,0 +1,32 @@
+---
+id: virtue
+title_pali: Sīla
+type: matika
+---
+
+# Virtue / Ethical Conduct (Sīla)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[ten_perfections|Ten Perfections]]
+
+---
+
+## Canonical Definition
+
+> "Sīlapāramī: kāyikavācasikasammācāro..."
+> 
+> *“The perfection of virtue: right bodily and verbal conduct...”*
+
+---
+
+## Detailed Description
+
+Sīla is ethical conduct, virtue, and moral discipline. It involves guarding one's physical and verbal actions to prevent harm to others and ourselves, establishing the stability required for meditation.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [matika/five_precepts](five_precepts.md)
+*   [matika/eight_precepts](eight_precepts.md)

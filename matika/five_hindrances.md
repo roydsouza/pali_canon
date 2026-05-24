@@ -10,16 +10,16 @@ type: matika
 
 ## The List
 
-1. **Kāmacchanda**  
-   *Sensual desire*
-2. **Byāpāda**  
-   *Ill-will*
-3. **Thīnamiddha**  
-   *Sloth and torpor (lethargy and sluggishness)*
-4. **Uddhaccakukkucca**  
-   *Restlessness and worry (remorse)*
-5. **Vicikicchā**  
-   *Skeptical doubt*
+1. **[[sensual_desire|Kāmacchanda]]**  
+   *Sensual desire / Lust*
+2. **[[ill_will_or_hostility|Vyāpāda]]**  
+   *Ill will / Anger*
+3. **[[sloth_and_torpor|Thīna-middha]]**  
+   *Sloth and torpor / Sluggishness*
+4. **[[restlessness_and_remorse|Uddhacca-kukkucca]]**  
+   *Restlessness and remorse / Agitation*
+5. **[[skeptical_doubt|Vicikicchā]]**  
+   *Skeptical doubt / Indecision*
 
 ## Related Lists
 * Related: [[seven_awakening_factors|Seven Awakening Factors]] (awakening factors are developed to actively overcome and abandon these five hindrances)

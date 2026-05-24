@@ -10,15 +10,15 @@ type: matika
 
 ## The List
 
-1. **Rūpakkhandha**  
+1. **[[form_or_matter|Rūpakkhandha]]**  
    *The aggregate of form / matter*
-2. **Vedanākkhandha**  
+2. **[[feeling|Vedanākkhandha]]**  
    *The aggregate of feeling / sensation*
-3. **Saññākkhandha**  
+3. **[[perception|Saññākkhandha]]**  
    *The aggregate of perception / recognition*
-4. **Saṅkhārakkhandha**  
+4. **[[volitional_formations|Saṅkhārakkhandha]]**  
    *The aggregate of volitional formations / mental fabrications*
-5. **Viññāṇakkhandha**  
+5. **[[consciousness|Viññāṇakkhandha]]**  
    *The aggregate of consciousness / awareness*
 
 ## Related Lists

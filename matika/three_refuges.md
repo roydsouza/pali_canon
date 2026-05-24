@@ -10,12 +10,12 @@ type: matika
 
 ## The List
 
-1. **Buddhaṃ saraṇaṃ gacchāmi**  
-   *I go to the Buddha for refuge*
-2. **Dhammaṃ saraṇaṃ gacchāmi**  
-   *I go to the Dhamma for refuge*
-3. **Saṅghaṃ saraṇaṃ gacchāmi**  
-   *I go to the Sangha for refuge*
+1. **[[buddha|Buddhaṃ saraṇaṃ gacchāmi.]]**  
+   *I go to the Buddha for refuge.*
+2. **[[dhamma|Dhammaṃ saraṇaṃ gacchāmi.]]**  
+   *I go to the Dhamma for refuge.*
+3. **[[sangha|Saṅghaṃ saraṇaṃ gacchāmi.]]**  
+   *I go to the Saṅgha for refuge.*
 
 ## Related Lists
 * Related: [[five_precepts|Five Precepts]] (taking refuge is traditionally followed by taking the precepts)

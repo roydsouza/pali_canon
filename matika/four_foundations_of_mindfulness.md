@@ -10,14 +10,14 @@ type: matika
 
 ## The List
 
-1. **Kāyānupassanā**  
+1. **[[contemplation_of_body|Kāyānupassanā]]**  
    *Contemplation of the body*
-2. **Vedanānupassanā**  
-   *Contemplation of feelings / sensations*
-3. **Cittānupassanā**  
-   *Contemplation of the mind / consciousness*
-4. **Dhammānupassanā**  
-   *Contemplation of phenomena (dhammas / mind-objects)*
+2. **[[contemplation_of_feelings|Vedanānupassanā]]**  
+   *Contemplation of feelings*
+3. **[[contemplation_of_mind|Cittānupassanā]]**  
+   *Contemplation of the mind*
+4. **[[contemplation_of_phenomena|Dhammānupassanā]]**  
+   *Contemplation of phenomena*
 
 ## Related Lists
 * Related: [[seven_awakening_factors|Seven Awakening Factors]] (practicing the four foundations of mindfulness fulfills the seven awakening factors)

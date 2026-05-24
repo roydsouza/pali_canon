@@ -1,5 +1,20 @@
 # Sync Log
 
+## [2026-05-24 — Phase 20.2: Vault-wide Mātika Factors Expansion Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Vault-wide Mātika Factors Expansion**
+- **Factor Files Creation**: Created 78 detailed markdown files under `matika/` for every factor in the remaining 18 lists of the Buddhist *Mātika* (e.g. `impermanence.md`, `feeling.md`, `sensual_desire.md`, `abstaining_from_killing.md`, `mindfulness.md`, `buddha.md`, `generosity.md`, `contemplation_of_body.md`, etc.).
+- **Canonical Definition & Description**: Each file contains its Romanized Pali definition from canonical texts (such as SN 45.8, SN 12.2, MN 9, Vibhaṅga, etc.), an interleaved English translation, a detailed practical description, and relative links to suttas in the vault that describe/mention the factor.
+- **Parent List Integration**: Updated all 18 parent files in `matika/` to dynamically link parent list items to their respective detailed factor files, using clean English-first wikilinks with Pali display labels where appropriate.
+- **Tool Refinement**: Modified the generator script `scratch/generators/generate_matika_details.py` to fix list section replacements in files with custom list headers (`ten_fetters.md` and `seven_purifications.md`) and to utilize dynamic regex matching of search headers.
+
+**Verification and Link Integrity**
+- **Link Validator**: Ran `validate_links.py`. Verified 1,157 markdown files and 14,018 wikilinks, confirming **0 broken links** in the entire vault.
+
+---
+
 ## [2026-05-24 — Phase 20.1: Noble Eightfold Path Factors Expansion Complete (Antigravity)]
 
 ### Session Accomplishments

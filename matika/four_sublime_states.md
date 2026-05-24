@@ -12,14 +12,14 @@ Also known as the Four Divine Abodes or Immeasurables.
 
 ## The List
 
-1. **Mettā**  
-   *Loving-kindness (goodwill / benevolence)*
-2. **Karuṇā**  
-   *Compassion (empathy for suffering)*
-3. **Muditā**  
-   *Sympathetic joy (appreciation / gladness at others' happiness)*
-4. **Upekkhā**  
-   *Equanimity (impartiality / peace of mind)*
+1. **[[loving_kindness|Mettā]]**  
+   *Loving-kindness / Universal goodwill*
+2. **[[compassion|Karuṇā]]**  
+   *Compassion / Empathy with suffering*
+3. **[[appreciative_joy|Muditā]]**  
+   *Appreciative joy / Joy at others' success*
+4. **[[equanimity|Upekkhā]]**  
+   *Equanimity / Mental balance*
 
 ## Related Lists
 * Related: [[ten_perfections|Ten Perfections]] (incorporates the perfections of Mettā and Upekkhā)

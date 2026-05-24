@@ -10,30 +10,30 @@ type: matika
 
 ## The List
 
-1. **Avijjāpaccayā saṅkhārā**  
-   *With ignorance as condition, volitional formations arise*
-2. **Saṅkhārapaccayā viññāṇaṃ**  
-   *With volitional formations as condition, consciousness arises*
-3. **Viññāṇapaccayā nāmarūpaṃ**  
-   *With consciousness as condition, name and form arise*
-4. **Nāmarūpapaccayā saḷāyatanaṃ**  
-   *With name and form as condition, the six sense bases arise*
-5. **Saḷāyatanapaccayā phasso**  
-   *With the six sense bases as condition, contact arises*
-6. **Phassapaccayā vedanā**  
-   *With contact as condition, feeling arises*
-7. **Vedanāpaccayā taṇhā**  
-   *With feeling as condition, craving arises*
-8. **Taṇhāpaccayā upādānaṃ**  
-   *With craving as condition, clinging arises*
-9. **Upādānapaccayā bhavo**  
-   *With clinging as condition, existence / becoming arises*
-10. **Bhavapaccayā jāti**  
-    *With existence as condition, birth arises*
-11. **Jātipaccayā jarāmaraṇaṃ**  
-    *With birth as condition, aging and death arise*
-12. **Sokaparidevadukkhadomanassupāyāsā sambhavanti**  
-    *Thus sorrow, lamentation, pain, grief, and despair come to be*
+1. **[[ignorance|Avijjā]]**  
+   *Ignorance / Delusion*
+2. **[[volitional_formations|Saṅkhārā]]**  
+   *Volitional formations / Mental fabrications*
+3. **[[consciousness|Viññāṇa]]**  
+   *Consciousness / Awareness*
+4. **[[name_and_form|Nāmarūpa]]**  
+   *Name-and-form / Mind-and-matter*
+5. **[[six_sense_fields|Saḷāyatana]]**  
+   *The six sense bases / fields*
+6. **[[contact|Phassa]]**  
+   *Sensory contact / Impingement*
+7. **[[feeling|Vedanā]]**  
+   *Feeling / Sensation*
+8. **[[craving|Taṇhā]]**  
+   *Craving / Thirst*
+9. **[[clinging_or_grasping|Upādāna]]**  
+   *Clinging / Grasping*
+10. **[[existence_or_becoming|Bhava]]**  
+    *Existence / Becoming*
+11. **[[birth|Jāti]]**  
+    *Birth / Re-entry*
+12. **[[aging_and_death|Jarāmaraṇa]]**  
+    *Aging and death / Dissolution*
 
 ## Related Lists
 * Related: [[four_noble_truths|Four Noble Truths]] (explains the process of the origin of suffering, samudaya)

@@ -152,6 +152,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 ### Phase 20.1 — Noble Eightfold Path Factors Expansion (completed, 2026-05-24)
 - [x] **Noble Eightfold Path Factors Expansion** — Create individual files for each of the 8 path factors under `matika/`, detailing their canonical definitions, practice descriptions, and sutta links.
 
+### Phase 20.2 — Vault-wide Mātika Factors Expansion (completed, 2026-05-24)
+- [x] **Vault-wide Mātika Factors Expansion** — Create detailed sub-files for every item in the remaining 18 mātika lists, featuring canonical definitions (Pali + English), descriptions, and cross-references.
+
 ---
 
 ## Pending Work

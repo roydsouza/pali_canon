@@ -12,12 +12,12 @@ Also known as the Three Poisons or Fires that drive the cycle of existence.
 
 ## The List
 
-1. **Lobha**  
-   *Greed (attachment / passion)*
-2. **Dosa**  
-   *Hatred (ill-will / anger / aversion)*
-3. **Moha**  
-   *Delusion (ignorance / confusion)*
+1. **[[greed|Lobha]]**  
+   *Greed / Attachment / Lust*
+2. **[[hatred|Dosa]]**  
+   *Hatred / Anger / Aversion*
+3. **[[delusion|Moha]]**  
+   *Delusion / Ignorance*
 
 ## Related Lists
 * Related: [[dependent_origination|Dependent Origination]] (delusion corresponds to the link of ignorance / avijjā; greed maps to craving / taṇhā and clinging / upādāna)

@@ -1,0 +1,32 @@
+---
+id: greed
+title_pali: Lobha
+type: matika
+---
+
+# Greed / Desire (Lobha)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[three_unwholesome_roots|Three Unwholesome Roots]]
+
+---
+
+## Canonical Definition
+
+> "Katamo ca, bhikkhave, lobho? Yo cittassa rāgo..."
+> 
+> *“And what, bhikkhus, is greed? The lust of the mind...”*
+
+---
+
+## Detailed Description
+
+Lobha is greed, lust, and attachment. It is the mental state of pulling towards, grasping, and demanding experiences or possessions, keeping the mind agitated and bound to the cycle of craving.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 9: Sammādiṭṭhisutta](../mula/sutta/majjhima_nikaya/mn9.md)
+*   [matika/three_unwholesome_roots](three_unwholesome_roots.md)

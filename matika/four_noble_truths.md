@@ -10,14 +10,14 @@ type: matika
 
 ## The List
 
-1. **Dukkhaṃ ariyasaccaṃ**  
-   *The noble truth of suffering*
-2. **Dukkhasamudayo ariyasaccaṃ**  
-   *The noble truth of the origin of suffering*
-3. **Dukkhanirodho ariyasaccaṃ**  
-   *The noble truth of the cessation of suffering*
-4. **Dukkhanirodhagāminī paṭipadā ariyasaccaṃ**  
-   *The noble truth of the way leading to the cessation of suffering*
+1. **[[suffering|Dukkha]]**  
+   *Suffering / Unsatisfactoriness*
+2. **[[origin_of_suffering|Samudaya]]**  
+   *The origin / cause of suffering*
+3. **[[cessation_of_suffering|Nirodha]]**  
+   *The cessation / ending of suffering*
+4. **[[path_to_cessation|Magga]]**  
+   *The path of practice leading to the cessation of suffering*
 
 ## Related Lists
 * Leads to: [[noble_eightfold_path|Noble Eightfold Path]] (which explains the fourth truth in detail)

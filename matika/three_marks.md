@@ -10,11 +10,11 @@ type: matika
 
 ## The List
 
-1. **Anicca**  
+1. **[[impermanence|Anicca]]**  
    *Impermanence / Inconstancy*
-2. **Dukkha**  
+2. **[[suffering|Dukkha]]**  
    *Suffering / Unsatisfactoriness*
-3. **Anattā**  
+3. **[[non_self|Anattā]]**  
    *Non-self / Egolessness*
 
 ## Related Lists

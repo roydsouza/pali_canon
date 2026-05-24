@@ -10,20 +10,20 @@ type: matika
 
 ## The List
 
-1. **Satisambojjhaṅgo**  
+1. **[[mindfulness|Satisambojjhaṅgo]]**  
    *Mindfulness*
-2. **Dhammavicayasambojjhaṅgo**  
-   *Investigation of phenomena*
-3. **Viriyasambojjhaṅgo**  
-   *Energy*
-4. **Pītisambojjhaṅgo**  
-   *Rapture*
-5. **Passaddhisambojjhaṅgo**  
-   *Tranquility*
-6. **Samādhisambojjhaṅgo**  
-   *Concentration*
-7. **Upekkhasambojjhaṅgo**  
-   *Equanimity*
+2. **[[investigation_of_phenomena|Dhammavicayasambojjhaṅgo]]**  
+   *Investigation of states / phenomena*
+3. **[[energy|Viriyasambojjhaṅgo]]**  
+   *Energy / Effort*
+4. **[[rapture_or_joy|Pītisambojjhaṅgo]]**  
+   *Rapture / Joy*
+5. **[[tranquility|Passaddhisambojjhaṅgo]]**  
+   *Tranquility / Calm*
+6. **[[immersion_or_concentration|Samādhisambojjhaṅgo]]**  
+   *Immersion / Concentration*
+7. **[[equanimity|Upekkhāsambojjhaṅgo]]**  
+   *Equanimity / Balance*
 
 ## Related Lists
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (highly aligned with the path factors of energy, mindfulness, and concentration)

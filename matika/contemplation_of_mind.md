@@ -1,0 +1,32 @@
+---
+id: contemplation_of_mind
+title_pali: Cittānupassanā
+type: matika
+---
+
+# Contemplation of the Mind (Cittānupassanā)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
+
+---
+
+## Canonical Definition
+
+> "Citte cittānupassī viharati ātāpī sampajāno..."
+> 
+> *“He dwells contemplating mind in mind, ardent...”*
+
+---
+
+## Detailed Description
+
+Cittānupassanā is the third foundation. It observes the quality of the mind, identifying if the mind is currently with or without greed, anger, delusion, concentration, distraction, or liberation.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
+*   [DN 22: Mahāsatipaṭṭhānasutta](../mula/sutta/digha_nikaya/dn22.md)

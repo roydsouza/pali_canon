@@ -1,0 +1,32 @@
+---
+id: feeling
+title_pali: Vedanā
+type: matika
+---
+
+# Feeling / Sensation (Vedanā)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_aggregates|Five Aggregates]] / [[dependent_origination|Dependent Origination]] / [[four_foundations_of_mindfulness|Four Foundations Of Mindfulness]]
+
+---
+
+## Canonical Definition
+
+> "Tisso vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā..."
+> 
+> *“Three feelings: pleasant feeling, painful feeling, neutral feeling...”*
+
+---
+
+## Detailed Description
+
+Vedanā is the affective tone of experience. Every sensory contact is experienced as pleasant, unpleasant, or neutral. Feeling is not emotion, but the raw sensation that, if met with ignorance, triggers craving and aversion.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
+*   [MN 43: Mahāvedallasutta](../mula/sutta/majjhima_nikaya/mn43.md)

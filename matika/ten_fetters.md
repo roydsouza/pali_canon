@@ -12,30 +12,18 @@ The Ten Fetters (*dasa saṃyojanā*) are the mental bonds that bind sentient be
 
 ---
 
-## 1. Suttanta List (Primary)
+## The List
 
-The standard ten fetters as defined throughout the Sutta Piṭaka (e.g., SN 45.179–180, AN 10.13):
-
-1. **Sakkāya-diṭṭhi**  
-   *Self-identity view (the belief in a permanent, independent self within the five aggregates)*
-2. **Vicikicchā**  
-   *Sceptical doubt (indecision or lack of conviction in the Buddha, Dhamma, Sangha, and the training)*
-3. **Sīlabbata-parāmāsa**  
-   *Clinging to rules and rituals (the belief that mere rites, rituals, or external observances can lead to liberation)*
-4. **Kāmarāga**  
-   *Sensual desire (lust, attachment to sensory pleasure)*
-5. **Vyāpāda** (or **Paṭigha**)  
-   *Ill-will (aversion, anger, resentment)*
-6. **Rūparāga**  
-   *Desire for existence in fine-material realms (attachment to the jhānas of form)*
-7. **Arūparāga**  
-   *Desire for existence in formless realms (attachment to the formless attainments)*
-8. **Māna**  
-   *Conceit (the subtle sense of 'I am', comparing oneself as superior, equal, or inferior)*
-9. **Uddhacca**  
-   *Restlessness (agitation, distraction, lack of mental stillness)*
-10. **Avijjā**  
-    *Ignorance (fundamental delusion regarding the Four Noble Truths)*
+1. **[[identity_view|Sakkāyadiṭṭhi]]** — *Identity view / Self-view*
+2. **[[skeptical_doubt|Vicikicchā]]** — *Skeptical doubt / Indecision*
+3. **[[clinging_to_rites_and_rituals|Sīlabbataparāmāso]]** — *Clinging to rules and rituals*
+4. **[[sensual_desire|Kāmarāgo]]** — *Sensual desire / Lust*
+5. **[[ill_will_or_hostility|Paṭigho]]** — *Ill will / Anger / Aversion*
+6. **[[lust_for_material_existence|Rūparāgo]]** — *Lust for material existence (Brahma realms)*
+7. **[[lust_for_immaterial_existence|Arūparāgo]]** — *Lust for immaterial existence (Formless realms)*
+8. **[[conceit|Māno]]** — *Conceit / Pride*
+9. **[[restlessness_and_remorse|Uddhaccaṃ]]** — *Restlessness / Agitation*
+10. **[[ignorance|Avijjā]]** — *Ignorance / Delusion*
 
 ---
 

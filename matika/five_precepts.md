@@ -10,16 +10,16 @@ type: matika
 
 ## The List
 
-1. **Pāṇātipātā veramaṇī**  
+1. **[[abstaining_from_killing|Pāṇātipātā veramaṇī]]**  
    *Abstaining from taking life (killing)*
-2. **Adinnādānā veramaṇī**  
+2. **[[abstaining_from_stealing|Adinnādānā veramaṇī]]**  
    *Abstaining from taking what is not given (stealing)*
-3. **Kāmesumicchācārā veramaṇī**  
+3. **[[abstaining_from_sexual_misconduct|Kāmesumicchācārā veramaṇī]]**  
    *Abstaining from sexual misconduct*
-4. **Musāvādā veramaṇī**  
+4. **[[abstaining_from_false_speech|Musāvādā veramaṇī]]**  
    *Abstaining from false speech (lying)*
-5. **Surāmerayamajjapamādaṭṭhānā veramaṇī**  
-   *Abstaining from fermented and distilled liquors and intoxicants that cause heedlessness*
+5. **[[abstaining_from_intoxicants|Surāmerayamajjapamādaṭṭhānā veramaṇī]]**  
+   *Abstaining from fermented and distilled liquors and intoxicants*
 
 ## Spaced Repetition Review (Flashcards)
 <!-- card-deck: Matika/FivePrecepts -->

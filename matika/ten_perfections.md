@@ -10,26 +10,16 @@ type: matika
 
 ## The List
 
-1. **Dāna**  
-   *Generosity (giving)*
-2. **Sīla**  
-   *Virtue (morality / ethical conduct)*
-3. **Nekkhamma**  
-   *Renunciation (letting go)*
-4. **Paññā**  
-   *Wisdom (discernment)*
-5. **Viriya**  
-   *Energy (effort / persistence)*
-6. **Khanti**  
-   *Patience (forbearance)*
-7. **Sacca**  
-   *Truthfulness (honesty)*
-8. **Adhiṭṭhāna**  
-   *Determination (resolution)*
-9. **Mettā**  
-   *Loving-kindness (goodwill)*
-10. **Upekkhā**  
-    *Equanimity (impartiality)*
+1. **[[generosity|Dānapāramī]]** — *Generosity / Giving*
+2. **[[virtue|Sīlapāramī]]** — *Virtue / Ethical Conduct*
+3. **[[renunciation|Nekkhammapāramī]]** — *Renunciation / Letting go*
+4. **[[wisdom_or_discernment|Paññāpāramī]]** — *Wisdom / Insight*
+5. **[[energy|Viriyapāramī]]** — *Energy / Effort*
+6. **[[patience_or_forbearance|Khantipāramī]]** — *Patience / Tolerance*
+7. **[[truthfulness|Saccapāramī]]** — *Truthfulness / Honesty*
+8. **[[determination|Adhiṭṭhānapāramī]]** — *Determination / Resolve*
+9. **[[loving_kindness|Mettāpāramī]]** — *Loving-kindness / Benevolence*
+10. **[[equanimity|Upekkhāpāramī]]** — *Equanimity / Neutrality*
 
 ## Related Lists
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (the perfections support and are developed through the practice of the path)

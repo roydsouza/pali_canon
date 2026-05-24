@@ -12,14 +12,10 @@ These four aspects constitute the factor of Right Effort (*Sammā Vāyāma*) in 
 
 ## The List
 
-1. **Saṃvara-ppadhāna**  
-   *The effort to prevent the arising of unarisen unwholesome states*
-2. **Pahāna-ppadhāna**  
-   *The effort to abandon already arisen unwholesome states*
-3. **Bhāvanā-ppadhāna**  
-   *The effort to develop unarisen wholesome states*
-4. **Anurakkhaṇā-ppadhāna**  
-   *The effort to maintain and perfect already arisen wholesome states*
+1. **[[effort_to_prevent|Saṃvaro]]** — *The effort to prevent*
+2. **[[effort_to_abandon|Pahānaṃ]]** — *The effort to abandon*
+3. **[[effort_to_develop|Bhāvanā]]** — *The effort to develop*
+4. **[[effort_to_maintain|Anurakkhaṇā]]** — *The effort to maintain*
 
 ## Related Lists
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (identical to the practice of Right Effort / Sammā Vāyāma)

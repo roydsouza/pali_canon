@@ -1,0 +1,32 @@
+---
+id: restlessness_and_remorse
+title_pali: Uddhacca-kukkucca
+type: matika
+---
+
+# Restlessness and Remorse (Uddhacca-kukkucca)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[five_hindrances|Five Hindrances]] / [[ten_fetters|Ten Fetters]]
+
+---
+
+## Canonical Definition
+
+> "Uddhacca-kukkuccanti: uddhaccaṃ cetaso avūpasamo, kukkuccaṃ..."
+> 
+> *“Restlessness and remorse: restlessness is the unquiet of mind, remorse is regret...”*
+
+---
+
+## Detailed Description
+
+Uddhacca-kukkucca is the combination of mental agitation, scattered thoughts (restlessness), and worry or guilt over past actions (remorse). It makes the mind jump from thought to thought, and is countered by tranquility (*passaddhi*).
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 10: Satipaṭṭhānasutta](../mula/sutta/majjhima_nikaya/mn10.md)
+*   [DN 22: Mahāsatipaṭṭhānasutta](../mula/sutta/digha_nikaya/dn22.md)

@@ -12,16 +12,16 @@ These five qualities are also referred to as the Five Powers (*Pañcabala*) when
 
 ## The List
 
-1. **Saddhindriya (Saddhā)**  
-   *The faculty of faith (conviction)*
-2. **Viriyindriya (Viriya)**  
-   *The faculty of energy (persistence / effort)*
-3. **Satindriya (Sati)**  
+1. **[[faith_or_conviction|Saddhindriya]]**  
+   *The faculty of faith / conviction*
+2. **[[energy|Viriyindriya]]**  
+   *The faculty of energy / effort*
+3. **[[mindfulness|Satindriya]]**  
    *The faculty of mindfulness*
-4. **Samādhindriya (Samādhi)**  
-   *The faculty of concentration (unification of mind)*
-5. **Paññindriya (Paññā)**  
-   *The faculty of wisdom (discernment)*
+4. **[[immersion_or_concentration|Samādhindriya]]**  
+   *The faculty of concentration / immersion*
+5. **[[wisdom_or_discernment|Paññindriya]]**  
+   *The faculty of wisdom / discernment*
 
 ## Related Lists
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (corresponds to Right Effort, Right Mindfulness, Right Concentration, and Right View)

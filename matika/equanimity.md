@@ -1,0 +1,32 @@
+---
+id: equanimity
+title_pali: Upekkhā
+type: matika
+---
+
+# Equanimity (Upekkhā)
+
+**Navigation**: [[../INDEX|Pali Canon Vault]] / [[INDEX|Mātika]] / [[seven_awakening_factors|Seven Awakening Factors]] / [[ten_perfections|Ten Perfections]] / [[four_sublime_states|Four Sublime States]]
+
+---
+
+## Canonical Definition
+
+> "Upekkhāsambojjhaṅgo: tatramajjhattatā..."
+> 
+> *“The awakening factor of equanimity: neutral balance...”*
+
+---
+
+## Detailed Description
+
+Upekkhā is the mental quality of neutral balance, evenness, and freedom from attraction and aversion. It allows the mind to observe experience without reacting, providing the spaciousness required for ultimate insight.
+
+---
+
+## Sutta References
+
+The following suttas and lists in the vault mention, describe, or analyze this factor:
+
+*   [MN 118: Ānāpānasatisutta](../mula/sutta/majjhima_nikaya/mn118.md)
+*   [DN 22: Mahāsatipaṭṭhānasutta](../mula/sutta/digha_nikaya/dn22.md)

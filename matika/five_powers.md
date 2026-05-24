@@ -14,16 +14,16 @@ The Five Powers (*pañcabala*) are spiritual qualities that correspond exactly i
 
 ## The List
 
-1. **Saddhābala**  
-   *The power of faith (conviction) — unshakable by lack of faith (assaddhiya)*
-2. **Viriyabala**  
-   *The power of energy (persistence / effort) — unshakable by laziness (kosajja)*
-3. **Satibala**  
-   *The power of mindfulness — unshakable by negligence (pamāda)*
-4. **Samādhibala**  
-   *The power of concentration (unification of mind) — unshakable by distraction (uddhacca)*
-5. **Paññābala**  
-   *The power of wisdom (discernment) — unshakable by ignorance (avijjā)*
+1. **[[faith_or_conviction|Saddhābala]]**  
+   *The power of faith / conviction*
+2. **[[energy|Viriyabala]]**  
+   *The power of energy / effort*
+3. **[[mindfulness|Satibala]]**  
+   *The power of mindfulness*
+4. **[[immersion_or_concentration|Samādhibala]]**  
+   *The power of concentration / immersion*
+5. **[[wisdom_or_discernment|Paññābala]]**  
+   *The power of wisdom / discernment*
 
 ---
 

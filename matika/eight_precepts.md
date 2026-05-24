@@ -10,22 +10,22 @@ type: matika
 
 ## The List
 
-1. **Pāṇātipātā veramaṇī**  
+1. **[[abstaining_from_killing|Pāṇātipātā veramaṇī]]**  
    *Abstaining from taking life (killing)*
-2. **Adinnādānā veramaṇī**  
+2. **[[abstaining_from_stealing|Adinnādānā veramaṇī]]**  
    *Abstaining from taking what is not given (stealing)*
-3. **Abrahmacariyā veramaṇī**  
-   *Abstaining from unchastity (sexual activity)*
-4. **Musāvādā veramaṇī**  
+3. **[[abstaining_from_unchastity|Abrahmacariya veramaṇī]]**  
+   *Abstaining from unchastity (celibacy)*
+4. **[[abstaining_from_false_speech|Musāvādā veramaṇī]]**  
    *Abstaining from false speech (lying)*
-5. **Surāmerayamajjapamādaṭṭhānā veramaṇī**  
-   *Abstaining from fermented and distilled liquors and intoxicants that cause heedlessness*
-6. **Vikālabhojanā veramaṇī**  
-   *Abstaining from eating at improper times (after noon)*
-7. **Naccagītavāditavisūkadassanāmālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā veramaṇī**  
-   *Abstaining from dancing, singing, music, watching shows, wearing garlands, using perfumes, and beautifying the body with cosmetics*
-8. **Uccāsayanamahāsayanā veramaṇī**  
-   *Abstaining from high and luxurious beds and seats*
+5. **[[abstaining_from_intoxicants|Surāmerayamajjapamādaṭṭhānā veramaṇī]]**  
+   *Abstaining from fermented and distilled liquors and intoxicants*
+6. **[[abstaining_from_eating_after_noon|Vikālabhojanā veramaṇī]]**  
+   *Abstaining from eating at wrong times (after noon)*
+7. **[[abstaining_from_entertainment_and_adornments|Naccagītavāditavisūkadassanāmālāgandhavilepanadhāraṇamaṇḍanavibhūsanaṭṭhānā veramaṇī]]**  
+   *Abstaining from dancing, music, shows, perfumes, and cosmetics*
+8. **[[abstaining_from_high_beds|Uccāsayanamahāsayanā veramaṇī]]**  
+   *Abstaining from high and luxurious beds*
 
 ## Related Lists
 * Related: [[five_precepts|Five Precepts]] (the basic ethical framework from which the eight precepts are expanded)

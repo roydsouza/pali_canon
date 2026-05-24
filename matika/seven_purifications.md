@@ -12,22 +12,15 @@ The Seven Purifications (*satta visuddhi*) describe the stage-by-stage progressi
 
 ---
 
-## 1. The List
+## The List
 
-1. **Sīla-visuddhi**  
-   *Purification of conduct (virtue / ethics)*
-2. **Citta-visuddhi**  
-   *Purification of mind (concentration / absorption)*
-3. **Diṭṭhi-visuddhi**  
-   *Purification of view (correct understanding of mind and body)*
-4. **Kaṅkhāvitaraṇa-visuddhi**  
-   *Purification by overcoming doubt (discerning the causal relationships of mind and body)*
-5. **Maggāmagga-ñāṇadassana-visuddhi**  
-   *Purification by knowledge and vision of what is path and what is not path*
-6. **Paṭipadā-ñāṇadassana-visuddhi**  
-   *Purification by knowledge and vision of the course of practice (the path of insight)*
-7. **Ñāṇadassana-visuddhi**  
-   *Purification by knowledge and vision (supramundane realization)*
+1. **[[purification_of_virtue|Sīlavisuddhi]]** — *Purification of virtue*
+2. **[[purification_of_mind|Cittavisuddhi]]** — *Purification of mind*
+3. **[[purification_of_view|Diṭṭhivisuddhi]]** — *Purification of view*
+4. **[[purification_by_overcoming_doubt|Kaṅkhāvitaraṇavisuddhi]]** — *Purification by overcoming doubt*
+5. **[[purification_by_knowledge_and_vision_of_path|Maggāmaggañāṇadassanavisuddhi]]** — *Purification by knowledge and vision of what is path and not-path*
+6. **[[purification_by_knowledge_and_vision_of_way|Paṭipadāñāṇadassanavisuddhi]]** — *Purification by knowledge and vision of the way*
+7. **[[purification_by_knowledge_and_vision|Ñāṇadassanavisuddhi]]** — *Purification by knowledge and vision*
 
 ---
 
