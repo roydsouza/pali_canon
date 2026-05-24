@@ -2,7 +2,7 @@
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
-**Last updated**: 2026-05-23
+**Last updated**: 2026-05-24
 
 ---
 
@@ -122,6 +122,18 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Verse Memorization Log** — Created `practice/memorization_log.md` with core chanting verses
 - [x] **Dataview Query Blocks** — Injected live sutta tables in all Nikāya INDEX files and added "Recently Modified" list to root INDEX.md
 
+### Phase 15 — Tooling Refactoring, Guardrails, and Vinaya Initiation (completed, 2026-05-23)
+- [x] **Unified Helper Library** — Consolidated common parser operations and paths into `scratch/lib/pali_utils.py`
+- [x] **Git Verification Guardrails** — Implemented git pre-commit hook link validation and automated unittest suite
+- [x] **Generic Cross-linker** — Aligned commentary paragraphs to root texts in MN 10 and MN 22
+- [x] **Vinaya Piṭaka Initiation** — Migrated Bhikkhu Pātimokkha structure and rules to `patimokkha_bhikkhu.md`
+
+### Phase 16 — Generator Unification, Caching, Chanting Audio, and Vinaya Expansion (completed, 2026-05-23)
+- [x] **Offline Caching Layer** — Enabled local caching of CSCD XML files under `scratch/xml_cache/`
+- [x] **Unified Sutta Generator** — Completed command-line generator `generate_sutta.py` which dynamically generates all layers for a given sutta ID
+- [x] **Practice Audio & Flashcards** — Embedded audio files and Spaced Repetition cards in five precepts and Bhikkhu Pātimokkha
+- [x] **Vinaya Expansion** — Migrated Bhikkhunī Pātimokkha rules (311 rules) to `patimokkha_bhikkhuni.md`
+
 ---
 
 ## Pending Work
@@ -152,7 +164,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ### Vinaya Piṭaka
 - [x] Bhikkhu Pātimokkha (227 rules) — structure, key rules, and cross-links to `matika/five_precepts.md` established
-- [ ] Bhikkhunī Pātimokkha (311 rules)
+- [x] Bhikkhunī Pātimokkha (311 rules) — migrated structure and rules to `patimokkha_bhikkhuni.md`
 - [ ] Kaṅkhāvitaraṇī (Pātimokkha commentary)
 - [ ] Vinaya INDEX files for Suttavibhaṅga, Khandhaka, Parivāra
 

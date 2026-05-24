@@ -1,5 +1,46 @@
 # Sync Log
 
+## [2026-05-23 — Phase 16: Generator Unification, Caching, Chanting Audio, and Vinaya Expansion Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Offline XML Caching**
+- **Caching Mechanism**: Refactored `pali_utils.py` to check for and save downloaded CSCD XML files under the git-ignored `scratch/xml_cache/` folder, accelerating generation runs.
+
+**Unified Sutta Generator**
+- **Unified Engine**: Created `generate_sutta.py` CLI script to parse any sutta by ID, fetch root/translation segments from SuttaCentral, parse corresponding Atthakathā/Ṭīkā layers from CSCD mappings, and generate Obsidian markdown files. Verified by re-generating and verifying AN 7.65.
+
+**Monastic Practice Integrations**
+- **Practice Audio & Flashcards**: Embedded audio chanting templates in `patimokkha_bhikkhu.md` pointing to the `practice/audio/` folder, and added Spaced Repetition flashcards in double-colon format to `five_precepts.md`.
+
+**Vinaya Expansion (Phase 12)**
+- **Bhikkhunī Pātimokkha (311 rules)**: Created `patimokkha_bhikkhuni.md` containing the structure and primary rules of the Bhikkhunī Pātimokkha. Cross-linked rules to lay precepts. Registered the file in `mula/vinaya/INDEX.md` and updated status metrics in root files.
+
+**Verification and Link Integrity**
+- **Link Validator**: Ran `validate_links.py`. Validated 1,073 files, checked 13,587 wikilinks, and confirmed 0 broken links in the entire vault.
+
+---
+
+## [2026-05-23 — Phase 15: Tooling Refactoring, Guardrails, and Vinaya Initiation Complete (Antigravity)]
+
+### Session Accomplishments
+
+**Script Refactoring & Portability**
+- **Unified Helper Library**: Created `pali_utils.py` containing XML cleaning, frontmatter parsing, and environment-based path resolution.
+- **Robust Parsing & Portability**: Added priority decoding to `load_cscd_paras`. Updated all scratch scripts to retrieve the vault root path from `PALI_VAULT` instead of using hardcoded paths.
+
+**Verification Guardrails**
+- **Automated Validation Hook**: Created pre-commit git hook to execute the link validator script before committing any changes, rejecting commits with broken links.
+- **Unittest Suite**: Added `run_all_tests.py` using `unittest` framework to verify utility helper functions.
+
+**Generic Cross-linker & Sutta Alignment**
+- **Generic Cross-linker**: Developed `crosslink_generic.py` for paragraph-level commentary alignment. Cross-linked MN 10 (Satipaṭṭhānasutta) and MN 22 (Alagaddūpamasutta).
+
+**Vinaya Piṭaka Initiation**
+- **Monastic Code**: Created `patimokkha_bhikkhu.md` with 227 rules, cross-linked to five/eight precepts.
+
+---
+
 ## [2026-05-23 — Phases 10, 11, and 13 Complete (Antigravity)]
 
 ### Session Accomplishments
