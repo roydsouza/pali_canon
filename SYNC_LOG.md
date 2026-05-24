@@ -6,11 +6,11 @@
 
 **Interactive Dashboards & Practice Hubs**
 - **Custom CSS Design System**: Created `dashboard-styles.css` snippet containing the styling system (grids, glassmorphism cards, HSL category colors, hover scale animations, custom list items, and status badges). Enabled it vault-wide in `appearance.json`.
-- **Premium Root Dashboard**: Rebuilt the root `INDEX.md` to use the CSS snippet layout classes. Added styled category cards for Mūla collections, commentaries, mātikās, and practice tools.
+- **Premium Root Dashboard**: Rebuilt the root `INDEX.md` using standard markdown lists inside card divs (with blank lines to trigger the Obsidian markdown parser) to fix link parsing issues while keeping CSS styles.
 - **Premium Practice Hub**: Overwrote `practice/INDEX.md` with a beautiful grid dashboard that features:
   - Live meditation stats computed via Dataview.
-  - Active recitation lists linked to root texts and commentaries.
-  - Portable relative and absolute local links for Bhikkhu and Bhikkhunī Pātimokkha chanting recitations.
+  - Active recitation lists using standard markdown lists to ensure Obsidian link parsing.
+  - Portable relative and absolute local links for Bhikkhu and Bhikkhunī Pātimokkha chanting recitations using HTML `<a>` tags with `class="internal-link"` for correct internal navigation.
   - Navigation links to templates and logs.
   - A Dataview table for recent sits.
 - **Chanting & SRS Review System**: Enhanced `practice/memorization_log.md` with:
