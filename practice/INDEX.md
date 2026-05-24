@@ -38,14 +38,14 @@ GROUP BY meditation_type
       <span class="db-badge jhana">Memorization</span>
       <h3>📖 Active Recitation Log</h3>
       <p>Key Pali verses selected for memorization and daily chanting practice.</p>
-
-- [[../mula/sutta/anguttara_nikaya/an11_15|AN 11.15 / Snp 1.8: Karaṇīyamettāsutta]] <span class="db-badge jhana">Reviewing</span>
-- [[../mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga|Dhammapada: Dhp 1 (Manopubbaṅgamā)]] <span class="db-badge jhana">Reviewing</span>
-- [[../mula/sutta/khuddaka_nikaya/dhammapada/dhp_14_buddhavagga|Dhammapada: Dhp 183 (Sabbapāpassa)]] <span class="db-badge jhana">Reviewing</span>
-- [[../matika/three_refuges|Tisarana (Refuges)]] <span class="db-badge jhana">Reviewing</span>
-- [[../mula/sutta/majjhima_nikaya/mn19|MN 19: Dvedhāvitakkasutta Verse]] <span class="db-badge jhana">Reviewing</span>
-
-      <p style="margin-top: 15px; font-size: 0.9em;">👉 Go to full [[memorization_log|Verse Memorization Log]]</p>
+      <ul class="db-link-list">
+        <li><a class="internal-link" href="../mula/sutta/anguttara_nikaya/an11_15.md">AN 11.15 / Snp 1.8: Karaṇīyamettāsutta</a> <span class="db-badge jhana">Reviewing</span></li>
+        <li><a class="internal-link" href="../mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga.md">Dhammapada: Dhp 1 (Manopubbaṅgamā)</a> <span class="db-badge jhana">Reviewing</span></li>
+        <li><a class="internal-link" href="../mula/sutta/khuddaka_nikaya/dhammapada/dhp_14_buddhavagga.md">Dhammapada: Dhp 183 (Sabbapāpassa)</a> <span class="db-badge jhana">Reviewing</span></li>
+        <li><a class="internal-link" href="../matika/three_refuges.md">Tisarana (Refuges)</a> <span class="db-badge jhana">Reviewing</span></li>
+        <li><a class="internal-link" href="../mula/sutta/majjhima_nikaya/mn19.md">MN 19: Dvedhāvitakkasutta Verse</a> <span class="db-badge jhana">Reviewing</span></li>
+      </ul>
+      <p style="margin-top: 15px; font-size: 0.9em;">👉 Go to full <a class="internal-link" href="memorization_log.md">Verse Memorization Log</a></p>
     </div>
   </div>
 
@@ -65,7 +65,7 @@ GROUP BY meditation_type
         <span><a class="internal-link" href="audio/bhikkhuni_patimokkha.mp3">Play (Relative)</a> | <a href="file:///Users/rds/pali_canon/practice/audio/bhikkhuni_patimokkha.mp3">Play (Absolute)</a></span>
       </div>
 
-      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to [[../CHANTING|Audio Chanting Integration Guide]] for setup instructions, or [Open audio/ Folder in Finder](file:///Users/rds/pali_canon/practice/audio/).</p>
+      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions, or [Open audio/ Folder in Finder](file:///Users/rds/pali_canon/practice/audio/).</p>
     </div>
   </div>
 
@@ -74,10 +74,10 @@ GROUP BY meditation_type
       <span class="db-badge matika">Logs & Templates</span>
       <h3>📝 Practice Logs & Navigation</h3>
       <p>Log a session or create customized practice notes.</p>
-
-- [[../templates/practice_note|Meditation Session Template]]
-- [[../INDEX|Return to Root Vault Index]]
-
+      <ul class="db-link-list">
+        <li><a class="internal-link" href="../templates/practice_note.md">Meditation Session Template</a></li>
+        <li><a class="internal-link" href="../INDEX.md">Return to Root Vault Index</a></li>
+      </ul>
       <p style="margin-top: 15px; font-size: 0.85em; opacity: 0.8;">
         <strong>How to log a sit:</strong><br>
         1. Create a new note using the session template.<br>

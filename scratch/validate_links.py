@@ -72,6 +72,7 @@ def validate_vault(target_files=None):
     # Wikilink pattern: [[target]] or [[target|label]]
     # target may contain an anchor: e.g. target#anchor
     wikilink_pattern = re.compile(r'\[\[([^\]]+)\]\]')
+    html_link_pattern = re.compile(r'<a\s+[^>]*href="([^":\s]+\.md(?:#[^"]+)?)"[^>]*>')
     
     errors = []
     total_links_checked = 0
@@ -80,6 +81,7 @@ def validate_vault(target_files=None):
         rel_src = os.path.relpath(filepath, VAULT_DIR)
         with open(filepath, "r", encoding="utf-8") as f:
             for line_num, line in enumerate(f, 1):
+                # Check Wikilinks
                 for match in wikilink_pattern.finditer(line):
                     total_links_checked += 1
                     raw_link = match.group(1).strip()
@@ -104,10 +106,9 @@ def validate_vault(target_files=None):
                     if not target_path:
                         target_file = filepath
                     else:
-                        # Clean backslash escapes in target (e.g. [[dn2\|DN 2]] is common due to markdown table cell escaping)
+                        # Clean backslash escapes in target
                         target_path = target_path.replace('\\', '')
                         
-                        # Resolve target_path
                         target_file = None
                         
                         # 1. Direct path check from vault root
@@ -141,19 +142,90 @@ def validate_vault(target_files=None):
                             "error": f"Target file '{target_path}' not found"
                         })
                     elif anchor:
-                        # Validate anchor exists in target_file
                         headers = file_headers.get(target_file)
                         if headers is None:
                             headers = parse_headers_and_anchors(target_file)
                             file_headers[target_file] = headers
-                        # Exact check
                         if anchor not in headers:
-                            # Try to normalize anchor as well
                             norm_anchor = re.sub(r'[^\w\s§\-.]', '', anchor).strip()
-                            # Check normalized or check if any header contains the anchor
                             matched_anchor = False
                             for h in headers:
-                                # Standard slugify: lowercase, replace spaces with hyphen
+                                slug_h = h.lower().replace(' ', '-')
+                                slug_anchor = anchor.lower().replace(' ', '-')
+                                if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
+                                    matched_anchor = True
+                                    break
+                            if not matched_anchor:
+                                errors.append({
+                                    "file": rel_src,
+                                    "line": line_num,
+                                    "link": raw_link,
+                                    "error": f"Anchor '#{anchor}' not found in target '{os.path.relpath(target_file, VAULT_DIR)}'"
+                                })
+
+                # Check HTML internal links
+                for match in html_link_pattern.finditer(line):
+                    total_links_checked += 1
+                    raw_link = match.group(1).strip()
+                    
+                    # Split anchor if present
+                    if '#' in raw_link:
+                        target_path, anchor = raw_link.split('#', 1)
+                        target_path = target_path.strip()
+                        anchor = anchor.strip()
+                    else:
+                        target_path = raw_link
+                        anchor = None
+                    
+                    # Strip .md extension
+                    if target_path.endswith(".md"):
+                        target_path = target_path[:-3]
+                        
+                    # Handle self-references (e.g., href="#anchor")
+                    if not target_path:
+                        target_file = filepath
+                    else:
+                        target_file = None
+                        
+                        # 1. Direct path check from vault root
+                        if target_path in path_map:
+                            target_file = path_map[target_path]
+                        # 2. Short filename check
+                        elif target_path in file_map:
+                            resolved = file_map[target_path]
+                            if isinstance(resolved, list):
+                                errors.append({
+                                    "file": rel_src,
+                                    "line": line_num,
+                                    "link": raw_link,
+                                    "error": f"Ambiguous HTML link '{target_path}' matches multiple files"
+                                })
+                                continue
+                            else:
+                                target_file = resolved
+                        # 3. Relative path check from current file directory
+                        else:
+                            curr_dir = os.path.dirname(filepath)
+                            rel_candidate = os.path.normpath(os.path.join(curr_dir, target_path + ".md"))
+                            if os.path.exists(rel_candidate):
+                                target_file = rel_candidate
+                                
+                    if not target_file:
+                        errors.append({
+                            "file": rel_src,
+                            "line": line_num,
+                            "link": raw_link,
+                            "error": f"Target HTML file '{target_path}.md' not found"
+                        })
+                    elif anchor:
+                        headers = file_headers.get(target_file)
+                        if headers is None:
+                            headers = parse_headers_and_anchors(target_file)
+                            file_headers[target_file] = headers
+                        if anchor not in headers:
+                            norm_anchor = re.sub(r'[^\w\s§\-.]', '', anchor).strip()
+                            matched_anchor = False
+                            for h in headers:
                                 slug_h = h.lower().replace(' ', '-')
                                 slug_anchor = anchor.lower().replace(' ', '-')
                                 if h == anchor or norm_anchor == h or slug_h == slug_anchor or anchor in h:
