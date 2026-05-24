@@ -149,52 +149,28 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ## Pending Work
 
-### SN — Remaining High-Value Saṃyuttas
-- [x] **SN 48 (Indriyasaṃyutta)** — CSCD: `s0305a.att3.xml` / `s0305t.tik3.xml` — completed
-- [ ] SN 51 (Iddhipādasaṃyutta) — CSCD: `s0305a.att6.xml` / `s0305t.tik6.xml` — lower priority
+### Phase 18 — Interactive Dashboards & Practice Hubs
+- [ ] **Interactive Home Dashboard** — Rebuild root `INDEX.md` and `practice/INDEX.md` using curated styling (glassmorphism/gradients) and Dataview cards for reading paths.
+- [ ] **Chanting Review & Memorization System** — Connect Spaced Repetition cards to review workflows and integrate chanting audio tracking into the memorization log.
 
-### Khuddaka Nikāya — Beyond Dhammapada
-- [x] **Sutta Nipāta** — Remaining chapters (Chapters 2-5 complete: 61 suttas with mūla + att)
-      - [x] Chapter 2 Cūḷavagga (14 suttas: snp2.1–snp2.14) — includes Ratana, Maṅgala (paritta)
-      - [x] Chapter 3 Mahāvagga (12 suttas: snp3.1–snp3.12) — Pabbajjā, Sela, Dvayatānupassanā
-      - [x] Chapter 4 Aṭṭhakavagga (16 suttas: snp4.1–snp4.16) — oldest stratum, non-clinging
-      - [x] Chapter 5 Pārāyanavagga (16+ suttas: snp5.1–snp5.19) — 16 questions + intro/epilogues
-- [x] Itivuttaka — SuttaCentral IDs: `iti1`–`iti112` (112 suttas complete in mūla + att)
-- [x] Thera/Therīgāthā — 203 Theragāthā poems + 73 Therīgāthā poems complete in mūla
+### Phase 19 — Paragraph-Level Cross-Linking Expansion
+- [ ] **Atthakathā/Ṭīkā Re-generation** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated.
+- [ ] **Mūla Callout Alignment** — Run the Heuristic Auto-Aligner on all previously migrated suttas (MN 36, DN 22, SN 12, 22, 35, 46, 54, 56) to insert collapsible commentary callouts at the paragraph level.
 
-### Dīgha Nikāya — Expansion
-- [x] DN 16 (Mahāparinibbāna) — 35,942w / att / tik; §-anchors done (2026-05-22)
-- [x] DN 21 (Sakkapañha) — 8,213w / att / tik; §-anchors done (2026-05-22)
-- [x] DN 1 (Brahmajāla) — 18,401w / att / tik; §-anchors done (2026-05-22)
+### Phase 20 — Text & Doctrinal Expansion
+- [ ] **Sutta Piṭaka (Primary)**
+    - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
+    - [ ] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
+- [ ] **Abhidhamma Piṭaka (Secondary)**
+    - [ ] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual).
+    - [ ] Add Abhidhamma-style mātikā cross-links for the five aggregates.
+- [ ] **Vinaya Piṭaka (Tertiary)**
+    - [ ] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules).
+    - [ ] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
 
-### Aṅguttara Nikāya — Expansion
-- [x] AN 1 (Ekakanipāta) — batch migration complete (31 batched files)
-- [x] AN 7, 8, 11 initial coverage (AN 7.65, 8.53, 11.1–5)
-- [ ] Remaining high-value suttas in AN (as needed for practice)
-- [ ] Consult `scratch/generate_an_mula.py` for the established pattern
+### General Backlog & Infrastructure
+- [ ] **Chanting Audio Links Bug** (Priority) — Fix absolute/relative links inside `CHANTING.md` and Pātimokkha files.
+- [ ] **VRI XML parser script** — Create custom parser for batch commentary extraction if needed.
+- [ ] **Link validator maintenance** — Keep link validator optimized and performant as vault scales.
 
-### Vinaya Piṭaka
-- [x] Bhikkhu Pātimokkha (227 rules) — structure, key rules, and cross-links to `matika/five_precepts.md` established
-- [x] Bhikkhunī Pātimokkha (311 rules) — migrated structure and rules to `patimokkha_bhikkhuni.md`
-- [ ] Kaṅkhāvitaraṇī (Pātimokkha commentary)
-- [ ] Vinaya INDEX files for Suttavibhaṅga, Khandhaka, Parivāra
-
-### Abhidhamma Piṭaka
-- [ ] Abhidhammatthasaṅgaha mūla (Bhikkhu Bodhi's "Comprehensive Manual")
-- [ ] Dhammasaṅgaṇī, Vibhaṅga (mātikā cross-links for five aggregates)
-
-### Mātikā — New Lists to Add
-- [x] Ten fetters (dasa saṃyojanā) — connects to SN 55 / stream-entry material
-- [x] Seven purifications (satta visuddhi) — connects to MN 24 (Rathavinīta) if migrated
-- [x] Five powers (pañcabala) — parallel to five_spiritual_faculties
-
-### Cross-linking — Paragraph Level
-- [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for 20+ suttas — generic crosslinker at `scratch/crosslinkers/crosslink_generic.py`
-      Currently done: MN 10, MN 22, MN 118, DN 9, DN 15, SN 45, SN 47 only
-      Candidates: MN 36, DN 22, SN 46, all other SN saṃyuttas
-
-### Infrastructure
-- [x] Dataview query blocks in nikaya INDEX files for live sutta lists
-- [ ] VRI XML parser script for batch commentary extraction
-- [ ] Link validator maintenance as vault grows
 
