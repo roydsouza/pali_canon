@@ -1,4 +1,4 @@
-# Pali Canon Vault Index
+&# Pali Canon Vault Index
 
 <div class="db-header">
   <h1>Obsidian Pali Canon Vault</h1>
@@ -61,9 +61,18 @@
         <li><a class="internal-link" href="paritta/INDEX.md">🛡️ Protective Chants (Paritta)</a></li>
       </ul>
     </div>
-  </div>
-
 </div>
+
+---
+
+## 🧘 Meditation Techniques
+
+Explore the core meditation techniques documented in the suttas:
+*   [[practice/jhana|Jhāna (Absorption)]] — Cultivating deep mental stillness and absorption.
+*   [[practice/vipassana|Vipassanā (Insight)]] — Direct observation of impermanence, suffering, and non-self.
+*   [[practice/metta|Mettā (Loving-Kindness)]] — Radiating universal goodwill and friendliness to all beings.
+*   [[practice/anapanasati|Ānāpānasati (Mindfulness of Breathing)]] — Developing concentration and calm through breath awareness.
+*   [[practice/maranasati|Maraṇasati (Mindfulness of Death)]] — Cultivating urgency and non-attachment through awareness of mortality.
 
 ---
 

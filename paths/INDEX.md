@@ -37,10 +37,10 @@ Welcome to the practice-oriented reading paths of the Pali Canon Vault. These pa
 *   **Core Texts**: [[an8_54|AN 8.54]], [[an4_99|AN 4.99]], [[mn51|MN 51]], [[mn27|MN 27]], [[dn2|DN 2]].
 *   **Path**: [[paths/gradual_training|Gradual Training Path]]
 
-### 6. [[maranasati|Maraṇasati (Death Contemplation)]]
+### 6. [[paths/maranasati|Maraṇasati (Death Contemplation)]]
 *Mindfulness of death to overcome attachment, arouse spiritual urgency, and prepare for departure.*
 *   **Core Texts**: [[an6_19|AN 6.19]], [[an6_20|AN 6.20]], [[an8_73|AN 8.73]], [[sn47|SN 47.13]].
-*   **Path**: [[maranasati|Maraṇasati Path]]
+*   **Path**: [[paths/maranasati|Maraṇasati Path]]
 
 ### 7. [[paritta/INDEX|Paritta (Protective Chanting)]]
 *Recitation order and collection of protective suttas used in the Theravāda tradition.*

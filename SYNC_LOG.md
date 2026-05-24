@@ -1,5 +1,25 @@
 # Sync Log
 
+## [2026-05-24 — Meditation Techniques Section in INDEX.md (Antigravity)]
+
+### Session Accomplishments
+
+**Meditation Techniques Section**
+- **INDEX.md Integration**: Added a new "Meditation Techniques" section to `INDEX.md` directly under the card grid (Daily Practice & Support section), linking to core meditation techniques in the suttas.
+- **Technique Files Creation**: Created 5 detailed technique notes in the `practice/` directory:
+  * `practice/jhana.md` (Jhāna / Meditative Absorption)
+  * `practice/vipassana.md` (Vipassanā / Insight Meditation)
+  * `practice/metta.md` (Mettā / Loving-Kindness Meditation)
+  * `practice/anapanasati.md` (Ānāpānasati / Mindfulness of Breathing)
+  * `practice/maranasati.md` (Maraṇasati / Mindfulness of Death)
+  * Each file includes a description (one page or less), back pointer to `INDEX.md` at the top, and a curated list of relevant suttas referencing the technique at the bottom.
+- **Explicit Paths Resolution**: Resolved a link ambiguity on the `maranasati` base name by explicitly directing path index references to `paths/maranasati.md` and practice techniques to `practice/maranasati.md`.
+
+**Verification and Link Integrity**
+- **Link Validator**: Verified link health. Checked **1,162 markdown files** and **14,053 wikilinks**, confirming **0 broken links** in the entire vault.
+
+---
+
 ## [2026-05-24 — Phase 20.2: Vault-wide Mātika Factors Expansion Complete (Antigravity)]
 
 ### Session Accomplishments
