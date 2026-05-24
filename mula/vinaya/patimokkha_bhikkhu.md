@@ -10,6 +10,10 @@ layer: mula
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/vinaya/INDEX|Vinaya Piṭaka]]
 **Related Precepts**: [[matika/five_precepts|Five Precepts (Pañcasīla)]] | [[matika/eight_precepts|Eight Precepts (Aṭṭhaṅgasīla)]]
 
+## 🎧 Chanting Recitation
+![Bhikkhu Pātimokkha Chanting Recitation](file:///Users/rds/pali_canon/practice/audio/bhikkhu_patimokkha.mp3)
+*(Monastic chanting audio file placeholder. To use, place the audio file `bhikkhu_patimokkha.mp3` in the `practice/audio/` folder)*
+
 The Bhikkhu Pātimokkha is the core code of monastic discipline containing 227 rules. These rules are divided into eight sections based on the severity of the offense and the corresponding disciplinary action.
 
 ---

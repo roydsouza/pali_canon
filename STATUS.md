@@ -195,3 +195,4 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
     *   *Status*: **Initiated (Phase 12)**.
 *   **Migrated Rules**:
     *   [[patimokkha_bhikkhu|Bhikkhu Pātimokkha (227 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).
+    *   [[patimokkha_bhikkhuni|Bhikkhunī Pātimokkha (311 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).

@@ -19,11 +19,25 @@ def clean_xml(text):
     return re.sub(r'\s+', ' ', text).strip()
 
 def fetch_bytes(filename, base_url="https://tipitaka.org/romn/cscd/{}"):
-    """Fetches raw bytes from tipitaka.org for a given CSCD file name."""
+    """Fetches raw bytes, checking the local scratch/xml_cache folder first before downloading."""
+    vault = get_vault_path()
+    cache_dir = os.path.join(vault, "scratch", "xml_cache")
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_path = os.path.join(cache_dir, filename)
+    
+    if os.path.exists(cache_path):
+        return open(cache_path, "rb").read()
+        
     url = base_url.format(filename) if "{}" in base_url else f"{base_url.rstrip('/')}/{filename}"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read()
+        data = r.read()
+        
+    # Cache the file
+    with open(cache_path, "wb") as f:
+        f.write(data)
+        
+    return data
 
 def load_cscd_paras(filename, base_url="https://tipitaka.org/romn/cscd/{}"):
     """Downloads a CSCD XML file, decodes it robustly, and parses it into (rend, paranum, clean_text) paragraphs."""

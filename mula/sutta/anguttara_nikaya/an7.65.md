@@ -1,0 +1,90 @@
+---
+id: AN7.65
+title_pali: 7. Mahāvagga
+title_en: 7. The Great Chapter
+type: mula
+pitaka: sutta
+nikaya: anguttara
+sutta_number: an7.65
+translator: Bhikkhu Sujato
+source: https://suttacentral.net
+---
+
+# Aṅguttara Nikāya: 7. Mahāvagga
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/anguttara_nikaya/INDEX|Aṅguttara Nikāya]]
+**Related Texts**: [[an7.65_att|Commentary (Atthakathā)]] | [[an7.65_tik|Sub-commentary (Tīkā)]]
+
+## 7. Mahāvagga (7. The Great Chapter)
+
+**“Hirottappe, bhikkhave, asati hirottappavipannassa hatūpaniso hoti indriyasaṁvaro;**  
+*“Mendicants, when there is no conscience and prudence, one who lacks conscience and prudence has destroyed a vital condition for sense restraint.*
+
+**indriyasaṁvare asati indriyasaṁvaravipannassa hatūpanisaṁ hoti sīlaṁ;**  
+*When there is no sense restraint, one who lacks sense restraint has destroyed a vital condition for ethical conduct.*
+
+**sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi;**  
+*When there is no ethical conduct, one who lacks ethics has destroyed a vital condition for right immersion.*
+
+**sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ;**  
+*When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision.*
+
+**yathābhūtañāṇadassane asati yathābhūtañāṇadassanavipannassa hatūpaniso hoti nibbidāvirāgo;**  
+*When there is no true knowledge and vision, one who lacks true knowledge and vision has destroyed a vital condition for disillusionment and dispassion.*
+
+**nibbidāvirāge asati nibbidāvirāgavipannassa hatūpanisaṁ hoti vimuttiñāṇadassanaṁ.**  
+*When there is no disillusionment and dispassion, one who lacks disillusionment and dispassion has destroyed a vital condition for knowledge and vision of freedom.*
+
+**Seyyathāpi, bhikkhave, rukkho sākhāpalāsavipanno.**  
+*Suppose there was a tree that lacked branches and foliage.*
+
+**Tassa papaṭikāpi na pāripūriṁ gacchati, tacopi pheggupi sāropi na pāripūriṁ gacchati.**  
+*Its shoots, bark, softwood, and heartwood would not grow to fullness.*
+
+**Evamevaṁ kho, bhikkhave, hirottappe asati hirottappavipannassa hatūpaniso hoti indriyasaṁvaro;**  
+*In the same way, when there is no conscience and prudence, a person who lacks conscience and prudence has destroyed a vital condition for sense restraint.*
+
+**indriyasaṁvare asati indriyasaṁvaravipannassa hatūpanisaṁ hoti sīlaṁ;**  
+*When there is no sense restraint, one who lacks sense restraint has destroyed a vital condition for ethical conduct.*
+
+**sīle asati sīlavipannassa hatūpaniso hoti sammāsamādhi;**  
+*When there is no ethical conduct, one who lacks ethics has destroyed a vital condition for right immersion.*
+
+**sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṁ hoti yathābhūtañāṇadassanaṁ;**  
+*When there is no right immersion, one who lacks right immersion has destroyed a vital condition for true knowledge and vision.*
+
+**yathābhūtañāṇadassane asati yathābhūtañāṇadassanavipannassa hatūpaniso hoti nibbidāvirāgo;**  
+*When there is no true knowledge and vision, one who lacks true knowledge and vision has destroyed a vital condition for disillusionment and dispassion.*
+
+**nibbidāvirāge asati nibbidāvirāgavipannassa hatūpanisaṁ hoti vimuttiñāṇadassanaṁ.**  
+*When there is no disillusionment and dispassion, one who lacks disillusionment and dispassion has destroyed a vital condition for knowledge and vision of freedom.*
+
+**Hirottappe, bhikkhave, sati hirottappasampannassa upanisasampanno hoti indriyasaṁvaro;**  
+*When there is conscience and prudence, a person who has fulfilled conscience and prudence has fulfilled a vital condition for sense restraint.*
+
+**indriyasaṁvare sati indriyasaṁvarasampannassa upanisasampannaṁ hoti sīlaṁ;**  
+*When there is sense restraint, one who has fulfilled sense restraint has fulfilled a vital condition for ethical conduct.*
+
+**sīle sati sīlasampannassa upanisasampanno hoti sammāsamādhi;**  
+*When there is ethical conduct, one who has fulfilled ethical conduct has fulfilled a vital condition for right immersion.*
+
+**sammāsamādhimhi sati sammāsamādhisampannassa upanisasampannaṁ hoti yathābhūtañāṇadassanaṁ;**  
+*When there is right immersion, one who has fulfilled right immersion has fulfilled a vital condition for true knowledge and vision.*
+
+**yathābhūtañāṇadassane sati yathābhūtañāṇadassanasampannassa upanisasampanno hoti nibbidāvirāgo;**  
+*When there is true knowledge and vision, one who has fulfilled true knowledge and vision has fulfilled a vital condition for disillusionment and dispassion.*
+
+**nibbidāvirāge sati nibbidāvirāgasampannassa upanisasampannaṁ hoti vimuttiñāṇadassanaṁ.**  
+*When there is disillusionment and dispassion, one who has fulfilled disillusionment and dispassion has fulfilled a vital condition for knowledge and vision of freedom.*
+
+**Seyyathāpi, bhikkhave, rukkho sākhāpalāsasampanno. Tassa papaṭikāpi pāripūriṁ gacchati, tacopi pheggupi sāropi pāripūriṁ gacchati.**  
+*Suppose there was a tree that was complete with branches and foliage. Its shoots, bark, softwood, and heartwood would grow to fullness.*
+
+**Evamevaṁ kho, bhikkhave, hirottappe sati hirottappasampannassa upanisasampanno hoti …pe…**  
+*In the same way, when there is conscience and prudence, one who has fulfilled conscience and prudence has fulfilled a vital condition for sense restraint. …*
+
+**vimuttiñāṇadassanan”ti.**  
+*One who has fulfilled disillusionment and dispassion has fulfilled a vital condition for knowledge and vision of freedom.”*
+
+**Paṭhamaṁ.**  
+

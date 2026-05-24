@@ -21,6 +21,15 @@ type: matika
 5. **Surāmerayamajjapamādaṭṭhānā veramaṇī**  
    *Abstaining from fermented and distilled liquors and intoxicants that cause heedlessness*
 
+## Spaced Repetition Review (Flashcards)
+<!-- card-deck: Matika/FivePrecepts -->
+
+Pāṇātipātā veramaṇī :: Abstaining from taking life (killing)
+Adinnādānā veramaṇī :: Abstaining from taking what is not given (stealing)
+Kāmesumicchācārā veramaṇī :: Abstaining from sexual misconduct
+Musāvādā veramaṇī :: Abstaining from false speech (lying)
+Surāmerayamajjapamādaṭṭhānā veramaṇī :: Abstaining from fermented and distilled liquors and intoxicants that cause heedlessness
+
 ## Related Lists
 * Related: [[noble_eightfold_path|Noble Eightfold Path]] (corresponds to the factors of Right Action / Kammanta and Right Speech / Vācā)
 

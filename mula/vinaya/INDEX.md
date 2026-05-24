@@ -32,3 +32,4 @@ The Vinaya Piṭaka ("Discipline Basket") contains the rules and regulations for
 ## Migrated Texts
 
 * [[patimokkha_bhikkhu|Bhikkhu Pātimokkha]] (227 rules)
+* [[patimokkha_bhikkhuni|Bhikkhunī Pātimokkha]] (311 rules)

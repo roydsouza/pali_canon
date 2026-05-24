@@ -8,7 +8,7 @@ The vault is divided into four primary segments. Click on each section below to 
 
 *   **[[mula/INDEX|Mūla (Canonical Texts)]]**
     *   *Description*: The original discourses, rules, and scholastic treatises of the Tipiṭaka.
-    *   Status: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya initiated (Bhikkhu Pātimokkha). Abhidhamma scaffolded.
+    *   Status: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya initiated (Bhikkhu & Bhikkhunī Pātimokkha). Abhidhamma scaffolded.
 * **[[atthakatha/INDEX|Atthakathā (Commentaries)]]**
     *   Description: Traditional explanations and clarifications of the canonical root texts.
     *   Status: **Active**. Commentary for all migrated suttas + Dhammapada-aṭṭhakathā (26 chapters, 294 stories, ~498K words).
