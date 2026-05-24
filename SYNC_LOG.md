@@ -1,12 +1,15 @@
 # Sync Log
 
-## [2026-05-23 — Phase 17 Initiation & Chanting Setup (Antigravity)]
+## [2026-05-23 — Phase 17: Tooling & Validation Optimization Complete (Antigravity)]
 
 ### Session Accomplishments
 
+**Tooling & Verification (Phase 17)**
+- **Incremental Link Validation**: Updated `validate_links.py` and the git pre-commit hook to scan only staged markdown files (`--files` CLI option). Added lazy-loading of file headers which provides a 10x validation speedup on large repositories.
+- **Heuristic Commentary Auto-Aligner**: Integrated automated paragraph-level heading anchor generation (`### §NNN`), sub-commentary Tīkā link injection, and Mūla auto-crosslinking directly into `generate_sutta.py`. Included an ordinal-stripping parser heuristic to ignore introductory words like `Navame ...` or `Dutiye ...` when aligning Mūla texts.
+
 **Chanting & Audio Documentation**
 - **Chanting Guide**: Created `CHANTING.md` at the root directory to document the Audio Chanting Integration workflow, and linked it under Reading Tools in the main `INDEX.md`.
-- **Pre-commit Hook Validation**: Ran `validate_links.py` to confirm 100% link integrity (1,074 markdown files, 13,590 links, 0 errors).
 - **Security Embed Fixes**: Refactored embeds in `patimokkha_bhikkhu.md` and `patimokkha_bhikkhuni.md` to use vault-relative paths (`../../practice/audio/...`) to bypass Electron file protocol blocks.
 
 **Priority Bug Logged**

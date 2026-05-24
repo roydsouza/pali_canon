@@ -141,6 +141,10 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Practice Audio & Flashcards** — Embedded audio files and Spaced Repetition cards in five precepts and Bhikkhu Pātimokkha
 - [x] **Vinaya Expansion** — Migrated Bhikkhunī Pātimokkha rules (311 rules) to `patimokkha_bhikkhuni.md`
 
+### Phase 17 — Tooling & Validation Optimization (completed, 2026-05-24)
+- [x] **Incremental Link Validation** — Updated pre-commit hook and link validator to scan only staged files.
+- [x] **Heuristic Commentary Auto-Aligner** — Added automatic paragraph anchor injection and Mūla auto-crosslinking to `generate_sutta.py`.
+
 ---
 
 ## Pending Work
