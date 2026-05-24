@@ -5,7 +5,7 @@ Phase 2 tīkā: MN 36, 43, 44, 52, 111 and DN 22 — all from tipitaka.org.
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 # (sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title, nikaya_label,

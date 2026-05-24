@@ -7,7 +7,7 @@ SN 56 is the 12th saṃyutta of the Mahāvagga (s0305). File: s0305t.tik11.xml.
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTAS = [

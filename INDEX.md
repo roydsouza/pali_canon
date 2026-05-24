@@ -8,19 +8,19 @@ The vault is divided into four primary segments. Click on each section below to 
 
 *   **[[mula/INDEX|Mūla (Canonical Texts)]]**
     *   *Description*: The original discourses, rules, and scholastic treatises of the Tipiṭaka.
-    *   *Status*: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya and Abhidhamma scaffolded.
-*   **[[atthakatha/INDEX|Atthakathā (Commentaries)]]**
-    *   *Description*: Traditional explanations and clarifications of the canonical root texts.
-    *   *Status*: **Active**. Commentary for all migrated suttas + Dhammapada-aṭṭhakathā (26 chapters, 294 stories, ~498K words).
-*   **[[tika/INDEX|Tīkā (Sub-commentaries)]]**
-    *   *Description*: Sub-commentaries explaining the commentary texts.
-    *   *Status*: **Active**. Sub-commentary for all migrated suttas (Dhammapada ṭīkā pending).
-*   **[[matika/INDEX|Mātika (Buddhist Lists)]]**
-    *   *Description*: Systematically cataloged registers of Buddhist lists with Romanized Pali and item-by-item translations.
-    *   *Status*: **Active**. 22 lists migrated and cross-linked to canonical sources.
-*   **[[practice/INDEX|Practice Dashboard (Meditation & Study)]]**
-    *   *Description*: Tools for active practice, meditation logs, templates, and verse memorization logs.
-    *   *Status*: **Active**. Templates, memorization log, and practice note dashboard integrated.
+    *   Status: **Active**. Sutta Piṭaka: MN (22), DN (8), SN (11 saṃyuttas / 225 suttas), AN (35 suttas/groups / 662 suttas), KN (6 collections / Dhammapada 423 verses). Vinaya initiated (Bhikkhu Pātimokkha). Abhidhamma scaffolded.
+* **[[atthakatha/INDEX|Atthakathā (Commentaries)]]**
+    *   Description: Traditional explanations and clarifications of the canonical root texts.
+    *   Status: **Active**. Commentary for all migrated suttas + Dhammapada-aṭṭhakathā (26 chapters, 294 stories, ~498K words).
+* **[[tika/INDEX|Tīkā (Sub-commentaries)]]**
+    *   Description: Sub-commentaries explaining the commentary texts.
+    *   Status: **Active**. Sub-commentary for all migrated suttas (Dhammapada ṭīkā pending).
+* **[[matika/INDEX|Mātika (Buddhist Lists)]]**
+    *   Description: Systematically cataloged registers of Buddhist lists with Romanized Pali and item-by-item translations.
+    *   Status: **Active**. 22 lists migrated and cross-linked to canonical sources.
+* **[[practice/INDEX|Practice Dashboard (Meditation & Study)]]**
+    *   Description: Tools for active practice, meditation logs, templates, and verse memorization logs.
+    *   Status: **Active**. Templates, memorization log, and practice note dashboard integrated.
 
 ---
 
@@ -29,8 +29,8 @@ The vault is divided into four primary segments. Click on each section below to 
 *   **Nikāyas Active**: Majjhima (22 suttas), Dīgha (8 suttas), Saṃyutta (11 saṃyuttas / 225 selected suttas), Aṅguttara (35 suttas/groups / 662 suttas), Khuddaka (6 collections / Dhammapada 423 verses)
 *   **Total Individual Suttas/Poems**: 1,458 (Mūla) / 1,172 (Atthakathā) / 306 (Ṭīkā) where available
 *   **Estimated Total Word Count**: ~900K+ across all layers
-*   **Active Piṭakas**: Sutta Piṭaka (Vinaya and Abhidhamma scaffolded)
-*   **Last Updated**: 2026-05-23
+*   **Active Piṭakas**: Sutta Piṭaka, Vinaya Piṭaka (Abhidhamma scaffolded)
+*   **Last Updated**: 2026-05-24
 *   **Excluded Directories**:
     *   `scratch/`: Contains internal XML and JSON raw assets, download scripts, and utility modules. (Not indexed).
 

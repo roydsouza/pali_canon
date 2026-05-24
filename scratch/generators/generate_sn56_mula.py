@@ -7,7 +7,7 @@ siṃsapā leaves, simile suttas, and the blind-turtle/chiggaḷa group.
 
 import os, json, re, time, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 
 SAMYUTTAS = [

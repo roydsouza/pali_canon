@@ -151,7 +151,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] Consult `scratch/generate_an_mula.py` for the established pattern
 
 ### Vinaya Piṭaka
-- [ ] Bhikkhu Pātimokkha (227 rules) — Thanissaro translation; cross-link to `matika/five_precepts.md`
+- [x] Bhikkhu Pātimokkha (227 rules) — structure, key rules, and cross-links to `matika/five_precepts.md` established
 - [ ] Bhikkhunī Pātimokkha (311 rules)
 - [ ] Kaṅkhāvitaraṇī (Pātimokkha commentary)
 - [ ] Vinaya INDEX files for Suttavibhaṅga, Khandhaka, Parivāra
@@ -166,9 +166,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] Five powers (pañcabala) — parallel to five_spiritual_faculties
 
 ### Cross-linking — Paragraph Level
-- [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for 20+ suttas — pattern in `scratch/crosslink_mn118.py`
-      Currently done: MN 118, DN 9, DN 15, SN 45, SN 47 only
-      Candidates: MN 10, MN 36, DN 22, SN 46, all other SN saṃyuttas
+- [ ] §-anchor cross-links (mūla ↔ att ↔ ṭīkā) for 20+ suttas — generic crosslinker at `scratch/crosslinkers/crosslink_generic.py`
+      Currently done: MN 10, MN 22, MN 118, DN 9, DN 15, SN 45, SN 47 only
+      Candidates: MN 36, DN 22, SN 46, all other SN saṃyuttas
 
 ### Infrastructure
 - [x] Dataview query blocks in nikaya INDEX files for live sutta lists

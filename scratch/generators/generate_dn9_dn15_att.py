@@ -14,7 +14,7 @@ CSCD file mapping:
 
 import os, json, re, time, html as hmod, urllib.request
 
-VAULT      = "/Users/rds/pali_canon"
+VAULT      = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 GITHUB     = "https://raw.githubusercontent.com/siongui/tipitaka-romn/master/cscd/{}"
 TIPITAKA   = "https://tipitaka.org/romn/cscd/{}"
 SC_COMMENT = "https://suttacentral.net/api/bilarasuttas/{}/comment"

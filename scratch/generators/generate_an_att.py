@@ -13,7 +13,7 @@ the specific sutta(s) when the vagga contains unrelated suttas):
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 NIKAYA_DIR   = "anguttara_nikaya"

@@ -2,7 +2,7 @@
 import os
 import re
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 
 def parse_numbers(s):
     # Extracts numbers from strings like "2-5", "235-247", "80", "§80"
@@ -87,13 +87,13 @@ def process_file(path, all_headings):
             
         # Try to find best match
         best_h = find_best_heading_match(target_heads, anchor)
+        modified = True
         if best_h:
-            modified = True
             return f"> {callout_type}\n> [[{target_file}#{best_h}|{label}]]"
         else:
-            # Anchor doesn't exist and no match, remove callout block
-            modified = True
-            return ""
+            # Anchor doesn't exist and no match, link to file root rather than deleting
+            print(f"Warning: Could not resolve anchor '{anchor}' in '{target_file}' for file '{os.path.basename(path)}'. Linking to file root.")
+            return f"> {callout_type}\n> [[{target_file}|{label}]]"
             
     # Pattern for callouts:
     # > [!abstract]- Tīkā §3-5
@@ -139,6 +139,7 @@ def find_target_path(filename):
         return file_path_cache[filename]
         
     for root, dirs, files in os.walk(VAULT):
+        dirs[:] = [d for d in dirs if d not in {'.git', '.obsidian', 'archive'}]
         for f in files:
             if f == f"{filename}.md":
                 path = os.path.join(root, f)
@@ -150,6 +151,7 @@ def main():
     print("Collecting all headings in the vault...")
     all_headings = {}
     for root, dirs, files in os.walk(VAULT):
+        dirs[:] = [d for d in dirs if d not in {'.git', '.obsidian', 'archive'}]
         for f in files:
             if f.endswith(".md"):
                 path = os.path.join(root, f)

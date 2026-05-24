@@ -4,10 +4,11 @@ import urllib.request
 import re
 import html
 
-SCRATCH_DIR = "/Users/rds/pali_canon/scratch"
-OUTPUT_MULA = "/Users/rds/pali_canon/mula/sutta/majjhima_nikaya/mn118.md"
-OUTPUT_ATT = "/Users/rds/pali_canon/atthakatha/sutta/majjhima_nikaya/mn118_att.md"
-OUTPUT_TIK = "/Users/rds/pali_canon/tika/sutta/majjhima_nikaya/mn118_tik.md"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
+SCRATCH_DIR = os.path.join(VAULT, "scratch")
+OUTPUT_MULA = os.path.join(VAULT, "mula/sutta/majjhima_nikaya/mn118.md")
+OUTPUT_ATT = os.path.join(VAULT, "atthakatha/sutta/majjhima_nikaya/mn118_att.md")
+OUTPUT_TIK = os.path.join(VAULT, "tika/sutta/majjhima_nikaya/mn118_tik.md")
 
 MULA_URL = "https://raw.githubusercontent.com/suttacentral/bilara-data/published/root/pli/ms/sutta/mn/mn118_root-pli-ms.json"
 BASE_XML_URL = "https://raw.githubusercontent.com/siongui/vri-tipitaka-xml-mirror/main/romn/cscd/"

@@ -22,10 +22,10 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | MN 2 Sabbāsavasutta | ✅ 3,522w | ✅ 137¶ | ✅ 120¶ | ✅ Full §-anchors & Mātikā |
 | MN 7 Vatthūpamasutta | ✅ 2,456w | ✅ 52¶ | ✅ 34¶ | ✅ Full §-anchors & Mātikā |
 | MN 8 Sallekhasutta | ✅ 2,860w | ✅ 46¶ | ✅ 32¶ | ✅ Full §-anchors & Mātikā |
-| MN 10 Satipaṭṭhānasutta | ✅ 5,721w | ✅ 362¶ + 49 notes | ✅ 232¶ | Mātikā |
+| MN 10 Satipaṭṭhānasutta | ✅ 5,721w | ✅ 362¶ + 49 notes | ✅ 232¶ | ✅ Full §-anchors & Mātikā |
 | MN 19 Dvedhāvitakkasutta | ✅ 3,032w | ✅ 6¶ | ✅ 6¶ | ✅ Full §-anchors & Mātikā |
 | MN 20 Vitakkasaṇṭhānasutta | ✅ 1,798w | ✅ 40¶ + 11 notes | ✅ 26¶ | Mātikā |
-| MN 22 Alagaddūpamasutta | ✅ 6,958w | ✅ 49¶ + 49 notes | ✅ 3,577w | Mātikā |
+| MN 22 Alagaddūpamasutta | ✅ 6,958w | ✅ 49¶ + 49 notes | ✅ 3,577w | ✅ Full §-anchors & Mātikā |
 | MN 27 Cūḷahatthipadopamasutta | ✅ 4,120w | ✅ 69¶ | ✅ 62¶ | ✅ Full §-anchors & Mātikā |
 | MN 28 Mahāhatthipadopamasutta | ✅ 4,890w | ✅ 40¶ | ✅ 35¶ | ✅ Full §-anchors & Mātikā |
 | MN 36 Mahāsaccakasutta | ✅ 9,139w | ✅ 34¶ + 25 notes | ✅ 32¶ | Mātikā |
@@ -154,8 +154,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 *   **Obsidian Plugins**: Simsapa DPD, Dataview, Templater (all configured)
 *   **CSS Toggle**: Translation toggle for pure Pali reading
 *   **Templates**: Mūla, Atthakathā, Tīkā sutta templates
-*   **Git**: Local repository initialized (no remote)
-*   **Scripts**: 95 Python scripts in `scratch/` (50 generators, 7 crosslinkers, 25 inspectors, 7 tests, 6 utilities)
+*   **Git**: Local repository initialized (no remote), Git pre-commit hook link validation guardrail installed
+*   **Scripts**: 126 Python scripts in `scratch/` (53 generators, 8 crosslinkers, 49 inspectors, 10 tests, 6 utilities)
 
 ---
 
@@ -186,3 +186,12 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
     *   [[four_jhanas|Four Jhānas (Cattāri Jhānāni)]]
     *   [[six_recollections|Six Recollections (Cha Anussati)]]
     *   [[matika/gradual_training|Gradual Training (Anupubbasikkhā)]]
+
+---
+
+## Vinaya Piṭaka (Monastic Discipline)
+
+*   **Vinaya Index**: [mula/vinaya/INDEX.md](mula/vinaya/INDEX.md)
+    *   *Status*: **Initiated (Phase 12)**.
+*   **Migrated Rules**:
+    *   [[patimokkha_bhikkhu|Bhikkhu Pātimokkha (227 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).

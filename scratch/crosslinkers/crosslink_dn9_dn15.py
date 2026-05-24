@@ -8,9 +8,10 @@ Following the established MN 118 pattern:
   mula: Insert collapsible callouts before key Pali phrases
 """
 
+import os
 import re
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 
 # ── DN 9 Configuration ─────────────────────────────────────────────────────
 
@@ -100,8 +101,14 @@ DN15_LABELS = {
 def process_commentary(path, paras, insert_tik_links, slug):
     """Insert ### §NNN headings and optionally tīkā callout links."""
     with open(path, encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
+    # Idempotency check
+    if "### §" in content:
+        print(f"  Skipped {path.split('/')[-1]} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     para_pat = re.compile(r'^\((\d+)\)')
     markers = []
     for i, line in enumerate(lines):
@@ -144,6 +151,9 @@ def process_mula(path, anchors, labels, slug):
 
     inserted = 0
     for para_num, anchor in anchors.items():
+        # Idempotency check: if callout already exists, skip
+        if f"[[{slug}_att#§{para_num}" in text:
+            continue
         if anchor not in text:
             print(f"  WARNING: anchor for §{para_num} not found in mūla — skipping")
             continue
@@ -182,7 +192,7 @@ def main():
     print("  Processing atthakathā...")
     process_commentary(DN15_ATT, DN15_PARAS, insert_tik_links=True, slug="dn15")
     print("  Processing tīkā...")
-    process_commentary(DN15_TIK, DN15_PARAS, insert_tik_links=False, slug="dn15")
+    process_commentary(TIK_PATH := DN15_TIK, DN15_PARAS, insert_tik_links=False, slug="dn15")
     print("  Processing mūla...")
     process_mula(DN15_MULA, DN15_MULA_ANCHORS, DN15_LABELS, "dn15")
 

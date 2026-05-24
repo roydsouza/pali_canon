@@ -5,7 +5,7 @@ Cross-link SN 48 mūla ↔ atthakatha ↔ tika files.
 
 import os
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 MULA = f"{VAULT}/mula/sutta/samyutta_nikaya/sn48.md"
 ATT = f"{VAULT}/atthakatha/sutta/samyutta_nikaya/sn48_att.md"
 TIK = f"{VAULT}/tika/sutta/samyutta_nikaya/sn48_tik.md"
@@ -66,6 +66,8 @@ def process_mula():
         content = f.read()
 
     for para, (sutta_ids, headers, att_match, tik_match, has_tika) in TARGETS.items():
+        if f"[[sn48_att#§{para}" in content:
+            continue
         if not isinstance(headers, list):
             headers = [headers]
         
@@ -96,8 +98,14 @@ def process_mula():
 
 def process_atthakatha():
     with open(ATT, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
+    # Idempotency check
+    if "### §" in content:
+        print(f"  Skipped {os.path.basename(ATT)} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     new_lines = []
     for line in lines:
         matched = False
@@ -136,8 +144,14 @@ def process_atthakatha():
 
 def process_tika():
     with open(TIK, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
+    # Idempotency check
+    if "### §" in content:
+        print(f"  Skipped {os.path.basename(TIK)} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     new_lines = []
     for line in lines:
         matched = False

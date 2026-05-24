@@ -2,7 +2,8 @@
 import os
 import re
 
-DHP_DIR = "/Users/rds/pali_canon/atthakatha/sutta/khuddaka_nikaya/dhammapada"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
+DHP_DIR = os.path.join(VAULT, "atthakatha/sutta/khuddaka_nikaya/dhammapada")
 
 ranges = [
     (1, 20, "dhp_01_yamakavagga"),

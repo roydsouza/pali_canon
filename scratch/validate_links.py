@@ -3,7 +3,7 @@ import os
 import re
 import sys
 
-VAULT_DIR = "/Users/rds/pali_canon"
+VAULT_DIR = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates"}
 EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates"}
 
@@ -144,7 +144,10 @@ def validate_vault():
                         })
                     elif anchor:
                         # Validate anchor exists in target_file
-                        headers = file_headers[target_file]
+                        headers = file_headers.get(target_file)
+                        if headers is None:
+                            headers = parse_headers_and_anchors(target_file)
+                            file_headers[target_file] = headers
                         # Exact check
                         if anchor not in headers:
                             # Try to normalize anchor as well

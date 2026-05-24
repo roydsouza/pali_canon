@@ -1,7 +1,7 @@
 import os
 import re
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 
 def parse_frontmatter(filepath):
     meta = {}

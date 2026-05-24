@@ -5,7 +5,7 @@ Cross-link SN 47 mūla ↔ atthakathā ↔ tīkā files.
 
 import os
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 MULA = f"{VAULT}/mula/sutta/samyutta_nikaya/sn47.md"
 ATT = f"{VAULT}/atthakatha/sutta/samyutta_nikaya/sn47_att.md"
 TIK = f"{VAULT}/tika/sutta/samyutta_nikaya/sn47_tik.md"
@@ -24,6 +24,8 @@ def process_mula():
         content = f.read()
 
     for para, (sutta_id, header, label) in TARGETS.items():
+        if f"[[sn47_att#§{para}" in content:
+            continue
         if header not in content:
             print(f"ERROR: Header not found in Mula: {header}")
             continue
@@ -42,8 +44,14 @@ def process_mula():
 
 def process_layer(file_path, is_att):
     with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
+    # Idempotency check
+    if "### §" in content:
+        print(f"  Skipped {os.path.basename(file_path)} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     new_lines = []
     for line in lines:
         matched = False

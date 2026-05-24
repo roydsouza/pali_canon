@@ -6,7 +6,7 @@ CSCD file: s0305a.att3.xml (entire file = SN 48)
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTA = {

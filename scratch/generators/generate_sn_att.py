@@ -9,7 +9,7 @@ from CSCD (Sāratthappakāsinī).
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTAS = [

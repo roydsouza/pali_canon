@@ -15,7 +15,7 @@ Suttas:
 
 import os, json, re, time, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 
 # (sc_id, nikaya_dir, slug, sutta_num, pali_title, en_title, nikaya_label, sutta_code)

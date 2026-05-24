@@ -4,7 +4,7 @@ import re
 import urllib.request
 import json
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 
 def fetch(sc_id):
@@ -21,6 +21,14 @@ def parse_segment_key(key):
 
 def crosslink_mula_snp13():
     sc_id = "snp1.3"
+    dest = os.path.join(VAULT, "mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.3.md")
+    # Idempotency check
+    if os.path.exists(dest):
+        with open(dest, "r", encoding="utf-8") as f:
+            if "Related Commentary" in f.read():
+                print(f"  Skipped Mula {sc_id} (already crosslinked)")
+                return
+
     print("Cross-linking Mula snp1.3...")
     data = fetch(sc_id)
     root = data["root_text"]
@@ -87,13 +95,20 @@ def crosslink_mula_snp13():
         lines.append(f"> - **Commentary (Atthakathā)**: [[snp1.3_att#§{att_para}|Khaggavisāṇasuttavaṇṇanā §{att_para}]]")
         lines.append("")
         
-    dest = os.path.join(VAULT, "mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.3.md")
     with open(dest, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print(f"Saved cross-linked Mula snp1.3 to {dest}")
 
 def crosslink_mula_snp18():
     sc_id = "snp1.8"
+    dest = os.path.join(VAULT, "mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.8.md")
+    # Idempotency check
+    if os.path.exists(dest):
+        with open(dest, "r", encoding="utf-8") as f:
+            if "Related Commentary" in f.read():
+                print(f"  Skipped Mula {sc_id} (already crosslinked)")
+                return
+
     print("Cross-linking Mula snp1.8...")
     data = fetch(sc_id)
     root = data["root_text"]
@@ -157,7 +172,6 @@ def crosslink_mula_snp18():
         lines.append(f"> - **Commentary (Atthakathā)**: [[snp1.8_att#§{att_para}|Mettasuttavaṇṇanā §{att_para}]]")
         lines.append("")
         
-    dest = os.path.join(VAULT, "mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.8.md")
     with open(dest, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
     print(f"Saved cross-linked Mula snp1.8 to {dest}")
@@ -166,8 +180,14 @@ def crosslink_att_snp13():
     path = os.path.join(VAULT, "atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.3_att.md")
     print(f"Cross-linking Atthakatha {path}...")
     with open(path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-        
+        content = f.read()
+
+    # Idempotency check
+    if "Related Links" in content:
+        print(f"  Skipped {path.split('/')[-1]} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     new_lines = []
     for line in lines:
         new_lines.append(line)
@@ -200,8 +220,14 @@ def crosslink_att_snp18():
     path = os.path.join(VAULT, "atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.8_att.md")
     print(f"Cross-linking Atthakatha {path}...")
     with open(path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-        
+        content = f.read()
+
+    # Idempotency check
+    if "Related Links" in content:
+        print(f"  Skipped {path.split('/')[-1]} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
     new_lines = []
     for line in lines:
         new_lines.append(line)

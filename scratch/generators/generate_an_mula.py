@@ -10,7 +10,7 @@ AN batch mūla — five entries from SuttaCentral (Bhikkhu Sujato):
 
 import os, json, re, time, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 
 # Each entry: sc_ids list, slug, display label, pali_title, en_title, tags

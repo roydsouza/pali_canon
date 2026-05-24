@@ -1,0 +1,2 @@
+# This project uses the Python Standard Library (no external pip dependencies required).
+# Supported Python version: 3.8+

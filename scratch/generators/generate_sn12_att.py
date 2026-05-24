@@ -7,7 +7,7 @@ SN 12 is in the Nidānavagga (s0302). The file is s0302a.att0.xml.
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTAS = [

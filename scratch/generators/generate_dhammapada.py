@@ -6,7 +6,7 @@ and generate one interleaved mula file per vagga.
 
 import os, json, re, time, urllib.request
 
-VAULT       = "/Users/rds/pali_canon"
+VAULT       = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 OUTPUT_DIR  = os.path.join(VAULT, "mula/sutta/khuddaka_nikaya/dhammapada")
 API_BASE    = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 

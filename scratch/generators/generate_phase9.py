@@ -7,7 +7,7 @@ import html as hmod
 import urllib.request
 import subprocess
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 GITHUB = "https://raw.githubusercontent.com/siongui/tipitaka-romn/master/cscd/{}"
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 SC_MULA = "https://suttacentral.net/api/bilarasuttas/{}/sujato"

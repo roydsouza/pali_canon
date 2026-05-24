@@ -11,7 +11,7 @@ Output: atthakatha/sutta/{nikaya}/{slug}_att.md
 
 import os, json, re, time, html as hmod, urllib.request
 
-VAULT       = "/Users/rds/pali_canon"
+VAULT       = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 CSCD_BASE   = "https://raw.githubusercontent.com/siongui/tipitaka-romn/master/cscd/{}"
 SC_COMMENT  = "https://suttacentral.net/api/bilarasuttas/{}/comment"
 SC_SUTTA    = "https://suttacentral.net/api/bilarasuttas/{}/sujato"

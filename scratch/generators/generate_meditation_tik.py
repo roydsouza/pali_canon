@@ -10,7 +10,7 @@ Output: tika/sutta/{nikaya}/{slug}_tik.md
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT     = "/Users/rds/pali_canon"
+VAULT     = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 CSCD_BASE = "https://tipitaka.org/romn/cscd/{}"
 
 # (sc_id, nikaya_dir, slug, sutta_code, pali_title, en_title, nikaya_label,

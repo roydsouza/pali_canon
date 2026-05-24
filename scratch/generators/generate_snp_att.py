@@ -5,7 +5,7 @@ import time
 import html as hmod
 import urllib.request
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/s0505a.att0.xml"
 
 def fetch_xml():

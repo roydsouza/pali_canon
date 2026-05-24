@@ -7,7 +7,7 @@ SN 22 is in the Khandavagga (s0303). The file is s0303a.att0.xml.
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 SAMYUTTAS = [

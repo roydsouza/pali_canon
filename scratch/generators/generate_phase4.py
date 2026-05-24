@@ -5,7 +5,7 @@ import time
 import html as hmod
 import urllib.request
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 SC_API = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 SC_COMMENT = "https://suttacentral.net/api/bilarasuttas/{}/comment"
 CSCD_GITHUB = "https://raw.githubusercontent.com/siongui/tipitaka-romn/master/cscd/{}"

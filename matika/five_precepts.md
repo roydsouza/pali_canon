@@ -32,4 +32,5 @@ type: matika
 * [[snp1.6|Snp 1.6: Parābhavasutta]] — outlines how ethical failures (such as anger, pride, and violating the precepts) lead to a person's downfall.
 * [[snp1.7|Snp 1.7: Vasalasutta]] — teaches that a person becomes an outcast or a noble one through their ethical conduct and actions (kamma), not by birth.
 * [[dn16|DN 16: Mahāparinibbānasutta]] — in his final journey, the Buddha delivers the discourse on the benefits of ethical conduct (*sīla*) at Pāṭaligāma, highlighting how an ethical person obtains great wealth, good reputation, and enters a good rebirth.
+* [[mula/vinaya/patimokkha_bhikkhu|Bhikkhu Pātimokkha]] — the monastic disciplinary code expands these five basic ethical precepts into 227 rules of conduct for monks (e.g., Pārājika 1–3, Pācittiya 1, 51, 61)
 

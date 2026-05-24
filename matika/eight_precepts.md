@@ -34,3 +34,4 @@ type: matika
 ## Canonical References
 * [[mn118|MN 118: Ānāpānasati Sutta]] (development of mindfulness is rooted in the purity of conduct / sīla)
 * [[udana#Ud 5.5: Uposathasutta — *Sabbath*|Ud 5.5: Uposatha Sutta]] — Describes the eight wonderful qualities of the Dhamma and Vinaya, comparing them to the ocean, which serves as the context for the Uposatha observance and the training in the eight precepts.
+* [[mula/vinaya/patimokkha_bhikkhu|Bhikkhu Pātimokkha]] — the monastic rules incorporate the eight precepts as part of the daily monastic training, extending them to complete celibacy and detailed monastic etiquette (e.g., Pārājika 1, Pācittiya 51, Sekhiya 1–75)

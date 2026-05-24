@@ -6,7 +6,7 @@ Fetches from SuttaCentral API (Sujato translation).
 
 import os, json, re, time, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 API_BASE = "https://suttacentral.net/api/bilarasuttas/{}/sujato"
 
 SUTTAS = [

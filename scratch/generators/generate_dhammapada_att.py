@@ -8,7 +8,7 @@ Generates one interleaved commentary file per vagga.
 import os, re, time, html as hmod
 import urllib.request
 
-VAULT      = "/Users/rds/pali_canon"
+VAULT      = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 OUTPUT_DIR = os.path.join(VAULT, "atthakatha/sutta/khuddaka_nikaya/dhammapada")
 BASE_URL   = "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm"
 

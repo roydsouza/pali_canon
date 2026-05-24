@@ -12,7 +12,7 @@ Tīkā files mirror the atthakathā exactly (s040Xt.tikN = s040Xa.attN):
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 NIKAYA_DIR   = "anguttara_nikaya"

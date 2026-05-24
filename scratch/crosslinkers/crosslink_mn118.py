@@ -16,9 +16,10 @@ mula (mn118.md):
     phrase that each commentary paragraph explains.
 """
 
+import os
 import re
 
-VAULT = "/Users/rds/pali_canon"
+VAULT = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 ATT  = f"{VAULT}/atthakatha/sutta/majjhima_nikaya/mn118_att.md"
 TIK  = f"{VAULT}/tika/sutta/majjhima_nikaya/mn118_tik.md"
 MULA = f"{VAULT}/mula/sutta/majjhima_nikaya/mn118.md"
@@ -37,7 +38,14 @@ def process_commentary(path, insert_tik_links):
     callout linking to the corresponding tīkā paragraph after each block.
     """
     with open(path, encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
+
+    # Idempotency check
+    if "### §" in content:
+        print(f"  Skipped {path.split('/')[-1]} (already crosslinked)")
+        return
+
+    lines = content.splitlines(keepends=True)
 
     # Regex: bold paragraph marker at start of line, e.g. **144. ...
     para_pat = re.compile(r'^\*\*(\d+)\.\s')
@@ -134,6 +142,9 @@ def process_mula():
 
     inserted = 0
     for para_num, anchor in MULA_ANCHORS.items():
+        # Idempotency check: if callout already exists, skip
+        if f"[[mn118_att#§{para_num}" in text:
+            continue
         if anchor not in text:
             print(f"  WARNING: anchor for §{para_num} not found in mūla — skipping")
             continue

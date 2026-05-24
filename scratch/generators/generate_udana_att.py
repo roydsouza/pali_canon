@@ -6,7 +6,7 @@ Files are s0503a.att0.xml to s0503a.att8.xml.
 
 import os, re, time, html as hmod, urllib.request
 
-VAULT    = "/Users/rds/pali_canon"
+VAULT    = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
 TIPITAKA = "https://tipitaka.org/romn/cscd/{}"
 
 def fetch_bytes_with_retry(filename, retries=3, delay=1.0):
