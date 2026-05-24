@@ -1,5 +1,19 @@
 # Sync Log
 
+## [2026-05-23 — Phase 17 Initiation & Chanting Setup (Antigravity)]
+
+### Session Accomplishments
+
+**Chanting & Audio Documentation**
+- **Chanting Guide**: Created `CHANTING.md` at the root directory to document the Audio Chanting Integration workflow, and linked it under Reading Tools in the main `INDEX.md`.
+- **Pre-commit Hook Validation**: Ran `validate_links.py` to confirm 100% link integrity (1,074 markdown files, 13,590 links, 0 errors).
+- **Security Embed Fixes**: Refactored embeds in `patimokkha_bhikkhu.md` and `patimokkha_bhikkhuni.md` to use vault-relative paths (`../../practice/audio/...`) to bypass Electron file protocol blocks.
+
+**Priority Bug Logged**
+- **Chanting Audio Links Bug**: Logged a priority bug in `TASKS.md`. Obsidian is unable to follow the absolute or relative links pointing to local files/folders inside the `practice/audio/` directory. This requires further system-level URI investigation.
+
+---
+
 ## [2026-05-23 — Phase 16: Generator Unification, Caching, Chanting Audio, and Vinaya Expansion Complete (Antigravity)]
 
 ### Session Accomplishments

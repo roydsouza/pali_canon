@@ -6,7 +6,14 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ---
 
+## Priority Bugs & Issues
+
+- [ ] **Chanting Audio Links Bug** — Absolute and relative links pointing to local files/folders inside the `practice/audio/` directory in `CHANTING.md` (and related monastic files) are not resolved or followed successfully by Obsidian. Requires investigation of Obsidian's protocol handlers on macOS for non-markdown resources.
+
+---
+
 ## Phase 0 — Get Well (FROM-CLAUDE.md Issues)
+
 
 - [x] **A. Commit protocol** — Establish commit-after-each-sutta discipline; document in ROADMAP.md ✅ (protocol written)
 - [x] **C. STATUS.md script count** — Update "17 reusable Python scripts" to actual count (~94); categorize by type

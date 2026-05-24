@@ -11,7 +11,7 @@ layer: mula
 **Related Precepts**: [[matika/five_precepts|Five Precepts (Pañcasīla)]] | [[matika/eight_precepts|Eight Precepts (Aṭṭhaṅgasīla)]]
 
 ## 🎧 Chanting Recitation
-![Bhikkhunī Pātimokkha Chanting Recitation](file:///Users/rds/pali_canon/practice/audio/bhikkhuni_patimokkha.mp3)
+![Bhikkhunī Pātimokkha Chanting Recitation](../../practice/audio/bhikkhuni_patimokkha.mp3)
 *(Monastic chanting audio file placeholder. To use, place the audio file `bhikkhuni_patimokkha.mp3` in the `practice/audio/` folder)*
 
 The Bhikkhunī Pātimokkha is the core code of discipline for Buddhist nuns containing 311 rules. These rules are divided into seven sections based on the severity of the offense.

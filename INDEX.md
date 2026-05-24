@@ -53,6 +53,10 @@ The toggle remembers its state across notes within the session. Restart Obsidian
 
 The Simsapa desktop app must be running for lookups to work.
 
+### Audio Chanting Integration
+
+Learn how to configure and play chanting audio files (e.g., Pātimokkha recitations) directly within your study notes. See [[CHANTING|Audio Chanting Integration Guide]] for configuration details and guidelines.
+
 ---
 
 ## 🕒 Recently Modified / Revisited
