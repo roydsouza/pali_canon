@@ -150,8 +150,8 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 ## Pending Work
 
 ### Phase 18 — Interactive Dashboards & Practice Hubs
-- [ ] **Interactive Home Dashboard** — Rebuild root `INDEX.md` and `practice/INDEX.md` using curated styling (glassmorphism/gradients) and Dataview cards for reading paths.
-- [ ] **Chanting Review & Memorization System** — Connect Spaced Repetition cards to review workflows and integrate chanting audio tracking into the memorization log.
+- [/] **Interactive Home Dashboard** — Rebuild root `INDEX.md` and `practice/INDEX.md` using curated styling (glassmorphism/gradients) and Dataview cards for reading paths.
+- [/] **Chanting Review & Memorization System** — Connect Spaced Repetition cards to review workflows and integrate chanting audio tracking into the memorization log.
 
 ### Phase 19 — Paragraph-Level Cross-Linking Expansion
 - [ ] **Atthakathā/Ṭīkā Re-generation** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated.
