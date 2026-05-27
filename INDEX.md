@@ -57,7 +57,7 @@
       <ul class="db-link-list">
         <li><a class="internal-link" href="practice/INDEX.md">🧘 Practice Dashboard</a></li>
         <li><a class="internal-link" href="practice/memorization_log.md">📖 Verse Memorization Log</a></li>
-        <li><a class="internal-link" href="CHANTING.md">🎧 Chanting Integration Guide</a></li>
+        <li><a class="internal-link" href="meta/CHANTING.md">🎧 Chanting Integration Guide</a></li>
         <li><a class="internal-link" href="paritta/INDEX.md">🛡️ Protective Chants (Paritta)</a></li>
       </ul>
     </div>

@@ -65,7 +65,7 @@ GROUP BY meditation_type
         <span><a class="internal-link" href="audio/bhikkhuni_patimokkha.mp3">Play (Relative)</a> | <a href="file:///Users/rds/pali_canon/practice/audio/bhikkhuni_patimokkha.mp3">Play (Absolute)</a></span>
       </div>
 
-      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions, or [Open audio/ Folder in Finder](file:///Users/rds/pali_canon/practice/audio/).</p>
+      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../meta/CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions, or [Open audio/ Folder in Finder](file:///Users/rds/pali_canon/practice/audio/).</p>
     </div>
   </div>
 

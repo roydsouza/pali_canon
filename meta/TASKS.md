@@ -178,9 +178,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
     - [ ] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
 
 ### Pāḷi Language Learning Infrastructure (Innovative)
-- [ ] **Word-by-word morphological gloss toggle** — Interlinear toggle (Pali-only ➡️ Pali+English ➡️ Pali+gloss+English) powered by pre-computed DPD data.
+- [ ] **Word-by-word morphological gloss toggle** — Interlinear toggle (Pali-only ➡️ Pali+English ➡️ Pali+gloss+English) powered by pre-computed DPD data. *Note: Implement Option C (Appended Vocabulary Concordance tables) first to prevent document/link fragility, and plan a future task to revisit higher-quality, robust inline/interlinear UX options.*
 - [ ] **Corpus vocabulary-frequency engine** — Graded reader generator that lists "new words" per sutta.
-- [ ] **Spaced-repetition vocabulary cards** — Auto-generate review cards from marked vocab deep-linked to suttas.
+- [ ] **Spaced-repetition vocabulary cards** — Auto-generate review cards from marked vocab deep-linked to suttas. *Note: Focus on local Obsidian-native review formatting first, and build a dedicated exporter tool for Anki in the future.*
 - [ ] **Pāli reading ladder** — Create `paths/pali_reading_ladder.md` ordered by linguistic/syntactic difficulty.
 - [ ] **Pericope / stock-formula concordance** — Map out repeated stock phrases (e.g. jhana, gradual training) with concordance pages.
 - [ ] **Verbal-root (dhātu) graph** — Scaffold a knowledge-web in `practice/roots/` mapping roots to words.
@@ -194,7 +194,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ### General Backlog, Usability & Infrastructure
 - [ ] **Chanting Audio Links Bug** (Priority) — Fix absolute/relative links inside `CHANTING.md` and Pātimokkha files.
-- [ ] **Move process meta-docs to subfolder** — Move `STATUS.md`, `ROADMAP.md`, `VISION.md`, `HERMES.md`, `SYNC_LOG.md`, `CHANTING.md`, `SIMSAPA-DPD.md` to `meta/`, leaving only `START.md` and `INDEX.md` at root.
+- [x] **Move process meta-docs to subfolder** — Move `STATUS.md`, `ROADMAP.md`, `VISION.md`, `HERMES.md`, `SYNC_LOG.md`, `CHANTING.md`, `SIMSAPA-DPD.md` to `meta/`, leaving only `START.md` and `INDEX.md` at root.
 - [ ] **Standardize filename conventions** — Rename dotted filenames to underscores (e.g. `snp1.1.md` -> `snp1_1.md`) for shell tool compatibility.
 - [ ] **Resolve AN cross-layer chunking mismatch** — Add explicit `covers:` or `part_of:` frontmatter fields to handle files containing multiple grouped suttas in commentary/tika layers.
 - [ ] **Dynamic count tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
