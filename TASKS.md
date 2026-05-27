@@ -167,15 +167,37 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] **Sutta Piṭaka (Primary)**
     - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
     - [ ] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
+    - [ ] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses.
+    - [ ] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.
 - [ ] **Abhidhamma Piṭaka (Secondary)**
     - [ ] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual).
     - [ ] Add Abhidhamma-style mātikā cross-links for the five aggregates.
 - [ ] **Vinaya Piṭaka (Tertiary)**
     - [ ] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules).
     - [ ] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
+    - [ ] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
 
-### General Backlog & Infrastructure
+### Pāḷi Language Learning Infrastructure (Innovative)
+- [ ] **Word-by-word morphological gloss toggle** — Interlinear toggle (Pali-only ➡️ Pali+English ➡️ Pali+gloss+English) powered by pre-computed DPD data.
+- [ ] **Corpus vocabulary-frequency engine** — Graded reader generator that lists "new words" per sutta.
+- [ ] **Spaced-repetition vocabulary cards** — Auto-generate review cards from marked vocab deep-linked to suttas.
+- [ ] **Pāli reading ladder** — Create `paths/pali_reading_ladder.md` ordered by linguistic/syntactic difficulty.
+- [ ] **Pericope / stock-formula concordance** — Map out repeated stock phrases (e.g. jhana, gradual training) with concordance pages.
+- [ ] **Verbal-root (dhātu) graph** — Scaffold a knowledge-web in `practice/roots/` mapping roots to words.
+- [ ] **Grammar reference hub** — Create grammar paradigm sheets linked directly to real occurrences in migrated suttas.
+
+### Innovative Literature Features
+- [ ] **Prosopography graph** — Named-entity pages (Sāriputta, Sāvatthī, etc.) linking every sutta mentioning them.
+- [ ] **Simile (upamā) index** — Cross-referenced catalogue of the canon's famous similes (raft, saw, lute).
+- [ ] **Parallel texts layer** — Store SuttaCentral parallel IDs in frontmatter and render via Dataview.
+- [ ] **Question-driven reading paths** — Create paths for thematic inquiries (e.g. "working with anger", "facing death").
+
+### General Backlog, Usability & Infrastructure
 - [ ] **Chanting Audio Links Bug** (Priority) — Fix absolute/relative links inside `CHANTING.md` and Pātimokkha files.
+- [ ] **Move process meta-docs to subfolder** — Move `STATUS.md`, `ROADMAP.md`, `VISION.md`, `HERMES.md`, `SYNC_LOG.md`, `CHANTING.md`, `SIMSAPA-DPD.md` to `meta/`, leaving only `START.md` and `INDEX.md` at root.
+- [ ] **Standardize filename conventions** — Rename dotted filenames to underscores (e.g. `snp1.1.md` -> `snp1_1.md`) for shell tool compatibility.
+- [ ] **Resolve AN cross-layer chunking mismatch** — Add explicit `covers:` or `part_of:` frontmatter fields to handle files containing multiple grouped suttas in commentary/tika layers.
+- [ ] **Dynamic count tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
 - [ ] **VRI XML parser script** — Create custom parser for batch commentary extraction if needed.
 - [ ] **Link validator maintenance** — Keep link validator optimized and performant as vault scales.
 
