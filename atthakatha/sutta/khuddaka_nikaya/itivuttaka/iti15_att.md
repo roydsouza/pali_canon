@@ -1,13 +1,14 @@
 ---
-id: iti15_att
+id: ITI15_att
 title_pali: 5. Taṇhāsaṃyojanasuttavaṇṇanā
-title_en: Commentary on The Fetter of Craving
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 15
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti15.md
+title_en: Commentary on The Fetter of Craving
 subcollection: itivuttaka
-sutta_number: iti15
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -5,9 +5,11 @@ title_en: The Path
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 20
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_20_maggavagga_att.md
 text: dhammapada
 vagga: 20
-verse_range: "273–289"
+verse_range: 273–289
 tags:
   - dhammapada
   - meditation

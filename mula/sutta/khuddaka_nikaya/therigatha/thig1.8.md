@@ -1,14 +1,14 @@
 ---
-id: THIG1.8
+id: THIG1
 title_pali: Mittātherīgāthā
 title_en: Mittā (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.8
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

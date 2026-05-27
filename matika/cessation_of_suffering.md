@@ -2,6 +2,7 @@
 id: cessation_of_suffering
 title_pali: Nirodha
 type: matika
+category: factor_note
 ---
 
 # Cessation of Suffering (Nirodha)

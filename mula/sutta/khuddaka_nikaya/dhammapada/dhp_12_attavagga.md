@@ -5,9 +5,11 @@ title_en: The Self
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 12
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_12_attavagga_att.md
 text: dhammapada
 vagga: 12
-verse_range: "157–166"
+verse_range: 157–166
 tags:
   - dhammapada
 ---

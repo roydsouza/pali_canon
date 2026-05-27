@@ -1,15 +1,17 @@
 ---
 id: DN1_tik
 title_pali: Brahmajālasuttavaṇṇanātīkā
-title_en: Sub-commentary on Brahmajālasutta (The Prime Net)
 type: tika
 pitaka: sutta
 nikaya: digha
+sutta_number: 1
+mula_file: /mula/sutta/digha_nikaya/dn1.md
+commentary_file: /atthakatha/sutta/digha_nikaya/dn1_att.md
+title_en: Sub-commentary on Brahmajālasutta (The Prime Net)
 sutta: dn1
 layer: tika
-mula_file: [[dn1]]
 att_file: [[dn1_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Dīgha Nikāya: Brahmajālasutta

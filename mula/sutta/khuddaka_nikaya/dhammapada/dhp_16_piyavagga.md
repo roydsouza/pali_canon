@@ -5,9 +5,11 @@ title_en: Affection
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 16
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_16_piyavagga_att.md
 text: dhammapada
 vagga: 16
-verse_range: "209–220"
+verse_range: 209–220
 tags:
   - dhammapada
 ---

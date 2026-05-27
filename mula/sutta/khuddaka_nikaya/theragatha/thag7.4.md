@@ -1,14 +1,14 @@
 ---
-id: THAG7.4
+id: THAG7
 title_pali: Sopākatheragāthā
 title_en: Sopāka (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag7.4
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

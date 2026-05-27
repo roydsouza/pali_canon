@@ -2,6 +2,7 @@
 id: determination
 title_pali: Adhiṭṭhāna
 type: matika
+category: factor_note
 ---
 
 # Determination / Resolve (Adhiṭṭhāna)

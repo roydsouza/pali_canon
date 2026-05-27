@@ -2,6 +2,7 @@
 id: greed
 title_pali: Lobha
 type: matika
+category: factor_note
 ---
 
 # Greed / Desire (Lobha)

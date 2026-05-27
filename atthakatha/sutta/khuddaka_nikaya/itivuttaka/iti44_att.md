@@ -1,13 +1,14 @@
 ---
-id: iti44_att
+id: ITI44_att
 title_pali: 7. Nibbānadhātusuttavaṇṇanā
-title_en: Commentary on Elements of Extinguishment
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 44
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti44.md
+title_en: Commentary on Elements of Extinguishment
 subcollection: itivuttaka
-sutta_number: iti44
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -5,9 +5,11 @@ title_en: Hell
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 22
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_22_nirayavagga_att.md
 text: dhammapada
 vagga: 22
-verse_range: "306–319"
+verse_range: 306–319
 tags:
   - dhammapada
 ---

@@ -1,14 +1,16 @@
 ---
 id: SN48_tik
 title_pali: Indriyasaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Indriyasaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 48
+mula_file: /mula/sutta/samyutta_nikaya/sn48.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn48_att.md
+title_en: Sub-commentary on Indriyasaṃyutta
 samyutta: sn48
-mula_file: [[sn48]]
 att_file: [[sn48_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Indriyasaṃyutta

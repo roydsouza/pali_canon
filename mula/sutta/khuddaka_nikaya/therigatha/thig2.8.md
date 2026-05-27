@@ -1,14 +1,14 @@
 ---
-id: THIG2.8
+id: THIG2
 title_pali: Abhayamātutherīgāthā
 title_en: To Abhayā’s Mother From Her Daughter
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.8
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

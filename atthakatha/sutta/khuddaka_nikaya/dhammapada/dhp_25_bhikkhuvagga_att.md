@@ -1,16 +1,17 @@
 ---
 id: DHP_25_att
 title_pali: Bhikkhuvaggavaṇṇanā
-title_en: Commentary on Bhikkhuvagga (The Monk)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 25
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_25_bhikkhuvagga.md
+title_en: Commentary on Bhikkhuvagga (The Monk)
 text: dhammapada
 vagga: 25
-verse_range: "360–382"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_25_bhikkhuvagga.md
+verse_range: 360–382
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 25: Bhikkhuvagga

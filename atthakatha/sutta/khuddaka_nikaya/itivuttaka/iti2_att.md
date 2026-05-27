@@ -1,13 +1,14 @@
 ---
-id: iti2_att
+id: ITI2_att
 title_pali: 2. Dosasuttavaṇṇanā
-title_en: Commentary on Hate
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti2.md
+title_en: Commentary on Hate
 subcollection: itivuttaka
-sutta_number: iti2
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

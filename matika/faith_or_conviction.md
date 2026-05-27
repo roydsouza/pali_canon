@@ -2,6 +2,7 @@
 id: faith_or_conviction
 title_pali: Saddhā
 type: matika
+category: factor_note
 ---
 
 # Faith / Conviction (Saddhā)

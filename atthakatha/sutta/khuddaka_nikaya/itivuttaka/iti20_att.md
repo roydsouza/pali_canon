@@ -1,13 +1,14 @@
 ---
-id: iti20_att
+id: ITI20_att
 title_pali: 10. Paduṭṭhacittasuttavaṇṇanā
-title_en: Commentary on A Corrupted Mind
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 20
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti20.md
+title_en: Commentary on A Corrupted Mind
 subcollection: itivuttaka
-sutta_number: iti20
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

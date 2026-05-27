@@ -1,14 +1,14 @@
 ---
-id: THAG2.18
+id: THAG2
 title_pali: Kimilatheragāthā
 title_en: Kimbila (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.18
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

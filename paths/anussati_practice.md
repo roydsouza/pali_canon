@@ -1,6 +1,6 @@
 ---
-id: path_anussati_practice
-title: Anussati Practice: A Reading Path for the Six Recollections
+id: anussati_practice
+title: "Anussati Practice: A Reading Path for the Six Recollections"
 type: path
 tags:
   - anussati

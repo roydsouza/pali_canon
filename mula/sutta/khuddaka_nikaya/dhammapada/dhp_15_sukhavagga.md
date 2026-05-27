@@ -5,9 +5,11 @@ title_en: Happiness
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 15
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_15_sukhavagga_att.md
 text: dhammapada
 vagga: 15
-verse_range: "197–208"
+verse_range: 197–208
 tags:
   - dhammapada
 ---

@@ -2,6 +2,7 @@
 id: ignorance
 title_pali: Avijjā
 type: matika
+category: factor_note
 ---
 
 # Ignorance (Avijjā)

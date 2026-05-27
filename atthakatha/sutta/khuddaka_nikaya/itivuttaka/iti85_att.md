@@ -1,13 +1,14 @@
 ---
-id: iti85_att
+id: ITI85_att
 title_pali: 6. Asubhānupassīsuttavaṇṇanā
-title_en: Commentary on Observing Ugliness
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 85
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti85.md
+title_en: Commentary on Observing Ugliness
 subcollection: itivuttaka
-sutta_number: iti85
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

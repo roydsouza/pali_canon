@@ -1,14 +1,15 @@
 ---
-id: SNP5.13
+id: SNP5
 title_pali: Bhadrāvudhamāṇavapucchā
 title_en: The Questions of Bhadrāvudha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.13
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.13_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

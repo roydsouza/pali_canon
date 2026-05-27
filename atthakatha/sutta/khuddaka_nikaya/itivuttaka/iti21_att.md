@@ -1,13 +1,14 @@
 ---
-id: iti21_att
+id: ITI21_att
 title_pali: 1. Pasannacittasuttavaṇṇanā
-title_en: Commentary on A Pure Mind
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 21
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti21.md
+title_en: Commentary on A Pure Mind
 subcollection: itivuttaka
-sutta_number: iti21
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -1,13 +1,14 @@
 ---
-id: iti6_att
+id: ITI6_att
 title_pali: 6. Mānasuttavaṇṇanā
-title_en: Commentary on Conceit
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 6
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti6.md
+title_en: Commentary on Conceit
 subcollection: itivuttaka
-sutta_number: iti6
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

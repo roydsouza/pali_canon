@@ -1,15 +1,17 @@
 ---
-id: mn28_tik
+id: MN28_tik
 title_pali: Mahāhatthipadopamasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Mahāhatthipadopamasutta (The Longer Simile of the Elephant’s Footprint)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 28
+mula_file: /mula/sutta/majjhima_nikaya/mn28.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn28_att.md
+title_en: Sub-commentary on Mahāhatthipadopamasutta (The Longer Simile of the Elephant’s Footprint)
 sutta: mn28
 layer: tika
-mula_file: [[mn28]]
 att_file: [[mn28_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Mahāhatthipadopamasutta

@@ -1,6 +1,6 @@
 ---
-id: path_brahmavihara_cultivation
-title: Brahmavihāra Cultivation: A Reading Path for the Sublime States
+id: brahmavihara_cultivation
+title: "Brahmavihāra Cultivation: A Reading Path for the Sublime States"
 type: path
 tags:
   - brahmavihara

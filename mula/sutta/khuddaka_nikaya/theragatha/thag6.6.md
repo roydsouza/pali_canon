@@ -1,14 +1,14 @@
 ---
-id: THAG6.6
+id: THAG6
 title_pali: Sappadāsatheragāthā
 title_en: Sappadāsa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.6
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

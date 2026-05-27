@@ -1,15 +1,17 @@
 ---
-id: mn140_att
+id: MN140_att
 title_pali: Dhātuvibhaṅgasuttavaṇṇanā
-title_en: Commentary on Dhātuvibhaṅgasutta (The Analysis of the Elements)
 type: atthakatha
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 140
+mula_file: /mula/sutta/majjhima_nikaya/mn140.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn140_tik.md
+title_en: Commentary on Dhātuvibhaṅgasutta (The Analysis of the Elements)
 sutta: mn140
 layer: atthakatha
-mula_file: [[mn140]]
 tika_file: [[mn140_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Majjhima Nikāya: Dhātuvibhaṅgasutta

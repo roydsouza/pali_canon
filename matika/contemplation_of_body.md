@@ -2,6 +2,7 @@
 id: contemplation_of_body
 title_pali: Kāyānupassanā
 type: matika
+category: factor_note
 ---
 
 # Contemplation of the Body (Kāyānupassanā)

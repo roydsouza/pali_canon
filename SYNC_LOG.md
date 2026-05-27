@@ -1,5 +1,55 @@
 # Sync Log
 
+## [2026-05-24 20:45:00-07:00 — Dataview Index Diagnostics & Root Cause Analysis (Antigravity)]
+
+### Diagnosis of Blank Dataview Tables
+We diagnosed the issue causing blank Dataview tables in `matika/INDEX.md` when rendering in Obsidian.
+1. **Keyword Collision with Reserved Names**: In Dataview’s query parser, words like `type` and `list` are built-in reserve keywords (`type()` is a type checking function, and `LIST` is a query format). Query filters like `WHERE type = "matika"` and `WHERE category = "list"` collide with the Dataview parser.
+2. **Obsidian Vault Root Nesting**: If the repository is opened inside a parent folder in Obsidian, folder paths specified via `FROM "matika"` look for a directory named `matika` at the root of the vault, which doesn't exist if the repo is in `pali_canon/matika/`.
+3. **Obsidian Metadata Cache Delay**: When files are edited or created externally (via terminal python scripts), Obsidian detects file change events, but Dataview's internal IndexedDB database cache does not always automatically trigger a re-parse of custom frontmatter tags (such as `category`) unless forced.
+
+### Actions Taken and Attempted
+- **First Attempt**: Removed `type: matika` and renamed frontmatter category values from `list`/`factor` to `list_note`/`factor_note` to bypass reserved keyword collisions in Dataview.
+- **Second Attempt**: Replaced the absolute folder path `FROM "matika"` with a relative folder query `WHERE contains(file.folder, "matika")` to allow nested vault compatibility.
+- **Third Attempt (Foolproof)**: Since Dataview's cache database may still have stale metadata for custom properties like `category`, we designed a query that only uses 100% native built-in Obsidian file properties (`file.path` and `file.name`) which are always indexed.
+
+### Standardized, Metadata-Independent Queries Implemented in `matika/INDEX.md`
+For lists:
+```dataview
+TABLE title_pali AS "Pāḷi Title"
+WHERE contains(file.path, "matika/") 
+  AND contains(list("four_noble_truths", "noble_eightfold_path", "three_marks", "five_aggregates", "dependent_origination", "five_precepts", "five_hindrances", "seven_awakening_factors", "four_foundations_of_mindfulness", "eight_precepts", "three_refuges", "ten_perfections", "four_sublime_states", "five_spiritual_faculties", "three_unwholesome_roots", "four_right_exertions", "ten_fetters", "seven_purifications", "five_powers", "four_jhanas", "six_recollections", "gradual_training"), file.name)
+SORT file.name ASC
+```
+
+For factors:
+```dataview
+TABLE title_pali AS "Pāḷi Title"
+WHERE contains(file.path, "matika/") 
+  AND file.name != "INDEX"
+  AND !contains(list("four_noble_truths", "noble_eightfold_path", "three_marks", "five_aggregates", "dependent_origination", "five_precepts", "five_hindrances", "seven_awakening_factors", "four_foundations_of_mindfulness", "eight_precepts", "three_refuges", "ten_perfections", "four_sublime_states", "five_spiritual_faculties", "three_unwholesome_roots", "four_right_exertions", "ten_fetters", "seven_purifications", "five_powers", "four_jhanas", "six_recollections", "gradual_training"), file.name)
+SORT file.name ASC
+```
+
+These queries do not rely on any custom YAML frontmatter fields (like `type` or `category`), making them completely immune to metadata indexing delays.
+
+## [2026-05-24 16:45:00-07:00 — Vault Review (Claude Opus 4.7)]
+
+### Session Accomplishments
+- **Full hierarchy review**: Read the folder structure across all three layers (mūla/aṭṭhakathā/ṭīkā × sutta/abhidhamma/vinaya), `matika/`, `practice/`, `paths/`, `paritta/`, `templates/`, and the root meta-docs.
+- **Deliverable**: Wrote [FROM-CLAUDE.md](file:///Users/rds/pali_canon/FROM-CLAUDE.md) — a review covering errors/inconsistencies, omissions, usability/structure, and innovative uses for learning Pali and the Pali literature. Follows the archived `archive/FROM-CLAUDE-05-22.md`.
+
+### Key Findings (no fixes applied this session — review only)
+- **Frontmatter schema drift** across mūla files (e.g. `mn118` vs `an10_60` differ in `id`/`sutta_number` form and commentary-link fields) — flagged as the keystone fix that unblocks vault-wide Dataview.
+- **"22 mātikā lists" is stated in INDEX/HERMES/STATUS but disagrees** with reality (matika INDEX shows 19; `## The List` appears in 21; folder holds 108 files incl. ~87 unindexed factor pages).
+- **Cross-layer chunking mismatch** in AN (mūla `an11_2..5` vs att `an11_3_5` vs ṭīkā `an11_2_5`); `an10_60` has att but no ṭīkā.
+- **Coverage gaps**: Abhidhamma piṭaka is stub-only; Vinaya has Pātimokkha mūla but no exegesis; Theragāthā/Therīgāthā lack commentary; empty stubs create dead-end navigation.
+- **Biggest opportunity**: vault is reading/doctrine-oriented but thin on *language* learning — recommended a word-by-word gloss toggle, corpus vocabulary-frequency graded reader, pericope/formula concordance, and a verbal-root graph.
+
+### Current State
+- No content or text-layer files were modified. Only `FROM-CLAUDE.md` was created and this log entry added.
+- See FROM-CLAUDE.md §F for a prioritized action checklist. No TASKS.md items marked done (this was a review, not migration work); the §F items could be promoted into TASKS.md if the recommendations are accepted.
+
 ## [2026-05-24 — Meditation Techniques Section in INDEX.md (Antigravity)]
 
 ### Session Accomplishments
@@ -168,7 +218,7 @@
   - **Paritta**: AN 4.67
 - **Mātikā Integration**: Fully populated the newly created `four_jhanas`, `six_recollections`, and `gradual_training` lists in `matika/`, and cross-linked them to their canonical sources.
 - **Thematic Reading Paths**: Created 6 beautifully formatted practice-focused reading path files under `paths/` and 1 protective chant index under `paritta/INDEX.md`.
-- **Vault Link Integrity**: Verified vault-wide link integrity. Replaced ambiguous links for `gradual_training` with path-specific references (`[[matika/gradual_training]]` and `[[paths/gradual_training]]`). Link validator confirms **0 broken links** across 951 files and 11,890 wikilinks.
+- **Vault Link Integrity**: Verified vault-wide link integrity. Replaced ambiguous links for `gradual_training` with path-specific references (`[[matika/gradual_training]]` and `[[paths/gradual_training_path]]`). Link validator confirms **0 broken links** across 951 files and 11,890 wikilinks.
 - **Status & Tasks Updates**: Updated parent indexes, `STATUS.md`, and `TASKS.md` with complete and accurate Phase 9 metrics.
 
 ---

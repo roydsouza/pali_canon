@@ -5,10 +5,11 @@ title_en: Māra’s Dominion
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti59
+sutta_number: 59
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti59_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

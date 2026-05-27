@@ -2,6 +2,7 @@
 id: effort_to_maintain
 title_pali: Anurakkhaṇā
 type: matika
+category: factor_note
 ---
 
 # Effort to Maintain (Anurakkhaṇā)

@@ -2,6 +2,7 @@
 id: contemplation_of_phenomena
 title_pali: Dhammānupassanā
 type: matika
+category: factor_note
 ---
 
 # Contemplation of Phenomena (Dhammānupassanā)

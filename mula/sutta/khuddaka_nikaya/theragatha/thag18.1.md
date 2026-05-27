@@ -1,14 +1,14 @@
 ---
-id: THAG18.1
+id: THAG18
 title_pali: Mahākassapatheragāthā
 title_en: Mahākassapa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag18.1
+sutta_number: 18
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

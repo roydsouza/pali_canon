@@ -1,13 +1,14 @@
 ---
-id: iti65_att
+id: ITI65_att
 title_pali: 6. Sucaritasuttavaṇṇanā
-title_en: Commentary on Good Conduct
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 65
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti65.md
+title_en: Commentary on Good Conduct
 subcollection: itivuttaka
-sutta_number: iti65
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

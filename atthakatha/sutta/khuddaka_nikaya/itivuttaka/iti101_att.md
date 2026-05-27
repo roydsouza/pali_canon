@@ -1,13 +1,14 @@
 ---
-id: iti101_att
+id: ITI101_att
 title_pali: 2. Sulabhasuttavaṇṇanā
-title_en: Commentary on Easy to Find
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 101
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti101.md
+title_en: Commentary on Easy to Find
 subcollection: itivuttaka
-sutta_number: iti101
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -5,9 +5,11 @@ title_en: The Prime Net
 type: mula
 pitaka: sutta
 nikaya: digha
-sutta_number: dn1
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/digha_nikaya/dn1_att.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn1_tik.md
 tags:
   - meditation
 ---

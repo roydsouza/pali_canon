@@ -1,14 +1,14 @@
 ---
-id: THIG8.1
+id: THIG8
 title_pali: Sīsūpacālātherīgāthā
 title_en: Sīsūpacālā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig8.1
+sutta_number: 8
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

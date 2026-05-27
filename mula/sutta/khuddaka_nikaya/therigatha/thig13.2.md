@@ -1,14 +1,14 @@
 ---
-id: THIG13.2
+id: THIG13
 title_pali: Rohinītherīgāthā
 title_en: Rohinī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig13.2
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

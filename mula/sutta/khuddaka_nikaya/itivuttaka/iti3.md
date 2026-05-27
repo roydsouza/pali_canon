@@ -5,10 +5,11 @@ title_en: Delusion
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti3
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti3_att.md
+subcollection: itivuttaka
 tags:
   - delusion
   - three_unwholesome_roots

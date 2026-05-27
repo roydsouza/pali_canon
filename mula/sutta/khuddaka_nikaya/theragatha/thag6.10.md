@@ -1,14 +1,14 @@
 ---
-id: THAG6.10
+id: THAG6
 title_pali: Sumanatheragāthā
 title_en: Sumana (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.10
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

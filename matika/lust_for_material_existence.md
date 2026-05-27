@@ -2,6 +2,7 @@
 id: lust_for_material_existence
 title_pali: Rūparāga
 type: matika
+category: factor_note
 ---
 
 # Lust for Material Existence (Rūparāga)

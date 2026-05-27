@@ -1,14 +1,14 @@
 ---
-id: THIG15.1
+id: THIG15
 title_pali: Isidāsītherīgāthā
 title_en: Isidāsī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig15.1
+sutta_number: 15
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

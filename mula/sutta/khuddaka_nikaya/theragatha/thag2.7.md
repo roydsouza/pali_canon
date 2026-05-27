@@ -1,14 +1,14 @@
 ---
-id: THAG2.7
+id: THAG2
 title_pali: Rādhatheragāthā
 title_en: Rādha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.7
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

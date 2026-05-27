@@ -1,13 +1,14 @@
 ---
-id: iti102_att
+id: ITI102_att
 title_pali: 3. Āsavakkhayasuttavaṇṇanā
-title_en: Commentary on The Ending of Defilements
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 102
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti102.md
+title_en: Commentary on The Ending of Defilements
 subcollection: itivuttaka
-sutta_number: iti102
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

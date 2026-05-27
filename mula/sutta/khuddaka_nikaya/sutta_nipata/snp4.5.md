@@ -1,14 +1,15 @@
 ---
-id: SNP4.5
+id: SNP4
 title_pali: Paramaṭṭhakasutta
 title_en: Eight on the Ultimate
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.5
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.5_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

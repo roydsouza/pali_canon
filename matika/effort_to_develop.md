@@ -2,6 +2,7 @@
 id: effort_to_develop
 title_pali: Bhāvanā
 type: matika
+category: factor_note
 ---
 
 # Effort to Develop (Bhāvanā)

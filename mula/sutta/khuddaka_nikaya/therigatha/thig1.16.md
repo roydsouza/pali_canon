@@ -1,14 +1,14 @@
 ---
-id: THIG1.16
+id: THIG1
 title_pali: Vuḍḍhapabbajitasumanātherīgāthā
 title_en: Sumanā, Who Went Forth Late in Life
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.16
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

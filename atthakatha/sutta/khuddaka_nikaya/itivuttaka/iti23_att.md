@@ -1,13 +1,14 @@
 ---
-id: iti23_att
+id: ITI23_att
 title_pali: 3. Ubhayatthasuttavaṇṇanā
-title_en: Commentary on Both Kinds of Benefit
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 23
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti23.md
+title_en: Commentary on Both Kinds of Benefit
 subcollection: itivuttaka
-sutta_number: iti23
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

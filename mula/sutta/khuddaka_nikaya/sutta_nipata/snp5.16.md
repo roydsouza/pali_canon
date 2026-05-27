@@ -1,14 +1,15 @@
 ---
-id: SNP5.16
+id: SNP5
 title_pali: Mogharājamāṇavapucchā
 title_en: The Questions of Mogharāja
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.16
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.16_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

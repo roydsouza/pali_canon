@@ -1,14 +1,14 @@
 ---
-id: THIG2.5
+id: THIG2
 title_pali: Cittātherīgāthā
 title_en: Cittā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.5
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

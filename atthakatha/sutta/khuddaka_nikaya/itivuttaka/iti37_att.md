@@ -1,13 +1,14 @@
 ---
-id: iti37_att
+id: ITI37_att
 title_pali: 10. Somanassasuttavaṇṇanā
-title_en: Commentary on Happiness
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 37
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti37.md
+title_en: Commentary on Happiness
 subcollection: itivuttaka
-sutta_number: iti37
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

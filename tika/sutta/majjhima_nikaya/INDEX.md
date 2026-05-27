@@ -1,7 +1,12 @@
 ---
-type: index
+id: INDEX_tik
+title_pali: ""
+type: tika
 pitaka: sutta
 nikaya: majjhima
+sutta_number: INDEX
+mula_file: /mula/abhidhamma/INDEX.md
+commentary_file: /atthakatha/abhidhamma/INDEX.md
 layer: tika
 ---
 
@@ -40,7 +45,7 @@ This directory contains sub-commentaries (Papañcasūdanī-ṭīkā) on the Midd
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title"
-FROM "tika/sutta/majjhima_nikaya" AND #tika
+WHERE contains(file.path, "tika/sutta/majjhima_nikaya/")
 SORT file.name ASC
 ```
 

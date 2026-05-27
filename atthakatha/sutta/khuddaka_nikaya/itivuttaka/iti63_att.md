@@ -1,13 +1,14 @@
 ---
-id: iti63_att
+id: ITI63_att
 title_pali: 4. Addhāsuttavaṇṇanā
-title_en: Commentary on Periods
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 63
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti63.md
+title_en: Commentary on Periods
 subcollection: itivuttaka
-sutta_number: iti63
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

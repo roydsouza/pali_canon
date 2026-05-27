@@ -1,15 +1,17 @@
 ---
-id: an9_35_att
+id: AN9.35_att
 title_pali: Gāvīupamāsuttavaṇṇanā
-title_en: Commentary on Gāvīupamāsutta (The Simile of the Cow)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 9.35
+mula_file: /mula/sutta/anguttara_nikaya/an9_35.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an9_35_tik.md
+title_en: Commentary on Gāvīupamāsutta (The Simile of the Cow)
 sutta: an9.35
 layer: atthakatha
-mula_file: [[an9_35]]
 tika_file: [[an9_35_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Gāvīupamāsutta

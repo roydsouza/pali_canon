@@ -1,14 +1,14 @@
 ---
-id: THIG6.1
+id: THIG6
 title_pali: Pañcasatamattātherīgāthā
 title_en: Paṭācārā, Who Had a Following of Five Hundred
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig6.1
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

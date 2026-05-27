@@ -1,14 +1,14 @@
 ---
-id: THIG1.2
+id: THIG1
 title_pali: Muttātherīgāthā
 title_en: Muttā (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.2
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

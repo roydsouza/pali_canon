@@ -1,14 +1,14 @@
 ---
-id: THAG6.12
+id: THAG6
 title_pali: Brahmadattatheragāthā
 title_en: Brahmadatta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.12
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

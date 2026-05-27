@@ -2,6 +2,7 @@
 id: dhamma
 title_pali: Dhamma
 type: matika
+category: factor_note
 ---
 
 # The Dhamma (Dhamma)

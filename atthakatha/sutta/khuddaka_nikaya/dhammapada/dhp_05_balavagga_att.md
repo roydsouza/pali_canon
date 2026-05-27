@@ -1,16 +1,17 @@
 ---
 id: DHP_05_att
 title_pali: Bālavaggavaṇṇanā
-title_en: Commentary on Bālavagga (Fools)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_05_balavagga.md
+title_en: Commentary on Bālavagga (Fools)
 text: dhammapada
 vagga: 5
-verse_range: "60–75"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_05_balavagga.md
+verse_range: 60–75
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 5: Bālavagga

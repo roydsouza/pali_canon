@@ -1,14 +1,15 @@
 ---
-id: SNP4.16
+id: SNP4
 title_pali: Sāriputtasutta
 title_en: With Sāriputta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.16
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.16_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

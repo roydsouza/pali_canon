@@ -5,9 +5,11 @@ title_en: Craving
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 24
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_24_tanhavagga_att.md
 text: dhammapada
 vagga: 24
-verse_range: "334–359"
+verse_range: 334–359
 tags:
   - dhammapada
 ---

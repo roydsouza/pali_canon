@@ -1,13 +1,14 @@
 ---
-id: iti14_att
+id: ITI14_att
 title_pali: 4. Avijjānīvaraṇasuttavaṇṇanā
-title_en: Commentary on The Shroud of Ignorance
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 14
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti14.md
+title_en: Commentary on The Shroud of Ignorance
 subcollection: itivuttaka
-sutta_number: iti14
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

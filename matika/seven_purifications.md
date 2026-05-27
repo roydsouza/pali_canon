@@ -2,6 +2,7 @@
 id: seven_purifications
 title_pali: Satta Visuddhi
 type: matika
+category: list_note
 ---
 
 # Seven Purifications (Satta Visuddhi)

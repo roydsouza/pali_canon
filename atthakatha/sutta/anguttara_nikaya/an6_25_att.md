@@ -1,15 +1,17 @@
 ---
-id: an6_25_att
+id: AN6.25_att
 title_pali: Anussatiṭṭhānasuttavaṇṇanā
-title_en: Commentary on Anussatiṭṭhānasutta (Topics for Recollection)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 6.25
+mula_file: /mula/sutta/anguttara_nikaya/an6_25.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an6_25_tik.md
+title_en: Commentary on Anussatiṭṭhānasutta (Topics for Recollection)
 sutta: an6.25
 layer: atthakatha
-mula_file: [[an6_25]]
 tika_file: [[an6_25_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Anussatiṭṭhānasutta

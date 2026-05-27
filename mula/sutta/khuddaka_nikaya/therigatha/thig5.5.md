@@ -1,14 +1,14 @@
 ---
-id: THIG5.5
+id: THIG5
 title_pali: Nanduttarātherīgāthā
 title_en: Nanduttarā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.5
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

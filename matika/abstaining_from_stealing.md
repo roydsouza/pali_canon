@@ -2,6 +2,7 @@
 id: abstaining_from_stealing
 title_pali: Adinnādānā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Stealing (Adinnādānā veramaṇī)

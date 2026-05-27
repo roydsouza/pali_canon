@@ -1,13 +1,15 @@
 ---
 id: AN3.100_att
 title_pali: Loṇakapallasuttavaṇṇanā
-title_en: Commentary on Loṇakapallasutta (A Lump of Salt)
 type: atthakatha
 pitaka: sutta
 nikaya: anguttara
-mula_file: [[an3_100]]
+sutta_number: 3.100
+mula_file: /mula/sutta/anguttara_nikaya/an3_100.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an3_100_tik.md
+title_en: Commentary on Loṇakapallasutta (A Lump of Salt)
 tika_file: [[an3_100_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Loṇakapallasutta

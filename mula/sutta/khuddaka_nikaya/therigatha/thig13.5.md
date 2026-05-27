@@ -1,14 +1,14 @@
 ---
-id: THIG13.5
+id: THIG13
 title_pali: Subhākammāradhītutherīgāthā
 title_en: Subhā, the Smith’s Daughter
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig13.5
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

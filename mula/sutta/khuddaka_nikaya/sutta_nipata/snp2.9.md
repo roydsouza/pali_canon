@@ -1,14 +1,15 @@
 ---
-id: SNP2.9
+id: SNP2
 title_pali: Kiṁsīlasutta
 title_en: What Morality?
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp2.9
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp2.9_att.md
+subcollection: sutta_nipata
 tags:
   - ethics
   - conduct

@@ -2,6 +2,7 @@
 id: ill_will_or_hostility
 title_pali: Vyāpāda / Paṭigha
 type: matika
+category: factor_note
 ---
 
 # Ill Will / Hostility (Vyāpāda / Paṭigha)

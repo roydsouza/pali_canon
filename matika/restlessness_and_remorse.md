@@ -2,6 +2,7 @@
 id: restlessness_and_remorse
 title_pali: Uddhacca-kukkucca
 type: matika
+category: factor_note
 ---
 
 # Restlessness and Remorse (Uddhacca-kukkucca)

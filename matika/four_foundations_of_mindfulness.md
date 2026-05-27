@@ -2,6 +2,7 @@
 id: four_foundations_of_mindfulness
 title_pali: Cattāro Satipaṭṭhānā
 type: matika
+category: list_note
 ---
 
 # Four Foundations of Mindfulness (Cattāro Satipaṭṭhānā)

@@ -1,13 +1,14 @@
 ---
-id: iti46_att
+id: ITI46_att
 title_pali: 9. Sikkhānisaṃsasuttavaṇṇanā
-title_en: Commentary on The Benefits of Training
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 46
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti46.md
+title_en: Commentary on The Benefits of Training
 subcollection: itivuttaka
-sutta_number: iti46
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -1,15 +1,15 @@
 ---
-id: an11_3_5_att
+id: AN11.3-5_att
 title_pali: Upanisasuttattayavaṇṇanā
-title_en: Commentary on Upanisa Suttas (AN 11.3–5)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.3-5
+title_en: Commentary on Upanisa Suttas (AN 11.3–5)
 sutta: an11.3
 layer: atthakatha
-mula_file: [[an11_3]], [[an11_4]], [[an11_5]]
 tika_file: [[an11_2_5_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Upanisa Suttas

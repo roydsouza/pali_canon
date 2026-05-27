@@ -5,9 +5,11 @@ title_en: Evil
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 9
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_09_papavagga_att.md
 text: dhammapada
 vagga: 9
-verse_range: "116–128"
+verse_range: 116–128
 tags:
   - dhammapada
   - precepts

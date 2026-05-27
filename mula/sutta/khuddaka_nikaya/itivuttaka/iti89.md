@@ -5,10 +5,11 @@ title_en: About Devadatta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti89
+sutta_number: 89
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti89_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

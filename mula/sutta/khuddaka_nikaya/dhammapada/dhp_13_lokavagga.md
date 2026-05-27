@@ -5,9 +5,11 @@ title_en: The World
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 13
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_13_lokavagga_att.md
 text: dhammapada
 vagga: 13
-verse_range: "167–178"
+verse_range: 167–178
 tags:
   - dhammapada
 ---

@@ -1,14 +1,14 @@
 ---
-id: THIG2.9
+id: THIG2
 title_pali: Abhayātherīgāthā
 title_en: Abhayā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.9
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

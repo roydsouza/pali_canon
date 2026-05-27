@@ -5,10 +5,11 @@ title_en: Complete Understanding of Disdain
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti13
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti13_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

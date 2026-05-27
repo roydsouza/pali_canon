@@ -1,15 +1,17 @@
 ---
 id: MN119_tik
 title_pali: Kāyagatāsatisuttavaṇṇanātīkā
-title_en: Sub-commentary on Kāyagatāsatisutta (Mindfulness of the Body)
 type: tika
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 119
+mula_file: /mula/sutta/majjhima_nikaya/mn119.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn119_att.md
+title_en: Sub-commentary on Kāyagatāsatisutta (Mindfulness of the Body)
 sutta: mn119
 layer: tika
-mula_file: [[mn119]]
 att_file: [[mn119_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Kāyagatāsatisutta

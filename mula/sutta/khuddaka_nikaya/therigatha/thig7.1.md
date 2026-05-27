@@ -1,14 +1,14 @@
 ---
-id: THIG7.1
+id: THIG7
 title_pali: Uttarātherīgāthā
 title_en: Uttarā (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig7.1
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

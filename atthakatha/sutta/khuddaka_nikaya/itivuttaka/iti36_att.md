@@ -1,13 +1,14 @@
 ---
-id: iti36_att
+id: ITI36_att
 title_pali: 9. Dutiyanakuhanasuttavaṇṇanā
-title_en: Commentary on Fawning and Flattery
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 36
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti36.md
+title_en: Commentary on Fawning and Flattery
 subcollection: itivuttaka
-sutta_number: iti36
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

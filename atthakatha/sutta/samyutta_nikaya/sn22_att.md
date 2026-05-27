@@ -1,14 +1,16 @@
 ---
 id: SN22_att
 title_pali: Khandhasaṃyuttavaṇṇanā
-title_en: Commentary on Khandhasaṃyutta
 type: atthakatha
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 22
+mula_file: /mula/sutta/samyutta_nikaya/sn22.md
+sub_commentary_file: /tika/sutta/samyutta_nikaya/sn22_tik.md
+title_en: Commentary on Khandhasaṃyutta
 samyutta: sn22
-mula_file: [[sn22]]
 tika_file: [[sn22_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Saṃyutta Nikāya: Khandhasaṃyutta

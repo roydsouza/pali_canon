@@ -1,13 +1,14 @@
 ---
-id: iti43_att
+id: ITI43_att
 title_pali: 6. Ajātasuttavaṇṇanā
-title_en: Commentary on Free of Rebirth
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 43
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti43.md
+title_en: Commentary on Free of Rebirth
 subcollection: itivuttaka
-sutta_number: iti43
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

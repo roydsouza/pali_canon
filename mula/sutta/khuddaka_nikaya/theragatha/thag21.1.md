@@ -1,14 +1,14 @@
 ---
-id: THAG21.1
+id: THAG21
 title_pali: Vaṅgīsatheragāthā
 title_en: Vaṅgīsa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag21.1
+sutta_number: 21
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

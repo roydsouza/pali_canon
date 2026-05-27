@@ -1,13 +1,14 @@
 ---
-id: iti13_att
+id: ITI13_att
 title_pali: 1-3. Mohapariññādisuttavaṇṇanā
-title_en: Commentary on Complete Understanding of Disdain
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 13
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti13.md
+title_en: Commentary on Complete Understanding of Disdain
 subcollection: itivuttaka
-sutta_number: iti13
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

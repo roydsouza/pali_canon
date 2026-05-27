@@ -1,16 +1,17 @@
 ---
 id: DHP_24_att
 title_pali: Taṇhāvaggavaṇṇanā
-title_en: Commentary on Taṇhāvagga (Craving)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 24
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_24_tanhavagga.md
+title_en: Commentary on Taṇhāvagga (Craving)
 text: dhammapada
 vagga: 24
-verse_range: "334–359"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_24_tanhavagga.md
+verse_range: 334–359
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 24: Taṇhāvagga

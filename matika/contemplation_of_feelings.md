@@ -2,6 +2,7 @@
 id: contemplation_of_feelings
 title_pali: Vedanānupassanā
 type: matika
+category: factor_note
 ---
 
 # Contemplation of Feelings (Vedanānupassanā)

@@ -1,13 +1,14 @@
 ---
-id: iti31_att
+id: ITI31_att
 title_pali: 4. Atapanīyasuttavaṇṇanā
-title_en: Commentary on Not Mortifying
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 31
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti31.md
+title_en: Commentary on Not Mortifying
 subcollection: itivuttaka
-sutta_number: iti31
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

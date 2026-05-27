@@ -2,6 +2,7 @@
 id: seven_awakening_factors
 title_pali: Satta Bojjhaṅgā
 type: matika
+category: list_note
 ---
 
 # Seven Awakening Factors (Satta Bojjhaṅgā)

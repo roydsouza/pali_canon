@@ -5,9 +5,11 @@ title_en: Flowers
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 4
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_04_pupphavagga_att.md
 text: dhammapada
 vagga: 4
-verse_range: "44–59"
+verse_range: 44–59
 tags:
   - dhammapada
 ---

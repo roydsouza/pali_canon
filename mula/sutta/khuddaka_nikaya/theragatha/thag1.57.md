@@ -1,14 +1,14 @@
 ---
-id: THAG1.57
+id: THAG1
 title_pali: Dutiyakuṭivihāritheragāthā
 title_en: Kuṭivihārin (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.57
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

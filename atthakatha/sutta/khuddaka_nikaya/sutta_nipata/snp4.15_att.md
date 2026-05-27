@@ -1,13 +1,14 @@
 ---
-id: snp4.15_att
+id: SNP4_att
 title_pali: 15. Attadaṇḍasuttavaṇṇanā
-title_en: Commentary on Taking Up Arms
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 4
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp4.15.md
+title_en: Commentary on Taking Up Arms
 subcollection: sutta_nipata
-sutta_number: snp4.15
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

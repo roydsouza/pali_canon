@@ -5,10 +5,11 @@ title_en: Knowledge
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti40
+sutta_number: 40
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti40_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

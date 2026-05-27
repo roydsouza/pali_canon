@@ -2,6 +2,7 @@
 id: effort_to_prevent
 title_pali: Saṃvara
 type: matika
+category: factor_note
 ---
 
 # Effort to Prevent (Saṃvara)

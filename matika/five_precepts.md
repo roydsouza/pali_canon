@@ -2,6 +2,7 @@
 id: five_precepts
 title_pali: Pañcasīla
 type: matika
+category: list_note
 ---
 
 # Five Precepts (Pañcasīla)

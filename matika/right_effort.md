@@ -2,6 +2,7 @@
 id: right_effort
 title_pali: Sammāvāyāmo
 type: matika
+category: factor_note
 ---
 
 # Right Effort (Sammāvāyāmo)

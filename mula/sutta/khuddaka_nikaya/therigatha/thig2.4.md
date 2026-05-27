@@ -1,14 +1,14 @@
 ---
-id: THIG2.4
+id: THIG2
 title_pali: Aḍḍhakāsitherīgāthā
 title_en: Aḍḍhakāsi
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.4
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

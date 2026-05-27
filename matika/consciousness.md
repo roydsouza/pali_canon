@@ -2,6 +2,7 @@
 id: consciousness
 title_pali: Viññāṇa
 type: matika
+category: factor_note
 ---
 
 # Consciousness / Awareness (Viññāṇa)

@@ -1,14 +1,15 @@
 ---
-id: SNP2.5
+id: SNP2
 title_pali: Sūcilomasutta
 title_en: With Spiky
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp2.5
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp2.5_att.md
+subcollection: sutta_nipata
 tags:
   - ethics
   - conduct

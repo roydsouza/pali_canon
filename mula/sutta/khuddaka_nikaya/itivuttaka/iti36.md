@@ -5,10 +5,11 @@ title_en: Fawning and Flattery
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti36
+sutta_number: 36
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti36_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

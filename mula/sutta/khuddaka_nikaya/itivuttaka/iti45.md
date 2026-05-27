@@ -5,10 +5,11 @@ title_en: Retreat
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti45
+sutta_number: 45
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti45_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

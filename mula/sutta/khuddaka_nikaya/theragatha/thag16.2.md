@@ -1,14 +1,14 @@
 ---
-id: THAG16.2
+id: THAG16
 title_pali: Pārāpariyatheragāthā
 title_en: Pārāsariya (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.2
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

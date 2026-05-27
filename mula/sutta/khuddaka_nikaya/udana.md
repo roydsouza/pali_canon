@@ -1,12 +1,14 @@
 ---
-id: UD
+id: UDANA
 title_pali: Udāna
 title_en: Inspired Utterances
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: udana
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/udana_att.md
 tags:
   - udana
   - inspired-utterances

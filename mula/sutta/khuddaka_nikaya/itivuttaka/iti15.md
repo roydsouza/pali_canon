@@ -5,10 +5,11 @@ title_en: The Fetter of Craving
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti15
+sutta_number: 15
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti15_att.md
+subcollection: itivuttaka
 tags:
   - craving
   - ten_fetters

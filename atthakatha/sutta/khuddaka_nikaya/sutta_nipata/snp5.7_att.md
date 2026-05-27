@@ -1,13 +1,14 @@
 ---
-id: snp5.7_att
+id: SNP5_att
 title_pali: 6. Upasīvasuttavaṇṇanā
-title_en: Commentary on The Questions of Upasīva
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp5.7.md
+title_en: Commentary on The Questions of Upasīva
 subcollection: sutta_nipata
-sutta_number: snp5.7
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

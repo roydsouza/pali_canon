@@ -2,6 +2,7 @@
 id: three_refuges
 title_pali: Tisarana
 type: matika
+category: list_note
 ---
 
 # Three Refuges (Tisarana / Tiratana)

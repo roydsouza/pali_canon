@@ -1,15 +1,17 @@
 ---
-id: an1_1_10_att
+id: AN1.1-10_att
 title_pali: 1. Rūpādivaggavaṇṇanā
-title_en: Commentary on 1. Rūpādivagga (The Chapter on What Occupies the Mind)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 1.1-10
+mula_file: /mula/sutta/anguttara_nikaya/an1_1_10.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an1_1_10_tik.md
+title_en: Commentary on 1. Rūpādivagga (The Chapter on What Occupies the Mind)
 sutta: an1.1-10
 layer: atthakatha
-mula_file: [[an1_1_10]]
 tika_file: [[an1_1_10_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: 1. Rūpādivagga

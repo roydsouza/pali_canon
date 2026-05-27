@@ -2,6 +2,7 @@
 id: right_livelihood
 title_pali: Sammāājīvo
 type: matika
+category: factor_note
 ---
 
 # Right Livelihood (Sammāājīvo)

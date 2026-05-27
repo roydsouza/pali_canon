@@ -1,14 +1,14 @@
 ---
-id: THAG7.1
+id: THAG7
 title_pali: Sundarasamuddatheragāthā
 title_en: Sundarasamudda
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag7.1
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

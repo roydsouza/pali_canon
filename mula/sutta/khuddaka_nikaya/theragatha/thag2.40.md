@@ -1,14 +1,14 @@
 ---
-id: THAG2.40
+id: THAG2
 title_pali: Kappaṭakuratheragāthā
 title_en: Kappaṭakura
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.40
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

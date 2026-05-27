@@ -2,6 +2,7 @@
 id: six_recollections
 title_pali: Cha Anussati
 type: matika
+category: list_note
 ---
 
 # Six Recollections (Cha Anussati)

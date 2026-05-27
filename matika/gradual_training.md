@@ -2,6 +2,7 @@
 id: gradual_training
 title_pali: Anupubbasikkhā
 type: matika
+category: list_note
 ---
 
 # Gradual Training (Anupubbasikkhā)

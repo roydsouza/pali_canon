@@ -1,14 +1,14 @@
 ---
-id: THAG4.1
+id: THAG4
 title_pali: Nāgasamālatheragāthā
 title_en: Nāgasamāla
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.1
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

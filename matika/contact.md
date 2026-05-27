@@ -2,6 +2,7 @@
 id: contact
 title_pali: Phassa
 type: matika
+category: factor_note
 ---
 
 # Contact / Sensory Impingement (Phassa)

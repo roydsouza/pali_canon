@@ -5,10 +5,11 @@ title_en: Grounds for Making Merit
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti60
+sutta_number: 60
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti60_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

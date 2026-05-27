@@ -2,6 +2,7 @@
 id: investigation_of_phenomena
 title_pali: Dhammavicaya
 type: matika
+category: factor_note
 ---
 
 # Investigation of Phenomena (Dhammavicaya)

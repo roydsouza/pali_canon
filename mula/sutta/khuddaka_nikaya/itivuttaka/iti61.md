@@ -5,10 +5,11 @@ title_en: The Eye
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti61
+sutta_number: 61
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti61_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

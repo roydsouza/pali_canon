@@ -2,6 +2,7 @@
 id: abstaining_from_entertainment_and_adornments
 title_pali: Naccagītavāditavisūkadassanāmālāgandhavilepana...
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Entertainment & Adornments (Naccagītavāditavisūkadassanāmālāgandhavilepana...)

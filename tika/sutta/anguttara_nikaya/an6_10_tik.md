@@ -1,15 +1,17 @@
 ---
-id: an6_10_tik
+id: AN6.10_tik
 title_pali: Mahānāmasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Mahānāmasutta (With Mahānāma)
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 6.10
+mula_file: /mula/sutta/anguttara_nikaya/an6_10.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an6_10_att.md
+title_en: Sub-commentary on Mahānāmasutta (With Mahānāma)
 sutta: an6.10
 layer: tika
-mula_file: [[an6_10]]
 att_file: [[an6_10_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Mahānāmasutta

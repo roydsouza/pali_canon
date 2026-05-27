@@ -2,6 +2,7 @@
 id: compassion
 title_pali: Karuṇā
 type: matika
+category: factor_note
 ---
 
 # Compassion (Karuṇā)

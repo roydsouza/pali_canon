@@ -2,6 +2,7 @@
 id: rapture_or_joy
 title_pali: Pīti
 type: matika
+category: factor_note
 ---
 
 # Rapture / Joy (Pīti)

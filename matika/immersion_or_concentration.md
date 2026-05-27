@@ -2,6 +2,7 @@
 id: immersion_or_concentration
 title_pali: Samādhi
 type: matika
+category: factor_note
 ---
 
 # Immersion / Concentration (Samādhi)

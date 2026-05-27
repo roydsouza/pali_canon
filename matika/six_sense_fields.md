@@ -2,6 +2,7 @@
 id: six_sense_fields
 title_pali: Saḷāyatana
 type: matika
+category: factor_note
 ---
 
 # Six Sense Fields (Saḷāyatana)

@@ -1,13 +1,14 @@
 ---
-id: iti79_att
+id: ITI79_att
 title_pali: 10. Parihānasuttavaṇṇanā
-title_en: Commentary on Decline
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 79
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti79.md
+title_en: Commentary on Decline
 subcollection: itivuttaka
-sutta_number: iti79
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

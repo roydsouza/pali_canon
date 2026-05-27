@@ -1,13 +1,14 @@
 ---
-id: iti97_att
+id: ITI97_att
 title_pali: 8. Kalyāṇasīlasuttavaṇṇanā
-title_en: Commentary on Good Morals
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 97
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti97.md
+title_en: Commentary on Good Morals
 subcollection: itivuttaka
-sutta_number: iti97
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

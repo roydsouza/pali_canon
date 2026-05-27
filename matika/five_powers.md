@@ -2,6 +2,7 @@
 id: five_powers
 title_pali: Pañcabala
 type: matika
+category: list_note
 ---
 
 # Five Powers (Pañcabala)

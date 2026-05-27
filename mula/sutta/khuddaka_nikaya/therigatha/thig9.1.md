@@ -1,14 +1,14 @@
 ---
-id: THIG9.1
+id: THIG9
 title_pali: Vaḍḍhamātutherīgāthā
 title_en: Vaḍḍha’s Mother
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig9.1
+sutta_number: 9
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

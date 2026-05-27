@@ -5,9 +5,11 @@ title_en: Impurity
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 18
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_18_malavagga_att.md
 text: dhammapada
 vagga: 18
-verse_range: "235–255"
+verse_range: 235–255
 tags:
   - dhammapada
   - precepts

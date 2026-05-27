@@ -1,15 +1,17 @@
 ---
-id: an8_53_att
+id: AN8.53_att
 title_pali: Saṅkhittasuttavaṇṇanā
-title_en: Commentary on Saṅkhittasutta (Brief Advice to Gotamī)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 8.53
+mula_file: /mula/sutta/anguttara_nikaya/an8_53.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an8_53_tik.md
+title_en: Commentary on Saṅkhittasutta (Brief Advice to Gotamī)
 sutta: an8.53
 layer: atthakatha
-mula_file: [[an8_53]]
 tika_file: [[an8_53_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Saṅkhittasutta

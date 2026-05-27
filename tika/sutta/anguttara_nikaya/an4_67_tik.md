@@ -1,15 +1,17 @@
 ---
-id: an4_67_tik
+id: AN4.67_tik
 title_pali: Ahirājasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Ahirājasutta (The Snake King)
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 4.67
+mula_file: /mula/sutta/anguttara_nikaya/an4_67.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an4_67_att.md
+title_en: Sub-commentary on Ahirājasutta (The Snake King)
 sutta: an4.67
 layer: tika
-mula_file: [[an4_67]]
 att_file: [[an4_67_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Ahirājasutta

@@ -1,15 +1,17 @@
 ---
-id: mn148_att
+id: MN148_att
 title_pali: Chachakkasuttavaṇṇanā
-title_en: Commentary on Chachakkasutta (Six By Six)
 type: atthakatha
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 148
+mula_file: /mula/sutta/majjhima_nikaya/mn148.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn148_tik.md
+title_en: Commentary on Chachakkasutta (Six By Six)
 sutta: mn148
 layer: atthakatha
-mula_file: [[mn148]]
 tika_file: [[mn148_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Majjhima Nikāya: Chachakkasutta

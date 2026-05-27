@@ -1,13 +1,14 @@
 ---
-id: iti95_att
+id: ITI95_att
 title_pali: 6. Kāmūpapattisuttavaṇṇanā
-title_en: Commentary on Provided With Pleasure
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 95
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti95.md
+title_en: Commentary on Provided With Pleasure
 subcollection: itivuttaka
-sutta_number: iti95
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

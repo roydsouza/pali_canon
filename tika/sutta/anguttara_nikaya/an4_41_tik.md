@@ -1,15 +1,17 @@
 ---
 id: AN4.41_tik
 title_pali: Samādhibhāvanāsuttavaṇṇanātīkā
-title_en: Sub-commentary on Samādhibhāvanāsutta (Four Developments of Immersion)
 type: tika
 pitaka: sutta
 nikaya: anguttara
+sutta_number: 4.41
+mula_file: /mula/sutta/anguttara_nikaya/an4_41.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an4_41_att.md
+title_en: Sub-commentary on Samādhibhāvanāsutta (Four Developments of Immersion)
 sutta: an4.41
 layer: tika
-mula_file: [[an4_41]]
 att_file: [[an4_41_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Samādhibhāvanāsutta

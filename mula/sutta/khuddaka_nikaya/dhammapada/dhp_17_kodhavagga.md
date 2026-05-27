@@ -5,9 +5,11 @@ title_en: Anger
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 17
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_17_kodhavagga_att.md
 text: dhammapada
 vagga: 17
-verse_range: "221–234"
+verse_range: 221–234
 tags:
   - dhammapada
   - precepts

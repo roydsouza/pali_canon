@@ -1,13 +1,14 @@
 ---
-id: iti86_att
+id: ITI86_att
 title_pali: 7. Dhammānudhammapaṭipannasuttavaṇṇanā
-title_en: Commentary on Practicing In Line With the Teaching
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 86
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti86.md
+title_en: Commentary on Practicing In Line With the Teaching
 subcollection: itivuttaka
-sutta_number: iti86
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

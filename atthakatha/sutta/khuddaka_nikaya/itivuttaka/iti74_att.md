@@ -1,13 +1,14 @@
 ---
-id: iti74_att
+id: ITI74_att
 title_pali: 5. Puttasuttavaṇṇanā
-title_en: Commentary on A Child
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 74
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti74.md
+title_en: Commentary on A Child
 subcollection: itivuttaka
-sutta_number: iti74
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

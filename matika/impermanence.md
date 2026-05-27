@@ -2,6 +2,7 @@
 id: impermanence
 title_pali: Anicca
 type: matika
+category: factor_note
 ---
 
 # Impermanence / Inconstancy (Anicca)

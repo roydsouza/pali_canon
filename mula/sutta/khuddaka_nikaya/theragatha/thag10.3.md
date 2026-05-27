@@ -1,14 +1,14 @@
 ---
-id: THAG10.3
+id: THAG10
 title_pali: Mahākappinatheragāthā
 title_en: Mahākappina
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag10.3
+sutta_number: 10
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

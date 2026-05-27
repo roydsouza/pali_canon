@@ -2,6 +2,7 @@
 id: loving_kindness
 title_pali: Mettā
 type: matika
+category: factor_note
 ---
 
 # Loving-kindness (Mettā)

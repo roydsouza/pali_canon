@@ -1,7 +1,12 @@
 ---
-type: index
+id: INDEX_att
+title_pali: ""
+type: atthakatha
 pitaka: sutta
 nikaya: anguttara
+sutta_number: INDEX
+mula_file: /mula/abhidhamma/INDEX.md
+sub_commentary_file: /tika/abhidhamma/INDEX.md
 layer: atthakatha
 ---
 
@@ -77,7 +82,7 @@ layer: atthakatha
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title"
-FROM "atthakatha/sutta/anguttara_nikaya" AND #atthakatha
+WHERE contains(file.path, "atthakatha/sutta/anguttara_nikaya/")
 SORT file.name ASC
 ```
 

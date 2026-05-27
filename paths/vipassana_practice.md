@@ -1,6 +1,6 @@
 ---
-id: path_vipassana_practice
-title: Vipassanā Practice: A Reading Path for Insight Meditation
+id: vipassana_practice
+title: "Vipassanā Practice: A Reading Path for Insight Meditation"
 type: path
 tags:
   - vipassana

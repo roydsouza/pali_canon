@@ -5,9 +5,11 @@ title_en: Thousands
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 8
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_08_sahassavagga_att.md
 text: dhammapada
 vagga: 8
-verse_range: "100–115"
+verse_range: 100–115
 tags:
   - dhammapada
 ---

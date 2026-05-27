@@ -2,6 +2,7 @@
 id: sensual_desire
 title_pali: Kāmacchanda / Kāmarāga
 type: matika
+category: factor_note
 ---
 
 # Sensual Desire (Kāmacchanda / Kāmarāga)

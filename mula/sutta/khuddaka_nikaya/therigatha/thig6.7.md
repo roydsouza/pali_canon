@@ -1,14 +1,14 @@
 ---
-id: THIG6.7
+id: THIG6
 title_pali: Guttātherīgāthā
 title_en: Guttā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig6.7
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

@@ -1,15 +1,17 @@
 ---
-id: an8_54_att
+id: AN8.54_att
 title_pali: Dīghajāṇusuttavaṇṇanā
-title_en: Commentary on Dīghajāṇusutta (With Dīghajāṇu)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 8.54
+mula_file: /mula/sutta/anguttara_nikaya/an8_54.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an8_54_tik.md
+title_en: Commentary on Dīghajāṇusutta (With Dīghajāṇu)
 sutta: an8.54
 layer: atthakatha
-mula_file: [[an8_54]]
 tika_file: [[an8_54_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Dīghajāṇusutta

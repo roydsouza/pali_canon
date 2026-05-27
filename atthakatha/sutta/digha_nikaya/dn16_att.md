@@ -1,15 +1,17 @@
 ---
 id: DN16_att
 title_pali: Mahāparinibbānasuttavaṇṇanā
-title_en: Commentary on Mahāparinibbānasutta (The Great Discourse on the Buddha’s Extinction)
 type: atthakatha
 pitaka: sutta
 nikaya: digha
+sutta_number: 16
+mula_file: /mula/sutta/digha_nikaya/dn16.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn16_tik.md
+title_en: Commentary on Mahāparinibbānasutta (The Great Discourse on the Buddha’s Extinction)
 sutta: dn16
 layer: atthakatha
-mula_file: [[dn16]]
 att_file: [[dn16_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
 ---
 
 # Commentary on Dīgha Nikāya: Mahāparinibbānasutta

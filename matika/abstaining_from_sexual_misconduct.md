@@ -2,6 +2,7 @@
 id: abstaining_from_sexual_misconduct
 title_pali: Kāmesumicchācārā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Sexual Misconduct (Kāmesumicchācārā veramaṇī)

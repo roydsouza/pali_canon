@@ -2,6 +2,7 @@
 id: sloth_and_torpor
 title_pali: Thīna-middha
 type: matika
+category: factor_note
 ---
 
 # Sloth and Torpor (Thīna-middha)

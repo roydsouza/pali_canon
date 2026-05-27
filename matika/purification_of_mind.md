@@ -2,6 +2,7 @@
 id: purification_of_mind
 title_pali: Citta-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification of Mind (Citta-visuddhi)

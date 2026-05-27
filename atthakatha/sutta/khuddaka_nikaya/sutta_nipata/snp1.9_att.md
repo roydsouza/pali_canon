@@ -1,13 +1,14 @@
 ---
-id: snp1.9_att
+id: SNP1_att
 title_pali: Hemavatasuttavaṇṇanā
-title_en: Commentary on Hemavata
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 1
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.9.md
+title_en: Commentary on Hemavata
 subcollection: sutta_nipata
-sutta_number: snp1.9
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -1,13 +1,14 @@
 ---
-id: snp5.17_att
+id: SNP5_att
 title_pali: 16. Piṅgiyasuttavaṇṇanā
-title_en: Commentary on The Questions of Piṅgiya
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp5.17.md
+title_en: Commentary on The Questions of Piṅgiya
 subcollection: sutta_nipata
-sutta_number: snp5.17
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

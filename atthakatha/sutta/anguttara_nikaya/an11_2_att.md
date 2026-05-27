@@ -1,15 +1,16 @@
 ---
-id: an11_2_att
+id: AN11.2_att
 title_pali: Cetanākaraṇīyasuttavaṇṇanā
-title_en: Commentary on Cetanākaraṇīyasutta (Making a Wish)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.2
+mula_file: /mula/sutta/anguttara_nikaya/an11_2.md
+title_en: Commentary on Cetanākaraṇīyasutta (Making a Wish)
 sutta: an11.2
 layer: atthakatha
-mula_file: [[an11_2]]
 tika_file: [[an11_2_5_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Cetanākaraṇīyasutta

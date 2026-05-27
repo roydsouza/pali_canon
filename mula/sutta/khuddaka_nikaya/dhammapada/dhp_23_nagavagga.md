@@ -5,9 +5,11 @@ title_en: The Elephant
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 23
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_23_nagavagga_att.md
 text: dhammapada
 vagga: 23
-verse_range: "320–333"
+verse_range: 320–333
 tags:
   - dhammapada
 ---

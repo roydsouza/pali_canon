@@ -1,14 +1,14 @@
 ---
-id: THIG3.1
+id: THIG3
 title_pali: Aparāsāmātherīgāthā
 title_en: Another Sāmā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig3.1
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

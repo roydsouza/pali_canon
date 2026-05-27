@@ -1,16 +1,17 @@
 ---
 id: DHP_20_att
 title_pali: Maggavaggavaṇṇanā
-title_en: Commentary on Maggavagga (The Path)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 20
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_20_maggavagga.md
+title_en: Commentary on Maggavagga (The Path)
 text: dhammapada
 vagga: 20
-verse_range: "273–289"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_20_maggavagga.md
+verse_range: 273–289
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 20: Maggavagga

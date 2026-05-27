@@ -1,15 +1,17 @@
 ---
 id: MN121_att
 title_pali: Cūḷasuññatasuttavaṇṇanā
-title_en: Commentary on Cūḷasuññatasutta (The Shorter Discourse on Emptiness)
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 121
+mula_file: /mula/sutta/majjhima_nikaya/mn121.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn121_tik.md
+title_en: Commentary on Cūḷasuññatasutta (The Shorter Discourse on Emptiness)
 sutta: mn121
 layer: atthakatha
-mula_file: [[mn121]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Cūḷasuññatasutta

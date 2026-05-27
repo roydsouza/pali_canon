@@ -1,14 +1,16 @@
 ---
 id: SN35_tik
 title_pali: Saḷāyatanasaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Saḷāyatanasaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 35
+mula_file: /mula/sutta/samyutta_nikaya/sn35.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn35_att.md
+title_en: Sub-commentary on Saḷāyatanasaṃyutta
 samyutta: sn35
-mula_file: [[sn35]]
 att_file: [[sn35_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Saḷāyatanasaṃyutta

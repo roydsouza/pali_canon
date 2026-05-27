@@ -1,13 +1,14 @@
 ---
-id: iti62_att
+id: ITI62_att
 title_pali: 3. Indriyasuttavaṇṇanā
-title_en: Commentary on Faculties
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 62
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti62.md
+title_en: Commentary on Faculties
 subcollection: itivuttaka
-sutta_number: iti62
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

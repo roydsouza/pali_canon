@@ -1,14 +1,14 @@
 ---
-id: THAG7.5
+id: THAG7
 title_pali: Sarabhaṅgatheragāthā
 title_en: Sarabhaṅga
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag7.5
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

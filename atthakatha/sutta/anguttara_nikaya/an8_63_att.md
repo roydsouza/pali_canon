@@ -1,15 +1,17 @@
 ---
-id: an8_63_att
+id: AN8.63_att
 title_pali: Saṅkhittasuttavaṇṇanā
-title_en: Commentary on Saṅkhittasutta (A Teaching in Brief)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 8.63
+mula_file: /mula/sutta/anguttara_nikaya/an8_63.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an8_63_tik.md
+title_en: Commentary on Saṅkhittasutta (A Teaching in Brief)
 sutta: an8.63
 layer: atthakatha
-mula_file: [[an8_63]]
 tika_file: [[an8_63_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Saṅkhittasutta

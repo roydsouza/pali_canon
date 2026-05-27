@@ -1,13 +1,14 @@
 ---
-id: iti32_att
+id: ITI32_att
 title_pali: 5. Paṭhamasīlasuttavaṇṇanā
-title_en: Commentary on Ethics (1st)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 32
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti32.md
+title_en: Commentary on Ethics (1st)
 subcollection: itivuttaka
-sutta_number: iti32
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

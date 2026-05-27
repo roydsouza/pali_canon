@@ -2,6 +2,7 @@
 id: purification_of_virtue
 title_pali: Sīla-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification of Virtue (Sīla-visuddhi)

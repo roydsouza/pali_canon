@@ -1,6 +1,6 @@
 ---
-id: path_maranasati
-title: Maraṇasati Practice: A Reading Path for Death Contemplation
+id: maranasati_path
+title: "Maraṇasati Practice: A Reading Path for Death Contemplation"
 type: path
 tags:
   - maranasati

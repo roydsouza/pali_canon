@@ -1,14 +1,16 @@
 ---
 id: SN46_tik
 title_pali: Bojjhaṅgasaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Bojjhaṅgasaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 46
+mula_file: /mula/sutta/samyutta_nikaya/sn46.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn46_att.md
+title_en: Sub-commentary on Bojjhaṅgasaṃyutta
 samyutta: sn46
-mula_file: [[sn46]]
 att_file: [[sn46_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Bojjhaṅgasaṃyutta

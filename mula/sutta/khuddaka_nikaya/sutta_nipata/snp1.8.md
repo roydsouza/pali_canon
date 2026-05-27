@@ -1,14 +1,15 @@
 ---
-id: SNP1.8
+id: SNP1
 title_pali: Mettasutta
 title_en: The Loving-Kindness Discourse
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp1.8
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.8_att.md
+subcollection: sutta_nipata
 tags:
   - loving-kindness
   - metta

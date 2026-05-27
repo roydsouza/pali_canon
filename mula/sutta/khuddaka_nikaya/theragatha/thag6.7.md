@@ -1,14 +1,14 @@
 ---
-id: THAG6.7
+id: THAG6
 title_pali: Kātiyānatheragāthā
 title_en: Kātiyāna
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.7
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

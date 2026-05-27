@@ -1,16 +1,17 @@
 ---
 id: DHP_04_att
 title_pali: Pupphavaggavaṇṇanā
-title_en: Commentary on Pupphavagga (Flowers)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 4
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_04_pupphavagga.md
+title_en: Commentary on Pupphavagga (Flowers)
 text: dhammapada
 vagga: 4
-verse_range: "44–59"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_04_pupphavagga.md
+verse_range: 44–59
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 4: Pupphavagga

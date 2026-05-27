@@ -1,14 +1,14 @@
 ---
-id: THAG1.31
+id: THAG1
 title_pali: Gahvaratīriyatheragāthā
 title_en: Gahvaratīriya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.31
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

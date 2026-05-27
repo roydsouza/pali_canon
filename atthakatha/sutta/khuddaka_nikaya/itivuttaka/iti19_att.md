@@ -1,13 +1,14 @@
 ---
-id: iti19_att
+id: ITI19_att
 title_pali: 9. Saṅghasāmaggīsuttavaṇṇanā
-title_en: Commentary on Harmony in the Saṅgha
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 19
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti19.md
+title_en: Commentary on Harmony in the Saṅgha
 subcollection: itivuttaka
-sutta_number: iti19
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

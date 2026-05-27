@@ -1,14 +1,15 @@
 ---
-id: SNP5.17
+id: SNP5
 title_pali: Piṅgiyamāṇavapucchā
 title_en: The Questions of Piṅgiya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.17
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.17_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

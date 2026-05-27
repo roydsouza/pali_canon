@@ -1,13 +1,14 @@
 ---
-id: snp4.4_att
+id: SNP4_att
 title_pali: 4. Suddhaṭṭhakasuttavaṇṇanā
-title_en: Commentary on Eight on the Pure
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 4
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp4.4.md
+title_en: Commentary on Eight on the Pure
 subcollection: sutta_nipata
-sutta_number: snp4.4
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -1,15 +1,15 @@
 ---
-id: an11_2_5_tik
+id: AN11.2-5_tik
 title_pali: Cetanākaraṇīyasuttādivaṇṇanāṭīkā
-title_en: Sub-commentary on Cetanākaraṇīya, etc. (AN 11.2–5)
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.2-5
+title_en: Sub-commentary on Cetanākaraṇīya, etc. (AN 11.2–5)
 sutta: an11.2
 layer: tika
-mula_file: [[an11_2]], [[an11_3]], [[an11_4]], [[an11_5]]
 att_file: [[an11_2_att]], [[an11_3_5_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Cetanākaraṇīya, etc.

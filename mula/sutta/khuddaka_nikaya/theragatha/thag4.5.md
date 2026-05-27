@@ -1,14 +1,14 @@
 ---
-id: THAG4.5
+id: THAG4
 title_pali: Jambukatheragāthā
 title_en: Jambuka
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.5
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

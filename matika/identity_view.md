@@ -2,6 +2,7 @@
 id: identity_view
 title_pali: Sakkāyadiṭṭhi
 type: matika
+category: factor_note
 ---
 
 # Identity View / Self-view (Sakkāyadiṭṭhi)

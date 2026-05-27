@@ -2,6 +2,7 @@
 id: purification_by_overcoming_doubt
 title_pali: Kaṅkhāvitaraṇa-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification by Overcoming Doubt (Kaṅkhāvitaraṇa-visuddhi)

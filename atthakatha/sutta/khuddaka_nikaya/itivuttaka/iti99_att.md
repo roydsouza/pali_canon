@@ -1,13 +1,14 @@
 ---
-id: iti99_att
+id: ITI99_att
 title_pali: 10. Tevijjasuttavaṇṇanā
-title_en: Commentary on The Three Knowledges
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 99
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti99.md
+title_en: Commentary on The Three Knowledges
 subcollection: itivuttaka
-sutta_number: iti99
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

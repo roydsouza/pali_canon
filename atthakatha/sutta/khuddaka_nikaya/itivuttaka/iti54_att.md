@@ -1,13 +1,14 @@
 ---
-id: iti54_att
+id: ITI54_att
 title_pali: 5. Paṭhamaesanāsuttavaṇṇanā
-title_en: Commentary on Searches (1st)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 54
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti54.md
+title_en: Commentary on Searches (1st)
 subcollection: itivuttaka
-sutta_number: iti54
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -1,14 +1,14 @@
 ---
-id: THAG4.4
+id: THAG4
 title_pali: Nandakatheragāthā
 title_en: Nandaka (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.4
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,13 +1,14 @@
 ---
-id: iti64_att
+id: ITI64_att
 title_pali: 5. Duccaritasuttavaṇṇanā
-title_en: Commentary on Bad Conduct
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 64
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti64.md
+title_en: Commentary on Bad Conduct
 subcollection: itivuttaka
-sutta_number: iti64
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

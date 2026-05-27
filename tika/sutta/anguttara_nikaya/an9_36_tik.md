@@ -1,13 +1,15 @@
 ---
 id: AN9.36_tik
 title_pali: Jhānasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Jhānasutta (Depending on Absorption)
 type: tika
 pitaka: sutta
 nikaya: anguttara
-mula_file: [[an9_36]]
+sutta_number: 9.36
+mula_file: /mula/sutta/anguttara_nikaya/an9_36.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an9_36_att.md
+title_en: Sub-commentary on Jhānasutta (Depending on Absorption)
 att_file: [[an9_36_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Jhānasutta

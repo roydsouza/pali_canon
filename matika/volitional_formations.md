@@ -2,6 +2,7 @@
 id: volitional_formations
 title_pali: Saṅkhārā
 type: matika
+category: factor_note
 ---
 
 # Volitional Formations (Saṅkhārā)

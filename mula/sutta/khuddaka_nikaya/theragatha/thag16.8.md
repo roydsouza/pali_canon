@@ -1,14 +1,14 @@
 ---
-id: THAG16.8
+id: THAG16
 title_pali: Aṅgulimālatheragāthā
 title_en: Aṅgulimāla
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.8
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

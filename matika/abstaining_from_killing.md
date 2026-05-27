@@ -2,6 +2,7 @@
 id: abstaining_from_killing
 title_pali: Pāṇātipātā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Killing (Pāṇātipātā veramaṇī)

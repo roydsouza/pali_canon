@@ -1,15 +1,17 @@
 ---
-id: an11_1_att
+id: AN11.1_att
 title_pali: Kimatthiyasuttavaṇṇanā
-title_en: Commentary on Kimatthiyasutta (What’s the Goal?)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.1
+mula_file: /mula/sutta/anguttara_nikaya/an11_1.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an11_1_tik.md
+title_en: Commentary on Kimatthiyasutta (What’s the Goal?)
 sutta: an11.1
 layer: atthakatha
-mula_file: [[an11_1]]
 tika_file: [[an11_1_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Kimatthiyasutta

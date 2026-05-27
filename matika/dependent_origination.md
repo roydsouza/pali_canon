@@ -2,6 +2,7 @@
 id: dependent_origination
 title_pali: Paṭiccasamuppāda
 type: matika
+category: list_note
 ---
 
 # Dependent Origination (Paṭiccasamuppāda)

@@ -5,10 +5,11 @@ title_en: The Cry of the Gods
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti82
+sutta_number: 82
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti82_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

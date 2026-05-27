@@ -1,14 +1,14 @@
 ---
-id: THIG5.8
+id: THIG5
 title_pali: Soṇātherīgāthā
 title_en: Soṇā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.8
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

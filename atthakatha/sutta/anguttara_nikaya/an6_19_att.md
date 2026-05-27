@@ -1,15 +1,17 @@
 ---
-id: an6_19_att
+id: AN6.19_att
 title_pali: Paṭhamamaraṇassatisuttavaṇṇanā
-title_en: Commentary on Paṭhamamaraṇassatisutta (Mindfulness of Death (1st))
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 6.19
+mula_file: /mula/sutta/anguttara_nikaya/an6_19.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an6_19_tik.md
+title_en: Commentary on Paṭhamamaraṇassatisutta (Mindfulness of Death (1st))
 sutta: an6.19
 layer: atthakatha
-mula_file: [[an6_19]]
 tika_file: [[an6_19_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Paṭhamamaraṇassatisutta

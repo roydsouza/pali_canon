@@ -1,12 +1,13 @@
 ---
-id: UD_att
+id: UDANA_att
 title_pali: Udānavaṇṇanā
-title_en: Commentary on Udāna
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
-mula_file: [[udana]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+sutta_number: udana
+mula_file: /mula/sutta/khuddaka_nikaya/udana.md
+title_en: Commentary on Udāna
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Udāna

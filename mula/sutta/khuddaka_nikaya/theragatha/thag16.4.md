@@ -1,14 +1,14 @@
 ---
-id: THAG16.4
+id: THAG16
 title_pali: Raṭṭhapālatheragāthā
 title_en: Raṭṭhapāla
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.4
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

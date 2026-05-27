@@ -5,10 +5,11 @@ title_en: Bound for Loss
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti48
+sutta_number: 48
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti48_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

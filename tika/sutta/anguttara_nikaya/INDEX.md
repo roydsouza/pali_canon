@@ -1,7 +1,12 @@
 ---
-type: index
+id: INDEX_tik
+title_pali: ""
+type: tika
 pitaka: sutta
 nikaya: anguttara
+sutta_number: INDEX
+mula_file: /mula/abhidhamma/INDEX.md
+commentary_file: /atthakatha/abhidhamma/INDEX.md
 layer: tika
 ---
 
@@ -75,6 +80,6 @@ This directory contains sub-commentaries (Manorathapūraṇī-ṭīkā) on the N
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title"
-FROM "tika/sutta/anguttara_nikaya" AND #tika
+WHERE contains(file.path, "tika/sutta/anguttara_nikaya/")
 SORT file.name ASC
 ```

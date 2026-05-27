@@ -1,14 +1,14 @@
 ---
-id: THAG14.2
+id: THAG14
 title_pali: Godattatheragāthā
 title_en: Godatta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag14.2
+sutta_number: 14
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

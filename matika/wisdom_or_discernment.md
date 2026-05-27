@@ -2,6 +2,7 @@
 id: wisdom_or_discernment
 title_pali: Paññā
 type: matika
+category: factor_note
 ---
 
 # Wisdom / Discernment (Paññā)

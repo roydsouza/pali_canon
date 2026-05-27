@@ -2,6 +2,7 @@
 id: abstaining_from_false_speech
 title_pali: Musāvādā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from False Speech (Musāvādā veramaṇī)

@@ -1,14 +1,14 @@
 ---
-id: THIG1.1
+id: THIG1
 title_pali: Aññatarātherīgāthā
 title_en: An Unnamed Nun (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.1
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

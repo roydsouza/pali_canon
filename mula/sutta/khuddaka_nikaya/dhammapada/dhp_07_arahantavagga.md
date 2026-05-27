@@ -5,9 +5,11 @@ title_en: The Arahant
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 7
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_07_arahantavagga_att.md
 text: dhammapada
 vagga: 7
-verse_range: "90–99"
+verse_range: 90–99
 tags:
   - dhammapada
   - meditation

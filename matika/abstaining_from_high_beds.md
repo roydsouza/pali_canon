@@ -2,6 +2,7 @@
 id: abstaining_from_high_beds
 title_pali: Uccāsayanamahāsayanā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from High Beds (Uccāsayanamahāsayanā veramaṇī)

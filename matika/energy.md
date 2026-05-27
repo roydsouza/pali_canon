@@ -2,6 +2,7 @@
 id: energy
 title_pali: Viriya
 type: matika
+category: factor_note
 ---
 
 # Energy / Effort (Viriya)

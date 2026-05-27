@@ -1,14 +1,14 @@
 ---
-id: THAG2.24
+id: THAG2
 title_pali: Valliyatheragāthā
 title_en: Valliya (3rd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.24
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,16 +1,17 @@
 ---
 id: DHP_18_att
 title_pali: Malavaggavaṇṇanā
-title_en: Commentary on Malavagga (Impurity)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 18
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_18_malavagga.md
+title_en: Commentary on Malavagga (Impurity)
 text: dhammapada
 vagga: 18
-verse_range: "235–255"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_18_malavagga.md
+verse_range: 235–255
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 18: Malavagga

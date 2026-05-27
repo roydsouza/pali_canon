@@ -2,6 +2,7 @@
 id: birth
 title_pali: Jāti
 type: matika
+category: factor_note
 ---
 
 # Birth (Jāti)

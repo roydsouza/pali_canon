@@ -1,15 +1,17 @@
 ---
-id: mn128_tik
+id: MN128_tik
 title_pali: Upakkilesasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Upakkilesasutta (Corruptions)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 128
+mula_file: /mula/sutta/majjhima_nikaya/mn128.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn128_att.md
+title_en: Sub-commentary on Upakkilesasutta (Corruptions)
 sutta: mn128
 layer: tika
-mula_file: [[mn128]]
 att_file: [[mn128_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Upakkilesasutta

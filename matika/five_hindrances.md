@@ -2,6 +2,7 @@
 id: five_hindrances
 title_pali: Pañca Nīvaraṇāni
 type: matika
+category: list_note
 ---
 
 # Five Hindrances (Pañca Nīvaraṇāni)

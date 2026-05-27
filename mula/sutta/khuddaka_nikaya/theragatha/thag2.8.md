@@ -1,14 +1,14 @@
 ---
-id: THAG2.8
+id: THAG2
 title_pali: Surādhatheragāthā
 title_en: Surādha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.8
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

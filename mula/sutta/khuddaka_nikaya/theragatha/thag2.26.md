@@ -1,14 +1,14 @@
 ---
-id: THAG2.26
+id: THAG2
 title_pali: Puṇṇamāsatheragāthā
 title_en: Puṇṇamāsa (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.26
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

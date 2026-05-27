@@ -1,14 +1,15 @@
 ---
-id: SNP1.4
+id: SNP1
 title_pali: Kasībhāradvājasutta
 title_en: Kasībhāradvāja
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp1.4
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.4_att.md
+subcollection: sutta_nipata
 tags:
   - farming
   - faith

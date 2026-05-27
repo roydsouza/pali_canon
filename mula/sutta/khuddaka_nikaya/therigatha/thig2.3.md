@@ -1,14 +1,14 @@
 ---
-id: THIG2.3
+id: THIG2
 title_pali: Sumaṅgalamātātherīgāthā
 title_en: Sumaṅgala’s Mother
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.3
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

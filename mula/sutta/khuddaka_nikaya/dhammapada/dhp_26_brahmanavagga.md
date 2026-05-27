@@ -5,9 +5,11 @@ title_en: The Brahmin
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 26
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_26_brahmanavagga_att.md
 text: dhammapada
 vagga: 26
-verse_range: "383–423"
+verse_range: 383–423
 tags:
   - dhammapada
 ---

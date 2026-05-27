@@ -5,9 +5,11 @@ title_en: The Mind
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_03_cittavagga_att.md
 text: dhammapada
 vagga: 3
-verse_range: "33–43"
+verse_range: 33–43
 tags:
   - dhammapada
   - meditation

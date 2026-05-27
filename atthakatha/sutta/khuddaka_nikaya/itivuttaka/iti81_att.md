@@ -1,13 +1,14 @@
 ---
-id: iti81_att
+id: ITI81_att
 title_pali: 2. Sakkārasuttavaṇṇanā
-title_en: Commentary on Esteem
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 81
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti81.md
+title_en: Commentary on Esteem
 subcollection: itivuttaka
-sutta_number: iti81
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

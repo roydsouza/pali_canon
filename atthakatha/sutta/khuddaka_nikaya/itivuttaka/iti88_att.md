@@ -1,13 +1,14 @@
 ---
-id: iti88_att
+id: ITI88_att
 title_pali: 9. Antarāmalasuttavaṇṇanā
-title_en: Commentary on Inner Stains
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 88
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti88.md
+title_en: Commentary on Inner Stains
 subcollection: itivuttaka
-sutta_number: iti88
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

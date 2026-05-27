@@ -1,14 +1,15 @@
 ---
-id: SNP1.2
+id: SNP1
 title_pali: Dhaniyasutta
 title_en: Dhaniya the Herdsman
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp1.2
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.2_att.md
+subcollection: sutta_nipata
 tags:
   - herdsman
   - clinging

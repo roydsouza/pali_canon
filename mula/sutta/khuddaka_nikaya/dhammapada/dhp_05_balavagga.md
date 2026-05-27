@@ -5,9 +5,11 @@ title_en: The Fool
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_05_balavagga_att.md
 text: dhammapada
 vagga: 5
-verse_range: "60–75"
+verse_range: 60–75
 tags:
   - dhammapada
 ---

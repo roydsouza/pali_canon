@@ -1,16 +1,17 @@
 ---
 id: DHP_02_att
 title_pali: Appamādavaggavaṇṇanā
-title_en: Commentary on Appamādavagga (Heedfulness)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_02_appamadavagga.md
+title_en: Commentary on Appamādavagga (Heedfulness)
 text: dhammapada
 vagga: 2
-verse_range: "21–32"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_02_appamadavagga.md
+verse_range: 21–32
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 2: Appamādavagga

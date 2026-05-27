@@ -1,16 +1,17 @@
 ---
 id: AN10.60_att
 title_pali: Girimānandasuttavaṇṇanā
-title_en: Commentary on Girimānandasutta
 type: atthakatha
 pitaka: sutta
 nikaya: anguttara
+sutta_number: 10.60
+mula_file: /mula/sutta/anguttara_nikaya/an10_60.md
+title_en: Commentary on Girimānandasutta
 sutta: an10.60
 layer: atthakatha
-mula_file: [[an10_60]]
-tika_file: "(No Ṭīkā available)"
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
-source_notes: https://suttacentral.net
+tika_file: (No Ṭīkā available)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Aṅguttara Nikāya 10.60: Girimānandasutta

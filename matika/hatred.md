@@ -2,6 +2,7 @@
 id: hatred
 title_pali: Dosa
 type: matika
+category: factor_note
 ---
 
 # Hatred / Anger (Dosa)

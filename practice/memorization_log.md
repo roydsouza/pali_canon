@@ -1,7 +1,7 @@
 ---
 id: memorization_log
 title: Verse Memorization Log
-type: practice-tool
+type: practice
 tags:
   - practice/memorization
   - pali/verses

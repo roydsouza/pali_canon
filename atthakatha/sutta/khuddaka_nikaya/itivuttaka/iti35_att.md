@@ -1,13 +1,14 @@
 ---
-id: iti35_att
+id: ITI35_att
 title_pali: 8. Paṭhamanakuhanasuttavaṇṇanā
-title_en: Commentary on Fawning and Flattery
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 35
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti35.md
+title_en: Commentary on Fawning and Flattery
 subcollection: itivuttaka
-sutta_number: iti35
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

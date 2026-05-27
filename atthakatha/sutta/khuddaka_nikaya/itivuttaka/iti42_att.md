@@ -1,13 +1,14 @@
 ---
-id: iti42_att
+id: ITI42_att
 title_pali: 5. Sukkadhammasuttavaṇṇanā
-title_en: Commentary on Bright Things
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 42
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti42.md
+title_en: Commentary on Bright Things
 subcollection: itivuttaka
-sutta_number: iti42
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

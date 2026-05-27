@@ -1,13 +1,14 @@
 ---
-id: snp1.12_att
+id: SNP1_att
 title_pali: Munisuttavaṇṇanā
-title_en: Commentary on The Sage
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 1
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.12.md
+title_en: Commentary on The Sage
 subcollection: sutta_nipata
-sutta_number: snp1.12
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

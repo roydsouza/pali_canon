@@ -1,14 +1,14 @@
 ---
-id: THAG16.5
+id: THAG16
 title_pali: Mālukyaputtatheragāthā
 title_en: Māluṅkyaputta (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.5
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

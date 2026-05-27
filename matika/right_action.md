@@ -2,6 +2,7 @@
 id: right_action
 title_pali: Sammākammanto
 type: matika
+category: factor_note
 ---
 
 # Right Action (Sammākammanto)

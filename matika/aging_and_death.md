@@ -2,6 +2,7 @@
 id: aging_and_death
 title_pali: Jarāmaraṇa
 type: matika
+category: factor_note
 ---
 
 # Aging and Death (Jarāmaraṇa)

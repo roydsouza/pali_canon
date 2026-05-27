@@ -1,14 +1,14 @@
 ---
-id: THAG9.1
+id: THAG9
 title_pali: Bhūtatheragāthā
 title_en: Bhūta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag9.1
+sutta_number: 9
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

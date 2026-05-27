@@ -1,13 +1,14 @@
 ---
-id: iti49_att
+id: ITI49_att
 title_pali: 12. Diṭṭhigatasuttavaṇṇanā
-title_en: Commentary on Misconceptions
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 49
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti49.md
+title_en: Commentary on Misconceptions
 subcollection: itivuttaka
-sutta_number: iti49
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

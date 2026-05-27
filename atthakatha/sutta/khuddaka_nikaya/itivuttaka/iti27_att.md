@@ -1,13 +1,14 @@
 ---
-id: iti27_att
+id: ITI27_att
 title_pali: 7. Mettābhāvanāsuttavaṇṇanā
-title_en: Commentary on The Meditation on Love
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 27
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti27.md
+title_en: Commentary on The Meditation on Love
 subcollection: itivuttaka
-sutta_number: iti27
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

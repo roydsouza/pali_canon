@@ -1,14 +1,14 @@
 ---
-id: THAG3.8
+id: THAG3
 title_pali: Vassikatheragāthā
 title_en: Vassika
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag3.8
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,14 +1,14 @@
 ---
-id: THIG7.3
+id: THIG7
 title_pali: Upacālātherīgāthā
 title_en: Upacālā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig7.3
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

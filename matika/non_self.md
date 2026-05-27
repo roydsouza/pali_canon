@@ -2,6 +2,7 @@
 id: non_self
 title_pali: Anattā
 type: matika
+category: factor_note
 ---
 
 # Non-self / Egolessness (Anattā)

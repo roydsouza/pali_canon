@@ -2,6 +2,7 @@
 id: name_and_form
 title_pali: Nāmarūpa
 type: matika
+category: factor_note
 ---
 
 # Name and Form (Nāmarūpa)

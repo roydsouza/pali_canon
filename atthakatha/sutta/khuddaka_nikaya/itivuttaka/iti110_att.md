@@ -1,13 +1,14 @@
 ---
-id: iti110_att
+id: ITI110_att
 title_pali: 11. Carasuttavaṇṇanā
-title_en: Commentary on Walking
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 110
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti110.md
+title_en: Commentary on Walking
 subcollection: itivuttaka
-sutta_number: iti110
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

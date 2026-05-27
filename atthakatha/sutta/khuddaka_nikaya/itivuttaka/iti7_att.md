@@ -1,13 +1,14 @@
 ---
-id: iti7_att
+id: ITI7_att
 title_pali: 7. Sabbapariññāsuttavaṇṇanā
-title_en: Commentary on Complete Understanding of All
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 7
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti7.md
+title_en: Commentary on Complete Understanding of All
 subcollection: itivuttaka
-sutta_number: iti7
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

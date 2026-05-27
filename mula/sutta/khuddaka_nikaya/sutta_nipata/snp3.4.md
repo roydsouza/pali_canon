@@ -1,14 +1,15 @@
 ---
-id: SNP3.4
+id: SNP3
 title_pali: Pūraḷāsa (sundarikabhāradvāja) sutta
 title_en: With Bhāradvāja of Sundarikā on the Sacrificial Cake
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp3.4
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3.4_att.md
+subcollection: sutta_nipata
 tags:
   - monastic
   - going_forth

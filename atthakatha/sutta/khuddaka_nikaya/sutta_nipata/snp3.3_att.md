@@ -1,13 +1,14 @@
 ---
-id: snp3.3_att
+id: SNP3_att
 title_pali: 3. Subhāsitasuttavaṇṇanā
-title_en: Commentary on Well-Spoken Words
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp3.3.md
+title_en: Commentary on Well-Spoken Words
 subcollection: sutta_nipata
-sutta_number: snp3.3
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -1,13 +1,14 @@
 ---
-id: snp3.7_att
+id: SNP3_att
 title_pali: 7. Selasuttavaṇṇanā
-title_en: Commentary on With Sela
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp3.7.md
+title_en: Commentary on With Sela
 subcollection: sutta_nipata
-sutta_number: snp3.7
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

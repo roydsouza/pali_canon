@@ -2,6 +2,7 @@
 id: renunciation
 title_pali: Nekkhamma
 type: matika
+category: factor_note
 ---
 
 # Renunciation (Nekkhamma)

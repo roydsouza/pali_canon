@@ -1,15 +1,17 @@
 ---
-id: an8_73_att
+id: AN8.73_att
 title_pali: Paṭhamamaraṇassatisuttavaṇṇanā
-title_en: Commentary on Paṭhamamaraṇassatisutta (Mindfulness of Death (1st))
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 8.73
+mula_file: /mula/sutta/anguttara_nikaya/an8_73.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an8_73_tik.md
+title_en: Commentary on Paṭhamamaraṇassatisutta (Mindfulness of Death (1st))
 sutta: an8.73
 layer: atthakatha
-mula_file: [[an8_73]]
 tika_file: [[an8_73_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Paṭhamamaraṇassatisutta

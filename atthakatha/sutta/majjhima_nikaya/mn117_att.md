@@ -1,15 +1,17 @@
 ---
-id: mn117_att
+id: MN117_att
 title_pali: Mahācattārīsakasuttavaṇṇanā
-title_en: Commentary on Mahācattārīsakasutta (The Great Forty)
 type: atthakatha
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 117
+mula_file: /mula/sutta/majjhima_nikaya/mn117.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn117_tik.md
+title_en: Commentary on Mahācattārīsakasutta (The Great Forty)
 sutta: mn117
 layer: atthakatha
-mula_file: [[mn117]]
 tika_file: [[mn117_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Majjhima Nikāya: Mahācattārīsakasutta

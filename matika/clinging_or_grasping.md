@@ -2,6 +2,7 @@
 id: clinging_or_grasping
 title_pali: Upādāna
 type: matika
+category: factor_note
 ---
 
 # Clinging / Grasping (Upādāna)

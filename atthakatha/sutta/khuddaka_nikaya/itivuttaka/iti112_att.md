@@ -1,13 +1,14 @@
 ---
-id: iti112_att
+id: ITI112_att
 title_pali: 13. Lokasuttavaṇṇanā
-title_en: Commentary on The World
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 112
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti112.md
+title_en: Commentary on The World
 subcollection: itivuttaka
-sutta_number: iti112
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

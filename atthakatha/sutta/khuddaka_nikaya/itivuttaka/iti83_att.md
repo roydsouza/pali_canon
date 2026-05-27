@@ -1,13 +1,14 @@
 ---
-id: iti83_att
+id: ITI83_att
 title_pali: 4. Pañcapubbanimittasuttavaṇṇanā
-title_en: Commentary on Five Harbingers
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 83
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti83.md
+title_en: Commentary on Five Harbingers
 subcollection: itivuttaka
-sutta_number: iti83
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

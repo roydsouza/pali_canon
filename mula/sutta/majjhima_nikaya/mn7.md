@@ -1,13 +1,15 @@
 ---
-id: MN 7
+id: MN7
 title_pali: Vatthasutta
 title_en: The Simile of the Cloth
 type: mula
 pitaka: sutta
-nikaya: mn
-sutta_number: mn7
+nikaya: majjhima
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn7_att.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn7_tik.md
 tags:
   - brahmavihara
   - meditation

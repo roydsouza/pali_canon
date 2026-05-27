@@ -5,9 +5,11 @@ title_en: With Poṭṭhapāda
 type: mula
 pitaka: sutta
 nikaya: digha
-sutta_number: dn9
+sutta_number: 9
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/digha_nikaya/dn9_att.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn9_tik.md
 tags:
   - meditation
 ---

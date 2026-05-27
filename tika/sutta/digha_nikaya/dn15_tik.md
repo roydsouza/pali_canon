@@ -1,15 +1,17 @@
 ---
 id: DN15_tik
 title_pali: Mahānidānasuttavaṇṇanātīkā
-title_en: Sub-commentary on Mahānidānasutta (The Great Discourse on Causation)
 type: tika
 pitaka: sutta
 nikaya: digha
+sutta_number: 15
+mula_file: /mula/sutta/digha_nikaya/dn15.md
+commentary_file: /atthakatha/sutta/digha_nikaya/dn15_att.md
+title_en: Sub-commentary on Mahānidānasutta (The Great Discourse on Causation)
 sutta: dn15
 layer: tika
-mula_file: [[dn15]]
 att_file: [[dn15_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Dīgha Nikāya: Mahānidānasutta

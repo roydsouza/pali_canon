@@ -1,14 +1,15 @@
 ---
-id: SNP5.2
+id: SNP5
 title_pali: Ajitamāṇavapucchā
 title_en: The Questions of Ajita
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.2
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.2_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

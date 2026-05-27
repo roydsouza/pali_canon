@@ -1,13 +1,14 @@
 ---
-id: iti50_att
+id: ITI50_att
 title_pali: 1. Mūlasuttavaṇṇanā
-title_en: Commentary on Roots
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 50
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti50.md
+title_en: Commentary on Roots
 subcollection: itivuttaka
-sutta_number: iti50
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

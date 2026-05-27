@@ -5,10 +5,11 @@ title_en: Harmony in the Saṅgha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti19
+sutta_number: 19
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti19_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

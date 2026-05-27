@@ -1,13 +1,14 @@
 ---
-id: iti72_att
+id: ITI72_att
 title_pali: 3. Nissaraṇiyasuttavaṇṇanā
-title_en: Commentary on Elements of Escape
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 72
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti72.md
+title_en: Commentary on Elements of Escape
 subcollection: itivuttaka
-sutta_number: iti72
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

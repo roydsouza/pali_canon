@@ -2,6 +2,7 @@
 id: four_jhanas
 title_pali: Cattāri Jhānāni
 type: matika
+category: list_note
 ---
 
 # Four Jhānas (Cattāri Jhānāni)

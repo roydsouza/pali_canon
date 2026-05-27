@@ -2,6 +2,7 @@
 id: feeling
 title_pali: Vedanā
 type: matika
+category: factor_note
 ---
 
 # Feeling / Sensation (Vedanā)

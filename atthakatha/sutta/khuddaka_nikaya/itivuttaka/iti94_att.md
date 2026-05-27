@@ -1,13 +1,14 @@
 ---
-id: iti94_att
+id: ITI94_att
 title_pali: 5. Upaparikkhasuttavaṇṇanā
-title_en: Commentary on Examination
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 94
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti94.md
+title_en: Commentary on Examination
 subcollection: itivuttaka
-sutta_number: iti94
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

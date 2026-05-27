@@ -1,14 +1,14 @@
 ---
-id: THAG15.2
+id: THAG15
 title_pali: Udāyitheragāthā
 title_en: Udāyī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag15.2
+sutta_number: 15
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

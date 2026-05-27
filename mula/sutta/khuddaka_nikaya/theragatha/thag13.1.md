@@ -1,14 +1,14 @@
 ---
-id: THAG13.1
+id: THAG13
 title_pali: Soṇakoḷivisatheragāthā
 title_en: Soṇakoḷivisa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag13.1
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

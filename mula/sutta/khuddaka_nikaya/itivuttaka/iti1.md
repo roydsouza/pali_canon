@@ -5,10 +5,11 @@ title_en: Greed
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti1
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti1_att.md
+subcollection: itivuttaka
 tags:
   - greed
   - three_unwholesome_roots

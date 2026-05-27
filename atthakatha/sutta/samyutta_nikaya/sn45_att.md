@@ -1,14 +1,16 @@
 ---
 id: SN45_att
 title_pali: Maggasaṃyuttavaṇṇanā
-title_en: Commentary on Maggasaṃyutta
 type: atthakatha
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 45
+mula_file: /mula/sutta/samyutta_nikaya/sn45.md
+sub_commentary_file: /tika/sutta/samyutta_nikaya/sn45_tik.md
+title_en: Commentary on Maggasaṃyutta
 samyutta: sn45
-mula_file: [[sn45]]
 tika_file: [[sn45_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Saṃyutta Nikāya: Maggasaṃyutta

@@ -1,13 +1,14 @@
 ---
-id: iti10_att
+id: ITI10_att
 title_pali: 9-10. Lobhadosapariññāsuttadvayavaṇṇanā
-title_en: Commentary on Complete Understanding of Hate
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 10
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti10.md
+title_en: Commentary on Complete Understanding of Hate
 subcollection: itivuttaka
-sutta_number: iti10
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

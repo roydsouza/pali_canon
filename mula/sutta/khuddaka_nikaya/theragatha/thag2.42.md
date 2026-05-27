@@ -1,14 +1,14 @@
 ---
-id: THAG2.42
+id: THAG2
 title_pali: Dhammapālatheragāthā
 title_en: Dhammapāla
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.42
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

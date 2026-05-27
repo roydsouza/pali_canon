@@ -2,6 +2,7 @@
 id: ten_fetters
 title_pali: Dasa Saṃyojanā
 type: matika
+category: list_note
 ---
 
 # Ten Fetters (Dasa Saṃyojanā)

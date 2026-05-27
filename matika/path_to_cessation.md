@@ -2,6 +2,7 @@
 id: path_to_cessation
 title_pali: Magga
 type: matika
+category: factor_note
 ---
 
 # Path to Cessation (Magga)

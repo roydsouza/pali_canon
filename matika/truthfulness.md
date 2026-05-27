@@ -2,6 +2,7 @@
 id: truthfulness
 title_pali: Sacca
 type: matika
+category: factor_note
 ---
 
 # Truthfulness (Sacca)

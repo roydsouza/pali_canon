@@ -1,14 +1,16 @@
 ---
 id: SN12_att
 title_pali: Nidānasaṃyuttavaṇṇanā
-title_en: Commentary on Nidānasaṃyutta
 type: atthakatha
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 12
+mula_file: /mula/sutta/samyutta_nikaya/sn12.md
+sub_commentary_file: /tika/sutta/samyutta_nikaya/sn12_tik.md
+title_en: Commentary on Nidānasaṃyutta
 samyutta: sn12
-mula_file: [[sn12]]
 tika_file: [[sn12_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Saṃyutta Nikāya: Nidānasaṃyutta

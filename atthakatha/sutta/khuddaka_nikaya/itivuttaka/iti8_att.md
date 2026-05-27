@@ -1,13 +1,14 @@
 ---
-id: iti8_att
+id: ITI8_att
 title_pali: 8. Mānapariññāsuttavaṇṇanā
-title_en: Commentary on Complete Understanding of Conceit
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 8
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti8.md
+title_en: Commentary on Complete Understanding of Conceit
 subcollection: itivuttaka
-sutta_number: iti8
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

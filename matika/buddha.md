@@ -2,6 +2,7 @@
 id: buddha
 title_pali: Buddha
 type: matika
+category: factor_note
 ---
 
 # The Buddha (Buddha)

@@ -2,6 +2,7 @@
 id: virtue
 title_pali: Sīla
 type: matika
+category: factor_note
 ---
 
 # Virtue / Ethical Conduct (Sīla)

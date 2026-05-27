@@ -2,6 +2,7 @@
 id: purification_by_knowledge_and_vision
 title_pali: Ñāṇadassana-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification by Knowledge and Vision (Ñāṇadassana-visuddhi)

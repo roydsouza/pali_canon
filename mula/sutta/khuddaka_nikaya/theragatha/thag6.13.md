@@ -1,14 +1,14 @@
 ---
-id: THAG6.13
+id: THAG6
 title_pali: Sirimaṇḍatheragāthā
 title_en: Sirimaṇḍa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.13
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

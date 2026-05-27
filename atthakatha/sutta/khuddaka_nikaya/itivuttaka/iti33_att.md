@@ -1,13 +1,14 @@
 ---
-id: iti33_att
+id: ITI33_att
 title_pali: 6. Dutiyasīlasuttavaṇṇanā
-title_en: Commentary on Ethics (2nd)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 33
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti33.md
+title_en: Commentary on Ethics (2nd)
 subcollection: itivuttaka
-sutta_number: iti33
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

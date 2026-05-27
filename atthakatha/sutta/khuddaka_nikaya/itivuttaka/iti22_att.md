@@ -1,13 +1,14 @@
 ---
-id: iti22_att
+id: ITI22_att
 title_pali: 2. Mettasuttavaṇṇanā
-title_en: Commentary on The Benefits of Love
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 22
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti22.md
+title_en: Commentary on The Benefits of Love
 subcollection: itivuttaka
-sutta_number: iti22
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

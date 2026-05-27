@@ -1,14 +1,14 @@
 ---
-id: THAG12.2
+id: THAG12
 title_pali: Sunītatheragāthā
 title_en: Sunīta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag12.2
+sutta_number: 12
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

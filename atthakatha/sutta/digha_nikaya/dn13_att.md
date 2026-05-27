@@ -1,15 +1,17 @@
 ---
-id: dn13_att
+id: DN13_att
 title_pali: Tevijjasuttavaṇṇanā
-title_en: Commentary on Tevijjasutta (Experts in the Three Vedas)
 type: atthakatha
 pitaka: sutta
-nikaya: dn
+nikaya: digha
+sutta_number: 13
+mula_file: /mula/sutta/digha_nikaya/dn13.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn13_tik.md
+title_en: Commentary on Tevijjasutta (Experts in the Three Vedas)
 sutta: dn13
 layer: atthakatha
-mula_file: [[dn13]]
 tika_file: [[dn13_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Dīgha Nikāya: Tevijjasutta

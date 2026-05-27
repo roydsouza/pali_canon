@@ -1,14 +1,15 @@
 ---
-id: SNP3.12
+id: SNP3
 title_pali: Dvayatānupassanāsutta
 title_en: 12 Contemplating Pairs
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp3.12
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3.12_att.md
+subcollection: sutta_nipata
 tags:
   - dvayatanupassana
   - vipassana

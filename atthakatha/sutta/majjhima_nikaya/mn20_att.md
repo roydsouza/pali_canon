@@ -1,15 +1,17 @@
 ---
 id: MN20_att
 title_pali: Vitakkasaṇṭhānasuttavaṇṇanā
-title_en: Commentary on Vitakkasaṇṭhānasutta (The Relaxation of Thoughts)
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 20
+mula_file: /mula/sutta/majjhima_nikaya/mn20.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn20_tik.md
+title_en: Commentary on Vitakkasaṇṭhānasutta (The Relaxation of Thoughts)
 sutta: mn20
 layer: atthakatha
-mula_file: [[mn20]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Vitakkasaṇṭhānasutta

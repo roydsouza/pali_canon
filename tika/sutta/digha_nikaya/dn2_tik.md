@@ -1,15 +1,17 @@
 ---
 id: DN2_tik
 title_pali: Sāmaññaphalasuttavaṇṇanātīkā
-title_en: Sub-commentary on Sāmaññaphalasutta (The Fruits of the Ascetic Life)
 type: tika
 pitaka: sutta
 nikaya: digha
+sutta_number: 2
+mula_file: /mula/sutta/digha_nikaya/dn2.md
+commentary_file: /atthakatha/sutta/digha_nikaya/dn2_att.md
+title_en: Sub-commentary on Sāmaññaphalasutta (The Fruits of the Ascetic Life)
 sutta: dn2
 layer: tika
-mula_file: [[dn2]]
 att_file: [[dn2_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Dīgha Nikāya: Sāmaññaphalasutta

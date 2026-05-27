@@ -1,15 +1,17 @@
 ---
-id: mn8_tik
+id: MN8_tik
 title_pali: Sallekhasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Sallekhasutta (Self-Effacement)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 8
+mula_file: /mula/sutta/majjhima_nikaya/mn8.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn8_att.md
+title_en: Sub-commentary on Sallekhasutta (Self-Effacement)
 sutta: mn8
 layer: tika
-mula_file: [[mn8]]
 att_file: [[mn8_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Sallekhasutta

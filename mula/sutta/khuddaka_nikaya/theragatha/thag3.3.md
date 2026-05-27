@@ -1,14 +1,14 @@
 ---
-id: THAG3.3
+id: THAG3
 title_pali: Bākulatheragāthā
 title_en: Bākula
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag3.3
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

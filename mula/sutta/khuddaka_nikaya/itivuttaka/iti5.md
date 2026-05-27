@@ -5,10 +5,11 @@ title_en: Disdain
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti5
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti5_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

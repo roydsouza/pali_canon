@@ -2,6 +2,7 @@
 id: four_right_exertions
 title_pali: Cattāro Sammappadhānā
 type: matika
+category: list_note
 ---
 
 # Four Right Exertions (Cattāro Sammappadhānā)

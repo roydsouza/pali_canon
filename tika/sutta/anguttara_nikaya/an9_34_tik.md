@@ -1,15 +1,17 @@
 ---
-id: an9_34_tik
+id: AN9.34_tik
 title_pali: Nibbānasukhasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Nibbānasukhasutta (Extinguishment is Bliss)
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 9.34
+mula_file: /mula/sutta/anguttara_nikaya/an9_34.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an9_34_att.md
+title_en: Sub-commentary on Nibbānasukhasutta (Extinguishment is Bliss)
 sutta: an9.34
 layer: tika
-mula_file: [[an9_34]]
 att_file: [[an9_34_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Nibbānasukhasutta

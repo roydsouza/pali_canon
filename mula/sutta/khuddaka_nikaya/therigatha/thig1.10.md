@@ -1,14 +1,14 @@
 ---
-id: THIG1.10
+id: THIG1
 title_pali: Upasamātherīgāthā
 title_en: Upasamā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.10
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

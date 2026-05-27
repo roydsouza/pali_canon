@@ -1,14 +1,14 @@
 ---
-id: THAG1.32
+id: THAG1
 title_pali: Suppiyatheragāthā
 title_en: Suppiya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.32
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

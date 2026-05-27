@@ -1,14 +1,14 @@
 ---
-id: THIG7.2
+id: THIG7
 title_pali: Cālātherīgāthā
 title_en: Cālā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig7.2
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

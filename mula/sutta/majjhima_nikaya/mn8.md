@@ -1,13 +1,15 @@
 ---
-id: MN 8
+id: MN8
 title_pali: Sallekhasutta
 title_en: Self-Effacement
 type: mula
 pitaka: sutta
-nikaya: mn
-sutta_number: mn8
+nikaya: majjhima
+sutta_number: 8
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn8_att.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn8_tik.md
 tags:
   - jhana
   - meditation

@@ -5,9 +5,11 @@ title_en: The Wise
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 6
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_06_panditavagga_att.md
 text: dhammapada
 vagga: 6
-verse_range: "76–89"
+verse_range: 76–89
 tags:
   - dhammapada
 ---

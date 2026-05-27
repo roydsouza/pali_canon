@@ -1,14 +1,14 @@
 ---
-id: THIG5.7
+id: THIG5
 title_pali: Sakulātherīgāthā
 title_en: Sakulā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.7
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

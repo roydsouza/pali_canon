@@ -5,9 +5,11 @@ title_en: Old Age
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 11
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_11_jaravagga_att.md
 text: dhammapada
 vagga: 11
-verse_range: "146–156"
+verse_range: 146–156
 tags:
   - dhammapada
 ---

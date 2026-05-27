@@ -2,6 +2,7 @@
 id: tranquility
 title_pali: Passaddhi
 type: matika
+category: factor_note
 ---
 
 # Tranquility (Passaddhi)

@@ -1,16 +1,17 @@
 ---
 id: DHP_23_att
 title_pali: Nāgavaggavaṇṇanā
-title_en: Commentary on Nāgavagga (The Elephant)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 23
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_23_nagavagga.md
+title_en: Commentary on Nāgavagga (The Elephant)
 text: dhammapada
 vagga: 23
-verse_range: "320–333"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_23_nagavagga.md
+verse_range: 320–333
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 23: Nāgavagga

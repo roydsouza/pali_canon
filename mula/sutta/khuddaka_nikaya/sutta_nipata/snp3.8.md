@@ -1,14 +1,15 @@
 ---
-id: SNP3.8
+id: SNP3
 title_pali: Sallasutta
 title_en: The Dart
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp3.8
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3.8_att.md
+subcollection: sutta_nipata
 tags:
   - monastic
   - going_forth

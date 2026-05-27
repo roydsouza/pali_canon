@@ -5,9 +5,11 @@ title_en: The Monk
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 25
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_25_bhikkhuvagga_att.md
 text: dhammapada
 vagga: 25
-verse_range: "360–382"
+verse_range: 360–382
 tags:
   - dhammapada
   - meditation

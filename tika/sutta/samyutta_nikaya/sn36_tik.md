@@ -1,15 +1,17 @@
 ---
-id: sn36_tik
+id: SN36_tik
 title_pali: Vedanāsaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Vedanāsaṃyutta (Linked Discourses on Feeling)
 type: tika
 pitaka: sutta
-nikaya: sn
+nikaya: samyutta
+sutta_number: 36
+mula_file: /mula/sutta/samyutta_nikaya/sn36.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn36_att.md
+title_en: Sub-commentary on Vedanāsaṃyutta (Linked Discourses on Feeling)
 samyutta: sn36
 layer: tika
-mula_file: [[sn36]]
 att_file: [[sn36_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Vedanāsaṃyutta

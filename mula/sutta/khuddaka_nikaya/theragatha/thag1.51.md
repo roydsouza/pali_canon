@@ -1,14 +1,14 @@
 ---
-id: THAG1.51
+id: THAG1
 title_pali: Godhikatheragāthā
 title_en: Godhika
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.51
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

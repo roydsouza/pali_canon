@@ -1,14 +1,14 @@
 ---
-id: THAG2.1
+id: THAG2
 title_pali: Uttaratheragāthā
 title_en: Uttara (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.1
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

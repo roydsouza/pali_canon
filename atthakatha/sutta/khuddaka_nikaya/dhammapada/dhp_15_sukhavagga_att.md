@@ -1,16 +1,17 @@
 ---
 id: DHP_15_att
 title_pali: Sukhavaggavaṇṇanā
-title_en: Commentary on Sukhavagga (Happiness)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 15
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_15_sukhavagga.md
+title_en: Commentary on Sukhavagga (Happiness)
 text: dhammapada
 vagga: 15
-verse_range: "197–208"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_15_sukhavagga.md
+verse_range: 197–208
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 15: Sukhavagga

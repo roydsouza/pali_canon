@@ -1,7 +1,7 @@
 ---
-id: practice_dashboard
+id: INDEX
 title: Practice Dashboard
-type: practice-index
+type: practice
 tags:
   - practice/index
 ---

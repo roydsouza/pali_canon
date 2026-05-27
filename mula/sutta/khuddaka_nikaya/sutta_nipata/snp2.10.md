@@ -1,14 +1,15 @@
 ---
-id: SNP2.10
+id: SNP2
 title_pali: Uṭṭhānasutta
 title_en: Get Up!
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp2.10
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp2.10_att.md
+subcollection: sutta_nipata
 tags:
   - ethics
   - conduct

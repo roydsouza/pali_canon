@@ -9,9 +9,9 @@ This directory contains the root Pali Canonical texts (Tipiṭaka). The structur
 *   **[[mula/sutta/INDEX|Sutta Piṭaka]]**
     *   *Description*: The discourses of the Buddha.
     *   *Status*: **Active**. Majjhima Nikāya 118 migrated.
-*   **Vinaya Piṭaka** *(Planned)*
+*   **[[mula/vinaya/INDEX|Vinaya Piṭaka]]**
     *   *Description*: The rules of monastic discipline.
-    *   *Status*: *Not started*.
+    *   *Status*: **Active**. Pātimokkha rules migrated.
 *   **Abhidhamma Piṭaka** *(Planned)*
     *   *Description*: The analytical scholastic philosophy.
     *   *Status*: *Not started*.

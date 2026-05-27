@@ -1,14 +1,14 @@
 ---
-id: THIG14.1
+id: THIG14
 title_pali: Subhājīvakambavanikātherīgāthā
 title_en: Subhā of Jīvaka’s Mango Grove
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig14.1
+sutta_number: 14
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

@@ -1,14 +1,14 @@
 ---
-id: THAG5.6
+id: THAG5
 title_pali: Nadīkassapatheragāthā
 title_en: Nadīkassapa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag5.6
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

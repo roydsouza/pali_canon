@@ -1,14 +1,14 @@
 ---
-id: THIG3.8
+id: THIG3
 title_pali: Somātherīgāthā
 title_en: Somā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig3.8
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

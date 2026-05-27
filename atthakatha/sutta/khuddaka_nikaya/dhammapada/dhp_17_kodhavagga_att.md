@@ -1,16 +1,17 @@
 ---
 id: DHP_17_att
 title_pali: Kodhavaggavaṇṇanā
-title_en: Commentary on Kodhavagga (Anger)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 17
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_17_kodhavagga.md
+title_en: Commentary on Kodhavagga (Anger)
 text: dhammapada
 vagga: 17
-verse_range: "221–234"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_17_kodhavagga.md
+verse_range: 221–234
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 17: Kodhavagga

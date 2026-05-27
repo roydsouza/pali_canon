@@ -1,13 +1,14 @@
 ---
-id: iti39_att
+id: ITI39_att
 title_pali: 2. Desanāsuttavaṇṇanā
-title_en: Commentary on Teaching
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 39
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti39.md
+title_en: Commentary on Teaching
 subcollection: itivuttaka
-sutta_number: iti39
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

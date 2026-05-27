@@ -1,14 +1,14 @@
 ---
-id: THIG4.1
+id: THIG4
 title_pali: Bhaddākāpilānītherīgāthā
 title_en: Bhaddā Daughter of Kapila
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig4.1
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

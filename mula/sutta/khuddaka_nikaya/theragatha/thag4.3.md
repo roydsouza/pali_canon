@@ -1,14 +1,14 @@
 ---
-id: THAG4.3
+id: THAG4
 title_pali: Sabhiyatheragāthā
 title_en: Sabhiya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.3
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

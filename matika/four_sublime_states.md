@@ -2,6 +2,7 @@
 id: four_sublime_states
 title_pali: Cattāro Brahmavihārā
 type: matika
+category: list_note
 ---
 
 # Four Sublime States (Cattāro Brahmavihārā)

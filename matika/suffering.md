@@ -2,6 +2,7 @@
 id: suffering
 title_pali: Dukkha
 type: matika
+category: factor_note
 ---
 
 # Suffering / Unsatisfactoriness (Dukkha)

@@ -1,13 +1,14 @@
 ---
-id: snp2.13_att
+id: SNP2_att
 title_pali: 13. Sammāparibbājanīyasutta-(mahāsamayasutta)-vaṇṇanā
-title_en: Commentary on The Right Way to Wander
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp2.13.md
+title_en: Commentary on The Right Way to Wander
 subcollection: sutta_nipata
-sutta_number: snp2.13
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

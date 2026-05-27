@@ -2,6 +2,7 @@
 id: origin_of_suffering
 title_pali: Samudaya
 type: matika
+category: factor_note
 ---
 
 # Origin of Suffering (Samudaya)

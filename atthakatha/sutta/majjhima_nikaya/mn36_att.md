@@ -1,16 +1,18 @@
 ---
 id: MN36_att
 title_pali: Mahāsaccakasuttavaṇṇanā
-title_en: Commentary on Mahāsaccakasutta (With Saccaka (the Longer))
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 36
+mula_file: /mula/sutta/majjhima_nikaya/mn36.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn36_tik.md
+title_en: Commentary on Mahāsaccakasutta (With Saccaka (the Longer))
 sutta: mn36
 layer: atthakatha
-mula_file: [[mn36]]
 att_file: [[mn36_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Mahāsaccakasutta

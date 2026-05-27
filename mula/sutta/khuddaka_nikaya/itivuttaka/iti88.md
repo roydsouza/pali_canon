@@ -5,10 +5,11 @@ title_en: Inner Stains
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti88
+sutta_number: 88
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti88_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

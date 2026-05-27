@@ -1,7 +1,10 @@
 ---
-id: patimokkha_bhikkhu
+id: PATIMOKKHA_BHIKKHU
 title_pali: Bhikkhu Pātimokkha
-type: vinaya
+type: mula
+pitaka: vinaya
+nikaya: None
+sutta_number: patimokkha_bhikkhu
 layer: mula
 ---
 

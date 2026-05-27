@@ -1,14 +1,14 @@
 ---
-id: THAG6.14
+id: THAG6
 title_pali: Sabbakāmitheragāthā
 title_en: Sabbakāmi
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.14
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

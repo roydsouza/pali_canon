@@ -1,6 +1,6 @@
 ---
-id: path_gradual_training
-title: Gradual Training: A Reading Path for the Step-by-Step Path
+id: gradual_training_path
+title: "Gradual Training: A Reading Path for the Step-by-Step Path"
 type: path
 tags:
   - gradual-training

@@ -2,6 +2,7 @@
 id: three_marks
 title_pali: Tilakkhaṇa
 type: matika
+category: list_note
 ---
 
 # Three Marks of Existence (Tilakkhaṇa)

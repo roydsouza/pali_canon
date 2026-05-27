@@ -1,13 +1,14 @@
 ---
-id: iti68_att
+id: ITI68_att
 title_pali: 9. Paṭhamarāgasuttavaṇṇanā
-title_en: Commentary on Greed (1st)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 68
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti68.md
+title_en: Commentary on Greed (1st)
 subcollection: itivuttaka
-sutta_number: iti68
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

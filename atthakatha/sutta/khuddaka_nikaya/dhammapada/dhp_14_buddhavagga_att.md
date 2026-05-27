@@ -1,16 +1,17 @@
 ---
 id: DHP_14_att
 title_pali: Buddhavaggavaṇṇanā
-title_en: Commentary on Buddhavagga (The Buddha)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 14
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_14_buddhavagga.md
+title_en: Commentary on Buddhavagga (The Buddha)
 text: dhammapada
 vagga: 14
-verse_range: "179–196"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_14_buddhavagga.md
+verse_range: 179–196
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 14: Buddhavagga

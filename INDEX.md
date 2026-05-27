@@ -17,7 +17,7 @@
         <li><a class="internal-link" href="mula/sutta/majjhima_nikaya/INDEX.md">Majjhima Nikāya (Middle)</a> <span class="db-badge jhana">22 Suttas</span></li>
         <li><a class="internal-link" href="mula/sutta/samyutta_nikaya/INDEX.md">Saṃyutta Nikāya (Connected)</a> <span class="db-badge jhana">11 Saṃyuttas</span></li>
         <li><a class="internal-link" href="mula/sutta/anguttara_nikaya/INDEX.md">Aṅguttara Nikāya (Numerical)</a> <span class="db-badge jhana">35 Groups</span></li>
-        <li><a class="internal-link" href="mula/sutta/khuddaka_nikaya/INDEX.md">Khuddaka Nikāya (Minor)</a> <span class="db-badge jhana">Dhp & Udāna</span></li>
+        <li><a class="internal-link" href="mula/sutta/khuddaka_nikaya/INDEX.md">Khuddaka Nikāya (Minor)</a> <span class="db-badge jhana">Dhp, Ud, Iti, Snp, Thag, Thig</span></li>
       </ul>
     </div>
   </div>
@@ -96,7 +96,7 @@ Learn how to configure and play chanting audio files (e.g., Pātimokkha recitati
 ## 🕒 Recently Modified / Revisited
 
 ```dataview
-TABLE file.mtime as "Modified Time", type as "Type"
+TABLE file.mtime as "Modified Time", row.type as "Type"
 FROM ""
 SORT file.mtime DESC
 LIMIT 5

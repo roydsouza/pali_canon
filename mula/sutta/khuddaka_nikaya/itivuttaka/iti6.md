@@ -5,10 +5,11 @@ title_en: Conceit
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti6
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti6_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

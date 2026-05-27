@@ -1,15 +1,17 @@
 ---
 id: MN52_tik
 title_pali: Aṭṭhakanāgarasuttavaṇṇanātīkā
-title_en: Sub-commentary on Aṭṭhakanāgarasutta (At Aṭṭhakanāgara)
 type: tika
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 52
+mula_file: /mula/sutta/majjhima_nikaya/mn52.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn52_att.md
+title_en: Sub-commentary on Aṭṭhakanāgarasutta (At Aṭṭhakanāgara)
 sutta: mn52
 layer: tika
-mula_file: [[mn52]]
 att_file: [[mn52_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Aṭṭhakanāgarasutta

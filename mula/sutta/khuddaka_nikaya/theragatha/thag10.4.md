@@ -1,14 +1,14 @@
 ---
-id: THAG10.4
+id: THAG10
 title_pali: Cūḷapanthakatheragāthā
 title_en: Cūḷapanthaka
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag10.4
+sutta_number: 10
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

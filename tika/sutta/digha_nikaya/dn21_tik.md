@@ -1,15 +1,17 @@
 ---
 id: DN21_tik
 title_pali: Sakkapañhasuttavaṇṇanātīkā
-title_en: Sub-commentary on Sakkapañhasutta (Sakka’s Questions)
 type: tika
 pitaka: sutta
 nikaya: digha
+sutta_number: 21
+mula_file: /mula/sutta/digha_nikaya/dn21.md
+commentary_file: /atthakatha/sutta/digha_nikaya/dn21_att.md
+title_en: Sub-commentary on Sakkapañhasutta (Sakka’s Questions)
 sutta: dn21
 layer: tika
-mula_file: [[dn21]]
 att_file: [[dn21_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Dīgha Nikāya: Sakkapañhasutta

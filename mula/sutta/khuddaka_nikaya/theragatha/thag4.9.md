@@ -1,14 +1,14 @@
 ---
-id: THAG4.9
+id: THAG4
 title_pali: Candanatheragāthā
 title_en: Candana
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.9
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,14 +1,14 @@
 ---
-id: THAG2.39
+id: THAG2
 title_pali: Usabhatheragāthā
 title_en: Usabha (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.39
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

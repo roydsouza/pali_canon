@@ -39,7 +39,7 @@ This directory contains the Middle Length Discourses (Majjhima Nikāya) from the
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title", tags as "Tags"
-FROM "mula/sutta/majjhima_nikaya" AND #mula
+WHERE contains(file.path, "mula/sutta/majjhima_nikaya/")
 SORT file.name ASC
 ```
 

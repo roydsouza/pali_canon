@@ -1,16 +1,17 @@
 ---
 id: DHP_26_att
 title_pali: Brāhmaṇavaggavaṇṇanā
-title_en: Commentary on Brāhmaṇavagga (The Brahmin)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 26
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_26_brahmanavagga.md
+title_en: Commentary on Brāhmaṇavagga (The Brahmin)
 text: dhammapada
 vagga: 26
-verse_range: "383–423"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_26_brahmanavagga.md
+verse_range: 383–423
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 26: Brāhmaṇavagga

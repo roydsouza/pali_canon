@@ -1,14 +1,14 @@
 ---
-id: THAG3.11
+id: THAG3
 title_pali: Upālitheragāthā
 title_en: Upāli
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag3.11
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

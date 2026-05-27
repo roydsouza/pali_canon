@@ -1,14 +1,14 @@
 ---
-id: THIG11.1
+id: THIG11
 title_pali: Uppalavaṇṇātherīgāthā
 title_en: Uppalavaṇṇā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig11.1
+sutta_number: 11
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

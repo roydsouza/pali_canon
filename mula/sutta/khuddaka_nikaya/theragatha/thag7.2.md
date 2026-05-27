@@ -1,14 +1,14 @@
 ---
-id: THAG7.2
+id: THAG7
 title_pali: Lakuṇḍakabhaddiyatheragāthā
 title_en: Bhaddiya the Dwarf
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag7.2
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

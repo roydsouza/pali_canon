@@ -5,10 +5,11 @@ title_en: Five Harbingers
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti83
+sutta_number: 83
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti83_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

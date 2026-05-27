@@ -1,13 +1,14 @@
 ---
-id: snp5.1_att
+id: SNP5_att
 title_pali: Vatthugāthāvaṇṇanā
-title_en: Commentary on Introductory Verses
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp5.1.md
+title_en: Commentary on Introductory Verses
 subcollection: sutta_nipata
-sutta_number: snp5.1
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

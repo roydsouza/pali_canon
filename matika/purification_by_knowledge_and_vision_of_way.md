@@ -2,6 +2,7 @@
 id: purification_by_knowledge_and_vision_of_way
 title_pali: Paṭipadāñāṇadassana-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification by Knowledge & Vision of Way (Paṭipadāñāṇadassana-visuddhi)

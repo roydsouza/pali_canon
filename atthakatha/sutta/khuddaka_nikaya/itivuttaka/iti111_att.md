@@ -1,13 +1,14 @@
 ---
-id: iti111_att
+id: ITI111_att
 title_pali: 12. Sampannasīlasuttavaṇṇanā
-title_en: Commentary on Accomplishment in Ethics
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 111
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti111.md
+title_en: Commentary on Accomplishment in Ethics
 subcollection: itivuttaka
-sutta_number: iti111
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

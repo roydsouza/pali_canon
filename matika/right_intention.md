@@ -2,6 +2,7 @@
 id: right_intention
 title_pali: Sammāsaṅkappo
 type: matika
+category: factor_note
 ---
 
 # Right Intention (Sammāsaṅkappo)

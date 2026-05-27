@@ -1,16 +1,17 @@
 ---
 id: DHP_21_att
 title_pali: Pakiṇṇakavaggavaṇṇanā
-title_en: Commentary on Pakiṇṇakavagga (Miscellaneous)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 21
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_21_pakinnakavagga.md
+title_en: Commentary on Pakiṇṇakavagga (Miscellaneous)
 text: dhammapada
 vagga: 21
-verse_range: "290–305"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_21_pakinnakavagga.md
+verse_range: 290–305
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 21: Pakiṇṇakavagga

@@ -1,14 +1,14 @@
 ---
-id: THAG16.6
+id: THAG16
 title_pali: Selatheragāthā
 title_en: Sela
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.6
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

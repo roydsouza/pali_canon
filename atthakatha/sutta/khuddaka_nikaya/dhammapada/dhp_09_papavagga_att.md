@@ -1,16 +1,17 @@
 ---
 id: DHP_09_att
 title_pali: Pāpavaggavaṇṇanā
-title_en: Commentary on Pāpavagga (Evil)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 9
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_09_papavagga.md
+title_en: Commentary on Pāpavagga (Evil)
 text: dhammapada
 vagga: 9
-verse_range: "116–128"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_09_papavagga.md
+verse_range: 116–128
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 9: Pāpavagga

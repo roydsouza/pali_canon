@@ -1,14 +1,14 @@
 ---
-id: THAG7.3
+id: THAG7
 title_pali: Bhaddatheragāthā
 title_en: Bhadda
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag7.3
+sutta_number: 7
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

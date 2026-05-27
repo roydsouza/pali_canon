@@ -1,7 +1,7 @@
 ---
 id: paritta_index
-title: Paritta: Canonical Protection Chant Collection
 type: index
+title: "Paritta: Canonical Protection Chant Collection"
 ---
 
 # Paritta Collection (Protective Chanting)

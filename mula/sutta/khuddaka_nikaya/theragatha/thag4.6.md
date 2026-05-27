@@ -1,14 +1,14 @@
 ---
-id: THAG4.6
+id: THAG4
 title_pali: Senakatheragāthā
 title_en: Senaka
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.6
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -5,10 +5,11 @@ title_en: Greed (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti69
+sutta_number: 69
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti69_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

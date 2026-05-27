@@ -2,6 +2,7 @@
 id: noble_eightfold_path
 title_pali: Ariyo Aṭṭhaṅgiko Maggo
 type: matika
+category: list_note
 ---
 
 # Noble Eightfold Path (Ariyo Aṭṭhaṅgiko Maggo)

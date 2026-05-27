@@ -2,6 +2,7 @@
 id: ten_perfections
 title_pali: Dasa Pāramī
 type: matika
+category: list_note
 ---
 
 # Ten Perfections (Dasa Pāramī)

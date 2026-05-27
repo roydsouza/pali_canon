@@ -2,6 +2,7 @@
 id: sangha
 title_pali: Sangha
 type: matika
+category: factor_note
 ---
 
 # The Sangha (Sangha)

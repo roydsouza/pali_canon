@@ -1,14 +1,16 @@
 ---
 id: SN56_tik
 title_pali: Saccasaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Saccasaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 56
+mula_file: /mula/sutta/samyutta_nikaya/sn56.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn56_att.md
+title_en: Sub-commentary on Saccasaṃyutta
 samyutta: sn56
-mula_file: [[sn56]]
 att_file: [[sn56_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Saccasaṃyutta

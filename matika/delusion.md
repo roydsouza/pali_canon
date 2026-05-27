@@ -2,6 +2,7 @@
 id: delusion
 title_pali: Moha
 type: matika
+category: factor_note
 ---
 
 # Delusion / Ignorance (Moha)

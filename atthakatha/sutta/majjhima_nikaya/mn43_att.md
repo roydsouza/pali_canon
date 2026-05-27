@@ -1,16 +1,18 @@
 ---
 id: MN43_att
 title_pali: Mahāvedallasuttavaṇṇanā
-title_en: Commentary on Mahāvedallasutta (The Longer Analysis)
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 43
+mula_file: /mula/sutta/majjhima_nikaya/mn43.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn43_tik.md
+title_en: Commentary on Mahāvedallasutta (The Longer Analysis)
 sutta: mn43
 layer: atthakatha
-mula_file: [[mn43]]
 att_file: [[mn43_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Mahāvedallasutta

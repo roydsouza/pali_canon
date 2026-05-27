@@ -1,14 +1,14 @@
 ---
-id: THAG6.9
+id: THAG6
 title_pali: Purohitaputtajentatheragāthā
 title_en: Jenta, the High Priest’s Son
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.9
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

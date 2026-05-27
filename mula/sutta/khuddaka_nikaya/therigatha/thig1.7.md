@@ -1,14 +1,14 @@
 ---
-id: THIG1.7
+id: THIG1
 title_pali: Vīrātherīgāthā
 title_en: Vīrā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.7
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

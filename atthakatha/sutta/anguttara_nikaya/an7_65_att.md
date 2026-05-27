@@ -1,15 +1,17 @@
 ---
-id: an7_65_att
+id: AN7.65_att
 title_pali: Hirīottappasuttavaṇṇanā
-title_en: Commentary on Hirīottappasutta (Conscience and Prudence)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 7.65
+mula_file: /mula/sutta/anguttara_nikaya/an7_65.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an7_65_tik.md
+title_en: Commentary on Hirīottappasutta (Conscience and Prudence)
 sutta: an7.65
 layer: atthakatha
-mula_file: [[an7_65]]
 tika_file: [[an7_65_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Hirīottappasutta

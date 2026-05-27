@@ -1,13 +1,14 @@
 ---
-id: iti55_att
+id: ITI55_att
 title_pali: 6. Dutiyaesanāsuttavaṇṇanā
-title_en: Commentary on Searches (2nd)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 55
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti55.md
+title_en: Commentary on Searches (2nd)
 subcollection: itivuttaka
-sutta_number: iti55
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

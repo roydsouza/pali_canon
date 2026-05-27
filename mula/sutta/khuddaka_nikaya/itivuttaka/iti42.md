@@ -5,10 +5,11 @@ title_en: Bright Things
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti42
+sutta_number: 42
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti42_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

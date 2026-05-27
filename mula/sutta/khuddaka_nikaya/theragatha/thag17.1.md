@@ -1,14 +1,14 @@
 ---
-id: THAG17.1
+id: THAG17
 title_pali: Phussatheragāthā
 title_en: Phussa
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag17.1
+sutta_number: 17
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

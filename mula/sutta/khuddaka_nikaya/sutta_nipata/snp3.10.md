@@ -1,14 +1,15 @@
 ---
-id: SNP3.10
+id: SNP3
 title_pali: Kokālikasutta
 title_en: With Kokālika
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp3.10
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3.10_att.md
+subcollection: sutta_nipata
 tags:
   - monastic
   - going_forth

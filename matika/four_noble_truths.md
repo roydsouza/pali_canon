@@ -2,6 +2,7 @@
 id: four_noble_truths
 title_pali: Cattāri Ariyasaccāni
 type: matika
+category: list_note
 ---
 
 # Four Noble Truths (Cattāri Ariyasaccāni)

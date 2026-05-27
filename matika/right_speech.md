@@ -2,6 +2,7 @@
 id: right_speech
 title_pali: Sammāvācā
 type: matika
+category: factor_note
 ---
 
 # Right Speech (Sammāvācā)

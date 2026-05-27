@@ -1,14 +1,14 @@
 ---
-id: THAG16.9
+id: THAG16
 title_pali: Anuruddhatheragāthā
 title_en: Anuruddha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag16.9
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

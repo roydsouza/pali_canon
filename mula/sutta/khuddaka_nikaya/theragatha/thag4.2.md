@@ -1,14 +1,14 @@
 ---
-id: THAG4.2
+id: THAG4
 title_pali: Bhagutheragāthā
 title_en: Bhagu
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag4.2
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

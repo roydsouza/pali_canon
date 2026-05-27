@@ -1,13 +1,14 @@
 ---
-id: snp3.1_att
+id: SNP3_att
 title_pali: 1. Pabbajjāsuttavaṇṇanā
-title_en: Commentary on Going Forth
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp3.1.md
+title_en: Commentary on Going Forth
 subcollection: sutta_nipata
-sutta_number: snp3.1
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

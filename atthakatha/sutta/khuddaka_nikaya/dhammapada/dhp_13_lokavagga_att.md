@@ -1,16 +1,17 @@
 ---
 id: DHP_13_att
 title_pali: Lokavaggavaṇṇanā
-title_en: Commentary on Lokavagga (The World)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 13
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_13_lokavagga.md
+title_en: Commentary on Lokavagga (The World)
 text: dhammapada
 vagga: 13
-verse_range: "167–178"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_13_lokavagga.md
+verse_range: 167–178
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 13: Lokavagga

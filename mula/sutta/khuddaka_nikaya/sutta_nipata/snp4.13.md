@@ -1,14 +1,15 @@
 ---
-id: SNP4.13
+id: SNP4
 title_pali: Mahābyūhasutta
 title_en: The Longer Discourse on Arrayed for Battle
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.13
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.13_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

@@ -2,6 +2,7 @@
 id: generosity
 title_pali: Dāna
 type: matika
+category: factor_note
 ---
 
 # Generosity (Dāna)

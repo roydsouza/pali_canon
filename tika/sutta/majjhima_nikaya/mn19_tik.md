@@ -1,15 +1,17 @@
 ---
 id: MN19_tik
 title_pali: Dvedhāvitakkasuttavaṇṇanātīkā
-title_en: Sub-commentary on Dvedhāvitakkasutta
 type: tika
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 19
+mula_file: /mula/sutta/majjhima_nikaya/mn19.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn19_att.md
+title_en: Sub-commentary on Dvedhāvitakkasutta
 sutta: mn19
 layer: tika
-mula_file: [[mn19]]
 att_file: [[mn19_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya 19: Dvedhāvitakkasutta

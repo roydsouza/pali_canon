@@ -2,6 +2,7 @@
 id: abstaining_from_intoxicants
 title_pali: Surāmerayamajjapamādaṭṭhānā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Intoxicants (Surāmerayamajjapamādaṭṭhānā veramaṇī)

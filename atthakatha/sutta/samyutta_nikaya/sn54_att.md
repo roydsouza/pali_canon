@@ -1,14 +1,16 @@
 ---
 id: SN54_att
 title_pali: Ānāpānasaṃyuttavaṇṇanā
-title_en: Commentary on Ānāpānasaṃyutta
 type: atthakatha
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 54
+mula_file: /mula/sutta/samyutta_nikaya/sn54.md
+sub_commentary_file: /tika/sutta/samyutta_nikaya/sn54_tik.md
+title_en: Commentary on Ānāpānasaṃyutta
 samyutta: sn54
-mula_file: [[sn54]]
 tika_file: [[sn54_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Saṃyutta Nikāya: Ānāpānasaṃyutta

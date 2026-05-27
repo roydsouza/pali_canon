@@ -1,13 +1,14 @@
 ---
-id: iti77_att
+id: ITI77_att
 title_pali: 8. Bhidurasuttavaṇṇanā
-title_en: Commentary on Fragile
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 77
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti77.md
+title_en: Commentary on Fragile
 subcollection: itivuttaka
-sutta_number: iti77
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

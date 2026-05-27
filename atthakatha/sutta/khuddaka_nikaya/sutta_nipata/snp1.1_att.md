@@ -1,13 +1,14 @@
 ---
-id: snp1.1_att
+id: SNP1_att
 title_pali: Uragasuttavaṇṇanā
-title_en: Commentary on The Serpent
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 1
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp1.1.md
+title_en: Commentary on The Serpent
 subcollection: sutta_nipata
-sutta_number: snp1.1
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

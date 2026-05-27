@@ -1,14 +1,14 @@
 ---
-id: THIG1.5
+id: THIG1
 title_pali: Aññatarātissātherīgāthā
 title_en: Another Tissā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.5
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

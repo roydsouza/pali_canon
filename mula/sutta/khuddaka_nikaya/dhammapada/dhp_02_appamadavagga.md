@@ -5,9 +5,11 @@ title_en: Heedfulness
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_02_appamadavagga_att.md
 text: dhammapada
 vagga: 2
-verse_range: "21–32"
+verse_range: 21–32
 tags:
   - dhammapada
   - meditation

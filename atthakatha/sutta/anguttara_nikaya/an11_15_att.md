@@ -1,15 +1,17 @@
 ---
-id: an11_15_att
+id: AN11.15_att
 title_pali: Mettāsuttavaṇṇanā
-title_en: Commentary on Mettāsutta (The Benefits of Love)
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.15
+mula_file: /mula/sutta/anguttara_nikaya/an11_15.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an11_15_tik.md
+title_en: Commentary on Mettāsutta (The Benefits of Love)
 sutta: an11.15
 layer: atthakatha
-mula_file: [[an11_15]]
 tika_file: [[an11_15_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Mettāsutta

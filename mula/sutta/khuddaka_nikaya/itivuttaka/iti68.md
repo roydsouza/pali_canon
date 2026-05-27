@@ -5,10 +5,11 @@ title_en: Greed (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti68
+sutta_number: 68
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti68_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

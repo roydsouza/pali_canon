@@ -1,13 +1,14 @@
 ---
-id: iti89_att
+id: ITI89_att
 title_pali: 10. Devadattasuttavaṇṇanā
-title_en: Commentary on About Devadatta
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 89
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti89.md
+title_en: Commentary on About Devadatta
 subcollection: itivuttaka
-sutta_number: iti89
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

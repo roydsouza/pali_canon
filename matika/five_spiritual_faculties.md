@@ -2,6 +2,7 @@
 id: five_spiritual_faculties
 title_pali: Pañcindriya
 type: matika
+category: list_note
 ---
 
 # Five Spiritual Faculties (Pañcindriya)

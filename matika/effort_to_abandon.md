@@ -2,6 +2,7 @@
 id: effort_to_abandon
 title_pali: Pahāna
 type: matika
+category: factor_note
 ---
 
 # Effort to Abandon (Pahāna)

@@ -1,14 +1,14 @@
 ---
-id: THIG13.3
+id: THIG13
 title_pali: Cāpātherīgāthā
 title_en: Cāpā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig13.3
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

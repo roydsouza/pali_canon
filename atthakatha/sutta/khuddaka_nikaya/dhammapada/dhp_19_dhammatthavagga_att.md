@@ -1,16 +1,17 @@
 ---
 id: DHP_19_att
 title_pali: Dhammaṭṭhavaggavaṇṇanā
-title_en: Commentary on Dhammaṭṭhavagga (The Just)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 19
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_19_dhammatthavagga.md
+title_en: Commentary on Dhammaṭṭhavagga (The Just)
 text: dhammapada
 vagga: 19
-verse_range: "256–272"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_19_dhammatthavagga.md
+verse_range: 256–272
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 19: Dhammaṭṭhavagga

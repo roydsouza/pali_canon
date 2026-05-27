@@ -1,15 +1,17 @@
 ---
 id: MN10_att
 title_pali: Satipaṭṭhānasuttavaṇṇanā
-title_en: Commentary on Satipaṭṭhānasutta (Mindfulness Meditation)
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 10
+mula_file: /mula/sutta/majjhima_nikaya/mn10.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn10_tik.md
+title_en: Commentary on Satipaṭṭhānasutta (Mindfulness Meditation)
 sutta: mn10
 layer: atthakatha
-mula_file: [[mn10]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Satipaṭṭhānasutta

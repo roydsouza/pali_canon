@@ -2,6 +2,7 @@
 id: three_unwholesome_roots
 title_pali: Akusalamūla
 type: matika
+category: list_note
 ---
 
 # Three Unwholesome Roots (Akusalamūla)

@@ -1,16 +1,17 @@
 ---
 id: DHP_10_att
 title_pali: Daṇḍavaggavaṇṇanā
-title_en: Commentary on Daṇḍavagga (The Rod)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 10
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_10_dandavagga.md
+title_en: Commentary on Daṇḍavagga (The Rod)
 text: dhammapada
 vagga: 10
-verse_range: "129–145"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_10_dandavagga.md
+verse_range: 129–145
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 10: Daṇḍavagga

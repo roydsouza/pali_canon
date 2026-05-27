@@ -5,10 +5,11 @@ title_en: Thoughts
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti38
+sutta_number: 38
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti38_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

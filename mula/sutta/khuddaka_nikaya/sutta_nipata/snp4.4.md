@@ -1,14 +1,15 @@
 ---
-id: SNP4.4
+id: SNP4
 title_pali: Suddhaṭṭhakasutta
 title_en: Eight on the Pure
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.4
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.4_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

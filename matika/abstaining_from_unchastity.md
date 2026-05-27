@@ -2,6 +2,7 @@
 id: abstaining_from_unchastity
 title_pali: Abrahmacariyā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Unchastity (Abrahmacariyā veramaṇī)

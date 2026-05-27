@@ -1,14 +1,15 @@
 ---
-id: SNP5.14
+id: SNP5
 title_pali: Udayamāṇavapucchā
 title_en: The Questions of Udaya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.14
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.14_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

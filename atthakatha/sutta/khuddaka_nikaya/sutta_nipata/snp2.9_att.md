@@ -1,13 +1,14 @@
 ---
-id: snp2.9_att
+id: SNP2_att
 title_pali: 9. Kiṃsīlasuttavaṇṇanā
-title_en: Commentary on What Morality?
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp2.9.md
+title_en: Commentary on What Morality?
 subcollection: sutta_nipata
-sutta_number: snp2.9
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

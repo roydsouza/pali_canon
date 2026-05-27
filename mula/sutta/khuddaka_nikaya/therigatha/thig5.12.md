@@ -1,14 +1,14 @@
 ---
-id: THIG5.12
+id: THIG5
 title_pali: Candātherīgāthā
 title_en: Candā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.12
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

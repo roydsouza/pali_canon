@@ -1,16 +1,17 @@
 ---
 id: DHP_03_att
 title_pali: Cittavaggavaṇṇanā
-title_en: Commentary on Cittavagga (The Mind)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_03_cittavagga.md
+title_en: Commentary on Cittavagga (The Mind)
 text: dhammapada
 vagga: 3
-verse_range: "33–43"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_03_cittavagga.md
+verse_range: 33–43
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 3: Cittavagga

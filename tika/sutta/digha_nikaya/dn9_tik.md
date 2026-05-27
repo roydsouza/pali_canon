@@ -1,15 +1,17 @@
 ---
 id: DN9_tik
 title_pali: Poṭṭhapādasuttavaṇṇanātīkā
-title_en: Sub-commentary on Poṭṭhapādasutta (With Poṭṭhapāda)
 type: tika
 pitaka: sutta
 nikaya: digha
+sutta_number: 9
+mula_file: /mula/sutta/digha_nikaya/dn9.md
+commentary_file: /atthakatha/sutta/digha_nikaya/dn9_att.md
+title_en: Sub-commentary on Poṭṭhapādasutta (With Poṭṭhapāda)
 sutta: dn9
 layer: tika
-mula_file: [[dn9]]
 att_file: [[dn9_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Dīgha Nikāya: Poṭṭhapādasutta

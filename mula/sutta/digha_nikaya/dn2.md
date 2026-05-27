@@ -5,9 +5,11 @@ title_en: The Fruits of the Ascetic Life
 type: mula
 pitaka: sutta
 nikaya: digha
-sutta_number: dn2
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/digha_nikaya/dn2_att.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn2_tik.md
 tags:
   - meditation
 ---

@@ -1,13 +1,14 @@
 ---
-id: iti104_att
+id: ITI104_att
 title_pali: 5. Sīlasampannasuttavaṇṇanā
-title_en: Commentary on Accomplished in Ethics
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 104
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti104.md
+title_en: Commentary on Accomplished in Ethics
 subcollection: itivuttaka
-sutta_number: iti104
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

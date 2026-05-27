@@ -1,14 +1,14 @@
 ---
-id: THIG5.6
+id: THIG5
 title_pali: Mittākāḷītherīgāthā
 title_en: Mittākāḷī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.6
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

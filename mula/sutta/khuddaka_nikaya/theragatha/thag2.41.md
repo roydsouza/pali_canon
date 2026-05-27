@@ -1,14 +1,14 @@
 ---
-id: THAG2.41
+id: THAG2
 title_pali: Kumārakassapatheragāthā
 title_en: Kassapa the Prince
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.41
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

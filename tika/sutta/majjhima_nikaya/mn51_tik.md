@@ -1,15 +1,17 @@
 ---
-id: mn51_tik
+id: MN51_tik
 title_pali: Kandarakasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Kandarakasutta (With Kandaraka)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 51
+mula_file: /mula/sutta/majjhima_nikaya/mn51.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn51_att.md
+title_en: Sub-commentary on Kandarakasutta (With Kandaraka)
 sutta: mn51
 layer: tika
-mula_file: [[mn51]]
 att_file: [[mn51_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Kandarakasutta

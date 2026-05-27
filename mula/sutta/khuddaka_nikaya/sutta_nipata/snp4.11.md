@@ -1,14 +1,15 @@
 ---
-id: SNP4.11
+id: SNP4
 title_pali: Kalahavivādasutta
 title_en: Quarrels and Disputes
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.11
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.11_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

@@ -1,16 +1,17 @@
 ---
 id: DHP_22_att
 title_pali: Nirayavaggavaṇṇanā
-title_en: Commentary on Nirayavagga (Hell)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 22
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_22_nirayavagga.md
+title_en: Commentary on Nirayavagga (Hell)
 text: dhammapada
 vagga: 22
-verse_range: "306–319"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_22_nirayavagga.md
+verse_range: 306–319
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 22: Nirayavagga

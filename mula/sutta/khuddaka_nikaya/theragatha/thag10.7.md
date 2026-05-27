@@ -1,14 +1,14 @@
 ---
-id: THAG10.7
+id: THAG10
 title_pali: (Apara) Gotamatheragāthā
 title_en: Another Gotama
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag10.7
+sutta_number: 10
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,14 +1,14 @@
 ---
-id: THIG5.2
+id: THIG5
 title_pali: Vimalātherīgāthā
 title_en: Vimalā, the Former Courtesan
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.2
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

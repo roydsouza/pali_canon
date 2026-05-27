@@ -1,13 +1,14 @@
 ---
-id: snp5.2_att
+id: SNP5_att
 title_pali: 1. Ajitasuttavaṇṇanā
-title_en: Commentary on The Questions of Ajita
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp5.2.md
+title_en: Commentary on The Questions of Ajita
 subcollection: sutta_nipata
-sutta_number: snp5.2
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -5,9 +5,11 @@ title_en: The Rod
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 10
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_10_dandavagga_att.md
 text: dhammapada
 vagga: 10
-verse_range: "129–145"
+verse_range: 129–145
 tags:
   - dhammapada
   - precepts

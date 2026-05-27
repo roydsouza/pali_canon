@@ -1,13 +1,14 @@
 ---
-id: iti29_att
+id: ITI29_att
 title_pali: 2. Sukhavihārasuttavaṇṇanā
-title_en: Commentary on Living in Happiness
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 29
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti29.md
+title_en: Commentary on Living in Happiness
 subcollection: itivuttaka
-sutta_number: iti29
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

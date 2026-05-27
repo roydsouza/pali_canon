@@ -1,13 +1,14 @@
 ---
-id: iti24_att
+id: ITI24_att
 title_pali: 4. Aṭṭhipuñjasuttavaṇṇanā
-title_en: Commentary on A Heap of Bones
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 24
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti24.md
+title_en: Commentary on A Heap of Bones
 subcollection: itivuttaka
-sutta_number: iti24
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

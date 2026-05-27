@@ -2,6 +2,7 @@
 id: form_or_matter
 title_pali: Rūpa
 type: matika
+category: factor_note
 ---
 
 # Form / Matter (Rūpa)

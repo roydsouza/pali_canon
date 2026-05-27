@@ -5,9 +5,11 @@ title_en: The Buddha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 14
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_14_buddhavagga_att.md
 text: dhammapada
 vagga: 14
-verse_range: "179–196"
+verse_range: 179–196
 tags:
   - dhammapada
   - meditation

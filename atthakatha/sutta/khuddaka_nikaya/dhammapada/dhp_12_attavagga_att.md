@@ -1,16 +1,17 @@
 ---
 id: DHP_12_att
 title_pali: Attavaggavaṇṇanā
-title_en: Commentary on Attavagga (Oneself)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 12
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_12_attavagga.md
+title_en: Commentary on Attavagga (Oneself)
 text: dhammapada
 vagga: 12
-verse_range: "157–166"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_12_attavagga.md
+verse_range: 157–166
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 12: Attavagga

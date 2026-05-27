@@ -1,14 +1,14 @@
 ---
-id: THAG2.20
+id: THAG2
 title_pali: Sirimatheragāthā
 title_en: Sirima
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.20
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

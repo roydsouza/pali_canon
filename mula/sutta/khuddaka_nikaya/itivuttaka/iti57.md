@@ -5,10 +5,11 @@ title_en: Defilements (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti57
+sutta_number: 57
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti57_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

@@ -5,9 +5,11 @@ title_en: Pairs
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 1
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga_att.md
 text: dhammapada
 vagga: 1
-verse_range: "1–20"
+verse_range: 1–20
 tags:
   - dhammapada
   - precepts

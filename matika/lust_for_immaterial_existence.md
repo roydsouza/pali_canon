@@ -2,6 +2,7 @@
 id: lust_for_immaterial_existence
 title_pali: Arūparāga
 type: matika
+category: factor_note
 ---
 
 # Lust for Immaterial Existence (Arūparāga)

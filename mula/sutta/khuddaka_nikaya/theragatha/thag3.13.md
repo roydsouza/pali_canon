@@ -1,14 +1,14 @@
 ---
-id: THAG3.13
+id: THAG3
 title_pali: Abhibhūtatheragāthā
 title_en: Abhibhūta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag3.13
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

@@ -1,14 +1,14 @@
 ---
-id: THAG10.6
+id: THAG10
 title_pali: Vaṅgantaputtaupasenatheragāthā
 title_en: Upasena son of Vaṅgantā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag10.6
+sutta_number: 10
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

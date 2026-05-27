@@ -1,14 +1,14 @@
 ---
-id: THAG8.3
+id: THAG8
 title_pali: Mahāpanthakatheragāthā
 title_en: Mahāpanthaka
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag8.3
+sutta_number: 8
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

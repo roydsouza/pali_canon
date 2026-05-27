@@ -1,14 +1,15 @@
 ---
-id: SNP2.4
+id: SNP2
 title_pali: Maṅgalasutta
 title_en: Blessings
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp2.4
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp2.4_att.md
+subcollection: sutta_nipata
 tags:
   - mangala
   - paritta

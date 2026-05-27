@@ -1,13 +1,14 @@
 ---
-id: iti38_att
+id: ITI38_att
 title_pali: 1. Vitakkasuttavaṇṇanā
-title_en: Commentary on Thoughts
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 38
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti38.md
+title_en: Commentary on Thoughts
 subcollection: itivuttaka
-sutta_number: iti38
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

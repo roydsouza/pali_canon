@@ -1,13 +1,14 @@
 ---
-id: iti48_att
+id: ITI48_att
 title_pali: 11. Āpāyikasuttavaṇṇanā
-title_en: Commentary on Bound for Loss
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 48
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti48.md
+title_en: Commentary on Bound for Loss
 subcollection: itivuttaka
-sutta_number: iti48
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

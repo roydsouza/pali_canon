@@ -1,13 +1,14 @@
 ---
-id: snp2.3_att
+id: SNP2_att
 title_pali: 3. Hirisuttavaṇṇanā
-title_en: Commentary on Conscientious Companionship
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 2
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp2.3.md
+title_en: Commentary on Conscientious Companionship
 subcollection: sutta_nipata
-sutta_number: snp2.3
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -1,13 +1,14 @@
 ---
-id: snp3.9_att
+id: SNP3_att
 title_pali: 9. Vāseṭṭhasuttavaṇṇanā
-title_en: Commentary on With Vāseṭṭha
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp3.9.md
+title_en: Commentary on With Vāseṭṭha
 subcollection: sutta_nipata
-sutta_number: snp3.9
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

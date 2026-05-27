@@ -1,16 +1,17 @@
 ---
 id: DHP_06_att
 title_pali: Paṇḍitavaggavaṇṇanā
-title_en: Commentary on Paṇḍitavagga (The Wise)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 6
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_06_panditavagga.md
+title_en: Commentary on Paṇḍitavagga (The Wise)
 text: dhammapada
 vagga: 6
-verse_range: "76–89"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_06_panditavagga.md
+verse_range: 76–89
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 6: Paṇḍitavagga

@@ -1,14 +1,14 @@
 ---
-id: THAG5.11
+id: THAG5
 title_pali: Soṇakuṭikaṇṇatheragāthā
 title_en: Soṇa of the Sharp Ears
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag5.11
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

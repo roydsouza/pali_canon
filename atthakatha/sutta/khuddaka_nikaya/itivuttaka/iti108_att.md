@@ -1,13 +1,14 @@
 ---
-id: iti108_att
+id: ITI108_att
 title_pali: 9. Kuhasuttavaṇṇanā
-title_en: Commentary on Deceivers
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 108
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti108.md
+title_en: Commentary on Deceivers
 subcollection: itivuttaka
-sutta_number: iti108
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

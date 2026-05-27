@@ -1,14 +1,14 @@
 ---
-id: THAG14.1
+id: THAG14
 title_pali: Khadiravaniyarevatatheragāthā
 title_en: Revata of the Acacia Wood
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag14.1
+sutta_number: 14
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

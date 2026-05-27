@@ -1,14 +1,14 @@
 ---
-id: THAG2.11
+id: THAG2
 title_pali: Mahācundatheragāthā
 title_en: Mahācunda
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.11
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

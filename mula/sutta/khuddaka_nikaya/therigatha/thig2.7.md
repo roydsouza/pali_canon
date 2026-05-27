@@ -1,14 +1,14 @@
 ---
-id: THIG2.7
+id: THIG2
 title_pali: Mittātherīgāthā
 title_en: Mittā (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.7
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

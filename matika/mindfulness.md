@@ -2,6 +2,7 @@
 id: mindfulness
 title_pali: Sati
 type: matika
+category: factor_note
 ---
 
 # Mindfulness (Sati)

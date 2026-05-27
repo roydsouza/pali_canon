@@ -2,6 +2,7 @@
 id: five_aggregates
 title_pali: Pañcupādānakkhandhā
 type: matika
+category: list_note
 ---
 
 # Five Aggregates (Pañcupādānakkhandhā)

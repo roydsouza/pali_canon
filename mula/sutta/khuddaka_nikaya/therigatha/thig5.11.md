@@ -1,14 +1,14 @@
 ---
-id: THIG5.11
+id: THIG5
 title_pali: Tiṁsamattātherīgāthā
 title_en: Thirty Nuns
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.11
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

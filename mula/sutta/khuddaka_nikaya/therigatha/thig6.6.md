@@ -1,14 +1,14 @@
 ---
-id: THIG6.6
+id: THIG6
 title_pali: Mahāpajāpatigotamītherīgāthā
 title_en: Mahāpajāpati Gotamī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig6.6
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

@@ -1,16 +1,17 @@
 ---
 id: DHP_01_att
 title_pali: Yamakavaggavaṇṇanā
-title_en: Commentary on Yamakavagga (Pairs)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 1
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga.md
+title_en: Commentary on Yamakavagga (Pairs)
 text: dhammapada
 vagga: 1
-verse_range: "1–20"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_01_yamakavagga.md
+verse_range: 1–20
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 1: Yamakavagga

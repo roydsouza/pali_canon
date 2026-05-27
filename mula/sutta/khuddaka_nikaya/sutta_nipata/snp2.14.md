@@ -1,14 +1,15 @@
 ---
-id: SNP2.14
+id: SNP2
 title_pali: Dhammikasutta
 title_en: With Dhammika
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp2.14
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp2.14_att.md
+subcollection: sutta_nipata
 tags:
   - ethics
   - conduct

@@ -1,13 +1,14 @@
 ---
-id: iti61_att
+id: ITI61_att
 title_pali: 2. Cakkhusuttavaṇṇanā
-title_en: Commentary on The Eye
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 61
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti61.md
+title_en: Commentary on The Eye
 subcollection: itivuttaka
-sutta_number: iti61
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

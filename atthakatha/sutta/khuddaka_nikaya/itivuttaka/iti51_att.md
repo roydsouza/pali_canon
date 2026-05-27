@@ -1,13 +1,14 @@
 ---
-id: iti51_att
+id: ITI51_att
 title_pali: 2. Dhātusuttavaṇṇanā
-title_en: Commentary on Elements
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 51
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti51.md
+title_en: Commentary on Elements
 subcollection: itivuttaka
-sutta_number: iti51
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

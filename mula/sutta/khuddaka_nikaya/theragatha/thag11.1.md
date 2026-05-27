@@ -1,14 +1,14 @@
 ---
-id: THAG11.1
+id: THAG11
 title_pali: Saṅkiccatheragāthā
 title_en: Saṅkicca
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag11.1
+sutta_number: 11
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

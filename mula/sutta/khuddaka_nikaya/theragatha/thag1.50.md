@@ -1,14 +1,14 @@
 ---
-id: THAG1.50
+id: THAG1
 title_pali: Vimalatheragāthā
 title_en: Vimala (1st)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.50
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

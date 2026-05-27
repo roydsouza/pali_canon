@@ -1,14 +1,15 @@
 ---
-id: SNP5.18
+id: SNP5
 title_pali: Pārāyanatthutigāthā
 title_en: Homage to the Way to the Far Shore
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.18
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.18_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

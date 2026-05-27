@@ -1,13 +1,14 @@
 ---
-id: iti25_att
+id: ITI25_att
 title_pali: 5. Musāvādasuttavaṇṇanā
-title_en: Commentary on Lying
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 25
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti25.md
+title_en: Commentary on Lying
 subcollection: itivuttaka
-sutta_number: iti25
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

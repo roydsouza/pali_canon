@@ -1,13 +1,14 @@
 ---
-id: iti41_att
+id: ITI41_att
 title_pali: 4. Paññāparihīnasuttavaṇṇanā
-title_en: Commentary on Bereft of Wisdom
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 41
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti41.md
+title_en: Commentary on Bereft of Wisdom
 subcollection: itivuttaka
-sutta_number: iti41
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

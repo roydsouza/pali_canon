@@ -5,10 +5,11 @@ title_en: A Heap of Bones
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti24
+sutta_number: 24
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti24_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

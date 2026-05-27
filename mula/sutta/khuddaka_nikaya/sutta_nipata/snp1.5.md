@@ -1,14 +1,15 @@
 ---
-id: SNP1.5
+id: SNP1
 title_pali: Cundasutta
 title_en: Cunda
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp1.5
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp1.5_att.md
+subcollection: sutta_nipata
 tags:
   - cunda
   - disciple

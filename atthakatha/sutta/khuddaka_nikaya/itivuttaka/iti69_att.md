@@ -1,13 +1,14 @@
 ---
-id: iti69_att
+id: ITI69_att
 title_pali: 10. Dutiyarāgasuttavaṇṇanā
-title_en: Commentary on Greed (2nd)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 69
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti69.md
+title_en: Commentary on Greed (2nd)
 subcollection: itivuttaka
-sutta_number: iti69
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

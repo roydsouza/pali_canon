@@ -2,6 +2,7 @@
 id: purification_by_knowledge_and_vision_of_path
 title_pali: Maggāmaggañāṇadassana-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification by Knowledge & Vision of Path (Maggāmaggañāṇadassana-visuddhi)

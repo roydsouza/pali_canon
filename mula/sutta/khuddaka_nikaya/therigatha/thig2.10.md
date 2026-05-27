@@ -1,14 +1,14 @@
 ---
-id: THIG2.10
+id: THIG2
 title_pali: Sāmātherīgāthā
 title_en: Sāmā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig2.10
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

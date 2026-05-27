@@ -1,13 +1,14 @@
 ---
-id: iti100_att
+id: ITI100_att
 title_pali: 1. Brāhmaṇadhammayāgasuttavaṇṇanā
-title_en: Commentary on The Brahmin’s Offering of the Teaching
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 100
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti100.md
+title_en: Commentary on The Brahmin’s Offering of the Teaching
 subcollection: itivuttaka
-sutta_number: iti100
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

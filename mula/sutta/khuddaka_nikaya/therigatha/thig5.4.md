@@ -1,14 +1,14 @@
 ---
-id: THIG5.4
+id: THIG5
 title_pali: Sundarīnandātherīgāthā
 title_en: Sundarīnandā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.4
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

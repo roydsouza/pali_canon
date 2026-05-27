@@ -2,6 +2,7 @@
 id: appreciative_joy
 title_pali: Muditā
 type: matika
+category: factor_note
 ---
 
 # Appreciative / Sympathetic Joy (Muditā)

@@ -1,14 +1,14 @@
 ---
-id: THAG20.1
+id: THAG20
 title_pali: Mahāmoggallānatheragāthā
 title_en: Mahāmoggallāna
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag20.1
+sutta_number: 20
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

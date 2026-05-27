@@ -5,10 +5,11 @@ title_en: Having Right View
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti71
+sutta_number: 71
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti71_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

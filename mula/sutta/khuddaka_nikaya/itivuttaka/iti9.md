@@ -5,10 +5,11 @@ title_en: Complete Understanding of Greed
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti9
+sutta_number: 9
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti9_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

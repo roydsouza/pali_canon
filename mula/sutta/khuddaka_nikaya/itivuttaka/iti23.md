@@ -5,10 +5,11 @@ title_en: Both Kinds of Benefit
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti23
+sutta_number: 23
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti23_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

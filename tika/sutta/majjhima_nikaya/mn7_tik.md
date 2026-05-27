@@ -1,15 +1,17 @@
 ---
-id: mn7_tik
+id: MN7_tik
 title_pali: Vatthasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Vatthasutta (The Simile of the Cloth)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 7
+mula_file: /mula/sutta/majjhima_nikaya/mn7.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn7_att.md
+title_en: Sub-commentary on Vatthasutta (The Simile of the Cloth)
 sutta: mn7
 layer: tika
-mula_file: [[mn7]]
 att_file: [[mn7_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Vatthasutta

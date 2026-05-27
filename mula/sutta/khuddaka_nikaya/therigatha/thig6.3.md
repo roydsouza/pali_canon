@@ -1,14 +1,14 @@
 ---
-id: THIG6.3
+id: THIG6
 title_pali: Khemātherīgāthā
 title_en: Khemā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig6.3
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

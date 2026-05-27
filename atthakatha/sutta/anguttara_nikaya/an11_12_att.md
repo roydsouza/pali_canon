@@ -1,15 +1,17 @@
 ---
-id: an11_12_att
+id: AN11.12_att
 title_pali: Dutiyamahānāmasuttavaṇṇanā
-title_en: Commentary on Dutiyamahānāmasutta (With Mahānāma (2nd))
 type: atthakatha
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 11.12
+mula_file: /mula/sutta/anguttara_nikaya/an11_12.md
+sub_commentary_file: /tika/sutta/anguttara_nikaya/an11_12_tik.md
+title_en: Commentary on Dutiyamahānāmasutta (With Mahānāma (2nd))
 sutta: an11.12
 layer: atthakatha
-mula_file: [[an11_12]]
 tika_file: [[an11_12_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Aṅguttara Nikāya: Dutiyamahānāmasutta

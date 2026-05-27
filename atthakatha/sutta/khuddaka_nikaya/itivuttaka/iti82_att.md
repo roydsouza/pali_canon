@@ -1,13 +1,14 @@
 ---
-id: iti82_att
+id: ITI82_att
 title_pali: 3. Devasaddasuttavaṇṇanā
-title_en: Commentary on The Cry of the Gods
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 82
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti82.md
+title_en: Commentary on The Cry of the Gods
 subcollection: itivuttaka
-sutta_number: iti82
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -1,14 +1,16 @@
 ---
 id: SN55_tik
 title_pali: Sotāpattisaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Sotāpattisaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 55
+mula_file: /mula/sutta/samyutta_nikaya/sn55.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn55_att.md
+title_en: Sub-commentary on Sotāpattisaṃyutta
 samyutta: sn55
-mula_file: [[sn55]]
 att_file: [[sn55_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Sotāpattisaṃyutta

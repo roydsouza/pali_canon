@@ -1,14 +1,15 @@
 ---
-id: SNP4.9
+id: SNP4
 title_pali: Māgaṇḍiyasutta
 title_en: With Māgaṇḍiya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.9
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.9_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

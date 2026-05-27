@@ -2,6 +2,7 @@
 id: existence_or_becoming
 title_pali: Bhava
 type: matika
+category: factor_note
 ---
 
 # Existence / Becoming (Bhava)

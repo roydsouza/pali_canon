@@ -2,6 +2,7 @@
 id: purification_of_view
 title_pali: Diṭṭhi-visuddhi
 type: matika
+category: factor_note
 ---
 
 # Purification of View (Diṭṭhi-visuddhi)

@@ -1,13 +1,14 @@
 ---
-id: iti103_att
+id: ITI103_att
 title_pali: 4. Samaṇabrāhmaṇasuttavaṇṇanā
-title_en: Commentary on Ascetics and Brahmins
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 103
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti103.md
+title_en: Commentary on Ascetics and Brahmins
 subcollection: itivuttaka
-sutta_number: iti103
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

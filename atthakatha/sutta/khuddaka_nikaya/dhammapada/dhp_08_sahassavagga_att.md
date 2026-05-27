@@ -1,16 +1,17 @@
 ---
 id: DHP_08_att
 title_pali: Sahassavaggavaṇṇanā
-title_en: Commentary on Sahassavagga (The Thousands)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 8
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_08_sahassavagga.md
+title_en: Commentary on Sahassavagga (The Thousands)
 text: dhammapada
 vagga: 8
-verse_range: "100–115"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_08_sahassavagga.md
+verse_range: 100–115
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 8: Sahassavagga

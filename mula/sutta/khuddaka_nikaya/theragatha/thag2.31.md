@@ -1,14 +1,14 @@
 ---
-id: THAG2.31
+id: THAG2
 title_pali: Migasiratheragāthā
 title_en: Migasira
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.31
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

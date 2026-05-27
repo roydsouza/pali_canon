@@ -2,6 +2,7 @@
 id: eight_precepts
 title_pali: Aṭṭhaṅgasīla
 type: matika
+category: list_note
 ---
 
 # Eight Precepts (Aṭṭhaṅgasīla)

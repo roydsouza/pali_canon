@@ -5,10 +5,11 @@ title_en: A Trainee (2nd)
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti17
+sutta_number: 17
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti17_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

@@ -5,10 +5,11 @@ title_en: Sagacity
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti67
+sutta_number: 67
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti67_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

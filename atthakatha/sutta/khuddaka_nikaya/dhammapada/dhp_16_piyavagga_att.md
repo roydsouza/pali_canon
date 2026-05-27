@@ -1,16 +1,17 @@
 ---
 id: DHP_16_att
 title_pali: Piyavaggavaṇṇanā
-title_en: Commentary on Piyavagga (Affection)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 16
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_16_piyavagga.md
+title_en: Commentary on Piyavagga (Affection)
 text: dhammapada
 vagga: 16
-verse_range: "209–220"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_16_piyavagga.md
+verse_range: 209–220
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 16: Piyavagga

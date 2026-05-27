@@ -1,13 +1,14 @@
 ---
-id: iti57_att
+id: ITI57_att
 title_pali: 7-8. Āsavasuttadvayavaṇṇanā
-title_en: Commentary on Defilements (2nd)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 57
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti57.md
+title_en: Commentary on Defilements (2nd)
 subcollection: itivuttaka
-sutta_number: iti57
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

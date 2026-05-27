@@ -1,13 +1,14 @@
 ---
-id: iti59_att
+id: ITI59_att
 title_pali: 10. Māradheyyasuttavaṇṇanā
-title_en: Commentary on Māra’s Dominion
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 59
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti59.md
+title_en: Commentary on Māra’s Dominion
 subcollection: itivuttaka
-sutta_number: iti59
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

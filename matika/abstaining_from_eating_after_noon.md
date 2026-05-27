@@ -2,6 +2,7 @@
 id: abstaining_from_eating_after_noon
 title_pali: Vikālabhojanā veramaṇī
 type: matika
+category: factor_note
 ---
 
 # Abstaining from Eating After Noon (Vikālabhojanā veramaṇī)

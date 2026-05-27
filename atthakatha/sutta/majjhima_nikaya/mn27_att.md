@@ -1,15 +1,17 @@
 ---
-id: mn27_att
+id: MN27_att
 title_pali: Cūḷahatthipadopamasuttavaṇṇanā
-title_en: Commentary on Cūḷahatthipadopamasutta (The Shorter Simile of the Elephant’s Footprint)
 type: atthakatha
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 27
+mula_file: /mula/sutta/majjhima_nikaya/mn27.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn27_tik.md
+title_en: Commentary on Cūḷahatthipadopamasutta (The Shorter Simile of the Elephant’s Footprint)
 sutta: mn27
 layer: atthakatha
-mula_file: [[mn27]]
 tika_file: [[mn27_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Majjhima Nikāya: Cūḷahatthipadopamasutta

@@ -1,14 +1,15 @@
 ---
-id: SNP4.7
+id: SNP4
 title_pali: Tissametteyyasutta
 title_en: With Tissametteyya
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.7
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.7_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

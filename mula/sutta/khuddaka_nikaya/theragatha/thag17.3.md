@@ -1,14 +1,14 @@
 ---
-id: THAG17.3
+id: THAG17
 title_pali: Ānandatheragāthā
 title_en: Ānanda
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag17.3
+sutta_number: 17
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

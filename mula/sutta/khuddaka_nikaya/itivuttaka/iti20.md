@@ -5,10 +5,11 @@ title_en: A Corrupted Mind
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti20
+sutta_number: 20
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti20_att.md
+subcollection: itivuttaka
 tags:
   - ethics
   - conduct

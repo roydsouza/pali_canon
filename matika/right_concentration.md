@@ -2,6 +2,7 @@
 id: right_concentration
 title_pali: Sammāsamādhi
 type: matika
+category: factor_note
 ---
 
 # Right Concentration (Sammāsamādhi)

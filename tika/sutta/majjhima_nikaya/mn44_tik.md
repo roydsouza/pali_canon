@@ -1,15 +1,17 @@
 ---
 id: MN44_tik
 title_pali: Cūḷavedallasuttavaṇṇanātīkā
-title_en: Sub-commentary on Cūḷavedallasutta (The Shorter Analysis)
 type: tika
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 44
+mula_file: /mula/sutta/majjhima_nikaya/mn44.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn44_att.md
+title_en: Sub-commentary on Cūḷavedallasutta (The Shorter Analysis)
 sutta: mn44
 layer: tika
-mula_file: [[mn44]]
 att_file: [[mn44_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Cūḷavedallasutta

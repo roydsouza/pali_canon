@@ -1,14 +1,14 @@
 ---
-id: THIG5.9
+id: THIG5
 title_pali: Bhaddākuṇḍalakesātherīgāthā
 title_en: Bhaddā of the Curly Hair
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig5.9
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

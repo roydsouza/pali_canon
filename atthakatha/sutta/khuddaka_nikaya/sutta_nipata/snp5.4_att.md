@@ -1,13 +1,14 @@
 ---
-id: snp5.4_att
+id: SNP5_att
 title_pali: 3. Puṇṇakasuttavaṇṇanā
-title_en: Commentary on The Questions of Puṇṇaka
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 5
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp5.4.md
+title_en: Commentary on The Questions of Puṇṇaka
 subcollection: sutta_nipata
-sutta_number: snp5.4
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

@@ -2,6 +2,7 @@
 id: clinging_to_rites_and_rituals
 title_pali: Sīlabbataparāmāsa
 type: matika
+category: factor_note
 ---
 
 # Clinging to Rites & Rituals (Sīlabbataparāmāsa)

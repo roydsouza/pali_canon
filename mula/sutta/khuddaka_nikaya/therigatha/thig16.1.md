@@ -1,14 +1,14 @@
 ---
-id: THIG16.1
+id: THIG16
 title_pali: Sumedhātherīgāthā
 title_en: Sumedhā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig16.1
+sutta_number: 16
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

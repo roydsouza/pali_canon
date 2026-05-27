@@ -2,6 +2,7 @@
 id: perception
 title_pali: Saññā
 type: matika
+category: factor_note
 ---
 
 # Perception / Recognition (Saññā)

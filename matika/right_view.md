@@ -2,6 +2,7 @@
 id: right_view
 title_pali: Sammādiṭṭhi
 type: matika
+category: factor_note
 ---
 
 # Right View (Sammādiṭṭhi)

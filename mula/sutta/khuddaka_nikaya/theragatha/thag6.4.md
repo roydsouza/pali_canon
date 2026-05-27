@@ -1,14 +1,14 @@
 ---
-id: THAG6.4
+id: THAG6
 title_pali: Kullatheragāthā
 title_en: Kulla
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag6.4
+sutta_number: 6
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

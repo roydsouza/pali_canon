@@ -5,9 +5,11 @@ title_en: Miscellaneous
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 21
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_21_pakinnakavagga_att.md
 text: dhammapada
 vagga: 21
-verse_range: "290–305"
+verse_range: 290–305
 tags:
   - dhammapada
 ---

@@ -1,15 +1,17 @@
 ---
-id: an4_99_tik
+id: AN4.99_tik
 title_pali: Sikkhāpadasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Sikkhāpadasutta (Training Rules)
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 4.99
+mula_file: /mula/sutta/anguttara_nikaya/an4_99.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an4_99_att.md
+title_en: Sub-commentary on Sikkhāpadasutta (Training Rules)
 sutta: an4.99
 layer: tika
-mula_file: [[an4_99]]
 att_file: [[an4_99_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Sikkhāpadasutta

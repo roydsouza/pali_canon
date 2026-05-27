@@ -5,10 +5,11 @@ title_en: Keen
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti34
+sutta_number: 34
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti34_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct

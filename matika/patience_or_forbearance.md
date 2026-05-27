@@ -2,6 +2,7 @@
 id: patience_or_forbearance
 title_pali: Khanti
 type: matika
+category: factor_note
 ---
 
 # Patience / Forbearance (Khanti)

@@ -1,14 +1,14 @@
 ---
-id: THIG13.1
+id: THIG13
 title_pali: Ambapālītherīgāthā
 title_en: Ambapālī
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig13.1
+sutta_number: 13
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

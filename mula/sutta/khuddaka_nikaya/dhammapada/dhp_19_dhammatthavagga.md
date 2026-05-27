@@ -5,9 +5,11 @@ title_en: The Just
 type: mula
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 19
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/dhammapada/dhp_19_dhammatthavagga_att.md
 text: dhammapada
 vagga: 19
-verse_range: "256–272"
+verse_range: 256–272
 tags:
   - dhammapada
   - precepts

@@ -1,6 +1,6 @@
 ---
-id: path_entering_jhana
-title: Entering Jhāna: A Reading Path for Meditative Absorption
+id: entering_jhana_path
+title: "Entering Jhāna: A Reading Path for Meditative Absorption"
 type: path
 tags:
   - jhana

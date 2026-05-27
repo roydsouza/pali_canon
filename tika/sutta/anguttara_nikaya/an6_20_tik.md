@@ -1,15 +1,17 @@
 ---
-id: an6_20_tik
+id: AN6.20_tik
 title_pali: Dutiyamaraṇassatisuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Dutiyamaraṇassatisutta (Mindfulness of Death (2nd))
 type: tika
 pitaka: sutta
-nikaya: an
+nikaya: anguttara
+sutta_number: 6.20
+mula_file: /mula/sutta/anguttara_nikaya/an6_20.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an6_20_att.md
+title_en: Sub-commentary on Dutiyamaraṇassatisutta (Mindfulness of Death (2nd))
 sutta: an6.20
 layer: tika
-mula_file: [[an6_20]]
 att_file: [[an6_20_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Dutiyamaraṇassatisutta

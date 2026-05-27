@@ -1,13 +1,15 @@
 ---
-id: MN 2
+id: MN2
 title_pali: Sabbāsavasutta
 title_en: All the Defilements
 type: mula
 pitaka: sutta
-nikaya: mn
-sutta_number: mn2
+nikaya: majjhima
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn2_att.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn2_tik.md
 tags:
   - vipassana
   - meditation

@@ -1,14 +1,15 @@
 ---
-id: SNP4.8
+id: SNP4
 title_pali: Pasūrasutta
 title_en: With Pasūra
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.8
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.8_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

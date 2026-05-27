@@ -2,6 +2,7 @@
 id: skeptical_doubt
 title_pali: Vicikicchā
 type: matika
+category: factor_note
 ---
 
 # Skeptical Doubt (Vicikicchā)

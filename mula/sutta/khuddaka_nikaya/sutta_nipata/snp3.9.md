@@ -1,14 +1,15 @@
 ---
-id: SNP3.9
+id: SNP3
 title_pali: Vāseṭṭhasutta
 title_en: With Vāseṭṭha
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp3.9
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3.9_att.md
+subcollection: sutta_nipata
 tags:
   - monastic
   - going_forth

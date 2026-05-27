@@ -1,16 +1,17 @@
 ---
 id: DHP_07_att
 title_pali: Arahantavaggavaṇṇanā
-title_en: Commentary on Arahantavagga (The Arahant)
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 7
+mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_07_arahantavagga.md
+title_en: Commentary on Arahantavagga (The Arahant)
 text: dhammapada
 vagga: 7
-verse_range: "90–99"
-mula_file: /mula/sutta/khuddaka_nikaya/dhammapada/dhp_07_arahantavagga.md
+verse_range: 90–99
 translator: Bhante Ānandajoti (revised Burlingame)
-source: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/
+source: "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/"
 ---
 
 # Dhammapada Commentary — Chapter 7: Arahantavagga

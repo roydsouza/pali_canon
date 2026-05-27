@@ -1,16 +1,18 @@
 ---
 id: MN111_att
 title_pali: Anupadasuttavaṇṇanā
-title_en: Commentary on Anupadasutta (One by One)
 type: atthakatha
 pitaka: sutta
 nikaya: majjhima
+sutta_number: 111
+mula_file: /mula/sutta/majjhima_nikaya/mn111.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn111_tik.md
+title_en: Commentary on Anupadasutta (One by One)
 sutta: mn111
 layer: atthakatha
-mula_file: [[mn111]]
 att_file: [[mn111_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Majjhima Nikāya: Anupadasutta

@@ -5,10 +5,11 @@ title_en: Decline
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti79
+sutta_number: 79
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti79_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

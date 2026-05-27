@@ -1,14 +1,15 @@
 ---
-id: SNP5.5
+id: SNP5
 title_pali: Mettagūmāṇavapucchā
 title_en: The Questions of Mettagū
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp5.5
+sutta_number: 5
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp5.5_att.md
+subcollection: sutta_nipata
 tags:
   - parayanavagga
   - questions

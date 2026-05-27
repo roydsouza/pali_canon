@@ -1,7 +1,12 @@
 ---
-type: index
+id: INDEX_att
+title_pali: ""
+type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: INDEX
+mula_file: /mula/abhidhamma/INDEX.md
+sub_commentary_file: /tika/abhidhamma/INDEX.md
 subcollection: itivuttaka
 layer: atthakatha
 ---

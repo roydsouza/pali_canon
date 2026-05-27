@@ -1,16 +1,18 @@
 ---
 id: DN22_att
 title_pali: Mahāsatipaṭṭhānasuttavaṇṇanā
-title_en: Commentary on Mahāsatipaṭṭhānasutta (The Longer Discourse on Mindfulness Meditation)
 type: atthakatha
 pitaka: sutta
 nikaya: digha
+sutta_number: 22
+mula_file: /mula/sutta/digha_nikaya/dn22.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn22_tik.md
+title_en: Commentary on Mahāsatipaṭṭhānasutta (The Longer Discourse on Mindfulness Meditation)
 sutta: dn22
 layer: atthakatha
-mula_file: [[dn22]]
 att_file: [[dn22_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Dīgha Nikāya: Mahāsatipaṭṭhānasutta

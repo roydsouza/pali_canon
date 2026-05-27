@@ -2,6 +2,7 @@
 id: craving
 title_pali: Taṇhā
 type: matika
+category: factor_note
 ---
 
 # Craving (Taṇhā)

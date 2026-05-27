@@ -4,8 +4,8 @@ import re
 import sys
 
 VAULT_DIR = os.environ.get("PALI_VAULT", "/Users/rds/pali_canon")
-EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates"}
-EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates"}
+EXCLUDE_INDEX_DIRS = {".git", ".obsidian", "scratch", "templates", "archive"}
+EXCLUDE_SCAN_DIRS = {".git", ".obsidian", "scratch", "templates", "archive"}
 
 def get_markdown_files(vault_dir, exclude_dirs):
     md_files = []
@@ -13,7 +13,7 @@ def get_markdown_files(vault_dir, exclude_dirs):
         # Exclude specified directories
         dirs[:] = [d for d in dirs if d not in exclude_dirs]
         for file in files:
-            if file.endswith(".md"):
+            if file.endswith(".md") and not file.startswith("FROM-CLAUDE"):
                 md_files.append(os.path.join(root, file))
     return md_files
 
@@ -40,6 +40,201 @@ def parse_headers_and_anchors(filepath):
         headers.add(match.group(1).strip())
         
     return headers
+
+def parse_yaml(content):
+    match = re.match(r"^---\n(.*?)\n---\n", content, re.DOTALL)
+    if not match:
+        return None
+    
+    yaml_text = match.group(1)
+    yaml_dict = {}
+    current_key = None
+    for line in yaml_text.split('\n'):
+        if not line.strip() or line.strip().startswith('#'):
+            continue
+        if line.strip().startswith('- '):
+            val = line.strip()[2:].strip()
+            if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+                val = val[1:-1]
+            if current_key and isinstance(yaml_dict.get(current_key), list):
+                yaml_dict[current_key].append(val)
+            continue
+            
+        if ':' in line:
+            key, val = line.split(':', 1)
+            key = key.strip()
+            val = val.strip()
+            if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+                val = val[1:-1]
+            if val == "":
+                yaml_dict[key] = []
+                current_key = key
+            else:
+                yaml_dict[key] = val
+                current_key = key
+    return yaml_dict
+
+def validate_frontmatter(filepath, content, rel_src):
+    errors = []
+    filename = os.path.basename(filepath)
+    if filename == "INDEX.md":
+        return errors
+        
+    parts = rel_src.split(os.sep)
+    if not parts or len(parts) < 2:
+        return errors
+        
+    type_dir = parts[0]
+    if type_dir not in {"mula", "atthakatha", "tika", "matika", "practice", "paths"}:
+        return errors
+        
+    yaml_dict = parse_yaml(content)
+    if yaml_dict is None:
+        errors.append({
+            "file": rel_src,
+            "line": 1,
+            "link": "Frontmatter",
+            "error": "Missing or invalid YAML frontmatter block at start of file"
+        })
+        return errors
+        
+    expected_types = {
+        "mula": "mula",
+        "atthakatha": "atthakatha",
+        "tika": "tika",
+        "matika": "matika",
+        "practice": "practice",
+        "paths": "path"
+    }
+    
+    if "id" not in yaml_dict or not yaml_dict["id"]:
+        errors.append({
+            "file": rel_src,
+            "line": 1,
+            "link": "id",
+            "error": "Missing 'id' in frontmatter"
+        })
+        
+    if "type" not in yaml_dict:
+        errors.append({
+            "file": rel_src,
+            "line": 1,
+            "link": "type",
+            "error": "Missing 'type' in frontmatter"
+        })
+    elif yaml_dict["type"] != expected_types[type_dir]:
+        errors.append({
+            "file": rel_src,
+            "line": 1,
+            "link": "type",
+            "error": f"Invalid type '{yaml_dict['type']}' for folder '{type_dir}/'. Expected '{expected_types[type_dir]}'."
+        })
+        
+    if type_dir in {"mula", "atthakatha", "tika"}:
+        required = ["title_pali", "pitaka", "nikaya", "sutta_number"]
+        for field in required:
+            if field not in yaml_dict or not yaml_dict[field]:
+                errors.append({
+                    "file": rel_src,
+                    "line": 1,
+                    "link": field,
+                    "error": f"Missing required field '{field}' in canonical text frontmatter"
+                })
+        
+        if "pitaka" in yaml_dict and yaml_dict["pitaka"] not in {"sutta", "vinaya", "abhidhamma"}:
+            errors.append({
+                "file": rel_src,
+                "line": 1,
+                "link": "pitaka",
+                "error": f"Invalid pitaka value '{yaml_dict['pitaka']}'"
+            })
+        if "nikaya" in yaml_dict and yaml_dict["nikaya"] not in {"majjhima", "digha", "samyutta", "anguttara", "khuddaka", "None"}:
+            errors.append({
+                "file": rel_src,
+                "line": 1,
+                "link": "nikaya",
+                "error": f"Invalid nikaya value '{yaml_dict['nikaya']}'"
+            })
+            
+        for link_field in ["commentary_file", "sub_commentary_file", "mula_file"]:
+            if link_field in yaml_dict and yaml_dict[link_field]:
+                target_path = yaml_dict[link_field].lstrip("/")
+                abs_target = os.path.join(VAULT_DIR, target_path)
+                if not os.path.exists(abs_target):
+                    errors.append({
+                        "file": rel_src,
+                        "line": 1,
+                        "link": yaml_dict[link_field],
+                        "error": f"Referenced {link_field} '{yaml_dict[link_field]}' does not exist."
+                    })
+                    
+    elif type_dir == "matika":
+        if "title_pali" not in yaml_dict or not yaml_dict["title_pali"]:
+            errors.append({
+                "file": rel_src,
+                "line": 1,
+                "link": "title_pali",
+                "error": "Missing 'title_pali' in matika frontmatter"
+            })
+        if "category" not in yaml_dict or yaml_dict["category"] not in {"list_note", "factor_note"}:
+            errors.append({
+                "file": rel_src,
+                "line": 1,
+                "link": "category",
+                "error": f"Invalid category '{yaml_dict.get('category')}' in matika"
+            })
+            
+    elif type_dir in {"practice", "paths"}:
+        if "title" not in yaml_dict or not yaml_dict["title"]:
+            errors.append({
+                "file": rel_src,
+                "line": 1,
+                "link": "title",
+                "error": f"Missing 'title' in {type_dir} frontmatter"
+            })
+            
+    return errors
+
+def check_dataview_queries(content, filepath, rel_src):
+    errors = []
+    # Find all dataview code blocks
+    blocks = re.findall(r"```dataview\n(.*?)\n```", content, re.DOTALL)
+    for block in blocks:
+        lines = block.split('\n')
+        for line_offset, line in enumerate(lines, 1):
+            cleaned = line.strip()
+            
+            # 1. Match "type" as a standalone word (not row.type, not file.type, not "type" in quotes)
+            match_type = re.search(r"(?<!\.)\btype\b", cleaned)
+            if match_type:
+                if not cleaned.startswith("//") and not cleaned.startswith("#") and not ('"' in cleaned or "'" in cleaned):
+                    errors.append({
+                        "file": rel_src,
+                        "line": line_offset,
+                        "link": "Dataview Query",
+                        "error": f"Potential Dataview query collision: Standalone keyword 'type' found on line: '{cleaned}'. Use 'row.type' or 'file.frontmatter.type' to avoid collision with Dataview's built-in type() function."
+                    })
+            
+            # 2. Match "category = list" or similar which collides with LIST query type
+            match_list = re.search(r"\bcategory\s*=\s*[\"']?list[\"']?\b", cleaned, re.IGNORECASE)
+            if match_list:
+                errors.append({
+                    "file": rel_src,
+                    "line": line_offset,
+                    "link": "Dataview Query",
+                    "error": f"Potential Dataview query collision: category filtered by 'list' found on line: '{cleaned}'. Use 'list_note' to avoid collision with Dataview's LIST query keyword."
+                })
+                
+            # 3. Match absolute folder constraints: FROM "folder" (except FROM "")
+            match_from = re.search(r'\bFROM\s+"([^"]+)"', cleaned, re.IGNORECASE)
+            if match_from and match_from.group(1).strip() != "":
+                errors.append({
+                    "file": rel_src,
+                    "line": line_offset,
+                    "link": "Dataview Query",
+                    "error": f"Potential nested vault failure: absolute FROM folder query '{cleaned}' found. Use 'WHERE contains(file.path, \"{match_from.group(1)}/\")' instead to ensure nested vault compatibility."
+                })
+    return errors
 
 def validate_vault(target_files=None):
     all_files = get_markdown_files(VAULT_DIR, EXCLUDE_INDEX_DIRS)
@@ -80,7 +275,17 @@ def validate_vault(target_files=None):
     for filepath in scan_files:
         rel_src = os.path.relpath(filepath, VAULT_DIR)
         with open(filepath, "r", encoding="utf-8") as f:
-            for line_num, line in enumerate(f, 1):
+            content = f.read()
+            
+        # Validate frontmatter block first
+        fm_errors = validate_frontmatter(filepath, content, rel_src)
+        errors.extend(fm_errors)
+        
+        # Validate Dataview query blocks
+        dv_errors = check_dataview_queries(content, filepath, rel_src)
+        errors.extend(dv_errors)
+        
+        for line_num, line in enumerate(content.splitlines(), 1):
                 # Check Wikilinks
                 for match in wikilink_pattern.finditer(line):
                     total_links_checked += 1
@@ -262,9 +467,10 @@ if __name__ == "__main__":
         for f in args.files:
             abs_f = os.path.abspath(f)
             if os.path.exists(abs_f) and abs_f.endswith(".md"):
+                filename = os.path.basename(abs_f)
+                if filename.startswith("FROM-CLAUDE") or "archive" in abs_f.split(os.sep):
+                    continue
                 target_files.append(abs_f)
-            else:
-                pass
                 
     success = validate_vault(target_files=target_files if target_files else None)
     if not success:

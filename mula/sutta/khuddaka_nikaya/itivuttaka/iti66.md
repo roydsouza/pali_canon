@@ -5,10 +5,11 @@ title_en: Purity
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti66
+sutta_number: 66
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti66_att.md
+subcollection: itivuttaka
 tags:
   - ativuttaka
   - tika

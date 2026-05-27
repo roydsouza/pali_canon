@@ -1,6 +1,12 @@
 ---
-type: index
+id: INDEX
+title_pali: ""
+type: mula
 pitaka: vinaya
+nikaya: None
+sutta_number: INDEX
+commentary_file: /atthakatha/abhidhamma/INDEX.md
+sub_commentary_file: /tika/abhidhamma/INDEX.md
 layer: mula
 ---
 

@@ -1,14 +1,14 @@
 ---
-id: THAG1.1
+id: THAG1
 title_pali: Subhūtitheragāthā
 title_en: Subhūti
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.1
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

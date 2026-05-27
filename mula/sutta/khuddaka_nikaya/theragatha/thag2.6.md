@@ -1,14 +1,14 @@
 ---
-id: THAG2.6
+id: THAG2
 title_pali: Meḷajinatheragāthā
 title_en: Meḷajina
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag2.6
+sutta_number: 2
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

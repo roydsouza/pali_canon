@@ -2,6 +2,7 @@
 id: right_mindfulness
 title_pali: Sammāsati
 type: matika
+category: factor_note
 ---
 
 # Right Mindfulness (Sammāsati)

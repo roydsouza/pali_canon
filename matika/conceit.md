@@ -2,6 +2,7 @@
 id: conceit
 title_pali: Māna
 type: matika
+category: factor_note
 ---
 
 # Conceit / Pride (Māna)

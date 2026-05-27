@@ -1,13 +1,14 @@
 ---
-id: iti78_att
+id: ITI78_att
 title_pali: 9. Dhātusosaṃsandanasuttavaṇṇanā
-title_en: Commentary on Converging Elements
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 78
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti78.md
+title_en: Commentary on Converging Elements
 subcollection: itivuttaka
-sutta_number: iti78
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

@@ -1,16 +1,18 @@
 ---
 id: DN9_att
 title_pali: Poṭṭhapādasuttavaṇṇanā
-title_en: Commentary on Poṭṭhapādasutta (With Poṭṭhapāda)
 type: atthakatha
 pitaka: sutta
 nikaya: digha
+sutta_number: 9
+mula_file: /mula/sutta/digha_nikaya/dn9.md
+sub_commentary_file: /tika/sutta/digha_nikaya/dn9_tik.md
+title_en: Commentary on Poṭṭhapādasutta (With Poṭṭhapāda)
 sutta: dn9
 layer: atthakatha
-mula_file: [[dn9]]
 att_file: [[dn9_att]]
-source_pali: https://github.com/siongui/tipitaka-romn (CSCD)
-source_notes: https://suttacentral.net
+source_pali: "https://github.com/siongui/tipitaka-romn (CSCD)"
+source_notes: "https://suttacentral.net"
 ---
 
 # Commentary on Dīgha Nikāya: Poṭṭhapādasutta

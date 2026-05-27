@@ -1,7 +1,12 @@
 ---
-type: index
+id: INDEX
+title_pali: ""
+type: mula
 pitaka: sutta
 nikaya: anguttara
+sutta_number: INDEX
+commentary_file: /atthakatha/abhidhamma/INDEX.md
+sub_commentary_file: /tika/abhidhamma/INDEX.md
 ---
 
 # Aṅguttara Nikāya — Mūla
@@ -80,7 +85,7 @@ The Aṅguttara Nikāya ("Numbered Discourses") organizes teachings by numerical
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title", tags as "Tags"
-FROM "mula/sutta/anguttara_nikaya" AND #mula
+WHERE contains(file.path, "mula/sutta/anguttara_nikaya/")
 SORT file.name ASC
 ```
 

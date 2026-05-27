@@ -5,10 +5,11 @@ title_en: The Benefits of Love
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti22
+sutta_number: 22
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti22_att.md
+subcollection: itivuttaka
 tags:
   - metta
   - loving-kindness

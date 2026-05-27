@@ -2,6 +2,7 @@
 id: contemplation_of_mind
 title_pali: Cittānupassanā
 type: matika
+category: factor_note
 ---
 
 # Contemplation of the Mind (Cittānupassanā)

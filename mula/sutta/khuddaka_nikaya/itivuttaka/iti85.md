@@ -5,10 +5,11 @@ title_en: Observing Ugliness
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti85
+sutta_number: 85
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti85_att.md
+subcollection: itivuttaka
 tags:
   - asubha
   - body_contemplation

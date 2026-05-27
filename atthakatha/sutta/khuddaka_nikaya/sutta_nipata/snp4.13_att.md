@@ -1,13 +1,14 @@
 ---
-id: snp4.13_att
+id: SNP4_att
 title_pali: 13. Mahābyūhasuttavaṇṇanā
-title_en: Commentary on The Longer Discourse on Arrayed for Battle
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 4
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp4.13.md
+title_en: Commentary on The Longer Discourse on Arrayed for Battle
 subcollection: sutta_nipata
-sutta_number: snp4.13
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

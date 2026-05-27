@@ -1,14 +1,14 @@
 ---
-id: THAG8.2
+id: THAG8
 title_pali: Sirimittatheragāthā
 title_en: Sirimitta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag8.2
+sutta_number: 8
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

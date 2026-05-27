@@ -1,15 +1,17 @@
 ---
-id: mn2_att
+id: MN2_att
 title_pali: Sabbāsavasuttavaṇṇanā
-title_en: Commentary on Sabbāsavasutta (All the Defilements)
 type: atthakatha
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 2
+mula_file: /mula/sutta/majjhima_nikaya/mn2.md
+sub_commentary_file: /tika/sutta/majjhima_nikaya/mn2_tik.md
+title_en: Commentary on Sabbāsavasutta (All the Defilements)
 sutta: mn2
 layer: atthakatha
-mula_file: [[mn2]]
 tika_file: [[mn2_tik]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Majjhima Nikāya: Sabbāsavasutta

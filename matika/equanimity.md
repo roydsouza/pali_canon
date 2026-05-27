@@ -2,6 +2,7 @@
 id: equanimity
 title_pali: Upekkhā
 type: matika
+category: factor_note
 ---
 
 # Equanimity (Upekkhā)

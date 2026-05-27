@@ -33,7 +33,7 @@ This directory contains commentaries on the Middle Length Discourses (Majjhima N
 ## 🔗 Live Index (via Dataview)
 ```dataview
 TABLE title_pali as "Pali Title", title_en as "English Title"
-FROM "atthakatha/sutta/majjhima_nikaya" AND #atthakatha
+WHERE contains(file.path, "atthakatha/sutta/majjhima_nikaya/")
 SORT file.name ASC
 ```
 

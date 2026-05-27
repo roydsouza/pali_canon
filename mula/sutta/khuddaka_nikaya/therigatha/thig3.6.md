@@ -1,14 +1,14 @@
 ---
-id: THIG3.6
+id: THIG3
 title_pali: Sukkātherīgāthā
 title_en: Sukkā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig3.6
+sutta_number: 3
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

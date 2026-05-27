@@ -1,14 +1,14 @@
 ---
-id: THAG17.2
+id: THAG17
 title_pali: Sāriputtatheragāthā
 title_en: Sāriputta
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag17.2
+sutta_number: 17
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

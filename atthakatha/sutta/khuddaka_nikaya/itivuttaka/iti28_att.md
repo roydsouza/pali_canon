@@ -1,13 +1,14 @@
 ---
-id: iti28_att
+id: ITI28_att
 title_pali: 1. Dukkhavihārasuttavaṇṇanā
-title_en: Commentary on Living in Suffering
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 28
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti28.md
+title_en: Commentary on Living in Suffering
 subcollection: itivuttaka
-sutta_number: iti28
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

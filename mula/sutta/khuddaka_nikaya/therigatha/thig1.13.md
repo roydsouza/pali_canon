@@ -1,14 +1,14 @@
 ---
-id: THIG1.13
+id: THIG1
 title_pali: Visākhātherīgāthā
 title_en: Visākhā
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: therigatha
-sutta_number: thig1.13
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: therigatha
 tags:
   - nun
   - verses

@@ -1,13 +1,14 @@
 ---
-id: snp3.11_att
+id: SNP3_att
 title_pali: 11. Nālakasuttavaṇṇanā
-title_en: Commentary on About Nālaka
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 3
+mula_file: /mula/sutta/khuddaka_nikaya/sutta_nipata/snp3.11.md
+title_en: Commentary on About Nālaka
 subcollection: sutta_nipata
-sutta_number: snp3.11
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Sutta Nipāta

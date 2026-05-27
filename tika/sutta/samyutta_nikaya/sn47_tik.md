@@ -1,14 +1,16 @@
 ---
 id: SN47_tik
 title_pali: Satipaṭṭhānasaṃyuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Satipaṭṭhānasaṃyutta
 type: tika
 pitaka: sutta
 nikaya: samyutta
+sutta_number: 47
+mula_file: /mula/sutta/samyutta_nikaya/sn47.md
+commentary_file: /atthakatha/sutta/samyutta_nikaya/sn47_att.md
+title_en: Sub-commentary on Satipaṭṭhānasaṃyutta
 samyutta: sn47
-mula_file: [[sn47]]
 att_file: [[sn47_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Saṃyutta Nikāya: Satipaṭṭhānasaṃyutta

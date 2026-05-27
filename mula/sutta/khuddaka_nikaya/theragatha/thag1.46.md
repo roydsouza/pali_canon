@@ -1,14 +1,14 @@
 ---
-id: THAG1.46
+id: THAG1
 title_pali: Samiddhitheragāthā
 title_en: Samiddhi
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: theragatha
-sutta_number: thag1.46
+sutta_number: 1
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+subcollection: theragatha
 tags:
   - monk
   - verses

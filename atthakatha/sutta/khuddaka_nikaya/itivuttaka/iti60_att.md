@@ -1,13 +1,14 @@
 ---
-id: iti60_att
+id: ITI60_att
 title_pali: 1. Puññakiriyavatthusuttavaṇṇanā
-title_en: Commentary on Grounds for Making Merit
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 60
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti60.md
+title_en: Commentary on Grounds for Making Merit
 subcollection: itivuttaka
-sutta_number: iti60
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

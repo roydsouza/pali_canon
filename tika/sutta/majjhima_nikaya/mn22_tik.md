@@ -1,15 +1,17 @@
 ---
-id: mn22_tik
+id: MN22_tik
 title_pali: Alagaddūpamasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Alagaddūpamasutta (The Simile of the Cobra)
 type: tika
 pitaka: sutta
-nikaya: mn
+nikaya: majjhima
+sutta_number: 22
+mula_file: /mula/sutta/majjhima_nikaya/mn22.md
+commentary_file: /atthakatha/sutta/majjhima_nikaya/mn22_att.md
+title_en: Sub-commentary on Alagaddūpamasutta (The Simile of the Cobra)
 sutta: mn22
 layer: tika
-mula_file: [[mn22]]
 att_file: [[mn22_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Majjhima Nikāya: Alagaddūpamasutta

@@ -1,14 +1,15 @@
 ---
-id: SNP4.10
+id: SNP4
 title_pali: Purābhedasutta
 title_en: Before the Breakup
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: sutta_nipata
-sutta_number: snp4.10
+sutta_number: 4
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp4.10_att.md
+subcollection: sutta_nipata
 tags:
   - atthakavagga
   - non-clinging

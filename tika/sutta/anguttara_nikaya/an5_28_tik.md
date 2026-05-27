@@ -1,13 +1,15 @@
 ---
 id: AN5.28_tik
 title_pali: Pañcaṅgikasuttavaṇṇanāṭīkā
-title_en: Sub-commentary on Pañcaṅgikasutta (With Five Factors)
 type: tika
 pitaka: sutta
 nikaya: anguttara
-mula_file: [[an5_28]]
+sutta_number: 5.28
+mula_file: /mula/sutta/anguttara_nikaya/an5_28.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an5_28_att.md
+title_en: Sub-commentary on Pañcaṅgikasutta (With Five Factors)
 att_file: [[an5_28_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Pañcaṅgikasutta

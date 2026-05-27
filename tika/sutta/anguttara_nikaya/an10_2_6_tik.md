@@ -1,13 +1,15 @@
 ---
 id: AN10.2-6_tik
 title_pali: Ānisaṃsasuttānivaṇṇanāṭīkā
-title_en: Sub-commentary on Ānisaṃsasuttāni (Benefits (AN 10.2–6))
 type: tika
 pitaka: sutta
 nikaya: anguttara
-mula_file: [[an10_2_6]]
+sutta_number: 10.2-6
+mula_file: /mula/sutta/anguttara_nikaya/an10_2_6.md
+commentary_file: /atthakatha/sutta/anguttara_nikaya/an10_2_6_att.md
+title_en: Sub-commentary on Ānisaṃsasuttāni (Benefits (AN 10.2–6))
 att_file: [[an10_2_6_att]]
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Ānisaṃsasuttāni

@@ -1,13 +1,14 @@
 ---
-id: iti93_att
+id: ITI93_att
 title_pali: 4. Aggisuttavaṇṇanā
-title_en: Commentary on Fire
 type: atthakatha
 pitaka: sutta
 nikaya: khuddaka
+sutta_number: 93
+mula_file: /mula/sutta/khuddaka_nikaya/itivuttaka/iti93.md
+title_en: Commentary on Fire
 subcollection: itivuttaka
-sutta_number: iti93
-source_pali: https://tipitaka.org/romn/cscd/ (CSCD)
+source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 ---
 
 # Commentary on Khuddaka Nikāya: Itivuttaka

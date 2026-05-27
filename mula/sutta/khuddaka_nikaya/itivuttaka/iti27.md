@@ -5,10 +5,11 @@ title_en: The Meditation on Love
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti27
+sutta_number: 27
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti27_att.md
+subcollection: itivuttaka
 tags:
   - metta
   - loving-kindness

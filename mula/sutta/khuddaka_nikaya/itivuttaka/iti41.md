@@ -5,10 +5,11 @@ title_en: Bereft of Wisdom
 type: mula
 pitaka: sutta
 nikaya: khuddaka
-subcollection: itivuttaka
-sutta_number: iti41
+sutta_number: 41
 translator: Bhikkhu Sujato
-source: https://suttacentral.net
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/itivuttaka/iti41_att.md
+subcollection: itivuttaka
 tags:
   - virtue
   - ethical_conduct
