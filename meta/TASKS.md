@@ -160,12 +160,12 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 ## Pending Work
 
 ### Phase 15 — Vault Hygiene & Consistency
-- [ ] **Chanting Audio Player Fix** — Replace broken `file://` absolute paths in `meta/CHANTING.md` and monastic files with vault-relative wikilink embeds `! [ [ audio_file.mp3 ] ]` to render Obsidian's native audio player, and remove folder link stubs.
+- [x] **Chanting Audio Player Fix** — Replace broken `file://` absolute paths in `meta/CHANTING.md` and monastic files with vault-relative wikilink embeds `! [ [ audio_file.mp3 ] ]` to render Obsidian's native audio player, and remove folder link stubs.
 - [ ] **Dotted Filename Refactor** — Write a python script to rename all 422 dotted filenames (`snp1.1.md` -> `snp1_1.md`) and rewrite all wikilinks vault-wide to maintain a clean, shell-tool-friendly naming convention.
 - [ ] **Frontmatter Schema Validation** — Add a frontmatter schema linter (`scratch/inspect/lint_frontmatter.py`) and wire it into the unit tests to enforce required keys by note type.
 - [ ] **AN Chunking Alignment** — Implement `covers:` (list) / `part_of:` fields to handle suttas mapped to grouped commentary/ṭīkā files.
-- [ ] **SYNC_LOG Rotation** — Rotate entries older than 30 days in `meta/SYNC_LOG.md` into `meta/sync_archive/SYNC_LOG_YYYY-MM.md` to limit file size overhead.
-- [ ] **CLAUDE.md Guardrails** — Create a project-level `CLAUDE.md` to define standard procedures, formatting, and validation scripts for new agents.
+- [x] **SYNC_LOG Rotation** — Rotate entries older than 30 days in `meta/SYNC_LOG.md` into `meta/sync_archive/SYNC_LOG_YYYY-MM.md` to limit file size overhead.
+- [x] **CLAUDE.md Guardrails** — Create a project-level `CLAUDE.md` to define standard procedures, formatting, and validation scripts for new agents.
 - [ ] **Phase 19 Paragraph-Level Cross-Linking Backfill** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated, and run the Heuristic Auto-Aligner to insert collapsible commentary callouts at the paragraph level.
 
 ### Phase 16 — Study Station Enhancements

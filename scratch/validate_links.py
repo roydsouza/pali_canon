@@ -307,6 +307,13 @@ def validate_vault(target_files=None):
                         target_path = target_part
                         anchor = None
                     
+                    # Skip non-markdown resource embeds (audio, images, CSS, etc.)
+                    non_md_extensions = ('.mp3', '.wav', '.ogg', '.m4a', '.flac',
+                                        '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp',
+                                        '.pdf', '.css', '.js', '.json', '.csv')
+                    if target_path and any(target_path.lower().endswith(ext) for ext in non_md_extensions):
+                        continue
+                    
                     # Handle self-references (e.g., [[#anchor]])
                     if not target_path:
                         target_file = filepath

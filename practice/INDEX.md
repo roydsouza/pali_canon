@@ -57,15 +57,17 @@ GROUP BY meditation_type
       
       <div class="db-playlist-item">
         <span>Bhikkhu Pātimokkha (227 Rules)</span>
-        <span><a class="internal-link" href="audio/bhikkhu_patimokkha.mp3">Play (Relative)</a> | <a href="file:///Users/rds/pali_canon/practice/audio/bhikkhu_patimokkha.mp3">Play (Absolute)</a></span>
       </div>
+
+![[bhikkhu_patimokkha.mp3]]
       
       <div class="db-playlist-item">
         <span>Bhikkhunī Pātimokkha (311 Rules)</span>
-        <span><a class="internal-link" href="audio/bhikkhuni_patimokkha.mp3">Play (Relative)</a> | <a href="file:///Users/rds/pali_canon/practice/audio/bhikkhuni_patimokkha.mp3">Play (Absolute)</a></span>
       </div>
 
-      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../meta/CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions, or [Open audio/ Folder in Finder](file:///Users/rds/pali_canon/practice/audio/).</p>
+![[bhikkhuni_patimokkha.mp3]]
+
+      <p style="margin-top: 15px; font-size: 0.9em;">📖 Refer to <a class="internal-link" href="../meta/CHANTING.md">Audio Chanting Integration Guide</a> for setup instructions. Place <code>.mp3</code> files in <code>practice/audio/</code>.</p>
     </div>
   </div>
 
