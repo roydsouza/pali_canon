@@ -159,11 +159,40 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ## Pending Work
 
-### Phase 19 — Paragraph-Level Cross-Linking Expansion
-- [ ] **Atthakathā/Ṭīkā Re-generation** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated.
-- [ ] **Mūla Callout Alignment** — Run the Heuristic Auto-Aligner on all previously migrated suttas (MN 36, DN 22, SN 12, 22, 35, 46, 54, 56) to insert collapsible commentary callouts at the paragraph level.
+### Phase 15 — Vault Hygiene & Consistency
+- [ ] **Chanting Audio Player Fix** — Replace broken `file://` absolute paths in `meta/CHANTING.md` and monastic files with vault-relative wikilink embeds `! [ [ audio_file.mp3 ] ]` to render Obsidian's native audio player, and remove folder link stubs.
+- [ ] **Dotted Filename Refactor** — Write a python script to rename all 422 dotted filenames (`snp1.1.md` -> `snp1_1.md`) and rewrite all wikilinks vault-wide to maintain a clean, shell-tool-friendly naming convention.
+- [ ] **Frontmatter Schema Validation** — Add a frontmatter schema linter (`scratch/inspect/lint_frontmatter.py`) and wire it into the unit tests to enforce required keys by note type.
+- [ ] **AN Chunking Alignment** — Implement `covers:` (list) / `part_of:` fields to handle suttas mapped to grouped commentary/ṭīkā files.
+- [ ] **SYNC_LOG Rotation** — Rotate entries older than 30 days in `meta/SYNC_LOG.md` into `meta/sync_archive/SYNC_LOG_YYYY-MM.md` to limit file size overhead.
+- [ ] **CLAUDE.md Guardrails** — Create a project-level `CLAUDE.md` to define standard procedures, formatting, and validation scripts for new agents.
+- [ ] **Phase 19 Paragraph-Level Cross-Linking Backfill** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated, and run the Heuristic Auto-Aligner to insert collapsible commentary callouts at the paragraph level.
 
-### Phase 20 — Text & Doctrinal Expansion
+### Phase 16 — Study Station Enhancements
+- [ ] **Prosopography Graph** — Seed manual people (`people/`) and place (`places/`) index notes.
+- [ ] **Simile Index** — Build a cross-referenced catalogue of canon similes.
+- [ ] **Pericope Concordance** — Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences.
+- [ ] **Parallel-Texts Layer** — Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
+- [ ] **Question-Driven Paths** — Add thematic reading paths (e.g. "working with anger", "facing death") under `paths/`.
+- [ ] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
+
+### Phase 17 — Pali NLP Companion Development (External Repo)
+- [ ] **Stage 1: Lemmatization & Graded Reader (3A)**
+    - [ ] Stand up the separate `pali-nlp` repository with ingestion, DPD sqlite, and vault-writer modules.
+    - [ ] Lemmatize tokens against cached DPD SQLite database.
+    - [ ] Append Option C vocabulary concordance tables to suttas.
+    - [ ] Build the vocabulary frequency-based graded reader and order the Pali reading ladder by linguistic difficulty.
+    - [ ] Auto-generate Obsidian-native spaced-repetition vocabulary cards.
+- [ ] **Stage 2: Linguistic Pipeline (3B)**
+    - [ ] Build an offline concordance and collocation search index.
+    - [ ] Train/configure NER pass to auto-populate Phase 16 prosopography pages.
+- [ ] **Stage 3: Semantic Search & RAG (3C)**
+    - [ ] Set up local-first vector search (embeddings + vector store).
+    - [ ] Build answer generator behind a swappable interface (local default, optional Claude-API backend) with citation links to vault paragraph anchors.
+- [ ] **Stage 4: Performance Porting (3D)**
+    - [ ] Re-write performance-critical tokenizer and sandhi-splitting layers in Rust.
+
+### Phase 18 — Text & Doctrinal Expansion (Abhidhamma & Vinaya Future)
 - [ ] **Sutta Piṭaka (Primary)**
     - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
     - [ ] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
@@ -177,28 +206,5 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
     - [ ] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
     - [ ] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
 
-### Pāḷi Language Learning Infrastructure (Innovative)
-- [ ] **Word-by-word morphological gloss toggle** — Interlinear toggle (Pali-only ➡️ Pali+English ➡️ Pali+gloss+English) powered by pre-computed DPD data. *Note: Implement Option C (Appended Vocabulary Concordance tables) first to prevent document/link fragility, and plan a future task to revisit higher-quality, robust inline/interlinear UX options.*
-- [ ] **Corpus vocabulary-frequency engine** — Graded reader generator that lists "new words" per sutta.
-- [ ] **Spaced-repetition vocabulary cards** — Auto-generate review cards from marked vocab deep-linked to suttas. *Note: Focus on local Obsidian-native review formatting first, and build a dedicated exporter tool for Anki in the future.*
-- [ ] **Pāli reading ladder** — Create `paths/pali_reading_ladder.md` ordered by linguistic/syntactic difficulty.
-- [ ] **Pericope / stock-formula concordance** — Map out repeated stock phrases (e.g. jhana, gradual training) with concordance pages.
-- [ ] **Verbal-root (dhātu) graph** — Scaffold a knowledge-web in `practice/roots/` mapping roots to words.
-- [ ] **Grammar reference hub** — Create grammar paradigm sheets linked directly to real occurrences in migrated suttas.
-
-### Innovative Literature Features
-- [ ] **Prosopography graph** — Named-entity pages (Sāriputta, Sāvatthī, etc.) linking every sutta mentioning them.
-- [ ] **Simile (upamā) index** — Cross-referenced catalogue of the canon's famous similes (raft, saw, lute).
-- [ ] **Parallel texts layer** — Store SuttaCentral parallel IDs in frontmatter and render via Dataview.
-- [ ] **Question-driven reading paths** — Create paths for thematic inquiries (e.g. "working with anger", "facing death").
-
-### General Backlog, Usability & Infrastructure
-- [ ] **Chanting Audio Links Bug** (Priority) — Fix absolute/relative links inside `CHANTING.md` and Pātimokkha files.
-- [x] **Move process meta-docs to subfolder** — Move `STATUS.md`, `ROADMAP.md`, `VISION.md`, `HERMES.md`, `SYNC_LOG.md`, `CHANTING.md`, `SIMSAPA-DPD.md` to `meta/`, leaving only `START.md` and `INDEX.md` at root.
-- [ ] **Standardize filename conventions** — Rename dotted filenames to underscores (e.g. `snp1.1.md` -> `snp1_1.md`) for shell tool compatibility.
-- [ ] **Resolve AN cross-layer chunking mismatch** — Add explicit `covers:` or `part_of:` frontmatter fields to handle files containing multiple grouped suttas in commentary/tika layers.
-- [ ] **Dynamic count tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
-- [ ] **VRI XML parser script** — Create custom parser for batch commentary extraction if needed.
-- [ ] **Link validator maintenance** — Keep link validator optimized and performant as vault scales.
 
 

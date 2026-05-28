@@ -1,7 +1,7 @@
 # Vision: Pali Canon Vault
 
 *Written 2026-05-22 by Claude Sonnet 4.6, informed by conversation with Roy Peter.*
-*Updated 2026-05-22: Expanded scope from meditator's study vault to practicing Buddhist's canonical library.*
+*Updated 2026-05-27: Standardized inventory and defined boundary with companion NLP system.*
 
 ---
 
@@ -9,7 +9,7 @@
 
 The vault is a **practicing Buddhist's canonical library**: a structured environment for reading Pali suttas alongside their commentaries, with doctrinal cross-referencing via the mātikā web. It supports serious study and active practice without requiring external reference books.
 
-Current inventory: ~242 files, 7 DN suttas, 11 MN suttas, 10 SN saṃyuttas (222 suttas), 14 AN suttas, Dhammapada, Udāna, Sutta Nipāta Uragavagga, 19 mātikā lists — all with three-layer structure (mūla / atthakathā / tīkā).
+Current inventory: 1,161 validated vault files (1,169 total md), 7 DN suttas, 11 MN suttas, 11 SN saṃyuttas (225 suttas), 14 AN suttas, Dhammapada, Udāna, Sutta Nipāta, Itivuttaka, Theragāthā, Therīgāthā, 22 mātikā lists — all with three-layer structure where available.
 
 ---
 
@@ -220,7 +220,8 @@ Not all 227 rules — but the rules with direct bearing on lay or monastic pract
 Keeping these off the roadmap unless something specific changes:
 
 - **Academic paper ingestion or annotation** — this is a canonical-text reading environment, not a research database
-- **NLP or corpus analysis** — Pali Language Society / DPD cover this far better
+- **NLP or corpus analysis** — the vault itself is not an NLP/corpus-analysis engine; that capability lives in the companion `pali-nlp` repository, which treats the vault as its corpus and writes reading aids (gloss/vocab/SRS, concordance pages) back in. The vault still does not layer AI translation over Sujato's translations, and is still not a public research database.
+- **Companion: pali-nlp** — the separate `pali-nlp` repo implements the staged NLP arc (reading aids, pipelines, semantic search, local vector DB). Its work is strictly subordinate to the practice domains, keeping the vault simple, robust, and markdown-native.
 - **Sharing or publishing** — the vault is personal; format and density optimized for one reader
 - **Automated translation** — Sujato's Suttacentral translations are the authoritative source; don't layer AI translation over them
 - **Mobile sync / remote hosting** — complexity cost outweighs benefit for solo use

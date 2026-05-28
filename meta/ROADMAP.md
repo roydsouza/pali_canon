@@ -28,7 +28,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 6 — Sutta Nipāta Completion
+## Phase 6 — Sutta Nipāta Completion (Completed)
 
 *Prerequisite*: Phase 0 complete.
 *Scope*: Chapters 2–5 (Chapter 1 Uragavagga already done: 12 suttas).
@@ -73,7 +73,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 7 — Itivuttaka (112 short discourses)
+## Phase 7 — Itivuttaka (Completed) (112 short discourses)
 
 *Prerequisite*: Phase 6 complete + evaluation.
 *Scope*: All 112 utterances in 4 nipātas.
@@ -94,7 +94,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 8 — Theragāthā / Therīgāthā
+## Phase 8 — Theragāthā / Therīgāthā (Completed)
 
 *Prerequisite*: Phase 7 complete + evaluation.
 *Layers*: Mūla only (interleaved Pali/English). No commentary required.
@@ -114,7 +114,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 9 — Practice-Oriented Expansion
+## Phase 9 — Practice-Oriented Expansion (Completed)
 
 *Prerequisite*: Phase 8 complete.
 *Purpose*: Migrate suttas that directly support the seven practice domains. Each sub-phase also creates a thematic reading path in `paths/`.
@@ -203,7 +203,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 10 — AN Expansion
+## Phase 10 — AN Expansion (Completed)
 
 *Prerequisite*: Phase 9 complete.
 *Purpose*: Fill the remaining AN nipāta gaps.
@@ -217,7 +217,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 11 — Deeper MN Coverage
+## Phase 11 — Deeper MN Coverage (Completed)
 
 *Prerequisite*: Phase 10 complete.
 
@@ -229,7 +229,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 12 — Vinaya Pātimokkha
+## Phase 12 — Vinaya Pātimokkha (Completed)
 
 *Prerequisite*: Phase 11 complete.
 
@@ -241,7 +241,7 @@ From this point forward, every agent session must:
 
 ---
 
-## Phase 13 — Practice Support Tooling
+## Phase 13 — Practice Support Tooling (Completed)
 
 *Prerequisite*: Phase 9 reading paths complete.
 *Purpose*: Make the vault actively useful during practice.
@@ -270,13 +270,39 @@ From this point forward, every agent session must:
 
 ---
 
-## Deferred Maintenance
+## Phase 15 — Vault Hygiene, Consistency & Chanting Fixes
 
-| Item | When |
-|---|---|
-| scratch/ folder reorganization (Issue B) | After Phase 8 |
-| VRI XML parser script for batch commentary extraction | As needed |
-| Link validator maintenance as vault grows | After each phase |
+*Focus on standardizing file naming, fixing broken features, and setting up multi-agent guardrails.*
+
+- **Chanting Audio Player Fix**: Replace broken `file://` absolute paths in `meta/CHANTING.md` and monastic files with vault-relative wikilink embeds `! [ [ audio_file.mp3 ] ]` to render Obsidian's native audio player, and remove folder link stubs.
+- **Dotted Filename Refactor**: Write a python script to rename all 422 dotted filenames (`snp1.1.md` -> `snp1_1.md`) and rewrite all wikilinks vault-wide to maintain a clean, shell-tool-friendly naming convention.
+- **Frontmatter Schema Validation**: Add a frontmatter schema linter (`scratch/inspect/lint_frontmatter.py`) and wire it into the unit tests to enforce required keys by note type.
+- **AN Chunking Alignment**: Implement `covers:` (list) / `part_of:` fields to handle suttas mapped to grouped commentary/ṭīkā files.
+- **SYNC_LOG Rotation**: Rotate entries older than 30 days in `meta/SYNC_LOG.md` into `meta/sync_archive/SYNC_LOG_YYYY-MM.md` to limit file size overhead.
+- **CLAUDE.md Guardrails**: Create a project-level `CLAUDE.md` to define standard procedures, formatting, and validation scripts for new agents.
+
+---
+
+## Phase 16 — Study Station Enhancements
+
+*Markdown-native enhancements to the vault's reading environment, serving as the bridge to NLP.*
+
+- **Prosopography Graph**: Seed manual people (`people/`) and place (`places/`) index notes.
+- **Simile Index**: Build a cross-referenced catalogue of canon similes.
+- **Pericope Concordance**: Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences.
+- **Parallel-Texts Layer**: Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
+- **Question-Driven Paths**: Add thematic reading paths (e.g. "working with anger", "facing death") under `paths/`.
+
+---
+
+## Phase 17 — Pali NLP Companion Development (External Repo)
+
+*Development of the companion `pali-nlp` repository to process vault texts and write back reading aids.*
+
+- **Stage 1: Graded Reader & Gloss (3A)**: Extract vocabulary, lemmatize against DPD, append vocabulary concordance tables to suttas (Option C), and build the vocabulary-based reading ladder.
+- **Stage 2: Linguistic Pipeline (3B)**: Build an off-line concordance search index and NER tagger, auto-populating Phase 16 index pages.
+- **Stage 3: Semantic Search & RAG (3C)**: Implement local-first vector search and offline LLM generation (e.g. MLX/llama.cpp) with citation links to the vault's paragraph anchors.
+- **Stage 4: Performance Porting (3D)**: Re-write performance-critical tokenizer and sandhi-splitting layers in Rust.
 
 ---
 
@@ -290,12 +316,12 @@ From this point forward, every agent session must:
 
 ---
 
-## Summary Statistics (Projected)
+## Summary Statistics (Actual & Projected)
 
-| Milestone | Files (est.) | Suttas | Mātikā |
-|---|---|---|---|
-| Current state | ~242 | ~254 | 19 |
-| After Phase 6 | ~300 | ~312 | 19 |
-| After Phase 8 | ~450 | ~700+ | 19 |
-| After Phase 9 | ~520 | ~730+ | 22 |
-| After Phase 12 | ~570 | ~750+ | 22 |
+| Milestone | Files | Suttas | Mātikā | Description |
+|---|---|---|---|---|
+| Current State (May 2026) | 1,161 | ~750 | 22 | Completed Phases 1-13; repository pushed to remote |
+| After Phase 15 | 1,161 | ~750 | 22 | Vault hygiene, dotted names refactored, audio fixed |
+| After Phase 16 | ~1,200 | ~750 | 22 | Prosopography, simile, and pericope index pages added |
+| After Phase 17 | ~1,200 | ~750 | 22 | Appended vocabulary concordance tables and SRS cards added |
+

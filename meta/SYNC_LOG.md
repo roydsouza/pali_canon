@@ -1,5 +1,19 @@
 # Sync Log
 
+## [2026-05-27 17:10:00-07:00 — Full Vault Review & NLP Roadmap (Claude Opus 4.7)]
+
+### Accomplishments
+- Conducted a full review of the vault (1,161 validated md files, 132 Python scripts, all `meta/` governance docs) plus live diagnostics: link validator (0 errors), unit tests (9/9), filename/frontmatter/git scans.
+- Authored `FROM-CLAUDE.md` (root) — a staged, step-by-step handoff for any LLM, covering: critical fixes, consistency/hygiene gaps, study-workstation enhancements, and a 4-stage path to a Pali NLP system (reading layer → linguistic pipeline → semantic/RAG → Rust port).
+- Captured Roy's directional decisions: NLP = all-layers/staged; architecture = hybrid Python-now/Rust-later; resources = lean hard on DPD + SuttaCentral; **the NLP engine lives in its own separate `pali-nlp` repo that consumes this vault (vault stays plain markdown)**; AI-layer posture delegated to Claude (recommendation in doc §D.0).
+
+### Key findings (see FROM-CLAUDE.md for fixes)
+- **Errors**: chanting audio uses non-rendering `file://` embeds and `practice/audio/` is empty; HERMES/STATUS still claim "no remote" but `origin` exists; STATUS says 126 scripts (actual 132); VISION says ~242 files (actual 1,161); no project-level `CLAUDE.md`.
+- **Gaps**: 422 dotted filenames; frontmatter schema drift; AN cross-layer chunking lacks `covers:`/`part_of:`; `SYNC_LOG.md` is an unbounded 1,056-line append log; Phase 19 §-anchor backfill still pending.
+
+### Current State
+- No vault content changed; only `FROM-CLAUDE.md` added and this log entry. Validator/tests still green. Next agent should work `FROM-CLAUDE.md` Stage 1 → 4 and delete it once processed.
+
 ## [2026-05-24 20:45:00-07:00 — Dataview Index Diagnostics & Root Cause Analysis (Antigravity)]
 
 ### Diagnosis of Blank Dataview Tables

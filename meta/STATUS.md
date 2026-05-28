@@ -154,8 +154,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 *   **Obsidian Plugins**: Simsapa DPD, Dataview, Templater (all configured)
 *   **CSS Toggle**: Translation toggle for pure Pali reading
 *   **Templates**: Mūla, Atthakathā, Tīkā sutta templates
-*   **Git**: Local repository initialized (no remote), Git pre-commit hook link validation guardrail installed
-*   **Scripts**: 126 Python scripts in `scratch/` (53 generators, 8 crosslinkers, 49 inspectors, 10 tests, 6 utilities)
+*   **Git**: Repository initialized with remote `https://github.com/roydsouza/pali_canon.git`, Git pre-commit hook link validation guardrail installed
+*   **Scripts**: 132 Python scripts in `scratch/` (55 generators, 8 crosslinkers, 49 inspectors, 14 tests, 6 utilities)
 
 ---
 
