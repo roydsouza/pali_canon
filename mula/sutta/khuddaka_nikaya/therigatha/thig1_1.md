@@ -6,6 +6,7 @@ type: mula
 pitaka: sutta
 nikaya: khuddaka
 sutta_number: 1
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/therigatha/thig1_1_att.md
 translator: Bhikkhu Sujato
 source: "https://suttacentral.net"
 subcollection: therigatha
@@ -20,7 +21,7 @@ tags:
 # Khuddaka Nikāya: Therīgāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]
-**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Related Texts**: [[atthakatha/sutta/khuddaka_nikaya/therigatha/thig1_1_att|Commentary (Paramatthadīpanī)]]
 **Mātikā**: [[four_foundations_of_mindfulness|Four Foundations of Mindfulness]] | [[four_sublime_states|Four Sublime States]]
 
 ## THIG1.1: Aññatarātherīgāthā — *An Unnamed Nun (1st)*

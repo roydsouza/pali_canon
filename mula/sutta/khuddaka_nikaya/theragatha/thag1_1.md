@@ -6,6 +6,7 @@ type: mula
 pitaka: sutta
 nikaya: khuddaka
 sutta_number: 1
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/theragatha/thag1_1_att.md
 translator: Bhikkhu Sujato
 source: "https://suttacentral.net"
 subcollection: theragatha
@@ -20,7 +21,7 @@ tags:
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]
-**Related Texts**: (No Commentary or Ṭīkā migrated)
+**Related Texts**: [[atthakatha/sutta/khuddaka_nikaya/theragatha/thag1_1_att|Commentary (Paramatthadīpanī)]]
 **Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]] | [[four_sublime_states|Four Sublime States]]
 
 ## THAG1.1: Subhūtitheragāthā — *Subhūti*

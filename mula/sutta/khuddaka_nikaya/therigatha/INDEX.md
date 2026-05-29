@@ -5,8 +5,8 @@ type: mula
 pitaka: sutta
 nikaya: khuddaka
 sutta_number: INDEX
-commentary_file: /atthakatha/abhidhamma/INDEX.md
-sub_commentary_file: /tika/abhidhamma/INDEX.md
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/therigatha/INDEX.md
+sub_commentary_file: (No Ṭīkā available)
 subcollection: therigatha
 ---
 

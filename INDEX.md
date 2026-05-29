@@ -31,6 +31,7 @@
         <li><a class="internal-link" href="atthakatha/INDEX.md">Aṭṭhakathā (Commentaries)</a></li>
         <li><a class="internal-link" href="tika/INDEX.md">Tīkā (Sub-commentaries)</a></li>
         <li><a class="internal-link" href="mula/vinaya/INDEX.md">Vinaya Piṭaka (Monastic Rules)</a></li>
+        <li><a class="internal-link" href="people/INDEX.md">People (Prosopography)</a> &amp; <a class="internal-link" href="places/INDEX.md">Places (Geography)</a></li>
       </ul>
     </div>
   </div>
@@ -45,6 +46,7 @@
         <li><a class="internal-link" href="matika/four_noble_truths.md">Four Noble Truths</a></li>
         <li><a class="internal-link" href="matika/four_foundations_of_mindfulness.md">Four Satipaṭṭhānā</a></li>
         <li><a class="internal-link" href="matika/noble_eightfold_path.md">Noble Eightfold Path</a></li>
+        <li><a class="internal-link" href="meta/SIMILES.md">Simile Index</a> &amp; <a class="internal-link" href="meta/PERICOPES.md">Pericope Concordance</a></li>
       </ul>
     </div>
   </div>
