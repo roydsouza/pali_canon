@@ -206,5 +206,21 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
     - [ ] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
     - [ ] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
 
+---
 
+### Phase 21 — Canonical Breadth Expansion (Future)
 
+**Trigger**: Begin only when all of the following are true:
+- Phase 16 (Study Station) is complete and actively used during reading sessions
+- Phase 17 (pali-nlp companion: graded reader + concordance) is operational
+- The seven practice domains feel covered — you reach for the vault and find what you need
+- The mātikā web feels saturated (no obvious cross-links missing)
+
+**Goal**: Shift from practice-curated selection to systematic breadth. Fill the remaining canon methodically, with full three-layer structure, prioritized by doctrinal importance rather than immediate practice urgency.
+
+- [ ] **Remaining Majjhima Nikāya** — Target ~40–50 additional suttas to reach meaningful MN coverage. Priority candidates: MN 63 (Cūḷamāluṅkya — unanswered questions), MN 72 (Aggivacchagotta — fire simile for nibbāna), MN 26 (Ariyapariyesanā — the noble search, the first teaching), MN 36 (already in vault), MN 38 (Mahātaṇhāsankhaya — craving and consciousness).
+- [ ] **Remaining Dīgha Nikāya** — The 26 DN suttas not yet migrated. Lower priority; many are cosmological or historical rather than practice-focused.
+- [ ] **Saṃyutta Nikāya gaps** — The 45 saṃyuttas not yet covered. Priority: SN 1 (Devatāsaṃyutta — short verse dialogues), SN 3 (Kosalasaṃyutta — the king suttas), SN 4 (Mārasaṃyutta), SN 6 (Brahmasaṃyutta).
+- [ ] **Aṅguttara Nikāya systematic fill** — AN nipātas 2–11 have large gaps. The AN has ~9,557 suttas total; many are formulaic repetitions. Strategy: migrate complete nipātas for AN 2–6 (shorter, more varied), batch-process AN 7–11 where formulas repeat.
+- [ ] **Remaining Khuddaka Nikāya** — Jātaka (birth stories, selected), Vimānavatthu, Petavatthu, Niddesa (commentary on Aṭṭhakavagga/Pārāyanavagga — directly relevant to Snp 4–5), Paṭisambhidāmagga (analytical treatise on insight), Buddhavaṃsa, Cariyāpiṭaka.
+- [ ] **Review and re-evaluate scope** before beginning — the canon is vast; wholesale migration is a multi-year effort. Confirm the vault is still serving its practice purpose before going broad.
