@@ -8,8 +8,8 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Files | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 606 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 324 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Mūla (Root Texts)** | 607 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 329 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
 | **Ṭīkā (Sub-commentaries)** | 106 files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
 | **Mātikā (Doctrinal Lists)** | 109 files (22 lists + sub-files) | — | Pali/English, cross-linked |
 | **Paths (Reading Sequences)** | 10 files | — | 7 practice-domain paths + 3 question-driven paths |
@@ -197,7 +197,18 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 ## Vinaya Piṭaka (Monastic Discipline)
 
 *   **Vinaya Index**: [mula/vinaya/INDEX.md](mula/vinaya/INDEX.md)
-    *   *Status*: **Initiated (Phase 12)**.
+    *   *Status*: **Completed Phase 18 Scaffolding**.
 *   **Migrated Rules**:
     *   [[patimokkha_bhikkhu|Bhikkhu Pātimokkha (227 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).
     *   [[patimokkha_bhikkhuni|Bhikkhunī Pātimokkha (311 rules)]] (Initial migration structure, key rules, and cross-links to five/eight precepts).
+*   **Migrated Commentary**:
+    *   [[kankhavitarani|Kaṅkhāvitaraṇī]] (Buddhaghosa's commentary on the Pātimokkha rules).
+
+---
+
+## Prosopography & Doctrinal Indices
+
+*   **People Index**: [people/INDEX.md](people/INDEX.md) (Key disciples Sāriputta, Ānanda, Mahāmoggallāna, Mahākassapa, and Uṇṇābha profiled).
+*   **Places Index**: [places/INDEX.md](places/INDEX.md) (Key locations Sāvatthī, Rājagaha, Kosambī, and Vesālī profiled).
+*   **Simile Index**: [meta/SIMILES.md](meta/SIMILES.md) (Index of major similes including the Raft, the Lute, the Six Animals, etc.).
+*   **Pericope Concordance**: [meta/PERICOPES.md](meta/PERICOPES.md) (Index of stock textual formulas like the Jhāna and Dependent Origination formulas).

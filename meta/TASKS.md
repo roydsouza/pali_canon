@@ -169,9 +169,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Phase 19 Paragraph-Level Cross-Linking Backfill** — Re-generate the commentaries for MN 36, DN 22, and SN saṃyuttas (SN 12, 22, 35, 46, 54, 56) to ensure paragraph headers (`### §NNN`) are generated, and run the Heuristic Auto-Aligner to insert collapsible commentary callouts at the paragraph level.
 
 ### Phase 16 — Study Station Enhancements
-- [ ] **Prosopography Graph** — Seed manual people (`people/`) and place (`places/`) index notes.
-- [ ] **Simile Index** — Build a cross-referenced catalogue of canon similes.
-- [ ] **Pericope Concordance** — Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences.
+- [x] **Prosopography Graph** — Seed manual people (`people/`) and place (`places/`) index notes. ✅
+- [x] **Simile Index** — Build a cross-referenced catalogue of canon similes. ✅
+- [x] **Pericope Concordance** — Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences. ✅
 - [ ] **Parallel-Texts Layer** — Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
 - [x] **Question-Driven Paths** — Added three paths under `paths/`: `working_with_anger.md`, `understanding_craving.md`, `working_with_hindrances.md`. ✅
 - [ ] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
@@ -198,15 +198,15 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] **Sutta Piṭaka (Primary)**
     - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
     - [x] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
-    - [ ] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses.
+    - [x] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses. ✅
     - [x] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.
 - [ ] **Abhidhamma Piṭaka (Secondary)**
-    - [ ] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual).
-    - [ ] Add Abhidhamma-style mātikā cross-links for the five aggregates.
+    - [x] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual). ✅
+    - [x] Add Abhidhamma-style mātikā cross-links for the five aggregates. ✅
 - [ ] **Vinaya Piṭaka (Tertiary)**
-    - [ ] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules).
-    - [ ] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
-    - [ ] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
+    - [x] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules). ✅
+    - [x] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*. ✅
+    - [x] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā. ✅
 
 ---
 

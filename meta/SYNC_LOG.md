@@ -1,6 +1,23 @@
 # Sync Log
 
-## [2026-05-29 — Phase 17 pali-nlp Stage 1 Architecture Complete (Claude Sonnet 4.6)]
+## [2026-05-29 16:30:00-07:00 — Phase 18 Doctrinal, Vinaya & Study Station Expansions Complete (Antigravity)]
+
+### Session Accomplishments
+- **Abhidhamma & Aggregates Integration**: Added Abhidhamma-style mapping to `matika/five_aggregates.md` and detailed factor notes (`form_or_matter.md`, `feeling.md`, `perception.md`, `volitional_formations.md`, `consciousness.md`) linking them to the ultimate realities in `mula/abhidhamma/abhidhammatthasangaha.md`.
+- **Vinaya Piṭaka Expansions**:
+  - Created Buddhaghosa's Pātimokkha commentary index/guide `atthakatha/vinaya/kankhavitarani.md`.
+  - Linked `patimokkha_bhikkhu.md` and `patimokkha_bhikkhuni.md` to `five_precepts` and `eight_precepts` and to `kankhavitarani.md`.
+  - Expanded `mula/vinaya/INDEX.md` with detailed structures and outlines for Suttavibhaṅga, Khandhaka (Mahāvagga/Cūḷavagga), and Parivāra.
+  - Corrected copypasta errors in Vinaya index frontmatters.
+- **Sutta Piṭaka Commentaries & Study Station**:
+  - Created commentary directories and indexes for Theragāthā and Therīgāthā under `atthakatha/sutta/khuddaka_nikaya/`.
+  - Migrated Paramatthadīpanī commentaries for `thag1_1` (Subhūti) and `thig1_1` (Anonymous nun).
+  - Built the Prosopography Graph: Created `people/` folder (Sāriputta, Ānanda, Mahāmoggallāna, Mahākassapa, Uṇṇābha) and `places/` folder (Sāvatthī, Rājagaha, Kosambī, Vesālī) with detailed profile files.
+  - Created the Simile Index `meta/SIMILES.md` and the Pericope Concordance `meta/PERICOPES.md`.
+  - Registered all new indexes (People, Places, Similes, Pericopes) in the main `INDEX.md` dashboard.
+- **Verification**: Ran all tests (`run_all_tests.py`) and linters (`lint_frontmatter.py` and `validate_links.py`), resolving a broken link in `people/sariputta.md`. All checks pass with 0 errors.
+
+---
 
 ### Repo: pali-nlp (https://github.com/roydsouza/pali-nlp)
 This entry covers work done in the **pali-nlp** companion repository, not the vault.
