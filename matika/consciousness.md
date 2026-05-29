@@ -25,6 +25,12 @@ Viññāṇa is the basic cognizing awareness that arises when a sense organ mee
 
 ---
 
+## Abhidhamma Analysis
+
+In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapter 1), Viññāṇa corresponds to the ultimate reality of Consciousness (*Citta*). It is analyzed into 89 or 121 distinct types classified by plane (*bhūmi*) and ethical quality (*jāti*).
+
+---
+
 ## Sutta References
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:

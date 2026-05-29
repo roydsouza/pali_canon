@@ -25,6 +25,12 @@ Saññā is the mental faculty that recognizes, names, and labels sensory data. 
 
 ---
 
+## Abhidhamma Analysis
+
+In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapter 2), Saññā is classified as a universal mental factor (*sabbacittasādhāraṇa cetasika*) that accompanies every moment of consciousness (*citta*), functioning to identify and note the features of the object.
+
+---
+
 ## Sutta References
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:

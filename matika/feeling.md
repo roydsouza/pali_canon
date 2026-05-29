@@ -25,6 +25,12 @@ Vedanā is the affective tone of experience. Every sensory contact is experience
 
 ---
 
+## Abhidhamma Analysis
+
+In the Abhidhamma, particularly in the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapter 2 & 3), Vedanā is classified as a universal mental factor (*sabbacittasādhāraṇa cetasika*) present in every consciousness moment. It is analyzed as having five ethical/affective states (*vedanā-bheda*): pleasure (*sukha*), pain (*dukkha*), joy (*somanassa*), displeasure (*domanassa*), and equanimity (*upekkhā*).
+
+---
+
 ## Sutta References
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:

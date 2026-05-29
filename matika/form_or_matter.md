@@ -25,6 +25,12 @@ Rūpa refers to the physical aspect of existence, comprising the four great elem
 
 ---
 
+## Abhidhamma Analysis
+
+In the Abhidhamma, particularly in Chapter 6 of the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]], Rūpa is categorized into 28 material phenomena: 4 primary elements (*mahābhūta*) and 24 derived elements (*upādārūpa*).
+
+---
+
 ## Sutta References
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:

@@ -22,6 +22,13 @@ category: list_note
 5. **[[consciousness|Viññāṇakkhandha]]**  
    *The aggregate of consciousness / awareness*
 
+## Abhidhamma Analysis
+
+In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapter 6 & 7), the five aggregates are mapped to the four ultimate realities (*paramattha dhamma*):
+* **Rūpakkhandha** (Material Form) is mapped to Material Phenomena (*Rūpa-saṅgaha*).
+* **Vedanākkhandha** (Feeling), **Saññākkhandha** (Perception), and **Saṅkhārakkhandha** (Volitional Formations) are mapped to Mental Factors (*Cetasika-saṅgaha*).
+* **Viññāṇakkhandha** (Consciousness) is mapped to Consciousness (*Citta-saṅgaha*).
+
 ## Related Lists
 * Related: [[three_marks|Three Marks of Existence]] (all aggregates are impermanent, suffering, and non-self)
 * Related: [[dependent_origination|Dependent Origination]] (aggregator components correspond to nama-rupa and vinnana links)

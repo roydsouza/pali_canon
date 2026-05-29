@@ -25,6 +25,12 @@ Saṅkhārā refers to the active, fabricating forces of the mind. It encompasse
 
 ---
 
+## Abhidhamma Analysis
+
+In the [[mula/abhidhamma/abhidhammatthasangaha|Abhidhammatthasaṅgaha]] (Chapter 2), the aggregate of volitional formations (*Saṅkhārakkhandha*) includes the remaining 50 mental factors (*cetasika*) besides feeling (*vedanā*) and perception (*saññā*). Among these, volition (*cetanā*) is the chief factor responsible for the generation of kamma.
+
+---
+
 ## Sutta References
 
 The following suttas and lists in the vault mention, describe, or analyze this factor:
