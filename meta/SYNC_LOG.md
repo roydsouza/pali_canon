@@ -1,5 +1,31 @@
 # Sync Log
 
+## [2026-05-29 00:00:00-07:00 — README, Phase 15 Commit, and Phase 16 Question-Driven Paths (Claude Sonnet 4.6)]
+
+### Accomplishments
+
+**Batch 1 — README.md**
+- Created `/README.md` as a high-quality first-reader orientation covering the three-layer structure, current inventory, design principles, repository layout, tooling, and roadmap forward (Phase 16 Study Station, Phase 17 NLP Companion).
+
+**Batch 2 — Phase 15 Commit**
+- Committed 473 pending files from the previous session's dotted→underscore filename refactor, frontmatter linter, AN chunking alignment, and paragraph backfill work. Pre-commit hook passed cleanly.
+
+**Batch 3 — Phase 16: Question-Driven Paths**
+- Added three new reading paths under `paths/`:
+  - `working_with_anger.md` — recognition → removal methods → heart purification → mettā cultivation (MN 10, MN 20, MN 7, SN 46, AN 11.15, Snp 1.8)
+  - `understanding_craving.md` — from sense doors through aggregates → dependent origination → seven methods of release → Aṭṭhakavagga non-clinging (SN 35, SN 22, MN 44, DN 15, MN 2, Snp 4)
+  - `working_with_hindrances.md` — recognition → graduated training → five removal methods → awakening-factor antidotes → samādhi (MN 10, DN 2, MN 20, SN 46, AN 5.28, AN 9.34–35)
+- Updated `paths/INDEX.md` with a new "Question-Driven Paths" section.
+- Updated `meta/STATUS.md` with accurate current counts (1,166 files, 14,233 wikilinks, 135 scripts).
+- Marked Phase 16 Question-Driven Paths task done in `meta/TASKS.md`.
+
+### Health Baseline
+- **Validator**: 1,166 files / 14,233 wikilinks / **0 errors** ✅
+- **Unit tests**: 10/10 pass ✅
+- **Git**: Clean on `main`.
+
+---
+
 ## [2026-05-28 08:37:00-07:00 — Completion of Phase 15 Hygiene, Consistency & Backfill (Antigravity)]
 
 ### Accomplishments

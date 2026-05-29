@@ -2,7 +2,7 @@
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
-**Last updated**: 2026-05-24
+**Last updated**: 2026-05-29
 
 ---
 
@@ -173,7 +173,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] **Simile Index** — Build a cross-referenced catalogue of canon similes.
 - [ ] **Pericope Concordance** — Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences.
 - [ ] **Parallel-Texts Layer** — Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
-- [ ] **Question-Driven Paths** — Add thematic reading paths (e.g. "working with anger", "facing death") under `paths/`.
+- [x] **Question-Driven Paths** — Added three paths under `paths/`: `working_with_anger.md`, `understanding_craving.md`, `working_with_hindrances.md`. ✅
 - [ ] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
 
 ### Phase 17 — Pali NLP Companion Development (External Repo)
