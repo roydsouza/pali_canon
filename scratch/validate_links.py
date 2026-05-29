@@ -74,125 +74,29 @@ def parse_yaml(content):
                 current_key = key
     return yaml_dict
 
+# Configure sys.path so we can import from inspect/lint_frontmatter
+SCRATCH_DIR = os.path.dirname(os.path.abspath(__file__))
+INSPECT_DIR = os.path.join(SCRATCH_DIR, "inspect")
+if INSPECT_DIR not in sys.path:
+    sys.path.insert(0, INSPECT_DIR)
+
 def validate_frontmatter(filepath, content, rel_src):
+    try:
+        from lint_frontmatter import validate_frontmatter_file
+    except ImportError:
+        # Fallback if path mapping differs
+        sys.path.insert(0, os.path.join(VAULT_DIR, "scratch", "inspect"))
+        from lint_frontmatter import validate_frontmatter_file
+        
+    raw_errors = validate_frontmatter_file(filepath, content, rel_src, VAULT_DIR)
     errors = []
-    filename = os.path.basename(filepath)
-    if filename == "INDEX.md":
-        return errors
-        
-    parts = rel_src.split(os.sep)
-    if not parts or len(parts) < 2:
-        return errors
-        
-    type_dir = parts[0]
-    if type_dir not in {"mula", "atthakatha", "tika", "matika", "practice", "paths"}:
-        return errors
-        
-    yaml_dict = parse_yaml(content)
-    if yaml_dict is None:
+    for err in raw_errors:
         errors.append({
-            "file": rel_src,
+            "file": err["file"],
             "line": 1,
             "link": "Frontmatter",
-            "error": "Missing or invalid YAML frontmatter block at start of file"
+            "error": err["error"]
         })
-        return errors
-        
-    expected_types = {
-        "mula": "mula",
-        "atthakatha": "atthakatha",
-        "tika": "tika",
-        "matika": "matika",
-        "practice": "practice",
-        "paths": "path"
-    }
-    
-    if "id" not in yaml_dict or not yaml_dict["id"]:
-        errors.append({
-            "file": rel_src,
-            "line": 1,
-            "link": "id",
-            "error": "Missing 'id' in frontmatter"
-        })
-        
-    if "type" not in yaml_dict:
-        errors.append({
-            "file": rel_src,
-            "line": 1,
-            "link": "type",
-            "error": "Missing 'type' in frontmatter"
-        })
-    elif yaml_dict["type"] != expected_types[type_dir]:
-        errors.append({
-            "file": rel_src,
-            "line": 1,
-            "link": "type",
-            "error": f"Invalid type '{yaml_dict['type']}' for folder '{type_dir}/'. Expected '{expected_types[type_dir]}'."
-        })
-        
-    if type_dir in {"mula", "atthakatha", "tika"}:
-        required = ["title_pali", "pitaka", "nikaya", "sutta_number"]
-        for field in required:
-            if field not in yaml_dict or not yaml_dict[field]:
-                errors.append({
-                    "file": rel_src,
-                    "line": 1,
-                    "link": field,
-                    "error": f"Missing required field '{field}' in canonical text frontmatter"
-                })
-        
-        if "pitaka" in yaml_dict and yaml_dict["pitaka"] not in {"sutta", "vinaya", "abhidhamma"}:
-            errors.append({
-                "file": rel_src,
-                "line": 1,
-                "link": "pitaka",
-                "error": f"Invalid pitaka value '{yaml_dict['pitaka']}'"
-            })
-        if "nikaya" in yaml_dict and yaml_dict["nikaya"] not in {"majjhima", "digha", "samyutta", "anguttara", "khuddaka", "None"}:
-            errors.append({
-                "file": rel_src,
-                "line": 1,
-                "link": "nikaya",
-                "error": f"Invalid nikaya value '{yaml_dict['nikaya']}'"
-            })
-            
-        for link_field in ["commentary_file", "sub_commentary_file", "mula_file"]:
-            if link_field in yaml_dict and yaml_dict[link_field]:
-                target_path = yaml_dict[link_field].lstrip("/")
-                abs_target = os.path.join(VAULT_DIR, target_path)
-                if not os.path.exists(abs_target):
-                    errors.append({
-                        "file": rel_src,
-                        "line": 1,
-                        "link": yaml_dict[link_field],
-                        "error": f"Referenced {link_field} '{yaml_dict[link_field]}' does not exist."
-                    })
-                    
-    elif type_dir == "matika":
-        if "title_pali" not in yaml_dict or not yaml_dict["title_pali"]:
-            errors.append({
-                "file": rel_src,
-                "line": 1,
-                "link": "title_pali",
-                "error": "Missing 'title_pali' in matika frontmatter"
-            })
-        if "category" not in yaml_dict or yaml_dict["category"] not in {"list_note", "factor_note"}:
-            errors.append({
-                "file": rel_src,
-                "line": 1,
-                "link": "category",
-                "error": f"Invalid category '{yaml_dict.get('category')}' in matika"
-            })
-            
-    elif type_dir in {"practice", "paths"}:
-        if "title" not in yaml_dict or not yaml_dict["title"]:
-            errors.append({
-                "file": rel_src,
-                "line": 1,
-                "link": "title",
-                "error": f"Missing 'title' in {type_dir} frontmatter"
-            })
-            
     return errors
 
 def check_dataview_queries(content, filepath, rel_src):
@@ -450,6 +354,22 @@ def validate_vault(target_files=None):
                                     "link": raw_link,
                                     "error": f"Anchor '#{anchor}' not found in target '{os.path.relpath(target_file, VAULT_DIR)}'"
                                 })
+
+    # If scanning all files, validate reciprocal covers too
+    if target_files is None:
+        try:
+            from lint_frontmatter import validate_reciprocal_covers
+        except ImportError:
+            sys.path.insert(0, os.path.join(VAULT_DIR, "scratch", "inspect"))
+            from lint_frontmatter import validate_reciprocal_covers
+        covers_errors = validate_reciprocal_covers(VAULT_DIR)
+        for err in covers_errors:
+            errors.append({
+                "file": err["file"],
+                "line": 1,
+                "link": "Reciprocal Covers",
+                "error": err["error"]
+            })
 
     print(f"Validated {len(scan_files)} markdown files.")
     print(f"Checked {total_links_checked} wikilinks.")

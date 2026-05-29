@@ -10,6 +10,13 @@ sutta: an11.2
 layer: tika
 att_file: [[an11_2_att]], [[an11_3_5_att]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
+covers:
+  - atthakatha/sutta/anguttara_nikaya/an11_2_att.md
+  - atthakatha/sutta/anguttara_nikaya/an11_3_5_att.md
+  - mula/sutta/anguttara_nikaya/an11_2.md
+  - mula/sutta/anguttara_nikaya/an11_3.md
+  - mula/sutta/anguttara_nikaya/an11_4.md
+  - mula/sutta/anguttara_nikaya/an11_5.md
 ---
 
 # Sub-commentary on Aṅguttara Nikāya: Cetanākaraṇīya, etc.

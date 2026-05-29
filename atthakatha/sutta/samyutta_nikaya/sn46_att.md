@@ -32,7 +32,13 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 ### 1. Himavantasuttavaṇṇanā
 
+
+### §182
+
 (182) Bojjhaṅgasaṃyuttassa paṭhame **nāgā**ti imepi mahāsamuddapiṭṭhe ūmiantaravāsinova, na vimānaṭṭhakanāgā. Tesaṃ himavantaṃ nissāya kāyavaḍḍhanādisabbaṃ heṭṭhā vuttanayeneva veditabbaṃ. **Bojjhaṅge**ti ettha bodhiyā, bodhissa vā aṅgāti **bojjhaṅgā**. Kiṃ vuttaṃ hoti? Yā hi ayaṃ dhammasāmaggī, yāya lokiyalokuttaramaggakkhaṇe uppajjamānāya līnuddhaccapatiṭṭhānāyūhana kāmasukhattakilamathānuyogaucchedasassatābhinivesādīnaṃ anekesaṃ upaddavānaṃ paṭipakkhabhūtāya satidhammavicayavīriyapītipassaddhisamādhiupekkhāsaṅkhātāya dhammasāmaggiyā ariyasāvako bujjhatīti katvā bodhīti vuccati. **Bujjhatī**ti kilesasantānaniddāya uṭṭhahati, cattāri vā ariyasaccāni paṭivijjhati, nibbānameva vā sacchikarotīti vuttaṃ hoti. Yathāha ‘‘satta bojjhaṅge bhāvetvā anuttaraṃ sammāsambodhiṃ abhisambuddho’’ti (saṃ. ni. 5.378; dī. ni. 3.143). Tassā dhammasāmaggisaṅkhātāya bodhiyā aṅgāti **bojjhaṅgā** jhānaṅgamaggaṅgādayo viya. Yopesa yathāvuttappakārāya etāya dhammasāmaggiyā bujjhatīti katvā ariyasāvako bodhīti vuccati, tassa bodhissa aṅgātipi **bojjhaṅgā** senaṅgarathaṅgādayo viya. Tenāhu aṭṭhakathācariyā – ‘‘bujjhanakassa puggalassa aṅgāti vā bojjhaṅgā’’ti.
+
+> [!abstract]- Tīkā §182
+> [[sn46_tik#§182|Sub-commentary §182]]
 
 Apica ‘‘bojjhaṅgāti kenaṭṭhena bojjhaṅgā? Bodhāya saṃvattantīti bojjhaṅgā, bujjhantīti bojjhaṅgā, anubujjhantīti bojjhaṅgā, paṭibujjhantīti bojjhaṅgā, sambujjhantīti bojjhaṅgā’’iccādinā (paṭi. ma. 2.17) paṭisambhidānayenāpi bojjhaṅgattho veditabbo.
 
@@ -42,7 +48,13 @@ Ayaṃ pana viseso – tattha tadaṅgavivekanissitaṃ, samucchedavivekanissita
 
 ### 2. Kāyasuttavaṇṇanā
 
+
+### §183
+
 (183) Dutiye **āhāraṭṭhitiko**ti paccayaṭṭhitiko. **Āhāraṃ paṭiccā**ti paccayaṃ paṭicca. **Subhanimitta**nti subhampi subhanimittaṃ, subhassa ārammaṇampi subhanimittaṃ. **Ayonisomanasikāro**ti anupāyamanasikāro uppathamanasikāro anicce ‘‘nicca’’nti vā, dukkhe ‘‘sukha’’nti, anattani ‘‘attā’’ti vā, asubhe ‘‘subha’’nti vā, manasikāro. Taṃ tasmiṃ subhārammaṇe bahulaṃ pavattayato kāmacchando uppajjati. Tena vuttaṃ ‘‘atthi, bhikkhave, subhanimitta’’ntiādi. Evaṃ sabbanīvaraṇesu yojanā veditabbā.
+
+> [!abstract]- Tīkā §183
+> [[sn46_tik#§183|Sub-commentary §183]]
 
 **Paṭighanimitta**ntiādīsu pana paṭighopi paṭighanimittaṃ paṭighārammaṇampi. **Aratī**ti ukkaṇṭhitā. Yaṃ sandhāya vuttaṃ – ‘‘tattha katamā arati? Pantesu vā senāsanesu aññataraññataresu vā adhikusalesu dhammesu arati aratitā anabhirati anabhiramanā ukkaṇṭhitā paritassitā, ayaṃ vuccati aratī’’ti (vibha. 856).
 
@@ -70,7 +82,13 @@ Ayaṃ pana viseso – tattha tadaṅgavivekanissitaṃ, samucchedavivekanissita
 
 ### 3. Sīlasuttavaṇṇanā
 
+
+### §184
+
 (184) Tatiye **sīlasampannā**ti ettha khīṇāsavassa lokiyalokuttarasīlaṃ kathitaṃ, tena sampannāti attho. **Samādhipaññāsu**pi eseva nayo. **Vimutti** pana phalavimuttiyeva. **Vimuttiñāṇadassanaṃ** paccavekkhaṇañāṇaṃ. Evamettha sīlādayo tayo lokiyalokuttarā, vimutti lokuttarāva, vimuttiñāṇadassanaṃ lokiyameva.
+
+> [!abstract]- Tīkā §184
+> [[sn46_tik#§184|Sub-commentary §184]]
 
 **Dassanampāha**nti dassanampi ahaṃ. Taṃ panetaṃ dassanaṃ – cakkhudassanaṃ, ñāṇadassananti duvidhaṃ. Tattha pasannehi cakkhūhi ariyānaṃ dassanaṃ olokanaṃ cakkhudassanaṃ nāma. Ariyehi pana diṭṭhassa lakkhaṇassa dassanaṃ, paṭividdhassa ca paṭivijjhanaṃ jhānena vā vipassanāya vā maggaphalehi vā ñāṇadassanaṃ nāma. Imasmiṃ panettha cakkhudassanaṃ adhippetaṃ. Ariyānañhi pasannehi cakkhūhi olokanampi bahukārameva. **Savana**nti ‘‘asuko nāma khīṇāsavo asukasmiṃ nāma raṭṭhe vā janapade vā gāme vā nigame vā vihāre vā leṇe vā vasatī’’ti kathentānaṃ sotena savanaṃ, etampi bahukārameva. **Upasaṅkamana**nti ‘‘dānaṃ vā dassāmi, pañhaṃ vā pucchissāmi, dhammaṃ vā sossāmi, sakkāraṃ vā karissāmī’’ti evarūpena cittena ariyānaṃ upasaṅkamanaṃ. **Payirupāsana**nti pañhāpayirupāsanaṃ. Ariyānaṃ guṇe sutvā te upasaṅkamitvā nimantetvā dānaṃ datvā ‘‘kiṃ, bhante, kusala’’ntiādinā nayena pañhapucchananti attho.
 
@@ -90,13 +108,25 @@ Imasmiṃ pana ṭhāne **aṭṭhacattārīsa anāgāmino** kathetabbā. Avihes
 
 ### 4. Vatthasuttavaṇṇanā
 
+
+### §185
+
 (185) Catutthe **satisambojjhaṅgo iti ce me hotī**ti satisambojjhaṅgoti evaṃ ce mayhaṃ hoti. **Appamāṇoti me hotī**ti appamāṇoti evaṃ me hoti. **Susamāraddho**ti suparipuṇṇo. **Tiṭṭhatī**ti ettha aṭṭhahākārehi satisambojjhaṅgo tiṭṭhati – uppādaṃ anāvajjitattā anuppādaṃ āvajjitattā satisambojjhaṅgo tiṭṭhati, pavattaṃ, appavattaṃ, nimittaṃ, animittaṃ saṅkhāre anāvajjitattā, visaṅkhāraṃ āvajjitattā satisambojjhaṅgo tiṭṭhatīti. Imehi aṭṭhahākārehi tiṭṭhatīti thero jānāti, vuttākāraviparīteheva aṭṭhahākārehi cavantaṃ cavatīti pajānāti. Sesabojjhaṅgesupi eseva nayo.
+
+> [!abstract]- Tīkā §185
+> [[sn46_tik#§185|Sub-commentary §185]]
 
 Iti imasmiṃ sutte therassa phalabojjhaṅgā kathitā. Yadā hi thero satisambojjhaṅgaṃ sīsaṃ katvā phalasamāpattiṃ samāpajjati, tadā itare cha tadanvayā honti. Yadā dhammavicayādīsu aññataraṃ, tadāpi sesā tadanvayā hontīti evaṃ phalasamāpattiyaṃ attano ciṇṇavasitaṃ dassento thero imaṃ suttaṃ kathesīti.
 
 ### 5. Bhikkhusuttavaṇṇanā
 
+
+### §186
+
 (186) Pañcame **bodhāya saṃvattantī**ti bujjhanatthāya saṃvattanti. Kiṃ bujjhanatthāya? Maggena asaṅkhataṃ nibbānaṃ, paccavekkhaṇāya katakiccataṃ, maggena vā kilesaniddāto pabujjhanatthāya, phalena pabujjhanabhāvatthāyātipi vuttaṃ hoti. Tenevettha nibbānasacchikiriyā kilesapahānapaccavekkhaṇāti sabbaṃ dassitaṃ.
+
+> [!abstract]- Tīkā §186
+> [[sn46_tik#§186|Sub-commentary §186]]
 
 6-7. Kuṇḍaliyasuttādivaṇṇanā
 
@@ -114,13 +144,28 @@ Ayaṃ pana bhikkhu attano bhāvanāpaṭisaṅkhāne ṭhito imāni duccaritān
 
 ### 8. Upavānasuttavaṇṇanā
 
+
+### §189
+
 (189) Aṭṭhame **paccatta**nti attanāva. **Yonisomanasikārā**ti yoniso manasikārena. **Ārabbhamānovā**ti kurumānoyeva. **Suvimutta**nti kammaṭṭhānavimuttiyā suṭṭhu vimuttaṃ. **Aṭṭhiṃkatvā**ti atthaṃ karitvā, atthiko hutvāti vuttaṃ hoti.
+
+> [!abstract]- Tīkā §189
+> [[sn46_tik#§189|Sub-commentary §189]]
 
 ### 9. Paṭhamauppannasuttavaṇṇanā
 
+
+### §190
+
 (190) Navame **nāññatra tathāgatassa pātubhāvā**ti tathāgatassa pātubhāvaṃ vinā na aññasmiṃ kāle uppajjantīti attho.
 
+> [!abstract]- Tīkā §190
+> [[sn46_tik#§190|Sub-commentary §190]]
+
 ### 10. Dutiyauppannasuttavaṇṇanā
+
+
+### §191
 
 (191) Dasame **nāññatra sugatavinayā**ti sugatovādaṃ vinā na uppajjantīti.
 
@@ -154,15 +199,33 @@ Chaṭṭhe **etadavocā**ti ‘‘imissaṃ parisati nisinno udāyitthero nāma
 
 ### 8. Nibbedhabhāgiyasuttavaṇṇanā
 
+
+### §209
+
 (209) Aṭṭhame **nibbedhabhāgiya**nti nibbijjhanakoṭṭhāsiyaṃ. **Satisambojjhaṅgaṃ bhāvitenā**ti satisambojjhaṅgena bhāvitena, satisambojjhaṅgaṃ vā bhāvetvā ṭhitena, evamettha maggabojjhaṅgā missakā. Tehi bhāvitaṃ, te vā bhāvetvā ṭhitaṃ cittaṃ nibbattitalokuttarameva. Tampi pana magganissitaṃ katvā missakameva kathetuṃ vaṭṭati.
+
+> [!abstract]- Tīkā §209
+> [[sn46_tik#§209|Sub-commentary §209]]
 
 ### 9. Ekadhammasuttavaṇṇanā
 
+
+### §210
+
 (210) Navame **saṃyojanavinibandhā**ti saṃyojanasaṅkhātā vinibandhā. **Ajjhosānā**ti pariniṭṭhapetvā gahaṇā.
+
+> [!abstract]- Tīkā §210
+> [[sn46_tik#§210|Sub-commentary §210]]
 
 ### 10. Udāyisuttavaṇṇanā
 
+
+### §211
+
 (211) Dasame **abahukato**ti akatabahumāno. **Ukkujjāvakujja**nti ettha ukkujjaṃ vuccati udayo, avakujjaṃ vayoti udayabbayavasena parivattento sammasantoti dīpeti. **Dhammo ca me, bhante, abhisamito**ti vipassanādhammo abhisamāgato. **Maggo**ti vipassanāmaggova. Sace hi thero tasmiṃ samaye sotāpanno, upari tiṇṇaṃ maggānaṃ atthāya, sace anāgāmī, arahattamaggassa atthāya ayaṃ vipassanā veditabbā. **Tathā tathā viharanta**nti tena tenākārena viharantaṃ. **Tathattāyā**ti tathābhāvāya. **Khīṇā jātī**tiādīhi tathattāyāti adhippetaṃ tathābhāvaṃ dasseti. Paccavekkhaṇatthāya upanīyatīti hi ettha adhippāyo, taṃ dassento evamāha. Sesaṃ sabbattha uttānamevāti.
+
+> [!abstract]- Tīkā §211
+> [[sn46_tik#§211|Sub-commentary §211]]
 
 Udāyivaggo.
 
@@ -174,17 +237,35 @@ Catutthavaggassa tatiye **na ca pabhassara**nti na ca pabhāvantaṃ. **Pabhaṅ
 
 ### 8. Āvaraṇanīvaraṇasuttavaṇṇanā
 
+
+### §219
+
 (219) Aṭṭhame **paññāya dubbalīkaraṇā**ti paññāya mandabhāvakarā. Nīvaraṇānañhi abhiṇhuppāde sati antarantarā uppajjamānā paññā dubbalā hoti mandā avisadā.
+
+> [!abstract]- Tīkā §219
+> [[sn46_tik#§219|Sub-commentary §219]]
 
 **Pañca nīvaraṇā tasmiṃ samaye na honti. Sattabojjhaṅgā tasmiṃ samaye bhāvanāpāripūriṃ gacchantī**ti ariyasāvakassa hi sappāyadhammassavanaṃ suṇantassa pañca nīvaraṇā dūre honti. So sace tasmiṃyeva ṭhāne visesaṃ nibbattetuṃ sakkoti, evamassa satta bojjhaṅgā bhāvanāpāripūriṃ gacchanti. No ce sakkoti, tato vuṭṭhāya rattiṭṭhānadivāṭṭhānaṃ gato tameva pītiṃ avijahanto pañca nīvaraṇe vikkhambhetvā visesaṃ nibbattessati. Tattha asakkontopi yāva sattadivasabbhantarā tameva pītiṃ avijahanto nīvaraṇe vikkhambhetvā visesaṃ nibbattessatīti idaṃ sandhāyetaṃ vuttaṃ. Dhammassavanavasena sakiṃ pītipāmojjapakkhiyā paṭiladdhabojjhaṅgā hi kammārāmatādīni āgamma nassanti, tathārūpaṃ pana utusappāyādiṃ labhitvā puna uppajjantāpi tasmiṃ samaye bhāvanāpāripūriṃ gacchanti icceva vuccati.
 
 ### 9. Rukkhasuttavaṇṇanā
 
+
+### §220
+
 (220) Navame **ajjhāruhā**ti abhiruhanakā. **Kacchako**ti aṭṭhikacchako. **Kapitthano**ti makkaṭathanasadisaphalo vijātapilakkho.
+
+> [!abstract]- Tīkā §220
+> [[sn46_tik#§220|Sub-commentary §220]]
 
 ### 10. Nīvaraṇasuttavaṇṇanā
 
+
+### §221
+
 (221) Dasame **andhakaraṇā**ti andhabhāvakaraṇā. **Acakkhukaraṇā**ti paññācakkhussa akaraṇā. **Paññānirodhikā**ti paññāya nirodhanā. **Vighātapakkhiyā**ti dukkhapakkhikā. **Anibbānasaṃvattanikā**ti nibbānatthāya asaṃvattanikā. Sesaṃ sabbattha uttānatthameva. Sakalepi imasmiṃ vagge missakabojjhaṅgāva kathitāti.
+
+> [!abstract]- Tīkā §221
+> [[sn46_tik#§221|Sub-commentary §221]]
 
 Nīvaraṇavaggo.
 
@@ -192,11 +273,23 @@ Nīvaraṇavaggo.
 
 ### 1. Vidhāsuttavaṇṇanā
 
+
+### §222
+
 (222) Pañcamavaggassa paṭhame **tisso vidhā**ti tayo mānakoṭṭhāsā, mānoyeva vā. Tathā tathā vidahanato hi mānova vidhāti vuccati.
+
+> [!abstract]- Tīkā §222
+> [[sn46_tik#§222|Sub-commentary §222]]
 
 ### 2. Cakkavattisuttavaṇṇanā
 
+
+### §223
+
 (223) Dutiye **rañño, bhikkhave, cakkavattissā**ti ettha attano sirisampattiyā rājati, catūhi vā saṅgahavatthūhi lokaṃ rañjetīti rājā, tassa **rañño**. ‘‘Pavattatu bhavaṃ cakkaratana’’nti puññānubhāvena abbhuggatāya vācāya codento cakkaṃ vattetīti cakkavattī, tassa **cakkavattissa. Pātubhāvā**ti pātubhāvena. **Sattanna**nti gaṇanaparicchedo. **Ratanāna**nti paricchinnaatthadassanaṃ. Vacanattho panettha ratijananaṭṭhena **ratanaṃ**. Apica –
+
+> [!abstract]- Tīkā §223
+> [[sn46_tik#§223|Sub-commentary §223]]
 
 ‘‘Cittīkataṃ mahagghañca, atulaṃ dullabhadassanaṃ;
 
@@ -224,7 +317,13 @@ Cakkavattivaggo.
 
 ### 1. Āhārasuttavaṇṇanā
 
+
+### §232
+
 (232) Chaṭṭhavaggassa paṭhame **ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāyā**tiādīsu ayaṃ purimanayato viseso. Na kevalañhi satisambojjhaṅgādīnaṃ ete vuttappakārāva uppādāya, uppannānaṃ vā bhāvanāya pāripūriyā paccayā honti, aññepi pana evaṃ veditabbā. Aparepi hi cattāro dhammā satisambojjhaṅgassa uppādāya saṃvattanti satisampajaññaṃ muṭṭhassatipuggalaparivajjanatā upaṭṭhitassatipuggalasevanatā tadadhimuttatāti. Abhikkantādīsu hi sattasu ṭhānesu satisampajaññena, bhattanikkhittakākasadise muṭṭhassatipuggale parivajjanena, tissadattattheraabhayattherādisadise upaṭṭhitassatipuggale sevanena, ṭhānanisajjādīsu satisamuṭṭhāpanatthaṃ ninnapoṇapabbhāracittatāya ca satisambojjhaṅgo uppajjati. Evaṃ catūhi kāraṇehi uppannassa panassa arahattamaggena bhāvanāpāripūrī hoti.
+
+> [!abstract]- Tīkā §232
+> [[sn46_tik#§232|Sub-commentary §232]]
 
 Satta dhammā **dhammavicayasambojjhaṅgassa** uppādāya saṃvattanti – paripucchakatā vatthuvisadakiriyā indriyasamattapaṭipādanā duppaññapuggalaparivajjanā paññavantapuggalasevanā gambhīrañāṇacariyapaccavekkhaṇā tadadhimuttatāti. Tattha **paripucchakatā**ti khandhadhātuāyatanaindriyabalabojjhaṅgamaggaṅgajhānaṅgasamathavipassanānaṃ atthasannissitaparipucchābahulatā.
 
@@ -314,7 +413,13 @@ Bāhusaccenapi hi ekaṃ vā…pe… pañca vā nikāye pāḷivasena ca atthava
 
 ### 2. Pariyāyasuttavaṇṇanā
 
+
+### §233
+
 (233) Dutiye **sambahulā**ti vinayapariyāyena tayo janā sambahulāti vuccanti, tato paraṃ saṅgho. Suttantapariyāyena tayo tayo eva, tato uddhaṃ sambahulā. Idha suttantapariyāyena sambahulāti veditabbā. **Piṇḍāya pavisiṃsū**ti piṇḍāya paviṭṭhā. Te pana na tāva paviṭṭhā, ‘‘pavisissāmā’’ti nikkhantattā pana pavisiṃsūti vuttā. Yathā kiṃ? Yathā ‘‘gāmaṃ gamissāmī’’ti nikkhantapuriso taṃ gāmaṃ apattopi ‘‘kahaṃ itthannāmo’’ti vutte ‘‘gāmaṃ gato’’ti vuccati, evaṃ. **Paribbājakānaṃ ārāmo**ti jetavanassa avidūre aññatitthiyānaṃ paribbājakānaṃ ārāmo atthi, taṃ sandhāyetaṃ vuttaṃ. **Samaṇo āvuso**ti āvuso tumhākaṃ satthā samaṇo gotamo.
+
+> [!abstract]- Tīkā §233
+> [[sn46_tik#§233|Sub-commentary §233]]
 
 **Mayampi kho āvuso sāvakānaṃ evaṃ dhammaṃ desemā**ti titthiyānaṃ samaye ‘‘pañca nīvaraṇā pahātabbā, satta bojjhaṅgā bhāvetabbā’’ti etaṃ natthi . Te pana ārāmaṃ gantvā parisapariyante ṭhatvā aññaṃ olokento viya aññavihitakā viya hutvā bhagavato dhammadesanaṃ suṇanti. Tato ‘‘samaṇo gotamo ‘idaṃ pajahatha idaṃ bhāvethā’ti vadatī’’ti sallakkhetvā attano ārāmaṃ gantvā ārāmamajjhe āsanaṃ paññāpetvā upaṭṭhāyakaupaṭṭhāyikāhi parivutā sīsaṃ ukkhipitvā kāyaṃ unnāmetvā attano sayambhūñāṇena paṭividdhākāraṃ dassentā – ‘‘pañca nīvaraṇā nāma pahātabbā, satta bojjhaṅgā nāma bhāvetabbā’’ti kathenti.
 
@@ -332,11 +437,23 @@ Imasmiṃ sutte missakasambojjhaṅgā kathitā. Etesu hi ajjhattadhammesu sati,
 
 ### 3. Aggisuttavaṇṇanā
 
+
+### §234
+
 (234) Tatiye **satiñca khvāhaṃ, bhikkhave, sabbatthikaṃ vadāmī**ti loṇadhūpanaṃ viya sabbakammikāmaccaṃ viya ca sabbattha icchitabbaṃ vadāmīti attho. Yathā hi loṇadhūpanaṃ sabbabyañjanesupi nivisati, yathā ca sabbakammiko amacco yodhakammampi karoti mantakammampi paṭihārakammampīti sabbakiccāni sādheti, evaṃ uddhatassa cittassa niggaṇhanaṃ, līnassa paggaṇhananti sabbametaṃ satiyā ijjhati, na sakkā vinā satiyā etaṃ sampādetuṃ, tasmā evamāha. Imasmiṃ sutte pubbabhāgavipassanā bojjhaṅgāva kathitā.
+
+> [!abstract]- Tīkā §234
+> [[sn46_tik#§234|Sub-commentary §234]]
 
 ### 4. Mettāsahagatasuttavaṇṇanā
 
+
+### §235
+
 (235) Catutthe **mettāsahagatena cetasā**tiādi sabbaṃ sabbākārena visuddhimagge (visuddhi. 1.240-241) vitthāritameva. **Mayampi kho, āvuso, sāvakānaṃ evaṃ dhammaṃ desemā**ti idampi te purimanayeneva satthu dhammadesanaṃ sutvā vadanti. Titthiyānañhi samaye pañcanīvaraṇappahānaṃ vā mettādibrahmavihārabhāvanā vā natthi. **Kiṃ gatikā hotī**ti kiṃ nipphatti hoti. **Kiṃ paramā**ti kiṃ uttamā. **Kiṃ phalā**ti kiṃ ānisaṃsā. **Kiṃ pariyosānā**ti kiṃ niṭṭhā. **Mettāsahagata**nti mettāya sahagataṃ saṃsaṭṭhaṃ sampayuttaṃ. Eseva nayo sabbattha. **Vivekanissitā**dīni vuttatthāneva.
+
+> [!abstract]- Tīkā §235
+> [[sn46_tik#§235|Sub-commentary §235]]
 
 **Appaṭikūla**nti duvidhaṃ appaṭikūlaṃ – sattaappaṭikūlañca, saṅkhāraappaṭikūlañca. Tasmiṃ appaṭikūle iṭṭhe vatthusminti attho. **Paṭikūlasaññī**ti aniṭṭhasaññī. Kathaṃ panettha evaṃ viharati? Asubhapharaṇaṃ vā aniccanti manasikāraṃ vā karonto. Vuttañhetaṃ paṭisambhidāyaṃ ‘‘kathaṃ appaṭikūle paṭikūlasaññī viharati. Iṭṭhasmiṃ vatthusmiṃ asubhāya vā pharati, aniccato vā upasaṃharatī’’ti. Paṭikūle pana aniṭṭhe vatthusmiṃ mettāpharaṇaṃ vā dhātumanasikāraṃ vā karonto **appaṭikūlasaññī viharati** nāma. Yathāha ‘‘kathaṃ paṭikūle appaṭikūlasaññī viharati. Aniṭṭhasmiṃ vatthusmiṃ mettāya vā pharati, dhātuto vā upasaṃharatī’’ti (paṭi. ma. 2.17). Ubhayamissakapadesupi eseva nayo. Appaṭikūlappaṭikūlesu hi tadeva asubhapharaṇaṃ vā aniccanti manasikāraṃ vā karonto **paṭikūlasaññī viharati** nāma. Paṭikūlāpaṭikūlesu ca tadeva mettāpharaṇaṃ vā dhātumanasikāraṃ vā karonto **appaṭikūlasaññī viharati** nāma. ‘‘Cakkhunā rūpaṃ disvā neva sumano hotī’’tiādinā (paṭi. ma. 2.17) nayena vuttaṃ pana chaḷaṅgupekkhaṃ pavattayamāno ‘‘appaṭikūle ca paṭikūle ca tadubhayaṃ abhinivajjetvā upekkhako tattha viharati sato sampajāno’’ti veditabbo.
 
@@ -354,7 +471,13 @@ Upekkhāvihārissa pana ‘‘sattā sukhitā vā hontu, dukkhato vā vimuccantu
 
 ### 5. Saṅgāravasuttavaṇṇanā
 
+
+### §236
+
 (236) Pañcame **pagevā**ti paṭhamaññeva. **Kāmarāgapariyuṭṭhitenā**ti kāmarāgagahitena. **Kāmarāgaparetenā**ti kāmarāgānugatena. **Nissaraṇa**nti tividhaṃ kāmarāgassa nissaraṇaṃ vikkhambhananissaraṇaṃ tadaṅganissaraṇaṃ samucchedanissaraṇanti . Tattha asubhe paṭhamajjhānaṃ vikkhambhananissaraṇaṃ nāma, vipassanā tadaṅganissaraṇaṃ nāma, arahattamaggo samucchedanissaraṇaṃ nāma. Taṃ tividhampi nappajānātīti attho. **Attatthampī**tiādīsu arahattasaṅkhāto attano attho attattho nāma, paccayadāyakānaṃ attho parattho nāma, sveva duvidhopi ubhayattho nāma. Iminā nayena sabbavāresu attho veditabbo.
+
+> [!abstract]- Tīkā §236
+> [[sn46_tik#§236|Sub-commentary §236]]
 
 Ayaṃ pana viseso – **byāpādassa nissaraṇa**ntiādīsu hi dveva nissaraṇāni vikkhambhananissaraṇañca samucchedanissaraṇañca. Tattha byāpādassa tāva mettāya paṭhamajjhānaṃ vikkhambhananissaraṇaṃ, anāgāmimaggo samucchedanissaraṇaṃ. Thinamiddhassa ālokasaññā vikkhambhananissaraṇaṃ, arahattamaggo samucchedanissaraṇaṃ. Uddhaccakukkuccassa yo koci samatho vikkhambhananissaraṇaṃ, uddhaccassa panettha arahattamaggo, kukkuccassa anāgāmimaggo samucchedanissaraṇaṃ. Vicikicchāya dhammavavatthānaṃ vikkhambhananissaraṇaṃ, paṭhamamaggo samucchedanissaraṇaṃ.
 
@@ -362,13 +485,25 @@ Yā panettha **seyyathāpi brāhmaṇa udapatto saṃsaṭṭho lākhāya vā**t
 
 ### 6. Abhayasuttavaṇṇanā
 
+
+### §237
+
 (237) Chaṭṭhe **aññāṇāya adassanāyā**ti aññāṇatthāya adassanatthāya. **Taggha bhagavā nīvaraṇā**ti ekaṃsena bhagavā nīvaraṇā. **Kāyakilamatho**ti kāyadaratho. **Cittakilamatho**ti cittadaratho. **Sopi me paṭippassaddho**ti tassa kira satthu santike sītalaṃ utusappāyaṭṭhānaṃ pavisitvā nisinnassa kāyadaratho paṭipassambhi, tasmiṃ paṭipassaddhe tadanvayeneva cittadarathopi. Apica maggenevassa etaṃ ubhayampi passaddhanti veditabbaṃ.
+
+> [!abstract]- Tīkā §237
+> [[sn46_tik#§237|Sub-commentary §237]]
 
 ## 7. Ānāpānavaggo
 
 ### 1. Aṭṭhikamahapphalasuttādivaṇṇanā
 
+
+### §238
+
 (238) Sattamādīsu **aṭṭhikasaññā**ti aṭṭhikaṃ aṭṭhikanti bhāventassa uppannasaññā. Taṃ panetaṃ bhāvayato yāva nimittaṃ na uppajjati, tāva chavipi cammampi upaṭṭhāti. Nimitte pana uppanne chavicammāni neva upaṭṭhahanti, saṅkhavaṇṇo suddhaaṭṭhikasaṅghāṭova upaṭṭhāti hatthikkhandhagataṃ dhammikatissarājānaṃ olokentassa sāmaṇerassa viya, paṭimagge hasamānaṃ itthiṃ olokentassa cetiyapabbatavāsino tissattherassa viya cāti. Vatthūni visuddhimagge (visuddhi. 1.15) vitthāritāni. **Sati vā upādisese**ti gahaṇasese upādānasese vijjamānamhi.
+
+> [!abstract]- Tīkā §238
+> [[sn46_tik#§238|Sub-commentary §238]]
 
 2-10. Puḷavakasuttādivaṇṇanā
 

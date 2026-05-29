@@ -37,5 +37,5 @@ category: list_note
 * [[an4_41|AN 4.41: Samādhibhāvanāsutta]] — the third mode of samādhi development (sati-sampajañña) directly implements the four foundations; mindfulness and awareness as the path to knowing arising and passing away of feelings
 * [[dhp_02_appamadavagga|Dhp Ch. 2: Appamādavagga (Heedfulness)]] — "appamādo amatapadaṁ" (v. 21): heedfulness is the path to the deathless; the entire chapter equates appamāda with sati-practice and its abandonment with the death of insight
 * [[an10_60|AN 10.60: Girimānandasutta]] — includes mindfulness of breathing (ānāpānasati) as one of the ten healing perceptions, which fulfills the four foundations of mindfulness, alongside body contemplation (asubha-saññā) and element analysis (dhātupatikkūla-saññā).
-* [[snp1.11|Snp 1.11: Vijayasutta]] — a poetic contemplation of the anatomy and impurity of the human body (*asubha*), falling under the first foundation (*kāyānupassanā*).
+* [[snp1_11|Snp 1.11: Vijayasutta]] — a poetic contemplation of the anatomy and impurity of the human body (*asubha*), falling under the first foundation (*kāyānupassanā*).
 * [[dn16|DN 16: Mahāparinibbānasutta]] — the Buddha's final discourses repeatedly urge the bhikkhus to dwell diligent in the four satipaṭṭhānā; these are declared the bhikkhus' own island and refuge after the Tathāgata's parinibbāna.

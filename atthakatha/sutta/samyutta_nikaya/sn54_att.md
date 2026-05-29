@@ -32,25 +32,52 @@ source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
 
 ### 1. Ekadhammasuttavaṇṇanā
 
+
+### §977
+
 (977) Ānāpānasaṃyuttassa paṭhame **ekadhammo**ti eko dhammo. Sesamettha yaṃ vattabbaṃ siyā, taṃ sabbaṃ sabbākārena visuddhimagge (visuddhi. 1.215) ānāpānassatikammaṭṭhānaniddese vuttameva.
+
+> [!abstract]- Tīkā §977
+> [[sn54_tik#§977|Sub-commentary §977]]
 
 ### 6. Ariṭṭhasuttavaṇṇanā
 
+
+### §982
+
 (982) Chaṭṭhe **bhāvetha no**ti bhāvetha nu. **Kāmacchando**ti pañcakāmaguṇikarāgo. **Ajjhattaṃ bahiddhā ca dhammesū**ti ajjhattikabāhiresu dvādasasu āyatanadhammesu . **Paṭighasaññā suppaṭivinītā**ti paṭighasampayuttasaññā suṭṭhu paṭivinītā, samucchinnāti attho. Iminā attano anāgāmimaggaṃ katheti. Idāni arahattamaggassa vipassanaṃ dassento **so satova assasissāmī**tiādimāha.
 
+> [!abstract]- Tīkā §982
+> [[sn54_tik#§982|Sub-commentary §982]]
+
 ### 7. Mahākappinasuttavaṇṇanā
+
+
+### §983
 
 (983) Sattame **iñjitattaṃ vā phanditattaṃ vā**ti ubhayenapi calanameva kathitaṃ.
 
 ### 8. Padīpopamasuttavaṇṇanā
 
+
+### §984
+
 (984) Aṭṭhame **neva kāyopi kilamati na cakkhūnī**ti aññesu hi kammaṭṭhānesu kammaṃ karontassa kāyopi kilamati, cakkhūnipi vihaññanti. Dhātukammaṭṭhānasmiñhi kammaṃ karontassa kāyo kilamati, yante pakkhipitvā pīḷanākārappatto viya hoti. Kasiṇakammaṭṭhāne kammaṃ karontassa cakkhūni phandanti kilamanti, nikkhamitvā patanākārappattāni viya honti. Imasmiṃ pana kammaṭṭhāne kammaṃ karontassa neva kāyo kilamati, na akkhīni vihaññanti. Tasmā evamāha.
+
+> [!abstract]- Tīkā §984
+> [[sn54_tik#§984|Sub-commentary §984]]
 
 **Sabbaso****rūpasaññāna**ntiādi kasmā vuttaṃ, kiṃ ānāpāne kasiṇugghāṭanaṃ labbhatīti? Tipiṭakacūḷābhayatthero panāha – ‘‘yasmā ānāpānanimittaṃ tārakarūpamuttāvalikādisadisaṃ hutvā paññāyati, tasmā tattha kasiṇugghāṭanaṃ labbhatī’’ti. Tipiṭakacūḷanāgatthero ‘‘na labbhatevā’’ti āha. Alabbhante ayaṃ ariyiddhiādiko pabhedo kasmā gahitoti? Ānisaṃsadassanatthaṃ. Ariyaṃ vā hi iddhiṃ cattāri vā rūpāvacarajjhānāni catasso vā arūpasamāpattiyo nirodhasamāpattiṃ vā patthayamānena bhikkhunā ayaṃ ānāpānassatisamādhi sādhukaṃ manasikātabbo. Yathā hi nagare laddhe yaṃ catūsu disāsu uṭṭhānakabhaṇḍaṃ, taṃ catūhi dvārehi nagarameva pavisatīti, janapado laddho ca hoti. Nagarasseva heso ānisaṃso. Evaṃ ānāpānassatisamādhibhāvanāya ānisaṃso esa ariyiddhiādiko pabhedo, sabbākārena bhāvite ānāpānassatisamādhismiṃ sabbametaṃ yogino nipphajjatīti ānisaṃsadassanatthaṃ vuttaṃ. **Sukhañce**ti ettha soti kasmā na vuttaṃ? Yasmā bhikkhūti imasmiṃ vāre nāgataṃ.
 
 ### 9. Vesālīsuttavaṇṇanā
 
+
+### §985
+
 (985) Navame **vesāliya**nti evaṃnāmake itthiliṅgavasena pavattavohāre nagare. Tañhi nagaraṃ tikkhattuṃ pākāraparikkhepavaḍḍhanena visālībhūtattā vesālīti vuccati. Idampi ca nagaraṃ sabbaññutaṃ patteyeva sammāsambuddhe sabbākāravepullataṃ pattanti veditabbaṃ. Evaṃ gocaragāmaṃ dassetvā nivāsaṭṭhānamāha **mahāvane kūṭāgārasālāya**nti. Tattha mahāvanaṃ nāma sayaṃjātaṃ aropimaṃ saparicchedaṃ mahantaṃ vanaṃ. Kapilavatthusāmantā pana mahāvanaṃ himavantena saha ekābaddhaṃ aparicchedaṃ hutvā mahāsamuddaṃ āhacca ṭhitaṃ. Idaṃ tādisaṃ na hoti, saparicchedaṃ mahantaṃ vananti **mahāvanaṃ**. Kūṭāgārasālā pana mahāvanaṃ nissāya kate ārāme kūṭāgāraṃ antokatvā haṃsavaṭṭakacchannena katā sabbākārasampannā buddhassa bhagavato gandhakuṭīti veditabbā.
+
+> [!abstract]- Tīkā §985
+> [[sn54_tik#§985|Sub-commentary §985]]
 
 **Anekapariyāyena asubhakathaṃ kathetī**ti anekehi kāraṇehi asubhākārasandassanappavattaṃ kāyavicchandanīyakathaṃ katheti. Seyyathidaṃ – atthi imasmiṃ kāye kesā lomā nakhā dantā…pe… muttanti. Kiṃ vuttaṃ hoti? Bhikkhave, imasmiṃ byāmamatte kaḷevare sabbākārenapi vicinanto na koci kiñci muttaṃ vā maṇiṃ vā veḷuriyaṃ vā agaruṃ vā candanaṃ vā kuṅkumaṃ vā kappuraṃ vā vāsacuṇṇādiṃ vā aṇumattampi sucibhāvaṃ passati, atha kho paramaduggandhaṃ jegucchaassirikadassanaṃ kesalomādinānappakāraṃ asucimeva passati, tasmā na ettha chando vā rāgo vā karaṇīyo. Yepi uttamaṅge sirasi jātā kesā nāma, tepi asubhā ceva asucino ca paṭikūlā ca. So ca nesaṃ asubhāsucipaṭikūlabhāvo vaṇṇatopi saṇṭhānatopi gandhatopi āsayatopi okāsatopīti pañcahākārehi veditabbo. Evaṃ lomādīnampīti ayamettha saṅkhepo, vitthāro pana visuddhimagge (visuddhi. 1.307) vuttanayeneva veditabbo. Iti bhagavā ekamekasmiṃ koṭṭhāse pañcapañcappabhedena anekapariyāyena asubhakathaṃ katheti.
 
@@ -80,7 +107,13 @@ Atha kho bhagavā bhikkhū āmantesi, **ayampi kho, bhikkhave**ti. Āmantetvā c
 
 ### 10. Kimilasuttavaṇṇanā
 
+
+### §986
+
 (986) Dasame **kimilāya**nti evaṃnāmake nagare. **Etadavocā**ti thero kira cintesi – ‘‘ayaṃ desanā na yathānusandhikā katā, yathānusandhiṃ gamessāmī’’ti desanānusandhiṃ ghaṭento etaṃ avoca. **Kāyaññatara**nti pathavīādīsu kāyesu aññataraṃ vadāmi vāyokāyaṃ vadāmīti attho. Atha vā cakkhāyatanaṃ…pe… kabaḷīkāro āhāroti pañcavīsati rūpakoṭṭhāsā rūpakāyo nāma, tesu ānāpānaṃ phoṭṭhabbāyatane saṅgahitattā kāyaññataraṃ hoti, tasmāpi evamāha. **Tasmātihā**ti yasmā catūsu kāyesu aññataraṃ vāyokāyaṃ, pañcavīsati koṭṭhāse vā rūpakāye aññataraṃ ānāpānaṃ anupassati, tasmā kāye kāyānupassīti attho. Evaṃ sabbattha attho veditabbo. **Vedanāññatara**nti tīsu vedanāsu aññataraṃ, sukhavedanaṃ sandhāyetaṃ vuttaṃ.
+
+> [!abstract]- Tīkā §986
+> [[sn54_tik#§986|Sub-commentary §986]]
 
 **Sādhukaṃ manasikāra**nti pītipaṭisaṃveditādivasena uppannaṃ sundaraṃ manasikāraṃ. Kiṃ pana manasikāro sukhā vedanā hotīti? Na hoti, desanāsīsaṃ panetaṃ. Yatheva hi ‘‘aniccasaññābhāvanānuyogamanuyuttā’’ti (ma. ni. 3.147) ettha saññānāmena paññā vuttā, evamidhāpi manasikāranāmena jhānavedanā vuttāti veditabbā. Etasmiñhi catukke paṭhamapade pītisīsena vedanā vuttā, dutiyapade sukhanti sarūpeneva vuttā. Cittasaṅkhārapadadvaye ‘‘saññā ca vedanā ca cetasikā ete dhammā cittappaṭibaddhā cittasaṅkhārā’’ti (paṭi. ma. 1.174) vacanato ‘‘vitakkavicāre ṭhapetvā sabbepi cittasampayuttakā dhammā cittasaṅkhāre saṅgahitā’’ti vacanato cittasaṅkhāranāmena vedanā vuttā. Taṃ sabbaṃ manasikāranāmena saṅgahetvā idha ‘‘sādhukaṃ manasikāra’’nti āha.
 

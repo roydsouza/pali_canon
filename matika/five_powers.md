@@ -47,5 +47,5 @@ In the canonical texts (e.g., SN 48.43), the Buddha explains that the Five Spiri
 ## Canonical References
 * [[sn48|SN 48: Indriyasaṃyutta]] — SN 48.43 (Sāriputtasutta) clarifies the relationship between the faculties and the powers, stating they are the same set of qualities; SN 48.9–10 define the individual elements in detail.
 * [[an5_28|AN 5.28: Pañcaṅgikasutta]] — outlines five-factor concentration as the basis for mental stability and power over the hindrances.
-* [[snp1.4|Snp 1.4: Kasībhāradvājasutta]] — uses the farming metaphor where faith is the seed, wisdom is the plow, and energy is the draft ox, illustrating these qualities as active forces/powers in practice.
-* [[snp1.10|Snp 1.10: Āḷavakasutta]] — discusses how faith (*saddhā*), wisdom (*paññā*), and effort (*viriya*) act as the primary powers to cross the flood of saṃsāra.
+* [[snp1_4|Snp 1.4: Kasībhāradvājasutta]] — uses the farming metaphor where faith is the seed, wisdom is the plow, and energy is the draft ox, illustrating these qualities as active forces/powers in practice.
+* [[snp1_10|Snp 1.10: Āḷavakasutta]] — discusses how faith (*saddhā*), wisdom (*paññā*), and effort (*viriya*) act as the primary powers to cross the flood of saṃsāra.

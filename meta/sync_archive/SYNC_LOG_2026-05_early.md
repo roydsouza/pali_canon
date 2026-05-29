@@ -185,11 +185,11 @@
 - **Mūla**: Generated 10 new suttas under `mula/sutta/khuddaka_nikaya/sutta_nipata/` (Snp 1.1, Snp 1.2, Snp 1.4, Snp 1.5, Snp 1.6, Snp 1.7, Snp 1.9, Snp 1.10, Snp 1.11, Snp 1.12), each with interleaved Pali/English (Sujato) and collapsible callouts linking to commentary paragraphs. Sutta Nipāta Chapter 1 (Uragavagga) is now 100% complete (12 suttas total, 244 verses).
 - **Atthakathā**: Generated 10 new commentary files under `atthakatha/sutta/khuddaka_nikaya/sutta_nipata/` (Paramatthajotikā II) with CSCD Pali commentary text and paragraph-level back-links to Mūla verses (957 paragraphs total).
 - **Mātikā Integration**:
-  - Linked `[[snp1.1|Snp 1.1: Uragasutta]]` in [[three_unwholesome_roots]] and [[ten_fetters]].
-  - Linked `[[snp1.4|Snp 1.4: Kasībhāradvājasutta]]` and `[[snp1.10|Snp 1.10: Āḷavakasutta]]` in [[five_spiritual_faculties]].
-  - Linked `[[snp1.6|Snp 1.6: Parābhavasutta]]` and `[[snp1.7|Snp 1.7: Vasalasutta]]` in [[five_precepts]].
-  - Linked `[[snp1.11|Snp 1.11: Vijayasutta]]` in [[four_foundations_of_mindfulness]] (body contemplation / asubha).
-  - Linked `[[snp1.12|Snp 1.12: Munisutta]]` in [[five_hindrances]].
+  - Linked `[[snp1_1|Snp 1.1: Uragasutta]]` in [[three_unwholesome_roots]] and [[ten_fetters]].
+  - Linked `[[snp1_4|Snp 1.4: Kasībhāradvājasutta]]` and `[[snp1_10|Snp 1.10: Āḷavakasutta]]` in [[five_spiritual_faculties]].
+  - Linked `[[snp1_6|Snp 1.6: Parābhavasutta]]` and `[[snp1_7|Snp 1.7: Vasalasutta]]` in [[five_precepts]].
+  - Linked `[[snp1_11|Snp 1.11: Vijayasutta]]` in [[four_foundations_of_mindfulness]] (body contemplation / asubha).
+  - Linked `[[snp1_12|Snp 1.12: Munisutta]]` in [[five_hindrances]].
 - **Index Integration**:
   - Rebuilt Sutta Nipāta index tables in Mūla and Atthakathā layers.
   - Updated parent indexes under Khuddaka Nikāya.
@@ -261,9 +261,9 @@
 - **Atthakathā**: Generated `snp1.3_att.md` (165,616 bytes) and `snp1.8_att.md` (38,016 bytes) under `atthakatha/sutta/khuddaka_nikaya/sutta_nipata/` with CSCD Pali commentary text.
 - **Ṭīkā**: Explicitly marked as "(No Ṭīkā available)" in vault files and status catalogs, as Sutta Nipāta does not have a Ṭīkā layer.
 - **Mātikā Integration**:
-  - Linked `[[snp1.8|Snp 1.8: Mettasutta]]` under Canonical References in [[four_sublime_states]].
-  - Linked `[[snp1.3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[five_hindrances]].
-  - Linked `[[snp1.3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[three_marks]].
+  - Linked `[[snp1_8|Snp 1.8: Mettasutta]]` under Canonical References in [[four_sublime_states]].
+  - Linked `[[snp1_3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[five_hindrances]].
+  - Linked `[[snp1_3|Snp 1.3: Khaggavisāṇasutta]]` under Canonical References in [[three_marks]].
 - **Targeted Cross-linking**:
   - Implemented Obsidian collapsible callout panels in Mūla files pointing to specific commentary paragraph anchors.
   - Added bidirectional navigation links and `### §NNN` paragraph headers in the Atthakathā files pointing back to Mūla verses.

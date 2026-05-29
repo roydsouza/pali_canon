@@ -1,5 +1,27 @@
 # Sync Log
 
+## [2026-05-28 08:37:00-07:00 — Completion of Phase 15 Hygiene, Consistency & Backfill (Antigravity)]
+
+### Accomplishments
+
+**Batch 1 — Dotted Filename Refactor**
+- **Dotted Filename Refactor**: Successfully renamed 422 dotted files (e.g., `snp1.1.md` -> `snp1_1.md`) across the Sutta Nipāta, Theragāthā, and Therīgāthā in Mūla and Atthakathā layers.
+- **Link Rewriter**: Modified `scratch/refactor/rename_dotted.py` to support path-based wikilinks (e.g. target containing slashes) and backslash-escaped pipes `\|` inside markdown tables. Ran refactoring script to successfully update references in `paritta/INDEX.md` and `practice/memorization_log.md` which corrected the remaining 10 broken links.
+
+**Batch 2 — Frontmatter Schema Validation & AN Chunking Alignment**
+- **Frontmatter Schema Linter**: Created the standalone validation script `scratch/inspect/lint_frontmatter.py` to check YAML metadata constraints by file type.
+- **AN Chunking Reciprocal Validation**: Configured `covers` lists on grouped AN commentary and sub-commentary files (`an11_3_5_att`, `an11_2_5_tik`) and updated covered Mūla files with reciprocal `commentary_file`/`sub_commentary_file` fields.
+- **Integration**: Integrated linter checks directly into `scratch/validate_links.py` and added the `TestFrontmatterLinter` test suite inside `scratch/tests/run_all_tests.py`.
+
+**Batch 3 — Paragraph-Level Cross-Linking Backfill (Phase 19)**
+- **Backfill Coordination**: Created `scratch/refactor/run_backfill.py` to run paragraph alignment on MN 36, DN 22, and the SN saṃyuttas (SN 12, 22, 35, 46, 54, 56).
+- **Correctness Fix**: Modified `scratch/crosslinkers/crosslink_generic.py` to verify paragraph existence in Tīkā files before injecting headings and links, resolving all 23 broken link errors from missing Tīkā paragraphs.
+
+### Health Baseline
+- **Validator**: 1,162 files / 14,136 wikilinks / **0 errors** ✅
+- **Unit tests**: 10/10 pass ✅
+- **Git**: Clean state (re-run validate_links and run_all_tests prior to completion).
+
 ## [2026-05-28 07:25:00-07:00 — Execution of Urgent Handoff Cleanups (Antigravity)]
 
 ### Accomplishments

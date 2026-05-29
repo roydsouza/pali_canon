@@ -26,7 +26,7 @@ Welcome to the practice-oriented reading paths of the Pali Canon Vault. These pa
 
 ### 3. [[brahmavihara_cultivation|Brahmavihāra (Sublime States)]]
 *Cultivating loving-kindness, compassion, appreciative joy, and equanimity.*
-*   **Core Texts**: [[mn7|MN 7]], [[dn13|DN 13]], [[an11_15|AN 11.15]], [[an4_123_126|AN 4.125–126]], [[sn46|SN 46.54]], [[snp1.8|Snp 1.8]].
+*   **Core Texts**: [[mn7|MN 7]], [[dn13|DN 13]], [[an11_15|AN 11.15]], [[an4_123_126|AN 4.125–126]], [[sn46|SN 46.54]], [[snp1_8|Snp 1.8]].
 *   **Path**: [[brahmavihara_cultivation|Brahmavihāra Cultivation Path]]
 
 ### 4. [[anussati_practice|Anussati (Recollections)]]
@@ -46,5 +46,5 @@ Welcome to the practice-oriented reading paths of the Pali Canon Vault. These pa
 
 ### 7. [[paritta/INDEX|Paritta (Protective Chanting)]]
 *Recitation order and collection of protective suttas used in the Theravāda tradition.*
-*   **Core Texts**: [[snp1.8|Snp 1.8 (Metta)]], [[snp2.1|Snp 2.1 (Ratana)]], [[snp2.4|Snp 2.4 (Maṅgala)]], [[an4_67|AN 4.67 (Ahi)]].
+*   **Core Texts**: [[snp1_8|Snp 1.8 (Metta)]], [[snp2_1|Snp 2.1 (Ratana)]], [[snp2_4|Snp 2.4 (Maṅgala)]], [[an4_67|AN 4.67 (Ahi)]].
 *   **Index**: [[paritta/INDEX|Paritta Index]]

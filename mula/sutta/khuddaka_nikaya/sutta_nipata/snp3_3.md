@@ -1,0 +1,147 @@
+---
+id: SNP3
+title_pali: Subhāsitasutta
+title_en: Well-Spoken Words
+type: mula
+pitaka: sutta
+nikaya: khuddaka
+sutta_number: 3
+translator: Bhikkhu Sujato
+source: "https://suttacentral.net"
+commentary_file: /atthakatha/sutta/khuddaka_nikaya/sutta_nipata/snp3_3_att.md
+subcollection: sutta_nipata
+tags:
+  - monastic
+  - going_forth
+  - path
+---
+
+# Khuddaka Nikāya: Sutta Nipāta
+
+**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]
+**Related Texts**: [[snp3_3_att|Commentary (Atthakathā)]] | (No Ṭīkā available)
+**Mātikā**: [[noble_eightfold_path|Noble Eightfold Path]]
+
+## SNP3.3: Subhāsitasutta — *Well-Spoken Words*
+
+### Section 1
+
+**Evaṁ me sutaṁ—**  
+*So I have heard.*
+**eka samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.**  
+*At one time the Buddha was staying near Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s monastery.*
+**Tatra kho bhagavā bhikkhū āmantesi:**  
+*There the Buddha addressed the mendicants,*
+**“bhikkhavo”ti.**  
+*“Mendicants!”*
+**“Bhadante”ti te bhikkhū bhagavato paccassosuṁ.**  
+*“Venerable sir,” they replied.*
+**Bhagavā etadavoca:**  
+*The Buddha said this:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 2
+
+**“Catūhi, bhikkhave, aṅgehi samannāgatā vācā subhāsitā hoti, na dubbhāsitā, anavajjā ca ananuvajjā ca viññūnaṁ.**  
+*“Mendicants, speech that has four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people.*
+**Katamehi catūhi?**  
+*What four?*
+**Idha, bhikkhave, bhikkhu subhāsitaṁyeva bhāsati no dubbhāsitaṁ, dhammaṁyeva bhāsati no adhammaṁ, piyaṁyeva bhāsati no appiyaṁ, saccaṁyeva bhāsati no alikaṁ.**  
+*It’s when a mendicant speaks well, not poorly; their speech is principled, not unprincipled; they speak pleasantly, not unpleasantly; and they speak truthfully, not falsely.*
+**Imehi kho, bhikkhave, catūhi aṅgehi samannāgatā vācā subhāsitā hoti, no dubbhāsitā, anavajjā ca ananuvajjā ca viññūnan”ti.**  
+*Speech with these four factors is well spoken, not poorly spoken. It’s blameless and is not criticized by sensible people.”*
+**Idamavoca bhagavā.**  
+*That is what the Buddha said.*
+**Idaṁ vatvāna sugato, athāparaṁ etadavoca satthā:**  
+*Then the Holy One, the Teacher, went on to say:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 3
+
+**“Subhāsitaṁ uttamamāhu santo,**  
+*“Good people say well-spoken words are foremost;*
+**Dhammaṁ bhaṇe nādhammaṁ taṁ dutiyaṁ;**  
+*second, speech ought be principled, not unprincipled;*
+**Piyaṁ bhaṇe nāppiyaṁ taṁ tatiyaṁ,**  
+*third, speak pleasantly, not unpleasantly;*
+**Saccaṁ bhaṇe nālikaṁ taṁ catutthan”ti.**  
+*and fourth, speak truthfully, not falsely.”*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 4
+
+**Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca:**  
+*Then Venerable Vaṅgīsa got up from his seat, arranged his robe over one shoulder, raised his cupped palms toward the Buddha, and said,*
+**“paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā”ti.**  
+*“I feel inspired to speak, Blessed One! I feel inspired to speak, Holy One!”*
+**“Paṭibhātu taṁ, vaṅgīsā”ti bhagavā avoca.**  
+*“Then speak as you feel inspired,” said the Buddha.*
+**Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:**  
+*Then Vaṅgīsa extolled the Buddha in his presence with fitting verses:*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 5
+
+**“Tameva vācaṁ bhāseyya,**  
+*“Speak only such words*
+**yāyattānaṁ na tāpaye;**  
+*that do not hurt yourself*
+**Pare ca na vihiṁseyya,**  
+*nor harm others;*
+**sā ve vācā subhāsitā.**  
+*such speech is truly well spoken.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 6
+
+**Piyavācameva bhāseyya,**  
+*Speak only pleasing words,*
+**yā vācā paṭinanditā;**  
+*words gladly welcomed.*
+**Yaṁ anādāya pāpāni,**  
+*Pleasing words are those*
+**paresaṁ bhāsate piyaṁ.**  
+*that bring nothing bad to others.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 7
+
+**Saccaṁ ve amatā vācā,**  
+*Truth itself is undying speech:*
+**esa dhammo sanantano;**  
+*this is an ancient teaching.*
+**Sacce atthe ca dhamme ca,**  
+*Good people say the teaching and meaning*
+**āhu santo patiṭṭhitā.**  
+*are grounded in truth.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+
+### Section 8
+
+**Yaṁ buddho bhāsati vācaṁ,**  
+*The words spoken by the Buddha*
+**Khemaṁ nibbānapattiyā;**  
+*for finding the sanctuary, extinguishment,*
+**Dukkhassantakiriyāya,**  
+*for making an end of suffering,*
+**Sā ve vācānamuttamā”ti.**  
+*this really is the best kind of speech.”*
+*Subhāsitasuttaṁ tatiyaṁ.*
+
+> [!info]- Related Commentary
+> - **Commentary (Atthakathā)**: [[snp3_3_att|Commentary]]
+

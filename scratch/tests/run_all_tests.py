@@ -81,5 +81,22 @@ Some body content here
         self.assertEqual(paras[0], ("subhead", "1", "**Header Title**"))
         self.assertEqual(paras[1], ("body", "", "Normal paragraph text & more."))
 
+class TestFrontmatterLinter(unittest.TestCase):
+    def test_frontmatter_and_covers(self):
+        # Configure path and import
+        inspect_dir = os.path.join(SCRATCH_DIR, "inspect")
+        if inspect_dir not in sys.path:
+            sys.path.insert(0, inspect_dir)
+        from lint_frontmatter import lint_all
+        
+        vault_dir = get_vault_path()
+        errors = lint_all(vault_dir)
+        
+        if errors:
+            for err in errors:
+                print(f"\nLinter Error: [{err['file']}] {err['error']}", file=sys.stderr)
+                
+        self.assertEqual(len(errors), 0, f"Frontmatter linter found {len(errors)} errors.")
+
 if __name__ == "__main__":
     unittest.main()

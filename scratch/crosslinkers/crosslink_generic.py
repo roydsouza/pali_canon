@@ -59,7 +59,7 @@ def get_basenames(mula_path, att_path, tik_path):
     tik_base = os.path.basename(tik_path).replace(".md", "") if tik_path else ""
     return mula_base, att_base, tik_base
 
-def crosslink_att_tik(att_path, tik_path, para_numbers, att_base, tik_base):
+def crosslink_att_tik(att_path, tik_path, para_numbers, att_base, tik_base, tik_paras=None):
     """Ensures ### §NNN headings exist in Att and Tik, and Att links to Tik."""
     if not att_path or not os.path.exists(att_path):
         return
@@ -67,54 +67,80 @@ def crosslink_att_tik(att_path, tik_path, para_numbers, att_base, tik_base):
     with open(att_path, "r", encoding="utf-8") as f:
         att_content = f.read()
         
-    # Idempotency check: if headings already present, skip header injection
+    att_lines = att_content.splitlines(keepends=True)
     att_modified = False
-    if "### §" not in att_content:
-        print(f"Injecting headings and Tīkā links into {att_base}...")
-        att_lines = att_content.splitlines(keepends=True)
-        # Find paragraphs starting with (NNN)
-        for para_num in sorted(para_numbers):
-            para_marker = f"({para_num})"
-            for idx, line in enumerate(att_lines):
-                if line.lstrip().startswith(para_marker):
-                    # Insert heading before this line
+    
+    # Process each paragraph
+    for para_num in sorted(para_numbers):
+        para_marker = f"({para_num})"
+        heading_marker = f"### §{para_num}"
+        has_tik_para = tik_paras is not None and para_num in tik_paras
+        
+        # Check if the Tīkā link callout is already there
+        has_link = tik_base and f"[[{tik_base}#§{para_num}" in att_content
+        
+        # We search for the paragraph line
+        for idx, line in enumerate(att_lines):
+            if line.lstrip().startswith(para_marker):
+                # 1. Insert heading if not present
+                if heading_marker not in att_content:
                     heading = f"\n### §{para_num}\n\n"
                     att_lines.insert(idx, heading)
                     att_modified = True
-                    # Insert Tīkā callout link after this paragraph block
-                    # We find the end of this paragraph
-                    if tik_base:
-                        tik_link = (
-                            f"\n> [!abstract]- Tīkā §{para_num}\n"
-                            f"> [[{tik_base}#§{para_num}|Sub-commentary §{para_num}]]\n"
-                        )
-                        # Insert right after the paragraph line
-                        att_lines.insert(idx + 2, tik_link)
-                    break
-        if att_modified:
-            with open(att_path, "w", encoding="utf-8") as f:
-                f.writelines(att_lines)
-            print(f"Updated {att_base} with paragraph links.")
-            
+                    # Re-serialize to update indices
+                    att_content = "".join(att_lines)
+                    att_lines = att_content.splitlines(keepends=True)
+                    # Find the paragraph line index again since we modified the list
+                    for new_idx, new_line in enumerate(att_lines):
+                        if new_line.lstrip().startswith(para_marker):
+                            idx = new_idx
+                            break
+                
+                # 2. Insert Tīkā callout if needed and not present
+                if tik_base and has_tik_para and not has_link:
+                    tik_link = (
+                        f"\n> [!abstract]- Tīkā §{para_num}\n"
+                        f"> [[{tik_base}#§{para_num}|Sub-commentary §{para_num}]]\n"
+                    )
+                    # Insert right after the paragraph line
+                    att_lines.insert(idx + 1, tik_link)
+                    att_modified = True
+                    att_content = "".join(att_lines)
+                    att_lines = att_content.splitlines(keepends=True)
+                break
+                
+    if att_modified:
+        with open(att_path, "w", encoding="utf-8") as f:
+            f.write(att_content)
+        print(f"Updated {att_base} with paragraph links/headings.")
+        
     if tik_path and os.path.exists(tik_path):
         with open(tik_path, "r", encoding="utf-8") as f:
             tik_content = f.read()
             
-        if "### §" not in tik_content:
-            print(f"Injecting headings into {tik_base}...")
-            tik_lines = tik_content.splitlines(keepends=True)
-            for para_num in sorted(para_numbers):
-                para_marker = f"({para_num})"
+        tik_lines = tik_content.splitlines(keepends=True)
+        tik_modified = False
+        
+        for para_num in sorted(para_numbers):
+            para_marker = f"({para_num})"
+            heading_marker = f"### §{para_num}"
+            
+            if heading_marker not in tik_content:
                 for idx, line in enumerate(tik_lines):
                     if line.lstrip().startswith(para_marker):
                         heading = f"\n### §{para_num}\n\n"
                         tik_lines.insert(idx, heading)
+                        tik_modified = True
+                        tik_content = "".join(tik_lines)
+                        tik_lines = tik_content.splitlines(keepends=True)
                         break
+                        
+        if tik_modified:
             with open(tik_path, "w", encoding="utf-8") as f:
-                f.writelines(tik_lines)
+                f.write(tik_content)
             print(f"Updated {tik_base} with paragraph headings.")
 
-def crosslink_mula(mula_path, att_anchors, att_base, tik_base):
+def crosslink_mula(mula_path, att_anchors, att_base, tik_base, tik_paras=None):
     """Search for anchors in Mula and insert collapsed commentary callout boxes."""
     if not os.path.exists(mula_path):
         print(f"Mula file not found: {mula_path}")
@@ -153,7 +179,9 @@ def crosslink_mula(mula_path, att_anchors, att_base, tik_base):
                 f"\n> [!info]- Commentary §{para_num}\n"
                 f"> **Atthakathā**: [[{att_base}#§{para_num}|Commentary §{para_num}]]"
             )
-            if tik_base:
+            # Only include Tīkā link if the paragraph exists in Tīkā
+            has_tik_para = tik_paras is not None and para_num in tik_paras
+            if tik_base and has_tik_para:
                 callout += f"  ·  **Tīkā**: [[{tik_base}#§{para_num}|Sub-commentary §{para_num}]]"
             callout += "\n\n"
             
@@ -208,13 +236,22 @@ def main():
         
     print(f"Found {len(att_anchors)} paragraph anchors in Atthakathā.")
     
+    # Parse available paragraph numbers from Tīkā
+    tik_paras = set()
+    if tik_path and os.path.exists(tik_path):
+        with open(tik_path, "r", encoding="utf-8") as f:
+            tik_content = f.read()
+        for m in re.finditer(r'^\s*\((\d+)\)', tik_content, re.MULTILINE):
+            tik_paras.add(int(m.group(1)))
+        print(f"Found {len(tik_paras)} paragraph anchors in Tīkā.")
+        
     mula_base, att_base, tik_base = get_basenames(mula_path, att_path, tik_path)
     
     # Establish Att + Tik cross-links and headings
-    crosslink_att_tik(att_path, tik_path, att_anchors.keys(), att_base, tik_base)
+    crosslink_att_tik(att_path, tik_path, att_anchors.keys(), att_base, tik_base, tik_paras)
     
     # Establish Mula cross-links
-    crosslink_mula(mula_path, att_anchors, att_base, tik_base)
+    crosslink_mula(mula_path, att_anchors, att_base, tik_base, tik_paras)
     
     print("Cross-linking process completed successfully.")
 

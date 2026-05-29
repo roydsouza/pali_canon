@@ -10,6 +10,10 @@ sutta: an11.3
 layer: atthakatha
 tika_file: [[an11_2_5_tik]]
 source_pali: "https://tipitaka.org/romn/cscd/ (CSCD)"
+covers:
+  - mula/sutta/anguttara_nikaya/an11_3.md
+  - mula/sutta/anguttara_nikaya/an11_4.md
+  - mula/sutta/anguttara_nikaya/an11_5.md
 ---
 
 # Commentary on Aṅguttara Nikāya: Upanisa Suttas

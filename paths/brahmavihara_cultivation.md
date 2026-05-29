@@ -77,9 +77,9 @@ The everyday fruits of metta and the classic protection text.
 *   **[[an11_15|AN 11.15: Mettānisaṃsasutta]]**  
     *Practice Focus*: The eleven benefits of practicing loving-kindness, including sleeping in comfort, waking in comfort, being dear to humans and non-humans, quick concentration, and a peaceful death.  
     *Commentaries*: [[an11_15_att|Commentary]] · [[an11_15_tik|Sub-commentary]]
-*   **[[snp1.8|Snp 1.8: Karaṇīyamettasutta]]**  
+*   **[[snp1_8|Snp 1.8: Karaṇīyamettasutta]]**  
     *Practice Focus*: The classic discourse on loving-kindness. Instructions on how to act, cultivate boundless goodwill for all living beings, and guard this mind as a mother guards her only child.  
-    *Commentaries*: [[snp1.8_att|Commentary]]
+    *Commentaries*: [[snp1_8_att|Commentary]]
 
 ---
 

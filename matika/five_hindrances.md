@@ -33,8 +33,8 @@ category: list_note
 * [[sn46|SN 46: Bojjhaṅgasaṃyutta]] — SN 46.51 (Āhārasutta) explicitly contrasts the hindrances as "nutriment" obstructing awakening factors
 * [[mn118|MN 118: Ānāpānasatisutta]] — contemplation of mind and phenomena involves recognizing the presence and absence of these hindrances
 * [[an5_28|AN 5.28: Pañcaṅgikasutta]] — the five factors of noble right concentration (vitakka, vicāra, pīti, sukha, ekaggatā) directly replace the five hindrances; jhāna's arising presupposes their abandonment
-* [[snp1.3|Snp 1.3: Khaggavisāṇasutta]] — emphasizes the necessity of wandering alone and abandoning the domestic life, highlighting how relationships, attachments, and society feed the hindrances, and advocating for solitude as the ideal environment to abandon them.
+* [[snp1_3|Snp 1.3: Khaggavisāṇasutta]] — emphasizes the necessity of wandering alone and abandoning the domestic life, highlighting how relationships, attachments, and society feed the hindrances, and advocating for solitude as the ideal environment to abandon them.
 * [[mn19|MN 19: Dvedhāvitakkasutta]] — examines the mental process of recognizing and dismantling thoughts of sensual desire and ill-will (which feed kāmacchanda and byāpāda) through reflections on their harmful consequences.
 * [[an10_60|AN 10.60: Girimānandasutta]] — details the perception of abandoning (pahāna-saññā) where one does not tolerate thoughts of sensual desire, ill-will, or harmfulness, but abandons, dispels, and eradicates them, directly addressing the hindrances.
-* [[snp1.12|Snp 1.12: Munisutta]] — describes how the silent sage (muni) cuts off the pathways of the five hindrances and attachments to live in perfect peace and solitude.
+* [[snp1_12|Snp 1.12: Munisutta]] — describes how the silent sage (muni) cuts off the pathways of the five hindrances and attachments to live in perfect peace and solitude.
 
