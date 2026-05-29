@@ -1,5 +1,42 @@
 # Sync Log
 
+## [2026-05-29 — Handoff to AntiGravity for Phase 16 (Claude Sonnet 4.6)]
+
+### Context for AntiGravity
+Claude Sonnet 4.6 is handing off Phase 16 (Study Station Enhancements) to Google AntiGravity/Gemini and proceeding to Phase 17 (pali-nlp companion) in a separate repository.
+
+### Vault State at Handoff
+- **Validator**: 1,166 files / 14,233 wikilinks / **0 errors** ✅
+- **Unit tests**: 10/10 pass ✅
+- **Git remote**: renamed from `pali_canon` → `pali-canon`; remote updated to `https://github.com/roydsouza/pali-canon.git`
+- **Git**: Clean on `main`, fully in sync with origin. Post-commit hook installed — every commit auto-pushes.
+
+### What Was Done This Session
+- Added `README.md` (first-reader orientation)
+- Committed Phase 15 refactor (473 files: dotted→underscore rename, frontmatter linter, paragraph backfill)
+- Added three question-driven reading paths: `working_with_anger.md`, `understanding_craving.md`, `working_with_hindrances.md`
+- Updated `paths/INDEX.md` with new "Question-Driven Paths" section
+- Added `Phase 21 — Canonical Breadth Expansion` gated task to `TASKS.md`
+- Updated git remote to `pali-canon`, updated all URL references in CLAUDE.md and STATUS.md
+
+### Remaining Phase 16 Tasks for AntiGravity
+See `meta/TASKS.md` → Phase 16 — Study Station Enhancements:
+- [ ] **Prosopography Graph** — Seed `people/` and `places/` index notes for key persons/locations
+- [ ] **Simile Index** — Cross-referenced catalogue of major canon similes
+- [ ] **Pericope Concordance** — Map repeated stock formulas (jhāna cadences, DO chains) with occurrence links
+- [ ] **Parallel-Texts Layer** — Inject `sc_parallels:` frontmatter + Dataview table for SuttaCentral parallels
+- [ ] **Dynamic Count Tables** — Replace hardcoded metrics in INDEX.md / STATUS.md with Dataview queries
+
+### Guardrails Reminder
+1. Run `python3 scratch/validate_links.py` before every commit — must be 0 errors
+2. Run `python3 scratch/tests/run_all_tests.py` before every commit — must all pass
+3. Never commit with `--no-verify`
+4. Push is automatic via post-commit hook; verify origin is in sync at session end
+5. Update `meta/TASKS.md` and append to `meta/SYNC_LOG.md` at session end
+6. Do NOT rename files without running the link validator afterward
+
+---
+
 ## [2026-05-29 00:00:00-07:00 — README, Phase 15 Commit, and Phase 16 Question-Driven Paths (Claude Sonnet 4.6)]
 
 ### Accomplishments

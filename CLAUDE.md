@@ -67,7 +67,7 @@ Bold = Pali. Italic = English (Sujato). Never layer AI translation over Sujato's
 4. **Push to GitHub after every commit**: `git push origin main`
    - The `post-commit` hook does this automatically in the background.
    - If the hook fails silently (offline, auth error), push manually before ending the session.
-   - Remote: `https://github.com/roydsouza/pali_canon.git`
+   - Remote: `https://github.com/roydsouza/pali-canon.git`
    - **All agents** (Claude Code, Gemini/AntiGravity, OpenCode, Pi, etc.) must leave `origin/main` in sync with local `main` at session end.
 
 5. **Truthfulness**: Never mark a TASKS.md item done unless verified. Counts in docs must match reality.
@@ -117,5 +117,5 @@ See `scratch/SKILL_GUIDE.md` for the cross-linking algorithm details.
 ## Environment
 
 - **`PALI_VAULT`** environment variable: points to this vault's root directory. Used by all `scratch/` scripts.
-- **Git remote**: `origin` → `https://github.com/roydsouza/pali_canon.git`
+- **Git remote**: `origin` → `https://github.com/roydsouza/pali-canon.git`
 - **Branch**: `main`
