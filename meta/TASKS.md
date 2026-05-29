@@ -177,11 +177,13 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [ ] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
 
 ### Phase 17 — Pali NLP Companion Development (External Repo)
+**Repo**: https://github.com/roydsouza/pali-nlp (local: `~/pali-nlp/`)
+**Setup**: `cd ~/pali-nlp && source .venv/bin/activate`; DPD DB auto-detected from Simsapa.
 - [ ] **Stage 1: Lemmatization & Graded Reader (3A)**
-    - [ ] Stand up the separate `pali-nlp` repository with ingestion, DPD sqlite, and vault-writer modules.
-    - [ ] Lemmatize tokens against cached DPD SQLite database.
-    - [ ] Append Option C vocabulary concordance tables to suttas.
-    - [ ] Build the vocabulary frequency-based graded reader and order the Pali reading ladder by linguistic difficulty.
+    - [x] Stand up the separate `pali-nlp` repository with ingestion, DPD sqlite, and vault-writer modules. ✅
+    - [x] Lemmatize tokens against DPD SQLite database (Simsapa install; 1.1M inflected forms via `lookup` table). ✅
+    - [ ] Append vocabulary concordance tables to vault mūla files (`pali-write` — built, not yet run against vault).
+    - [ ] Build the vocabulary frequency-based graded reader and write to `paths/graded_reader.md` (`pali-grade` — built, not yet run).
     - [ ] Auto-generate Obsidian-native spaced-repetition vocabulary cards.
 - [ ] **Stage 2: Linguistic Pipeline (3B)**
     - [ ] Build an offline concordance and collocation search index.

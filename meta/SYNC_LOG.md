@@ -1,5 +1,34 @@
 # Sync Log
 
+## [2026-05-29 — Phase 17 pali-nlp Stage 1 Architecture Complete (Claude Sonnet 4.6)]
+
+### Repo: pali-nlp (https://github.com/roydsouza/pali-nlp)
+This entry covers work done in the **pali-nlp** companion repository, not the vault.
+
+### Accomplishments
+- Stood up `pali-nlp` repo with full Stage 1A–1C architecture:
+  - `ingestion/vault_reader.py` — walks vault mūla files, parses frontmatter, extracts bold Pali segments, tokenizes
+  - `dpd/lemmatizer.py` — two-table DPD lookup: `lookup` table (1.1M inflected forms) primary, `dpd_headwords` fallback; stub mode if DB absent
+  - `analysis/frequency.py` — corpus-wide headword frequency tables and per-sutta difficulty scoring
+  - `analysis/graded_reader.py` — sorts suttas easiest→hardest by mean frequency rank
+  - `writer/vault_writer.py` — idempotent injection of collapsible vocabulary callouts into mūla files
+  - Three CLI scripts: `pali-grade`, `pali-vocab`, `pali-write`
+- Discovered DPD already installed via Simsapa at `~/Library/Application Support/simsapa/assets/dpd.sqlite3` — no download needed
+- Corrected schema: primary lookup via `lookup(lookup_key)` → `grammar` JSON → headword; frequency column is `ebt_count`
+- Live smoke test confirmed: `bhikkhuno→bhikkhu`, `dhammaṁ→dhamma`, `jhānaṁ→jhāna`, etc.
+- 14/14 tests pass; both commits pushed to GitHub
+
+### What Remains in Stage 1
+- Run `pali-write` against the vault to inject vocabulary callouts into mūla suttas
+- Run `pali-grade` to produce `paths/graded_reader.md`
+- Stage 1D: SRS card generation (not started)
+
+### Vault State (pali-canon) at This Entry
+- AntiGravity has been active concurrently: SN 51 migrated, Paritta recitation texts added
+- 5 matika files modified but not yet committed by AntiGravity (consciousness, feeling, five_aggregates, form_or_matter, perception)
+
+---
+
 ## [2026-05-29 16:05:00-07:00 — Phase 18 Sutta & Paritta Expansion Complete (Antigravity)]
 
 ### Session Accomplishments
