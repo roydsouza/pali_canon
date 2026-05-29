@@ -667,5 +667,53 @@
         "pattern": "7\\.\\s+Mah\u0101catt\u0101r\u012bsakasuttava\u1e47\u1e47an\u0101"
       }
     ]
+  },
+  "sn51.1": {
+    "att": [
+      {
+        "file": "s0305a.att6.xml",
+        "heading": "1. Apārasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Apārasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0305t.tik6.xml",
+        "heading": "1. Apārasuttavaṇṇanā",
+        "pattern": "1\\.\\s+Apārasuttavaṇṇanā"
+      }
+    ]
+  },
+  "sn51.15": {
+    "att": [
+      {
+        "file": "s0305a.att6.xml",
+        "heading": "5. Uṇṇābhabrāhmaṇasuttavaṇṇanā",
+        "pattern": "5\\.\\s+Uṇṇābhabrāhmaṇasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0305t.tik6.xml",
+        "heading": "5. Uṇṇābhabrāhmaṇasuttavaṇṇanā",
+        "pattern": "5\\.\\s+Uṇṇābhabrāhmaṇasuttavaṇṇanā"
+      }
+    ]
+  },
+  "sn51.20": {
+    "att": [
+      {
+        "file": "s0305a.att6.xml",
+        "heading": "10. Vibhaṅgasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Vibhaṅgasuttavaṇṇanā"
+      }
+    ],
+    "tika": [
+      {
+        "file": "s0305t.tik6.xml",
+        "heading": "10. Vibhaṅgasuttavaṇṇanā",
+        "pattern": "10\\.\\s+Vibhaṅgasuttavaṇṇanā"
+      }
+    ]
   }
 }

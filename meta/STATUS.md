@@ -8,12 +8,12 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Files | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 603 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 321 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | 103 files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
+| **Mūla (Root Texts)** | 606 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 324 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | 106 files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
 | **Mātikā (Doctrinal Lists)** | 109 files (22 lists + sub-files) | — | Pali/English, cross-linked |
 | **Paths (Reading Sequences)** | 10 files | — | 7 practice-domain paths + 3 question-driven paths |
-| **Scripts** | 135 Python scripts | — | 55 generators, 13 crosslinkers, 50 inspectors, 10 tests, 2 refactors, 1 lib |
+| **Scripts** | 136 Python scripts | — | 56 generators, 13 crosslinkers, 50 inspectors, 10 tests, 2 refactors, 1 lib |
 
 ---
 
@@ -71,6 +71,7 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 | SN 46 Bojjhaṅgasaṃyutta (56 suttas) | ✅ 23,919w | ✅ 180¶ | ✅ 175¶ | Mātikā |
 | SN 47 Satipaṭṭhānasaṃyutta (16 selected) | ✅ 9,504w | ✅ 220¶ (9,325w) | ✅ 149¶ (6,123w) | ✅ 4 suttas full §-anchors & Mātikā |
 | SN 48 Indriyasaṃyutta (20 selected) | ✅ 6,760w | ✅ 106¶ (3,037w) | ✅ 92¶ (2,544w) | ✅ 6 suttas full §-anchors & Mātikā |
+| SN 51 Iddhipādasaṃyutta (3 selected) | ✅ 2,759w | ✅ 692w | ✅ 360w | ✅ 2 suttas full §-anchors & Mātikā |
 | SN 54 Ānāpānasaṃyutta (20 suttas) | ✅ 11,648w | ✅ 45¶ | ✅ 40¶ | Mātikā |
 | SN 55 Sotāpattisaṃyutta (15 selected) | ✅ 12,650w | ✅ 103¶ (2,613w) | ✅ 90¶ (1,810w) | ✅ 3 suttas full §-anchors & Mātikā |
 | SN 56 Saccasaṃyutta (16 selected) | ✅ 6,469w | ✅ 153¶ (2,413w) | ✅ 100¶ (1,689w) | Mātikā |

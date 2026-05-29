@@ -164,6 +164,7 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
         f"type: {out_folder}",
         "pitaka: sutta",
         f"nikaya: {nav_abbr}",
+        f"sutta_number: {sutta_id}",
         f"mula_file: [[{mula_ref}]]",
     ]
     if suffix == "att":

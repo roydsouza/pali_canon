@@ -1,5 +1,25 @@
 # Sync Log
 
+## [2026-05-29 16:05:00-07:00 — Phase 18 Sutta & Paritta Expansion Complete (Antigravity)]
+
+### Session Accomplishments
+- **Iddhipādasaṃyutta Migration**: Migrated three key discourses from SN 51:
+  - `sn51.1` (Apārasutta)
+  - `sn51.15` (Uṇṇābhabrāhmaṇasutta)
+  - `sn51.20` (Vibhaṅgasutta)
+  Including all three layers (Mūla, Atthakathā, and Ṭīkā) where available, fully cross-linked and validated.
+- **Pali-only Paritta Recitation Texts**: Created a generator script `generate_paritta_recitation.py` that parses the markdown suttas and extracts the Pali-only text. Generated recitation files:
+  - `paritta/karaniya_metta_sutta_pali.md`
+  - `paritta/ratana_sutta_pali.md`
+  - `paritta/mangala_sutta_pali.md`
+  - `paritta/khandha_paritta_pali.md`
+  Updated the main `paritta/INDEX.md` with links to these recitation sheets.
+- **Tooling Updates**: Modified `generate_sutta.py` to automatically include the required `sutta_number` field in the frontmatter of commentary/sub-commentary layers.
+
+### Vault State
+- **Validator**: 1,179 files / 14,339 wikilinks / **0 errors** ✅
+- **Unit tests**: 10/10 pass ✅
+
 ## [2026-05-29 — Handoff to AntiGravity for Phase 16 (Claude Sonnet 4.6)]
 
 ### Context for AntiGravity

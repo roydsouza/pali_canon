@@ -29,5 +29,8 @@ layer: mula
 | [[sn55|SN55]] | Sotāpattisaṃyutta | 12,650 |
 | [[sn48|SN48]] | Indriyasaṃyutta | 6,760 |
 | [[sn36|SN 36]] | Vedanāsaṃyutta | Linked Discourses on Feeling | 2,516 |
+| [[sn51.1|SN 51.1]] | Apārasutta | 224 |
+| [[sn51.15|SN 51.15]] | Uṇṇābhabrāhmaṇasutta | 906 |
+| [[sn51.20|SN 51.20]] | Vibhaṅgasutta | 1,629 |
 
 

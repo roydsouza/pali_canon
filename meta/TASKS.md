@@ -195,9 +195,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 ### Phase 18 — Text & Doctrinal Expansion (Abhidhamma & Vinaya Future)
 - [ ] **Sutta Piṭaka (Primary)**
     - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
-    - [ ] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
+    - [x] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
     - [ ] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses.
-    - [ ] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.
+    - [x] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.
 - [ ] **Abhidhamma Piṭaka (Secondary)**
     - [ ] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual).
     - [ ] Add Abhidhamma-style mātikā cross-links for the five aggregates.
