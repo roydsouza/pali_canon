@@ -4,12 +4,16 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 ## Overall Progress Metrics
 
-| Layer | Suttas Complete | Nikāyas Active | Notes |
+*Last updated: 2026-05-29*
+
+| Layer | Files | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 606 individual suttas/poems + AN 1 (627 suttas in 31 files) + 11 SN saṃyuttas (225 suttas) | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 320 individual suttas + 26 DhpA chapters + 11 SN saṃyuttas (6,762¶) + AN 1 (31 files) | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | 51 individual suttas + 11 SN saṃyuttas (1,929¶) + AN 1 (31 files) | MN, DN, SN, AN | CSCD Pali (Udāna, Snp have no Ṭīkā) |
-| **Mātikā (Doctrinal Lists)** | 22 lists | — | Pali/English, cross-linked |
+| **Mūla (Root Texts)** | 603 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | 321 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | 103 files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
+| **Mātikā (Doctrinal Lists)** | 109 files (22 lists + sub-files) | — | Pali/English, cross-linked |
+| **Paths (Reading Sequences)** | 10 files | — | 7 practice-domain paths + 3 question-driven paths |
+| **Scripts** | 135 Python scripts | — | 55 generators, 13 crosslinkers, 50 inspectors, 10 tests, 2 refactors, 1 lib |
 
 ---
 

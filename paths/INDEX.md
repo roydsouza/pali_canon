@@ -48,3 +48,21 @@ Welcome to the practice-oriented reading paths of the Pali Canon Vault. These pa
 *Recitation order and collection of protective suttas used in the Theravāda tradition.*
 *   **Core Texts**: [[snp1_8|Snp 1.8 (Metta)]], [[snp2_1|Snp 2.1 (Ratana)]], [[snp2_4|Snp 2.4 (Maṅgala)]], [[an4_67|AN 4.67 (Ahi)]].
 *   **Index**: [[paritta/INDEX|Paritta Index]]
+
+---
+
+## Question-Driven Paths
+
+These paths answer a specific practice question using suttas already in the vault. Start from the question, not the collection.
+
+### [[working_with_hindrances|Working with the Five Hindrances]]
+*Recognition, targeted methods, antidote awakening factors, and the samādhi that arises when hindrances subside.*
+*   **Core Texts**: [[mn10|MN 10]], [[dn2|DN 2]], [[mn20|MN 20]], [[sn46|SN 46]], [[an5_28|AN 5.28]], [[an9_34|AN 9.34]], [[an9_35|AN 9.35]].
+
+### [[working_with_anger|Working with Anger and Ill Will]]
+*From recognizing ill will as a hindrance through five removal methods, heart-purification, and the cultivation of mettā.*
+*   **Core Texts**: [[mn10|MN 10]], [[mn20|MN 20]], [[mn7|MN 7]], [[sn46|SN 46]], [[an11_15|AN 11.15]], [[snp1_8|Snp 1.8]].
+
+### [[understanding_craving|Understanding Craving (Taṇhā)]]
+*Tracing craving from the sense doors through the aggregates, dependent origination, and the seven methods of release.*
+*   **Core Texts**: [[sn35|SN 35]], [[sn22|SN 22]], [[mn44|MN 44]], [[dn15|DN 15]], [[mn2|MN 2]], [[snp4_1|Snp 4 (Aṭṭhakavagga)]].
