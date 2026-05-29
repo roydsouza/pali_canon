@@ -64,7 +64,13 @@ Bold = Pali. Italic = English (Sujato). Never layer AI translation over Sujato's
    - Conventional-commit prefixes: `fix:`, `feat:`, `docs:`, `refactor:`, `chore:`
    - Commit after each sutta or discrete task
 
-4. **Truthfulness**: Never mark a TASKS.md item done unless verified. Counts in docs must match reality.
+4. **Push to GitHub after every commit**: `git push origin main`
+   - The `post-commit` hook does this automatically in the background.
+   - If the hook fails silently (offline, auth error), push manually before ending the session.
+   - Remote: `https://github.com/roydsouza/pali_canon.git`
+   - **All agents** (Claude Code, Gemini/AntiGravity, OpenCode, Pi, etc.) must leave `origin/main` in sync with local `main` at session end.
+
+5. **Truthfulness**: Never mark a TASKS.md item done unless verified. Counts in docs must match reality.
 
 ## Data Sources & Licenses
 
