@@ -5,8 +5,8 @@ type: atthakatha
 pitaka: vinaya
 nikaya: None
 sutta_number: INDEX
-mula_file: /mula/abhidhamma/INDEX.md
-sub_commentary_file: /tika/abhidhamma/INDEX.md
+mula_file: /mula/vinaya/INDEX.md
+sub_commentary_file: /tika/vinaya/INDEX.md
 layer: atthakatha
 ---
 
@@ -18,4 +18,4 @@ The primary commentary on the Vinaya is the **Samantapāsādikā** by Buddhaghos
 
 ## Migrated Texts
 
-*None yet.*
+* [[kankhavitarani|Kaṅkhāvitaraṇī]] (Commentary on the Pātimokkha)

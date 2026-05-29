@@ -5,6 +5,7 @@ type: mula
 pitaka: vinaya
 nikaya: None
 sutta_number: patimokkha_bhikkhu
+commentary_file: /atthakatha/vinaya/kankhavitarani.md
 layer: mula
 ---
 
@@ -12,6 +13,7 @@ layer: mula
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/vinaya/INDEX|Vinaya Piṭaka]]
 **Related Precepts**: [[matika/five_precepts|Five Precepts (Pañcasīla)]] | [[matika/eight_precepts|Eight Precepts (Aṭṭhaṅgasīla)]]
+**Commentary**: [[atthakatha/vinaya/kankhavitarani|Kaṅkhāvitaraṇī (The Dispeller of Doubts)]]
 
 ## 🎧 Chanting Recitation
 ![Bhikkhu Pātimokkha Chanting Recitation](../../practice/audio/bhikkhu_patimokkha.mp3)
