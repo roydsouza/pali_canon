@@ -98,5 +98,72 @@ class TestFrontmatterLinter(unittest.TestCase):
                 
         self.assertEqual(len(errors), 0, f"Frontmatter linter found {len(errors)} errors.")
 
+class TestIndexDashboard(unittest.TestCase):
+    """
+    Guard INDEX.md against known UX regressions.
+
+    These tests encode two classes of bugs that have recurred:
+
+    1. Dataview inline expressions ($= ...) inside HTML <div> blocks.
+       They do not render in Obsidian when inside raw HTML — the plugin
+       only processes Markdown sections. They silently show as raw code.
+
+    2. Dashboard card badges (<span class="db-badge...">) that are not
+       wrapped in <a> links. Every badge is a category label and should
+       navigate to the top-level index for that layer.
+    """
+
+    @classmethod
+    def setUpClass(cls):
+        vault = get_vault_path()
+        index_path = os.path.join(vault, "INDEX.md")
+        with open(index_path, encoding="utf-8") as f:
+            cls.content = f.read()
+        cls.lines = cls.content.splitlines()
+
+    def test_no_dataview_inline_in_html_blocks(self):
+        """No `$= expr` Dataview inline expressions anywhere in INDEX.md."""
+        import re
+        bad_lines = [
+            (i + 1, line)
+            for i, line in enumerate(self.lines)
+            if re.search(r'`\$=\s', line)
+        ]
+        self.assertEqual(
+            bad_lines, [],
+            "Dataview inline expressions (`$= ...`) found in INDEX.md — "
+            "they do not render inside HTML <div> blocks. Use hardcoded "
+            f"counts instead.\nOffending lines: {bad_lines}"
+        )
+
+    def test_all_db_badges_are_links(self):
+        """Every <span class="db-badge..."> in a card header must be inside an <a> tag."""
+        import re
+        # Find every line with a db-badge span that is NOT preceded by <a on the same line
+        bad_lines = []
+        for i, line in enumerate(self.lines):
+            if 'class="db-badge' in line and '<span' in line:
+                # It's OK if wrapped in <a ... on the same line
+                if '<a ' not in line and '</a>' not in line:
+                    bad_lines.append((i + 1, line.strip()))
+        self.assertEqual(
+            bad_lines, [],
+            "Found db-badge <span> elements not wrapped in an <a> link. "
+            "Every card badge must link to the section's top-level index.\n"
+            f"Offending lines: {bad_lines}"
+        )
+
+    def test_hardcoded_counts_are_integers(self):
+        """Badge count labels must be plain integers or short strings, not expressions."""
+        import re
+        # Match content inside db-badge spans: should not contain backticks or dv.
+        badge_contents = re.findall(r'<span class="db-badge[^"]*">([^<]+)</span>', self.content)
+        bad = [b for b in badge_contents if '`' in b or 'dv.' in b or '$=' in b]
+        self.assertEqual(
+            bad, [],
+            f"db-badge content contains dynamic expressions: {bad}"
+        )
+
+
 if __name__ == "__main__":
     unittest.main()
