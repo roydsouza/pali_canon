@@ -85,3 +85,41 @@ tags:
 *the undefiled are fully extinguished.”*
 *… Yasadatto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (32 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | parinibbātināsavo (?) | ? |  |
+> | parisussati | pr | dries up; withers up; shrivels up |
+> | akuppatā | fem |  |
+> | kāḷapakkheva (?) | ? |  |
+> | bījaṁva (?) | ? |  |
+> | virūhati | pr | grows; develops; sprouts |
+> | upārambhacitta | adj | with a fault-finding mind; with a critical attitude |
+> | appodaka | nt | little water; small amount of water |
+> | parihāyati | pr | dwindles; decreases; deteriorates; wastes away |
+> | maccha | masc | fish |
+> | pappuyya | ger | reaching; obtaining; attaining; getting; experiencing |
+> | nabhas | masc | sky |
+> | jinasāsana | nt | Buddha's teaching; doctrine of the Buddha |
+> | tuṭṭha | pp | pleased (about); satisfied (with); content (with) |
+> | pūtika | adj | rotten; spoiled; decayed |
+> | candima | masc | moon |
+> | āraka | adj | distant; away from; far from |
+> | khepetvā | abs | having spent; having lived out |
+> | khetta | nt | field; plot of land |
+> | dummedha | adj | foolish; stupid; unwise |
+> | suṇa | masc |  |
+> | parama | adj | highest; most extreme; very best; ultimate; superior; sublim… |
+> | pathavī | fem | earth; world |
+> | saddhamma | masc | good teaching; true doctrine; true nature of things; (comm) … |
+> | sacchikatvā | abs | having personally experienced; having realized for oneself |
+> | santa | prp | existing; being; there is |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | sabba | pron | all; every |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | citta | nt | mind; heart |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

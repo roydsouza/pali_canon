@@ -213,5 +213,71 @@ tags:
 *and carpenters carve timber—*
 **Attānaṁ damayanti subbatā.**  
 *those true to their vows tame themselves.*
-**Daṇḍavaggo dasamo.**  
+**Daṇḍavaggo dasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sampannavijjācaraṇa | adj | perfect in theory and practice; accomplished in understandin… |
+> | dhammavinicchaya | masc | discrimination of mental phenomena; evaluation of mental pro… |
+> | saṁvegī | adj | anxious; feeling a sense of urgency |
+> | kasāniviṭṭha | adj | touched by the whip; whipped |
+> | kasāmiva (?) | ? |  |
+> | apabodhe (?) | ? |  |
+> | ukkuṭikappadhāna | nt | (ascetic practice of) holding the squatting posture |
+> | thaṇḍilasāyikā | fem | (ascetic practice of) sleeping on bare ground; lying on hard… |
+> | nānāsakā | fem | not (by) fasting |
+> | jaṭa | nt | handle |
+> | naggacariyā | fem | nudity |
+> | sopapajja (?) | ? |  |
+> | bhedana | nt | injuring; fracturing; breaking |
+> | dasannamaññataraṁ (?) | ? |  |
+> | aggidaḍḍhova (?) | ? |  |
+> | pājen (?) | ? |  |
+> | pāje (?) | ? |  |
+> | gopāla | masc | cowherd; cowboy |
+> | pattosi (?) | ? |  |
+> | nereti | pr | does not agitate; does not arouse |
+> | paṭidaṇḍa | masc | retaliation; retribution; revenge; payback |
+> | paṭivadati | pr | replies (to); retorts (to); speaks back (to) |
+> | māvoca (?) | ? |  |
+> | bhāyan (?) | ? |  |
+> | daṇḍavagga | masc |  |
+> | bhavātha | imp | you all must be! |
+> | hirīnisedha | adj | prevented by modesty; restrained by conscience; constrained … |
+> | sodhen (?) | ? |  |
+> | dāruṇa | adj | brutal; savage; vicious; cruel |
+> | abbhakkhāna | nt | misrepresenting; slandering; falsely accusing |
+> | upasagga | masc | danger (from); trouble (from); misfortune (from) |
+> | jāni | fem | (of property) confiscation; seizure; deprivation; loss |
+> | kaṁsa | masc | bronze; metal |
+> | sārambhakathā | fem | quarrelsome speech; angry discussion; fighting talk |
+> | tasan (?) | ? |  |
+> | pāvaka | adj | bright; shining; pure |
+> | ḍaha | masc |  |
+> | rajojalla | nt | dust and mud; dust and dirt |
+> | pabhaṅgura | adj | brittle; breakable; fragile; perishable |
+> | cittakkhepa | masc | mental derangement; insanity; madness |
+> | appaduṭṭha | pp | without anger; not upset |
+> | upahata | pp | injured; impaired; broken; deteriorated |
+> | dukkhamidaṁ | sandhi | this is suffering |
+> | avitiṇṇakaṅkha | adj | who has not overcome doubt; who has not crossed beyond uncer… |
+> | bujjhati | pr | knows; understands; is aware (of) |
+> | ghātayati | pr | kills; slaughters |
+> | tacchaka | masc | carpenter; woodworker |
+> | dāru | nt | wood; plank; timber |
+> | usukāra | masc | arrow-maker; fletcher |
+> | nettika | adj | as guide; as leader |
+> | udakañhi (?) | ? |  |
+> | vāssa | sandhi | or for him; or towards him |
+> | anappaka | adj | great; considerable; not insignificant |
+> | sārambha | masc | anger; violence; aggressiveness; fury; wrath |
+> | sukhamesāna | prp | seeking comfort; searching for happiness |
+> | damayan (?) | ? |  |
+> | nidhāya | ger | putting down; laying aside |
+> | pāpuṇāti | pr | reaches; arrives (at); comes (to) |
+> | vihiṁsati | pr | hurts; harms; injures; is cruel |
+> | nayan (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

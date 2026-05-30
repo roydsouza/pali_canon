@@ -158,5 +158,71 @@ tags:
 *such a one can’t decline,*
 **nibbānasseva santike.**  
 *and has drawn near to extinguishment.*
-**Appamādavaggo dutiyo.**  
+**Appamādavaggo dutiyo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | garahita | pp | blamed; criticized (by) |
+> | seṭṭhatā | fem | eminence; pre-eminence; superiority |
+> | maghavant | adj | epithet of Sakka; epithet of Inda |
+> | sīghassa | masc | fast horse; swift stead |
+> | abalassaṁva (?) | ? |  |
+> | bhūmaṭṭha | adj | standing on the ground; situated on the earth |
+> | pabbataṭṭhova (?) | ? |  |
+> | sokī | adj | sorrowful; grief-stricken |
+> | paññāpāsādamāruyha | ger | ascending the palace of understanding; climbing the tower of… |
+> | nābhikīra (?) | ? |  |
+> | uṭṭhānenappamādena (?) | ? |  |
+> | yasobhivaḍḍha (?) | ? |  |
+> | nisammakārī | adj | acting calmly; behaving considerately; acting carefully; act… |
+> | uṭṭhānavant | adj | energetic; ready for action |
+> | pamodan (?) | ? |  |
+> | mīyan (?) | ? |  |
+> | appamādavagga | masc |  |
+> | nibbānasseva (?) | ? |  |
+> | aggīva (?) | ? |  |
+> | ḍaha | masc |  |
+> | bahujāgara | adj | wide awake; alert; very lucid |
+> | nuda | adj | driving out; dispelling; expelling; removing |
+> | kāmaratisanthava | masc | intimacy with the delight of sensual pleasure; close associa… |
+> | pamādamanuyuñjati | pr | is careless; is negligent; engages in heedlessness |
+> | seṭṭhaṁva (?) | ? |  |
+> | dummedhī | adj | foolish; stupid; unwise |
+> | pamādamanuyuñjan (?) | ? |  |
+> | sucikamma | adj | pure in deed |
+> | amatapada | nt | immortality; deathless state; way to the deathless; path to … |
+> | sumedhasa | adj | wise; sage |
+> | appamādañca (?) | ? |  |
+> | saññata | pp | self-controlled; restrained |
+> | thūla | adj | massive; large |
+> | parihāna | nt | deteriorating; decreasing; declining; regressing |
+> | bhayadassī | adj | knowing the danger (of); wary (of); fearful (of); apprehensi… |
+> | dhammajīvī | adj | morally upright; living ethically; righteous |
+> | aṇu | adj | small; tiny; minute; minuscule |
+> | appamādarata | adj | delighting in diligence; devoted to conscientiousness; takin… |
+> | avekkhati | pr | sees; regards; views as; consider as |
+> | phusan (?) | ? |  |
+> | pappo (?) | ? |  |
+> | dama | masc | taming; restraint; self-control |
+> | jhāyanta | prp | meditating; contemplating |
+> | saṁyama | masc | restraint (from); abstinence (from); self-control (wrt) |
+> | pasaṁsan (?) | ? |  |
+> | daḷhaparakkama | adj | having persistent effort; making continuous effort; striving… |
+> | gocara | masc | food; fodder; grazing; pasture |
+> | dīpa | masc | lamp; light |
+> | mata | pp | dead; deceased; departed |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | asoka | adj | sorrow-free; free from sadness |
+> | abhabba | ptp | unable (to); impossible (to); incapable (of); unlikely (to) |
+> | satīmant | adj | mindful; fully present; attentive |
+> | visesa | masc | distinction; attainment; superior state; eminence |
+> | ogha | masc | (of water) flood; deluge; torrent |
+> | maccu | masc | death; Death |
+> | sātatika | adj | diligent; persevering; consistent; practising continuously |
+> | pamatta | pp | careless; heedless; negligent; inattentive |
+> | dhana | nt | wealth; riches; treasure |
+> | rakkha | adj | protecting; guarding |
+<!-- pali-nlp:vocab-end -->

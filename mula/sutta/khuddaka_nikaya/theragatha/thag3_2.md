@@ -59,3 +59,37 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Paccayo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pañcāhāhaṁ (?) | ? |  |
+> | nipāteti | pr | lets fall; drops |
+> | vīriyaparakkama | masc | effort and persistence; energy and perseverance |
+> | nāsati | pr | does not eat |
+> | mevaṁ (?) | ? |  |
+> | anūhata | pp | not destroyed; unimpaired; not uprooted |
+> | taṇhāsalla | nt | arrow of craving; dart of desire |
+> | nikkhama | masc |  |
+> | paviṭṭha | pp | entered; gone (into) |
+> | paṇidhi | masc | aspiration (for); intention (to); prayer (for); determinatio… |
+> | appattamānasa | adj | not fulfilled one's wish (of); not reached the goal (of); no… |
+> | pivati | pr | drinks; imbibes |
+> | napi | sandhi | not even; nor just |
+> | sāsanan (?) | ? |  |
+> | sekha | masc | trainee; apprentice; learner; initiate; (comm) seven stages … |
+> | ahu | aor | was |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | passa | nt | (of the body) side; rib |
+> | vijjanta | prp | existing |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | cetas | masc | mind; thought; intention |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

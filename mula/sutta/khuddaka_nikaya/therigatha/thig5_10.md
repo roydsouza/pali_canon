@@ -89,3 +89,56 @@ parallels:
 
 *… Paṭācārā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (47 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | padīpasseva (?) | ? |  |
+> | okassayāmahaṁ (?) | ? |  |
+> | sūci | fem | needle; any sharp pointed object |
+> | olokayitvāna | abs | having looked at; having checked; having inspected |
+> | bhadraṁvajāniyaṁ (?) | ? |  |
+> | ninnamāgata | adj | flowed (from high) to low |
+> | pādodakañca (?) | ? |  |
+> | karomahaṁ | sandhi | I do; I make |
+> | akusīta | adj | not lazy; not slack; active; conscientious |
+> | kimahaṁ | sandhi | what I? |
+> | pavapanta | prp | sowing; planting |
+> | satthusāsanakāraka | adj | following the teacher's instruction; complying with the mast… |
+> | samādhesi | aor | settled; centred; brought under control |
+> | kasanta | prp | ploughing; tilling; turning the soil |
+> | naṅgala | nt | plough |
+> | vaṭṭi | fem | wick |
+> | pakkhālayitvāna | abs | having washed; having rinsed |
+> | vindan (?) | ? |  |
+> | posenta | prp | supporting; looking after; taking care (of); nurturing |
+> | nādhigacchati | pr | does not get to; does not attain; does not find; does not ac… |
+> | gahetvāna | abs | having taken; having brought |
+> | chamā | fem | earth; ground; floor |
+> | bīja | nt | seed; germ |
+> | dīpa | masc | lamp; light |
+> | upāvisi | aor | sat down; took a seat |
+> | puttadāra | masc | wife and kids |
+> | seti | pr | lies; lies around |
+> | mañcaka | masc | small bed; cot |
+> | khetta | nt | field; plot of land |
+> | anuddhata | pp | not arrogant; not pompous; not puffed up with pride |
+> | thala | nt | dry land; firm ground; terra firma |
+> | dhana | nt | wealth; riches; treasure |
+> | vimokkha | masc | release (of); emancipation (of); deliverance (of); freedom (… |
+> | pāvisi | aor | entered; went (into) |
+> | sīlasampanna | adj | of excellent morality; accomplished in virtue |
+> | disvāna | abs | having seen |
+> | māṇava | masc | young man; young gentleman; young Brahman |
+> | ahu | aor | was |
+> | vihāra | masc | dwelling; residence |
+> | pāda | masc | foot |
+> | udaka | nt | water |
+> | nibbāna | nt | (of fire) extinguishing; quenching; going out |
+> | assa | masc | horse |
+> | cetas | masc | mind; thought; intention |
+> | aha | nt | day |
+> | citta | nt | mind; heart |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

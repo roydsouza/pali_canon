@@ -141,3 +141,69 @@ parallels:
 *Gotama, you are my grandfather in the Dhamma.”*
 *… Kāḷudāyī thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ayyakosī (?) | ? |  |
+> | tuvaṁsi (?) | ? |  |
+> | pitupitar | masc | father's father; grandfather; male ancestor |
+> | aṅgīrasassappaṭimassa (?) | ? |  |
+> | asayhasāhī | adj | overcoming what is impossible to overcome; conquering the un… |
+> | parihariyati | pr | is carried; is passed |
+> | māyanāma | adj | called Māyā |
+> | sattayuga | nt | seven generations |
+> | saggamupen (?) | ? |  |
+> | daditvā | abs |  |
+> | yācanaka | adj |  |
+> | dhaññamupe (?) | ? |  |
+> | kasan (?) | ? |  |
+> | devarāja | masc | king of the gods; divine ruler |
+> | vapan (?) | ? |  |
+> | dhanahāraka | adj |  |
+> | vappa | masc | planting; sowing |
+> | pacchāmukha | adj | heading west; facing westward |
+> | panātiuṇhaṁ (?) | ? |  |
+> | nevātisītaṁ (?) | ? |  |
+> | pakkamana | nt | going away; departing; leaving |
+> | phalamāsasāna | prp | wishing to fruit; wanting to bear fruit |
+> | sabbadisā | fem | all directions |
+> | pabhāsayan (?) | ? |  |
+> | accimantova (?) | ? |  |
+> | aṅgārī | adj |  |
+> | kālakata | pp | died; dead |
+> | devadeva | masc | god of gods; lord of lords; king of kings |
+> | dadan (?) | ? |  |
+> | dānapati | masc | philanthropist; generous donor |
+> | pavan (?) | ? |  |
+> | phalesī | adj | who seeks fruit |
+> | maññāmahaṁ (?) | ? |  |
+> | suddhodana | masc |  |
+> | chadana | nt | wing |
+> | devagaṇa | masc |  |
+> | rohinī | fem | name of a river |
+> | bhāgī | masc | shareholder; who shares (in); who partakes (in) |
+> | duma | masc | tree |
+> | sākiya | adj | of the Sakyan clan |
+> | puttomhi (?) | ? |  |
+> | phulla | adj | blossoming; in bloom; flowering; opening |
+> | tidiva | masc | third celestial abode; third heavenly world; Brahma's realm |
+> | saccanāma | adj | truly called; correctly named |
+> | kucchi | masc | stomach; belly |
+> | utu | masc | weather; climate; temperature |
+> | samaṅgibhūta | adj | endowed (with); provided (with); possessing |
+> | samijjhati | pr | achieves; succeeds; prospers; works out well |
+> | koḷiya | masc |  |
+> | addhaniya | adj | long-lasting; enduring for a long time |
+> | parivārita | pp | surrounded (by); enveloped (by); encircled (by); enclosed (w… |
+> | bodhisatta | masc | Buddha before his awakening |
+> | tarati | pr | crosses; goes through |
+> | kasati | pr | ploughs; tills; turns the soil |
+> | vippahāya | ger | completely abandoning; totally renouncing |
+> | vāṇija | masc | trader; dealer |
+> | modati | pr | is happy; is glad; is pleased; enjoys oneself |
+> | gotamī | fem | woman of the Gotama family |
+> | bhūripañña | adj | of extensive understanding; of vast wisdom |
+> | bīja | nt | seed; germ |
+<!-- pali-nlp:vocab-end -->

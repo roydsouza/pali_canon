@@ -38,3 +38,28 @@ tags:
 **Itthaṁ sudaṁ āyasmā bhalliyo thero gāthaṁ abhāsitthāti.**  
 *That is how this verse was recited by the senior venerable Bhalliya.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhalliya | masc | name of an arahant monk |
+> | yopānudī (?) | ? |  |
+> | apetabherava | adj | without fear; free from danger; epithet of an arahant |
+> | sudubbala | adj | very weak; extremely feeble; very fragile |
+> | naḷasetuṁva (?) | ? |  |
+> | mahogha | masc | great flood; great deluge |
+> | ṭhitatta | adj | who is stable; with a stable mind; self-controlled |
+> | sena | nt | bed; sleeping place |
+> | maccurāja | masc | King of Death |
+> | vijitāvī | adj | who has conquered; who has vanquished |
+> | abhāsitthā (?) | ? |  |
+> | itthaṁ | ind | thus; such; in this way |
+> | gātha | masc |  |
+> | danta | masc | tooth |
+> | sudaṁ | ind | indeed; truly; surely |
+> | parinibbuta | pp | (of mental defilement) completely quenched; entirely emancip… |
+> | thera | adj | old; elderly; senior |
+> | āya | masc | coming in; income; entrance |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

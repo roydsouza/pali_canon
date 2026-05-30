@@ -81,3 +81,55 @@ tags:
 *mind, you won’t go far from here.*
 *… Vijitaseno thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (46 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vīriyadhuraniggahita | adj | reigned in by the yoke of effort; restrained by the load of … |
+> | nibandhati | pr | ties down; fastens (onto); binds (onto) |
+> | varahayadamakusala | adj | skilled in the taming of fine horses |
+> | āvattayati | pr | makes turn around; makes revolve; turn to one's will |
+> | navaggahamaṅkusaggaho (?) | ? |  |
+> | pāparata | adj | taking pleasure in evil; delighting in wrongdoing |
+> | pasakka | ger | moving forward; going out; setting out |
+> | alabhanta | prp | not getting; not gaining; not finding |
+> | gajova (?) | ? |  |
+> | dvāravivara | nt | open door; open gate |
+> | olagga | adj |  |
+> | sarīraja | adj | born of the flesh; (comm) arising in bodies |
+> | kāmajāla | nt | net of sensual desire; web of sensual pleasures |
+> | niyojeti | pr | urges; encourages; incites |
+> | āṇidvāreva (?) | ? |  |
+> | olaggeti | pr | forces (onto); pressures (onto); apportions |
+> | āvatta | pp | reverted (to); returned (to); gone back (to) |
+> | cittakali | masc |  |
+> | akāma | adj | without desire; without need |
+> | damayati | pr | tames; masters; controls |
+> | payutta | pp | with ulterior motive; insinuating; hinting; intimating |
+> | dameti | pr | makes tame; masters; control |
+> | pavara | adj | excellent; eminent; high-quality; distinguished |
+> | ājañña | adj | thoroughbred; well bred |
+> | kuñjara | masc | elephant |
+> | dama | masc | taming; restraint; self-control |
+> | gamissati | fut | will go |
+> | sārathi | masc | charioteer; driver |
+> | adati | pr |  |
+> | balavant | adj | strong; powerful |
+> | patiṭṭhita | pp | firmly grounded (in); well established (in) |
+> | bala | nt | strength; power; might |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | dūra | adj | far away (from); distant (from) |
+> | hatthi | masc | elephant |
+> | sati | fem | memory; remembering; recollection; keeping in mind |
+> | gacchati | pr | goes; walks; moves; wanders around |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | pañca | card | five (5) |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | tvaṁ | pron | you (subject) |
+> | citta | nt | mind; heart |
+> | ima | pron | this |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

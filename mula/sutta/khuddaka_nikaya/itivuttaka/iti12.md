@@ -73,3 +73,53 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti12_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (44 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kodhañca (?) | ? |  |
+> | kuddha | masc | angry person |
+> | appajahanta | prp | not giving up; not abandoning; not letting go (of) |
+> | avirājayanta | prp | not detaching; not losing interest (in); not losing desire (… |
+> | anabhijānanta | prp | not directly knowing; not understanding experientially; not … |
+> | virājayanta | prp | cleaning; purifying; dissolving; removing |
+> | parijānanta | prp | completely comprehending; totally understanding; knowing ful… |
+> | aparijānanta | prp | not completely comprehending; not totally understanding; not… |
+> | dukkhakkhayāyā (?) | ? |  |
+> | abhijānanta | prp | directly knowing; understanding experientially; knowing for … |
+> | kudācanan (?) | ? |  |
+> | punāyan (?) | ? |  |
+> | pajahanta | prp | giving up; abandoning; letting go (of) |
+> | vipassī | masc | name of the 6th previous Buddha |
+> | pajahan (?) | ? |  |
+> | dukkhakkhaya | masc | wearing away of suffering; extinction of stress; termination… |
+> | sammadaññā | ger | perfectly understanding; completely comprehending |
+> | abhabba | ptp | unable (to); impossible (to); incapable (of); unlikely (to) |
+> | bhabba | ptp | able (to); capable (of); possible (to); likely (to); fit (to… |
+> | kodha | masc | anger; wrath; rage; temper |
+> | duggati | fem | state of misery; bad destination; hell |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | satta | card | seven (7) |
+> | loka | masc | world; universe; cosmos |
+> | citta | nt | mind; heart |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -204,5 +204,71 @@ tags:
 *than to live a hundred years*
 **passato dhammamuttamaṁ.**  
 *blind to the supreme teaching.*
-**Sahassavaggo aṭṭhamo.**  
+**Sahassavaggo aṭṭhamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vīriyamārabhanta | prp | arousing energy; actively engaging (in meditation) |
+> | abhivādanasīlī | adj | habitually respectful; in the habit of being reverential |
+> | abhivādana | nt |  |
+> | catubhāgame (?) | ? |  |
+> | sabbampi (?) | ? |  |
+> | saṁvacchara | nt | year |
+> | apajita | nt | defeat; loss |
+> | saññatacārī | adj | acting with in self-control; going around with self-restrain… |
+> | saṅgāmajuttama | adj | ultimate winner in war; supreme victor in battle |
+> | jeyyamattānaṁ (?) | ? |  |
+> | gāthāpada | masc | line of verse |
+> | atthapada | nt | beneficial saying; profitable verse |
+> | sahassavagga | masc |  |
+> | vuḍḍhāpacāyī | adj | paying respect to the elderly; honouring the seniors; venera… |
+> | pūjana | nt | venerating; paying homage; religious offering |
+> | sāyeva | sandhi | just that; that exact; that very |
+> | bhāti | pr | illuminates; lights up |
+> | sahassamapi (?) | ? |  |
+> | paricarati | pr | attends (to); looks after; tends (to) |
+> | pūjayati | pr | reveres; honours |
+> | attadanta | adj | self controlled; self restrained |
+> | anatthapadasaṁhitā (?) | ? |  |
+> | dhammamuttamaṁ | sandhi | supreme teaching; highest Dhamma; ultimate reality; ultimate… |
+> | ujjugata | adj | straight; upright; steadfast; unswerving |
+> | upasammati | pr | is calmed; is cooled; is settled |
+> | itara | pron | other; another |
+> | yiṭṭha | pp | given (as a gift); offered |
+> | muhuttamapi (?) | ? |  |
+> | jita | nt | conquest; victory; triumph |
+> | ekañca | sandhi | but one; but a single |
+> | dhammapada | nt | verse of the teaching; line of Dhamma; religious saying |
+> | udayabbaya | masc | rising and falling; appearance and disappearance; formation … |
+> | sahassa | card | one thousand (1000) |
+> | ekāha | nt | one day |
+> | jina | masc | conqueror; victor; champion; epithet of the Buddha |
+> | huta | nt | oblation; offering; the thing sacrificed |
+> | gandhabba | masc | demigod; heavenly musician; class of mythological beings |
+> | hīnavīriya | adj | low in energy; lacking in endurance; unenergetic; weak; feeb… |
+> | paññavant | adj | wise; intelligent; discerning; insightful; percipient |
+> | saṅgāma | masc | battle; war; fight |
+> | sīlavant | adj | virtuous; ethical; moral |
+> | posa | masc | man |
+> | kusīta | adj | lazy; slack; inactive; apathetic |
+> | vaḍḍhan (?) | ? |  |
+> | jantu | masc | man; person; being |
+> | yañce | sandhi | than if; rather than |
+> | mānusa | adj | human |
+> | hu | masc | killer; murderer; slayer |
+> | aṭṭhama | ordin | eighth (8th) |
+> | cāyaṁ | sandhi | and this; but this; than this |
+> | āyu | nt | life |
+> | duppañña | adj | foolish; stupid; unintelligent; undiscerning |
+> | asamāhita | pp | distracted; scattered; not composed |
+> | puññapekkha | adj | looking for merit; seeking spiritual wealth |
+> | yajati | pr | makes a sacrifice; sacrifices; offers alms |
+> | vassasata | nt | one hundred years; century |
+> | bala | nt | strength; power; might |
+> | jhāyi | masc | meditator; yogi |
+> | vana | nt | wood; forest; grove |
+> | saha | adj | mutual; in common |
+<!-- pali-nlp:vocab-end -->

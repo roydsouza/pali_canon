@@ -292,3 +292,69 @@ parallels:
 *the ending of all fetters.*
 *… Bhaddiyo kāḷigodhāya putto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vanamoggayha (?) | ? |  |
+> | uttasi | aor |  |
+> | khaggahattha | masc | armed guard; armed soldier |
+> | daḷhamaṭṭālakoṭṭhaka | adj | with strong watchtowers and gateways |
+> | maṇḍalipākāra | adj | with a circular enclosing wall; surrounded by a rampart |
+> | dutiyābhisecana | nt | second coronation; second inauguration |
+> | mattikāpatta | masc | clay bowl; earthenware bowl |
+> | satarājika | adj | (of gold) weighing one hundred grains; (comm) with one hundr… |
+> | sovaṇṇa | adj | golden; made of gold |
+> | satapala | adj | weighing one hundred pala measures |
+> | yathāsanthatika | masc | ascetic who sleeps on any bed; ascetic who accepts any dwell… |
+> | abbhokāsī | adj |  |
+> | khalupacchābhattī | adj |  |
+> | pattapiṇḍī | adj | eating only from the bowl |
+> | ekāsanī | adj |  |
+> | tecīvarī | adj |  |
+> | piṇḍapātī | adj | eating alms food; consuming collected alms |
+> | paṁsukūlī | adj | wearing rags from a rubbish heap |
+> | sucimaṁsūpasecana | adj | flavoured with fine meats; with a delicious meat sauce |
+> | padhārita | pp | (of clothes) worn; dressed in |
+> | yāta | pp |  |
+> | anutrāsī | adj |  |
+> | aggahi | aor | took |
+> | sosānika | masc | ascetic who lives in a cemetery; graveyard dweller |
+> | hatthigīvā | fem |  |
+> | sapadānacārī | adj | who walks from house to house to collect alms-food |
+> | sabbasaṁyojanakkhayan (?) | ? |  |
+> | kaṁsa | masc | bronze; metal |
+> | nesajjika | masc | ascetic who remains in a sitting position; upright sitter |
+> | rukkhamūlika | masc | ascetic who lives at the foot of tree; root of a tree dwelle… |
+> | godhā | fem | iguana; monitor lizard |
+> | sojja (?) | ? |  |
+> | odana | nt | rice; boiled rice; food |
+> | pāpuṇi | aor | reached; arrived (at) |
+> | paññañca (?) | ? |  |
+> | pahīnabhayabherava | adj | abandoned fear and dread; (comm) abandoned the causes of fea… |
+> | uñchāpattāgata | masc | begged scraps in the bowl; gleaned food in the bowl |
+> | āraññika | masc | forest monk; forest dwelling ascetic |
+> | sāli | masc | fine rice |
+> | rakkhita | pp | protected (by); guarded (by) |
+> | asaṁsaṭṭha | pp | not mixed-up (with); not closely associated (with); aloof |
+> | appiccha | adj | with few wishes; wanting little; having few needs; modest |
+> | pavivitta | pp | separated; secluded; detached (from) |
+> | bhutta | pp | eaten; finished eating |
+> | sīlakkhandha | masc | combination of ethical behaviours; virtuous conduct |
+> | anupādāna | adj | unattached; with no attachment; not clinging; without graspi… |
+> | ucca | adj | high; tall |
+> | anupubba | adj | gradual; step-by-step; successive |
+> | bhāvayanta | prp | cultivating; developing |
+> | bhaddiya | masc | name of an arahant |
+> | sātatika | adj | diligent; persevering; consistent; practising continuously |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | santuṭṭha | pp | satisfied; pleased; content; happy with |
+> | patiṭṭha | adj | based (on); supported (by); established (on) |
+> | sukhuma | adj | fine; subtle; refined |
+> | jhāyati | pr | thinks; thinks about |
+> | bhadda | adj | good; excellent; lucky; auspicious |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | vihari | aor | lived; remained; stayed in |
+> | āraddhavīriya | adj | energetic (in); with energy aroused (to); applying energy (t… |
+<!-- pali-nlp:vocab-end -->

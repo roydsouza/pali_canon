@@ -78,3 +78,57 @@ tags:
 **Itthaṁ sudaṁ āyasmā subhūtitthero gāthaṁ abhāsitthāti.**  
 *That is how this verse was recited by the senior venerable Subhūti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (48 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | subhūtitthera | masc | names of an arahant monk |
+> | subhūtittheragāthā | fem |  |
+> | imamatthamabhāsisuṁ (?) | ? |  |
+> | katanta | masc | finished task; end of the work |
+> | vipassitvā | abs | having seen deeply (into); having understood in detail; havi… |
+> | yathādhimutta | adj | according to inclination; as per resolve; regarding intentio… |
+> | yathādhammavihārī | adj | practicing the teaching thus; living according to the Dhamma… |
+> | yathāgotta | adj | of such lineage; of whichever family |
+> | yathānāma | adj | of such name; so called; called whatever |
+> | atthūpanāyika | adj | conducive to benefit; leading to welfare |
+> | sīhānaṁva (?) | ? |  |
+> | nidānagāthā | fem | introductory verse |
+> | paccavekkhanta | prp | reviewing; reflecting (on); contemplating; thinking (about) |
+> | dāṭhī | adj | fanged; with prominent teeth |
+> | yathāsukhaṁ | ind | as one likes; as is comfortable; according to one's pleasure |
+> | accuta | pp | everlasting; eternal; stable; epithet of Nibbāna |
+> | nadanta | prp | roaring |
+> | girigabbhara | nt | mountain cave; mountain cavern |
+> | atandita | pp | energetic; effortful; active; alert |
+> | nivāta | adj | sheltered |
+> | channa | pp | covered (with); hidden (by); concealed (by) |
+> | phusitvā | abs | having felt; having touched |
+> | kuṭika | adj | with a little hut; living in a small shack |
+> | sappañña | adj | wise; intelligent |
+> | abhāsitthā (?) | ? |  |
+> | namas | masc | reverence (to); veneration (to); homage (to) |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | itthaṁ | ind | thus; such; in this way |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | vihari | aor | lived; remained; stayed in |
+> | gātha | masc |  |
+> | pada | nt | foot |
+> | sudaṁ | ind | indeed; truly; surely |
+> | suṇāti | pr | hears |
+> | vimutta | pp | freed (from); liberated (from); emancipated (from) |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | sammāsambuddha | masc | perfectly awakened one; fully enlightened being |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | deva | masc | deity; god |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | āya | masc | coming in; income; entrance |
+> | tattha | ind | there; in that place |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | citta | nt | mind; heart |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

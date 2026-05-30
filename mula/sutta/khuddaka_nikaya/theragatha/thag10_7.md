@@ -147,3 +147,69 @@ tags:
 *Sattime dasake therā,*
 *gāthāyo cettha sattatīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | patirūpan (?) | ? |  |
+> | aṭṭhaṅgamaggamariyaṁ (?) | ? |  |
+> | anabhirati | fem | dissatisfaction; discontent (with) |
+> | asubhasaññañca (?) | ? |  |
+> | pasādaniya | adj |  |
+> | iriyāpathiya | adj |  |
+> | vāritta | nt |  |
+> | saṇṭhapana | nt |  |
+> | agārayha | ptp |  |
+> | sodhita | pp |  |
+> | ācāragocara | masc | conduct and a suitable environment |
+> | cittikāra | masc | honour; respect; devotion (towards) |
+> | apaci | aor | cooked |
+> | sagāravatā | fem |  |
+> | samādāna | nt | undertaking; taking upon oneself; perpetrating |
+> | yañcettha (?) | ? |  |
+> | avaloketi | pr |  |
+> | bhajitabba | ptp | should be associated with; should be kept company with; shou… |
+> | ājīva | masc | livelihood; mode of living; way of life; way of earning a li… |
+> | bāhusaccañca (?) | ? |  |
+> | padāleti | pr | splits; cracks; cleaves; breaks |
+> | samūlaka | adj | together with the root; roots and all |
+> | cāritta | nt | conduct; behaviour; practice; interaction |
+> | sussūsā | fem | wanting to hear; desire to listen |
+> | āyoga | masc | devotion (to); practice (of); exertion (in); pursuit (of) |
+> | adhicitta | nt | meditation; mental development; higher consciousness |
+> | ajjhupagata | pp | arrived (at); reached; come to; entered; become |
+> | āraññaka | adj | forest; wild; related to woods |
+> | pāvacana | nt | scripture; canonical text; sacred writing; doctrinal system |
+> | aniccan (?) | ? |  |
+> | panta | adj | distant; remote; very far away |
+> | appasadda | adj | quiet; silent; free from noise |
+> | anattasaññā | fem | recognition of impersonality; perception of non-self |
+> | abhisamaya | masc | complete comprehension (of); total understanding (of); compl… |
+> | pavicaya | masc |  |
+> | sīlañca (?) | ? |  |
+> | sāmañña | nt | monkhood; state of being a monk; ascetic life |
+> | yutta | pp | yoked; harnessed; saddled up |
+> | vijānāti | pr | comprehends; understands; recognises; distinguishes; is awar… |
+> | patirūpa | adj | suitable (for); proper (for); appropriate (for); befitting (… |
+> | kalyāṇa | adj | good; favourable; propitious; beneficial; lovely |
+> | senāsana | nt | housing; living place; lodging |
+> | garu | adj | heavy; onerous; weighty |
+> | bala | nt | strength; power; might |
+> | mitta | masc | friend |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | sikkhanta | prp | learning; training (in); practicing |
+> | vipula | adj | vast; extensive; expansive; massive |
+> | iddhipāda | masc | basis for success; road to power; basis for spiritual power |
+> | pajahati | pr | gives up; abandons; lets go (of) |
+> | indriya | nt | sense; mental faculty; power |
+> | saka | adj | one's own; my own |
+> | bhāveti | pr | cultivates; develops |
+> | sacca | adj | true; correct; accurate; honest; reliable |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | bojjhaṅga | masc | element of awakening; factor of enlightenment |
+> | assa | masc | horse |
+<!-- pali-nlp:vocab-end -->

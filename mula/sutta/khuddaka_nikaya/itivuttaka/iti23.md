@@ -94,3 +94,49 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti23_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pavuccatī (?) | ? |  |
+> | atthābhisamaya | masc | comprehension of what is beneficial; understanding what is g… |
+> | cattho (?) | ? |  |
+> | adhigaṇhā (?) | ? |  |
+> | samparāyikañcā (?) | ? |  |
+> | samparāyikañca (?) | ? |  |
+> | puññakiriyā | fem | making merit; meritorious deeds |
+> | diṭṭhadhammikañceva (?) | ? |  |
+> | samadhigayha | ger | obtaining; getting; acquiring |
+> | samparāyika | adj | in the next world; related to the next life; of relevance to… |
+> | pasaṁsan (?) | ? |  |
+> | appamāda | masc | alertness; care; carefulness; caution; vigilance; diligence;… |
+> | ubha | pron | both |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | diṭṭha | pp | seen; found; visible |
+> | ekadhamma | masc | one single thing |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | tiṭṭhati | pr | stands |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | bahulīkata | pp | practised often; repeated a lot; done again and again |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | bhāvita | pp | cultivated; developed |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | aya | masc | good luck; good fortune |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

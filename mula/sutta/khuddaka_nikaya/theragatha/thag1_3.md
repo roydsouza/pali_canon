@@ -38,3 +38,31 @@ tags:
 **Itthaṁ sudaṁ āyasmā kaṅkhārevato thero gāthaṁ abhāsitthāti.**  
 *That is how this verse was recited by the senior venerable Revata the Doubter.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (22 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kaṅkhan (?) | ? |  |
+> | vinayan (?) | ? |  |
+> | cakkhudada | adj | giving vision; providing clarity; bestowing understanding |
+> | ālokada | adj |  |
+> | nisītha | masc | night; midnight |
+> | kaṅkhārevata | masc | name of an arahant monk; great disciple of the Buddha; forem… |
+> | pajjalita | pp | burning; blazing; on fire |
+> | abhāsitthā (?) | ? |  |
+> | āgata | masc | guest; visitor; arriver |
+> | itthaṁ | ind | thus; such; in this way |
+> | aggi | masc | fire |
+> | gātha | masc |  |
+> | sudaṁ | ind | indeed; truly; surely |
+> | bhavan (?) | ? |  |
+> | thera | adj | old; elderly; senior |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | āya | masc | coming in; income; entrance |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

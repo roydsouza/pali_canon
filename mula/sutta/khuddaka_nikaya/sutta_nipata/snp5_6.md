@@ -148,3 +148,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_6_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | taṇhan (?) | ? |  |
+> | abyāpajjamāna | prp | unhindered; unobstructed |
+> | ākāsova (?) | ? |  |
+> | vivekadhamma | masc | nature of understanding; principle of true knowledge |
+> | karuṇāyamāna | prp | pitying; feeling compassion (for); having kindness (for unfo… |
+> | anusāsa | nt | advice (to); teaching (to); instruction (to); admonition (to… |
+> | tareti | pr | makes it across |
+> | abhijānamāna | prp | directly knowing; understanding experientially; knowing for … |
+> | brāhmaṇamiriyamānaṁ (?) | ? |  |
+> | passāmahaṁ | sandhi | I see; I understand |
+> | tenahātappaṁ (?) | ? |  |
+> | santimuttamaṁ | sandhi | highest peace; supreme tranquillity; total calm |
+> | sampajānāti | pr | is aware (of); is alert (to); knows; perceives |
+> | tañcāhaṁ | sandhi | and that I |
+> | pamocana | nt | freeing (from); liberating (from); emancipating (from); deli… |
+> | devamanussaloka | masc | world of gods and men |
+> | tiriyañcāpi (?) | ? |  |
+> | vācābhikaṅkhati | pr | longs for (your) word; desires (your) speech |
+> | abhinandati | pr | delights (in); is pleased (with); approves (of); is happy (w… |
+> | nibbānamattano | sandhi | one's own quenching; one's own going out |
+> | oghamimaṁ (?) | ? |  |
+> | mākāsi | aor | do not make; do not create; don't do |
+> | anītiha | adj | not hearsay; not mere talk; not oral tradition |
+> | pamuñca | adj | releasing; freeing |
+> | vijaññaṁ | opt | I myself may comprehend; I myself could understand |
+> | kathaṅkathī | adj |  |
+> | nigghosa | adj | silent; soundless; quiet |
+> | dhotaka | masc | name of a Brahman ascetic |
+> | kittayati | pr | explains; declares; relates |
+> | yamahaṁ | sandhi | whatever I; which I; that I |
+> | maheti | pr |  |
+> | akaci | pron | nothing |
+> | kathaṅkathā | fem | confusion; doubt; questioning |
+> | samantacakkhu | masc | all seeing one; epithet of the Buddha |
+> | sahati | pr | overpowers; overcomes; conquers; defeats |
+> | namassati | pr | worships; venerates; reveres; honours |
+> | yathāhaṁ | sandhi | so that I |
+> | asi | masc | sword; scimitar; weapon |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | tara | adj | crossing; going beyond; passing; surpassing |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | dhammañca (?) | ? |  |
+> | sutvāna | abs | having heard; having listened (to) |
+> | seṭṭha | adj | foremost; best (of); primary; most important; supreme |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | adho | ind | below; under |
+> | metaṁ | sandhi | this by me |
+> | brū | root | (gram) √brū (say) |
+> | saṅga | masc | tie; bond; snare; sticking point |
+> | uddha | adj | upper; upwards; upright |
+> | majjha | adj | middle of; mid- |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | idheva | sandhi | right here; just here; only here |
+> | ita | pp | come; gone |
+> | pucchati | pr | asks; enquires; questions (somebody about something) |
+> | diṭṭha | pp | seen; found; visible |
+> | brahma | masc | God; creator god |
+> | cara | adj | walking; going; roaming; living |
+> | karoti | pr | does; acts; performs |
+<!-- pali-nlp:vocab-end -->

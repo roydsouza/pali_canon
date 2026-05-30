@@ -48,3 +48,31 @@ tags:
 *because I’ve seen my son free of defilements.*
 *… Bhāradvājo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (22 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | anāsavan (?) | ? |  |
+> | sīhāva (?) | ? |  |
+> | nadan (?) | ? |  |
+> | savāhinī | adj | with army; with platoon; with squadron |
+> | girigabbhara | nt | mountain cave; mountain cavern |
+> | vijitasaṅgāma | adj | who has won the battle; victorious in war; epithet of the Bu… |
+> | vitta | nt | wealth; property; possession |
+> | sumana | adj | glad; happy; pleased; satisfied; cheerful |
+> | pariciṇṇa | pp | served; attended; waited on (by) |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | ahañca | sandhi | and I |
+> | sappañña | adj | wise; intelligent |
+> | vīra | adj | heroic; brave; (comm) vigorous; energetic |
+> | pūjita | pp | revered; venerated; honoured |
+> | māra | masc | death; Death; death personified |
+> | putta | masc | son; child |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | disvā | abs | having seen; having understood; having found out |
+> | sattha | masc | caravan; travel party; convoy |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

@@ -51,3 +51,30 @@ tags:
 
 *… Sumaṅgalamātā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (21 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jhāyāmī (?) | ? |  |
+> | rukkhamūlamupagamma (?) | ? |  |
+> | cicciṭī (?) | ? |  |
+> | cicciṭi | ind | hissing sound; sizzling sound |
+> | deḍḍubha | masc | snake; reptile; lizard; (comm) water snake |
+> | ukkhalikā | fem | small cooking pot |
+> | chattaka | nt | small umbrella; little sunshade; parasol |
+> | sādhumuttikāmhi (?) | ? |  |
+> | vihanati | pr | removed; eliminates; destroys; puts an end (to) |
+> | sumuttika | adj | well rid (of); happily free (from) |
+> | musala | masc | mace; club; truncheon |
+> | ahirika | adj | shameless; unashamed; without conscience |
+> | rāgañca (?) | ? |  |
+> | sukhan (?) | ? |  |
+> | dosañca (?) | ? |  |
+> | vāpī | fem | reservoir; dam; pond |
+> | aha | nt | day |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -2006,3 +2006,69 @@ parallels:
 
 *Brahmajālasuttaṁ niṭṭhitaṁ paṭhamaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | akampitthā (?) | ? |  |
+> | dasasahassī | adj | consisting of 10,000; numbering ten thousand |
+> | saṅgāmavijayotipi (?) | ? |  |
+> | diṭṭhijālantipi (?) | ? |  |
+> | brahmajālantipi (?) | ? |  |
+> | dhammajālantipi (?) | ? |  |
+> | atthajālantipi (?) | ? |  |
+> | tadanvaya | adj | following that; emulating that; conforming to that |
+> | vaṇṭapaṭibandha | adj |  |
+> | vaṇṭacchinna | adj |  |
+> | ambapiṇḍī | fem | bunch of mangoes |
+> | ottharati | pr | covers (with); spreads over (with); scatters (over) |
+> | sukhumacchika | adj |  |
+> | kevaṭṭantevāsī | masc |  |
+> | vivaṭṭakathādi (?) | ? |  |
+> | diṭṭhigatikādhiṭṭhānavaṭṭakathā | fem |  |
+> | paṭisaṁvedissantī (?) | ? |  |
+> | netaṁṭhānaṁvijjativāra | masc | section on 'this possibility does not exist' |
+> | phassapaccayāvāra | masc |  |
+> | paritassitavipphanditavāra | masc |  |
+> | attālokapaññattivatthu | nt | ground for making a declaration about the self and the world |
+> | ābhoga | masc | inclination; interest |
+> | sukhami (?) | ? |  |
+> | pītigata | nt |  |
+> | vitakkita | pp |  |
+> | vipariṇāmaññathābhāva | masc | change and alteration (of) |
+> | nevasaññānāsaññāyatanūpaga | adj | gone to the dimension of neither perception nor non-percepti… |
+> | paṇītametan (?) | ? |  |
+> | kāmāvacara | adj | related to the realm of sense desire |
+> | adukkhamasukhī | adj | neither comfortable nor suffering; neither pleasant nor unpl… |
+> | sukhadukkhī | adj | experiencing ease and discomfort; enjoying pleasure and suff… |
+> | ekantadukkhī | adj | entirely miserable; exclusively suffering |
+> | appamāṇasaññī | adj | with immeasurable perception; having limitless awareness |
+> | parittasaññī | adj | with limited perception; with restricted awareness |
+> | pubbantamārabbha | ind |  |
+> | pariṇata | pp | allocated; designated; diverted |
+> | santata | pp | continuous; consistent; uninterrupted |
+> | asaññasatta | masc | impercipient being; unconscious being |
+> | adhiccasamuppannavāda | masc | doctrine of chance occurrence |
+> | momūhatta | nt | total confusion; complete bewilderment; total stupidity; (co… |
+> | mandatta | nt | ignorance; stupidity; confusion; (comm) state of being stupi… |
+> | momūha | adj | very foolish; extremely confused; deeply deluded |
+> | anuyogaparijeguccha | adj |  |
+> | anuyogabhaya | nt |  |
+> | upādānaparijeguccha | adj |  |
+> | upādānabhaya | adj |  |
+> | musāvādaparijeguccha | adj |  |
+> | musāvādabhaya | adj |  |
+> | amarāvikkhepavāda | masc |  |
+> | antānantavāda | masc |  |
+> | padūsesi | aor |  |
+> | upanijjhāyi | aor |  |
+> | akilantacitta | adj | not mentally tired; not mentally worn out |
+> | akilantakāya | adj | not physically tired; not physically worn out |
+> | appaduṭṭhacitta | adj |  |
+> | nappadūsen (?) | ? |  |
+> | padūsen (?) | ? |  |
+> | mahesakkhatara | adj |  |
+> | vaṇṇavantatara | adj |  |
+> | dīghāyukatara | adj |  |
+<!-- pali-nlp:vocab-end -->

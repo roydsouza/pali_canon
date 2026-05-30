@@ -491,3 +491,69 @@ parallels:
 *Ekova thero gāthāyo,*
 *cattālīsa duvepi cāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cattālīsanipāta | masc |  |
+> | paññāsīsa | adj | with wisdom as the head |
+> | satipaṭṭhānagīva | adj | with attending mindfully as one's neck |
+> | tibhavābhinissaṭa | adj | escaped form the three realms of existence; released from th… |
+> | nekkhammaninna | adj | incling towards renunciation; bent towards giving up sensual… |
+> | ambu | nt | water |
+> | vimalaṁva (?) | ? |  |
+> | muḷālapuppha | nt |  |
+> | anappameyya | adj |  |
+> | nupalimpa (?) | ? |  |
+> | sadisa | adj | similar (to); same (as); resembling; like |
+> | visiṭṭhohaṁ (?) | ? |  |
+> | dhutaguṇa | masc | ascetic practice |
+> | ṭhapayitvā | abs | having placed; having put |
+> | buddhakhetta | nt | Buddha's domain |
+> | kappina | masc | name of a monk; great disciple of the Buddha; foremost disci… |
+> | pūjanāraha | adj | worthy of veneration; deserving homage |
+> | vālavedhisamāgata | adj | gathered like marksmen; assembled like snipers |
+> | dasadevasahassa | nt | ten thousand deities |
+> | tenupasobha (?) | ? |  |
+> | sīhacamma | nt |  |
+> | cetosamathamanuttaṁ (?) | ? |  |
+> | taṁsadisa | adj |  |
+> | patthaddhamānasa | adj | arrogant; dogmatic |
+> | seyyasamāna | adj | better or equal |
+> | aseyya | adj | not better (than); inferior (to); worse (than) |
+> | patthaddhagīva | adj | stiff-necked; pompous |
+> | attānampi (?) | ? |  |
+> | oṭṭhappahatamatta | nt | mere oral recitation; mere verbal repetition |
+> | anattaneyyametaṁ (?) | ? |  |
+> | migasaṅghanisevita | adj | inhabited by herds of deer |
+> | gaganāvabbhachāditā (?) | ? |  |
+> | yogakāma | adj | wanting to apply effort; (or) wishing to meditate |
+> | phāsukāma | adj | wishing ease (for); wanting comfort (for) |
+> | jhāyitukāma | adj | wanting to meditate; wishing to practice jhāna |
+> | abbhunnadita | adj |  |
+> | rammatala | nt | delightful flat; charming surface |
+> | abhivuṭṭha | pp | rained on (by); poured on (by) |
+> | vāraṇābhiruda | adj | resounding with elephants |
+> | kūṭāgāravarūpama | adj | like an excellent building with a peaked roof |
+> | nīlabbhakūṭasadisa | adj | like a dark blue summit of a stormcloud |
+> | vārisīta | adj | with cool water |
+> | kuñjarābhiruda | adj |  |
+> | karerimālāvitata | adj | spread with karira blossoms |
+> | abhirūhati | pr | ascends; mounts; climbs aboard |
+> | āruhanta | prp |  |
+> | abhisambhutvā | abs |  |
+> | pūtimuttañca (?) | ? |  |
+> | jeguccha | nt | repulsion; disgust; distaste; abhorrence |
+> | kuṭṭamūlañca (?) | ? |  |
+> | pakkhipanta | prp |  |
+> | upabbajati | pr |  |
+> | nānājanasaṅgaha | masc | supporting many people; looking after various people |
+> | acchati | pr | waits (in); remains (in) |
+> | dhammasenāpati | masc | Dhamma general; epithet of Sāriputta |
+> | puthavī | fem | earth; world |
+> | uyyama | masc |  |
+> | nānādijagaṇākiṇṇa | adj | filled with different flocks of birds |
+> | indagopakasañchanna | adj |  |
+> | sucindhara | adj | with clean streams; (comm) with pure earth |
+<!-- pali-nlp:vocab-end -->

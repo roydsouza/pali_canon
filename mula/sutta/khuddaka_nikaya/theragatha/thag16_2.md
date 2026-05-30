@@ -257,3 +257,69 @@ tags:
 *that person prospers in happiness.”*
 *… Pārāpariyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vākyānusāsanī | fem | verbal instruction; words of advice |
+> | hantvāna | abs | having killed; having slain |
+> | satipaññañca (?) | ? |  |
+> | indriyānindriyeheva (?) | ? |  |
+> | tacchanta | prp | doing carpentry work |
+> | socayitvā | abs | having caused sorrow; having caused distress |
+> | paresamabhijigīsa (?) | ? |  |
+> | uccāvacehupāyehi (?) | ? |  |
+> | maññitvā | abs | having imagined; having presumed; having supposed |
+> | kiccan (?) | ? |  |
+> | dhammatthasaṁhita | adj | concerned with the teaching and the goal |
+> | ramamānopi (?) | ? |  |
+> | tesamāvaraṇaṁ (?) | ? |  |
+> | itthisota | nt | woman's sensual charms; woman's allure; sight, sound, smell,… |
+> | phoṭṭhabbepi (?) | ? |  |
+> | itthisara | masc | woman's voice; sound of a woman |
+> | ullihanta | prp | licking; lapping up |
+> | litta | pp | smeared; stained; soiled |
+> | khuraṁva (?) | ? |  |
+> | piyanibandhana | nt | ties to loved ones; bonds of love |
+> | madhurassāda | adj | lovely tasting; providing sweet satisfaction |
+> | cittita | pp | designed; created; devised |
+> | samuggamiva (?) | ? |  |
+> | naravīrakata | adj | made by a master craftsman |
+> | pubbalohitasampuṇṇa | adj | filled with pus and blood; full of suppuration and blood |
+> | sabbehetehi (?) | ? |  |
+> | rakkhituṁ | inf | to protect; to guard; to preserve |
+> | rāgādhikaraṇaṁ | ind | because of desire; due to lust |
+> | subhānyappaṭikūlāni (?) | ? |  |
+> | tittakaggamanussaraṁ (?) | ? |  |
+> | madhuraggañca (?) | ? |  |
+> | ambila | adj | sour |
+> | anissaraṇadassāvī | adj | not seeing the escape; not aware of the exit |
+> | sotindriyañce (?) | ? |  |
+> | cakkhundriyañce (?) | ? |  |
+> | gopayanta | prp | guarding; watching; protecting |
+> | sārakkha | adj |  |
+> | indriyāneva (?) | ? |  |
+> | samācāra | masc | conduct; behaviour; activity |
+> | kimānupubbaṁ (?) | ? |  |
+> | pārāpariya | masc | name of an arahant monk |
+> | sukhamedhatī (?) | ? |  |
+> | samādhiñca (?) | ? |  |
+> | nihan (?) | ? |  |
+> | atthava | adj |  |
+> | sāratta | pp | enamoured (with); charmed (by); infatuated (with); possessed… |
+> | madhu | nt | honey |
+> | adhimucchita | pp | infatuated (with); greedy (for); strongly fixated on |
+> | anivārayanta | prp | restraining; holding back; holding in check |
+> | viheṭhayati | pr | harms; vexes; annoys; troubles |
+> | kiccakārīssa (?) | ? |  |
+> | cintā | fem | thought; speculation; conjecture |
+> | dhammagata | adj | immersed in the teaching; focused on the Dhamma |
+> | sandan (?) | ? |  |
+> | vattati | pr | proceeds; continues; goes forward; practices |
+> | niratthaka | adj | useless; worthless; pointless; meaningless; nonsensical |
+> | dukkhamanve (?) | ? |  |
+> | itthigandha | masc | smell of a woman; female scent |
+> | āṇi | fem | pin; nail |
+> | vīriyavant | adj | heroic; brave; vigorous; energetic; persistent |
+<!-- pali-nlp:vocab-end -->

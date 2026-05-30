@@ -352,3 +352,69 @@ tags:
 
 *Vīsatinipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kammāradhītaran (?) | ? |  |
+> | bhūtapa (?) | ? |  |
+> | vinītuppalavaṇṇāya (?) | ? |  |
+> | saddhammasobhana | adj | adorning the good teaching; beautifying the true doctrine |
+> | ajjaṭṭhamī (?) | ? |  |
+> | kammāradhītar | fem | smith's daughter; epithet of Subhā Therī |
+> | anugacchati | pr | follows; travels along; goes after |
+> | ariyaṭṭhaṅgika | adj | noble eightfold; distinguished eight-part |
+> | sītibhāvābhikaṅkhī | adj | longing for the cool state; aspiring for peace |
+> | raṇa | nt | conflict; trouble; harm; (comm) defilement |
+> | paccāgamissati | fut | will return (to); will come back (to) |
+> | sukkapakkhavisosana | adj | evaporating positive aspects; desiccating good qualities; wi… |
+> | raṇakara | adj | causing conflict; making strife; creating discord; (comm) in… |
+> | anantādīnava | adj | endless in danger; having infinite disadvantages |
+> | cittappamaddī | adj | overcoming the mind; overwhelming one's thoughts |
+> | ullapana | nt | bragging; boasting |
+> | maraṇabandhana | adj | (being the) bond to death; (causing) attachment to dying |
+> | bandhanīya | ptp | captivating; bewitching; enchanting; enthralling |
+> | lokāmisa | nt | worldliness; material pleasure; worldly pleasure; material d… |
+> | tāpana | nt | causing burning; scorching; distressing; causing pain |
+> | amittajanana | adj | creating enemies; breeding emnity |
+> | rogamāvaha | adj | bringing disease (to); causing illness (for) |
+> | duggatigamana | adj | leading to a state of misery; headed to a bad destination |
+> | bhīmarūpa | adj | terrible in appearance; dreadful in form; aweful in aspect |
+> | mohanāmukha | adj | (being) an entrance to delusion; (being) a commencement to c… |
+> | suvisama | adj | very rough; extremely bumpy; exceptionally uneven |
+> | aggikkhandhūpama | adj | like a bonfire; comparable to a mass of fire |
+> | saṅgacchi | aor | met (with); encountered |
+> | khemaṭṭhāna | nt | place of safety; secure place; sheltered location; epithet o… |
+> | anagārūpanissaya | masc | supports for the homeless wanderer; requites of a monk |
+> | sallabandhana | adj | binding one to barbs; (or) arrows and bonds |
+> | parikkhīyan (?) | ? |  |
+> | hiraññasuvaṇṇa | nt | unwrought and wrought gold; raw gold and gold coins |
+> | adhipanna | pp | seized (by); assailed (by); overpowered (by) |
+> | pariklesa | masc | pain; trouble; hardship; calamity |
+> | saṅkiliṭṭhamana | adj | with defiled minds; with tainted hearts; dirty-minded |
+> | bahuāyāsa | adj | intensely troublesome; exceedingly problematic; highly affli… |
+> | rajavaḍḍhana | nt | increasing of dirt; proliferating of impurity |
+> | madanañcetaṁ (?) | ? |  |
+> | lobhana | nt | alluring; enticing; attracting; seducing |
+> | ariyaddhana | nt | noble riches; wealth of the noble |
+> | samaṇasāruppa | adj | suitable for an ascetic; appropriate for a monastic |
+> | punarāgamati | pr | returns (to); comes back (to) |
+> | ākiñcaññañhi (?) | ? |  |
+> | sāpateyyamanappakaṁ (?) | ? |  |
+> | pahāyahaṁ (?) | ? |  |
+> | gāmakhetta | nt | village and fields; (or) village fields |
+> | dāsakammakara | nt | slaves and workers; servants and labourers |
+> | ñātigaṇa | masc | group of relatives; family circle |
+> | hitvānahaṁ (?) | ? |  |
+> | pīhayati | pr | desires; longs (for); yearns (for) |
+> | nekkhammameva (?) | ? |  |
+> | aratimajjhagaṁ (?) | ? |  |
+> | dhammamassuṇiṁ (?) | ? |  |
+> | suddhavasana | adj | wearing pure white; dressed in white cloth |
+> | daharāhaṁ (?) | ? |  |
+> | mahāvisa | adj | highly poisonous; extremely toxic; very venomous |
+> | kāmahetukaṁ | ind | on account of sensual pleasures; due to sensual desire |
+> | amitta | masc | enemy; foe |
+> | amittāva (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

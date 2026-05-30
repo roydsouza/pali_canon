@@ -261,5 +261,71 @@ tags:
 *not grasping to this life or the next,*
 **Sa bhāgavā sāmaññassa hoti.**  
 *they share in the blessings of the ascetic life.*
-**Yamakavaggo paṭhamo.**  
+**Yamakavaggo paṭhamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | gaṇayanta | prp | counting; calculating |
+> | gopova (?) | ? |  |
+> | bahumpi (?) | ? |  |
+> | kammavisuddhimattano | sandhi | one's own pure deeds |
+> | pamoda | masc | happiness; gladness; joy |
+> | kammakiliṭṭhamattano | sandhi | one's own dirty deeds; one's own corrupt actions |
+> | suchanna | adj | well-thatched; properly roofed |
+> | adhigacchan (?) | ? |  |
+> | asārañca (?) | ? |  |
+> | sārañca (?) | ? |  |
+> | micchāsaṅkappagocara | adj | ranging in wrong notions; in the field of incorrect concepts |
+> | cāsāradassino (?) | ? |  |
+> | sāramatī | adj | who perceive essence (in); believing there is substance (in)… |
+> | paridahissa (?) | ? |  |
+> | selaṁva (?) | ? |  |
+> | pasahati | pr | overcomes; overpowers; conquers |
+> | cāmattaññuṁ (?) | ? |  |
+> | sukhamanve (?) | ? |  |
+> | cakkaṁva (?) | ? |  |
+> | yamakavagga | masc |  |
+> | sammappajāna | adj | knowing perfectly; clearly comprehending; perfectly understa… |
+> | bhāgavant | adj | having a part (in); sharing (in); partaking (in); profiting … |
+> | saṁhita | pp | connected (with); concerning; having |
+> | katapuñña | adj | who has made merit; who has done good; has gained spiritual … |
+> | pāpakārī | adj | bad; wicked; evil-doing; who does wrong |
+> | ducchanna | adj | badly-thatched; poorly-roofed |
+> | sammāsaṅkappagocara | adj | ranging in right notions; in the field of correct concepts |
+> | nādhigacchan (?) | ? |  |
+> | vantakasāva | adj | free from impurity; without corruption |
+> | apeta | pp | without; devoid (of); free (from); -less |
+> | anikkasāva | adj | impure; corrupt; filthy |
+> | nappasaha (?) | ? |  |
+> | rukkhaṁva (?) | ? |  |
+> | subhānupassī | adj | observing beauty; perceiving as beautiful |
+> | sammantīdha (?) | ? |  |
+> | tesūpasamma (?) | ? |  |
+> | nupanayhan (?) | ? |  |
+> | upanayhan (?) | ? |  |
+> | manoseṭṭha | adj | with mind as chief; ruled by mind |
+> | suvimuttacitta | adj | with well liberated mind; with completely free heart |
+> | appampi | sandhi | even a little |
+> | suggati | fem | state of happiness; good destination; heaven |
+> | katan (?) | ? |  |
+> | dukkhamanve (?) | ? |  |
+> | paduṭṭha | pp | bad; wicked; evil; corrupt |
+> | anupādiyāna | prp | not attaching (to); not taking as mine; not grasping (onto);… |
+> | damasacca | nt | self-restraint and truth; self-control and honesty |
+> | yamati | pr | dies |
+> | sanantana | adj | eternal; perpetual; everlasting; ancient |
+> | ajini | aor | overpowered; robbed; defeated |
+> | avadhi | aor | beat; struck; hurt |
+> | akkocchi | aor | verbally abused |
+> | anapāyī | adj | never leaving; always following |
+> | chāyāva (?) | ? |  |
+> | manopubbaṅgama | adj | led by mind; preceded by mind; headed by mind; with mind as … |
+> | dubbala | adj | frail; weak; feeble |
+> | asubhānupassī | adj | observing ugliness; seeing unattractiveness |
+> | kāsāvamaraha (?) | ? |  |
+> | kāsāva | adj | organic brown; colour of Buddhist monks' robes |
+> | mattaññū | adj | knowing the correct measure (in); knowing the limit (in); mo… |
+<!-- pali-nlp:vocab-end -->

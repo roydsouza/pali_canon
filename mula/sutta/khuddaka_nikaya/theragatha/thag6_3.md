@@ -92,3 +92,33 @@ tags:
 *in the teaching of the Dhamma king.*
 *… Mahānāgo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (24 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bavhodaka | nt | large body of water |
+> | bījaṁva (?) | ? |  |
+> | virūhati | pr | grows; develops; sprouts |
+> | appodaka | nt | little water; small amount of water |
+> | nūpalabbha (?) | ? |  |
+> | parihāyati | pr | dwindles; decreases; deteriorates; wastes away |
+> | maccha | masc | fish |
+> | gārava | masc | respect; reverence; esteem; value |
+> | bhaddaka | adj | fine; good quality; excellent; valuable; auspicious |
+> | viha | masc | sky; air |
+> | pūtika | adj | rotten; spoiled; decayed |
+> | dhammarāja | masc | just king; righteous ruler; benign dictator |
+> | āraka | adj | distant; away from; far from |
+> | upalabbhati | pr | is found (in); exists (in); is present (in) |
+> | khetta | nt | field; plot of land |
+> | sabrahmacāri | masc | fellow monk; spiritual companion |
+> | saddhamma | masc | good teaching; true doctrine; true nature of things; (comm) … |
+> | sāsana | nt | message; letter |
+> | santika | adj | near; close |
+> | nibbāna | nt | (of fire) extinguishing; quenching; going out |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

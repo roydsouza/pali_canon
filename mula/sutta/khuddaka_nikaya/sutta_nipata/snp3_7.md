@@ -687,3 +687,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_7_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dantamha (?) | ? |  |
+> | mukhan (?) | ? |  |
+> | sāgara | masc | ocean |
+> | chandas | masc | metre; prosody |
+> | aggihuttamukha | adj | headed by the fire sacrifice; with the fire oblation foremos… |
+> | vasīkatvā | abs | having mastered; having subdued; having brought under contro… |
+> | tamanuvatte (?) | ? |  |
+> | bhogirāja | masc | wealthy man and ruler; headman and king |
+> | abhitthaveyyan (?) | ? |  |
+> | pātukarontī (?) | ? |  |
+> | aparipuṇṇa | pp | incomplete; not whole; without a full set (of) |
+> | nalāṭamaṇḍala | nt | front of the forehead |
+> | nāsikasota | nt | nostril |
+> | ninnāmetvā | abs | (of the tongue) having stuck out; having put out |
+> | abhisaṅkhāsi | aor | (of a miracle) made; performed; worked |
+> | iddhābhisaṅkhāra | masc | performance of supernormal ability; display of psychic power |
+> | samannesi | aor | looked (for); searched (for); sought (for) |
+> | āgamentū (?) | ? |  |
+> | kathāpariyosāna | nt | end of the talk; conclusion of the discussion |
+> | opāteti | pr | prompts; recites the first syllable together; (comm) talks t… |
+> | antarantarā | ind | now and then; occasionally |
+> | manteti | pr | advises; consults; counsels (with) |
+> | durāsada | adj | hard to approach; difficult to assault; hard to attack |
+> | nīlavanarāji | fem | row of dark green forest |
+> | yenesā (?) | ? |  |
+> | bāhu | masc | arm; forearm |
+> | sāgarapariyanta | adj | bounded by the ocean; surrounded by the sea |
+> | parasenappamaddana | adj | crushing the armies of others |
+> | vīraṅgarūpa | adj | with qualities of a hero |
+> | pariṇāyakaratanameva (?) | ? |  |
+> | tassimāni | sandhi | for him these |
+> | anañña | pron | not another; no other |
+> | panamhākaṁ (?) | ? |  |
+> | ghosopi (?) | ? |  |
+> | balakāya | masc | army; armed forces |
+> | balakāyenā (?) | ? |  |
+> | paṭiyādeti | pr | organises; arranges; prepares |
+> | anavaya | adj | master (of); complete (in); fully versed (in) |
+> | lokāyatamahāpurisalakkhaṇa | nt | materialistic philosophy and the auspicious marks of a great… |
+> | padaka | masc | philologist; lexicographer; etymologist; who can recite the … |
+> | itihāsapañcama | adj | with legendary tales as the fifth |
+> | sākkharappabheda | adj | with phonology and etymology; with articulation and explanat… |
+> | sanighaṇḍukeṭubha | adj | with their dictionaries and liturgies; with the vocabularies… |
+> | paṭiyāde (?) | ? |  |
+> | patiṭṭhāpen (?) | ? |  |
+> | dhovan (?) | ? |  |
+> | phālen (?) | ? |  |
+> | kareyyāthā (?) | ? |  |
+> | kāyaveyyāvaṭika | nt | physical assistance; manual service |
+> | sattaratta | nt | week; seven days |
+> | saraṇamāgā | imperf | went for refuge; took shelter |
+> | kaṇhābhijātika | adj | of low birth; belonging to a inferior social class |
+> | nappasīdati | pr | does not gain confidence; distrusts |
+> | sabbāmittā | masc | all enemies; every foe |
+> | bhāvetabbañca (?) | ? |  |
+> | abhiññeyya | ptp | should be understood; should be taken; should be interpreted |
+> | anuvatta | nt | chore; task; job |
+> | satthuranvaya | adj | emulating the teacher; following the master |
+> | senāpa (?) | ? |  |
+> | rājāhamasmi (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

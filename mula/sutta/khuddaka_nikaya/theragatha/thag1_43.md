@@ -45,3 +45,25 @@ tags:
 *Stay heedful, Sumaṅgala!*
 *… Sumaṅgalo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (16 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | khuddakuddālā | fem | small spade; little hoe |
+> | naṅgalā | fem | plough |
+> | sumuttikomhi (?) | ? |  |
+> | alameva | sandhi | it is enough (to); it is quite enough (to) |
+> | idhameva (?) | ? |  |
+> | yadipi (?) | ? |  |
+> | khujjaka | adj | hunched; stooped; humpbacked |
+> | sāhu | ind | good; excellent |
+> | sumaṅgala | adj | very auspicious; propitious; beneficial |
+> | sumuttika | adj | well rid (of); happily free (from) |
+> | asita | pp | eaten |
+> | jhāyati | pr | thinks; thinks about |
+> | vāpī | fem | reservoir; dam; pond |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

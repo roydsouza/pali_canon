@@ -52,3 +52,30 @@ tags:
 *and every deed they do.*
 *… Jotidāso thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (21 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pakubbatī (?) | ? |  |
+> | kīran (?) | ? |  |
+> | pharusūpakkama | adj | using rough means; with violent methods |
+> | uparundhan (?) | ? |  |
+> | nānatta | nt | diversity; variety; multiplicity |
+> | veṭhamissa | masc | using straps; employing ropes |
+> | dāyāda | masc | heir (of); inheritor (of) |
+> | tepi | sandhi | they too; and those too |
+> | kalyāṇa | adj | good; favourable; propitious; beneficial; lovely |
+> | panassati | pr | is lost; is destroyed; perishes; is ruined |
+> | tasseva | sandhi | just for him; even for him; just that alone |
+> | tattheva | sandhi | right there; in that place; on the spot; there and then |
+> | nara | masc | man; person |
+> | kara | adj | doing; making |
+> | yadi | ind | if; even; even if; perhaps |
+> | manussa | masc | human being; man; person |
+> | jana | masc | man; person; fellow |
+> | kamma | nt | action; deed; doing |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

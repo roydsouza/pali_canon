@@ -42,3 +42,30 @@ tags:
 **Itthaṁ sudaṁ āyasmā puṇṇo mantāṇiputto thero gāthaṁ abhāsitthāti.**  
 *That is how this verse was recited by the senior venerable Puṇṇa son of Mantāṇī.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (21 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | samadhigacchan (?) | ? |  |
+> | paṇḍitehatthadassibhi (?) | ? |  |
+> | samāsati | pr | associates (with); keeps close company (with) |
+> | sabbhireva | sandhi | only with the wise; just with the virtuous |
+> | mantāṇiputta | masc | family name of a Sakyan arahnt monk; great disciple of the B… |
+> | vicakkhaṇa | adj | attentive; vigilant; watchful |
+> | aṇu | adj | small; tiny; minute; minuscule |
+> | puṇṇa | pp | filled (with); full (of) |
+> | duddasa | adj | difficult to see; hard to perceive; difficult to understand |
+> | nipuṇa | adj | fine; subtle |
+> | abhāsitthā (?) | ? |  |
+> | gambhīra | adj | deep |
+> | itthaṁ | ind | thus; such; in this way |
+> | mahati | adj | in great; in large; in powerful; in grand; in mighty; in vas… |
+> | gātha | masc |  |
+> | sudaṁ | ind | indeed; truly; surely |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | thera | adj | old; elderly; senior |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | attha | masc | meaning; sense; significance |
+> | āya | masc | coming in; income; entrance |
+<!-- pali-nlp:vocab-end -->

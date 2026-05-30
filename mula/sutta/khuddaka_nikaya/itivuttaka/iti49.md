@@ -149,3 +149,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti49_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nāgacchati | pr | does not arrive (at); does not return (to) |
+> | bhūtapariñña | adj | completely comprehending reality; fully understanding existe… |
+> | yāthāvan (?) | ? |  |
+> | bhaveneva (?) | ? |  |
+> | bhavasammudita | adj | pleased with being; enjoying existence; happy to be |
+> | bhavarata | adj | delighted with being; enjoying existence; taking pleasure in… |
+> | bhavārāma | adj | enjoying being; taking pleasure in existence; fond of life |
+> | pariyuṭṭhita | pp | obsessed (with); consumed (by); possessed (by); overwhelmed … |
+> | harāyamāna | prp | being ashamed (of); being humiliated (by); being worried (by… |
+> | aṭṭīyamāna | prp | being troubled (by); being perturbed (by) |
+> | desiyamāna | prp | being preached (by); being taught (by); being explained (by) |
+> | vimuccan (?) | ? |  |
+> | jigucchamāna | prp | detesting; being disgusted (by); being sick (of); being repu… |
+> | olīyan (?) | ? |  |
+> | abhinandan (?) | ? |  |
+> | nādhimucca (?) | ? |  |
+> | punabbhavan (?) | ? |  |
+> | atidhāvan (?) | ? |  |
+> | atikkama | masc | surpassing; transcending; going beyond; overcoming (of) |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | bhavataṇhā | fem | craving for becoming; craving for existence; (or) craving (f… |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | pakkhanda | adj | jumping (into); leaping (into) |
+> | passan (?) | ? |  |
+> | ucchijjati | pr | is destroyed; is annihilated |
+> | pasīdati | pr | is bright; is calm; becomes clear |
+> | vinassati | pr | perishes; is destroyed |
+> | bhavanirodha | masc | ending of becoming; cessation of being; end of existence; (c… |
+> | diṭṭhigata | nt | (wrong or false) belief; misconception; theory; dogma; doctr… |
+> | vibhava | masc | decline; loss; regress |
+> | santiṭṭhati | pr | remains still; stands still; settles down |
+> | passanta | prp | seeing |
+> | paneke | sandhi | but some (of); and some (of) |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | parikkhaya | masc | exhaustion (of); destruction (of); extinction (of); depletio… |
+> | bhūta | pp | existing; born; living |
+> | devamanussā | masc | gods and human beings; deities and men |
+> | kirati | pr |  |
+> | paṭipanna | pp | practising (for) |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | paṇīta | pp | (of food) fine; delicious; excellent |
+> | virāga | masc | fading of desire (for); dispassion (towards); detachment (fr… |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | kathañca | sandhi | and how? |
+> | bheda | masc | death |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | disvā | abs | having seen; having understood; having found out |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | attha | masc | meaning; sense; significance |
+> | yathābhūta | adj | as it is; in reality; of such nature |
+> | suta | pp | heard |
+> | para | pron | other; another (person) |
+<!-- pali-nlp:vocab-end -->

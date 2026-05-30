@@ -94,3 +94,54 @@ parallels:
 *you rightly discern the Dhamma.*
 *… Kullo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (45 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ñāṇadassanapatti | fem | reaching total understanding; getting understanding and insi… |
+> | paggharati | pr | drips; trickles; oozes |
+> | uggharati | pr |  |
+> | kimihī | masc | by worms; by maggots |
+> | khajjanta | prp | being nibbled (by); being eaten (by); being devoured (by) |
+> | itthimujjhitaṁ (?) | ? |  |
+> | abhinandita | nt | object of pleasure; delight (of) |
+> | turiya | nt | instrumental music |
+> | paccavekkhi | aor | reviewed; reflected (on); contemplated |
+> | vipassanta | prp | seeing deeply (into); seeing discriminatively; understanding… |
+> | apaviddha | pp | discarded; rejected; abandoned; neglected |
+> | dhammādāsa | masc | mirror of the Dhamma |
+> | pūti | adj | fermented; foul-smelling; fetid; stinking; rotten; putrid |
+> | gahetvāna | abs | having taken; having brought |
+> | santarabāhira | adj | inside and outside |
+> | phuṭa | pp | permeated (with); pervaded (with); suffused (with); filled (… |
+> | ātura | adj | sick; diseased; ill; unhealthy |
+> | susāna | nt | burial ground for bones of cremated corpses; cemetery |
+> | tuccha | adj | empty; hollow; void; (comm) with nothing inside |
+> | sivathikā | fem | charnel ground |
+> | samussaya | masc | body |
+> | ekaggacitta | adj | with a unified mind; with a collected mind |
+> | gantvā | abs | having gone (to); having travelled (to) |
+> | pañcaṅgika | adj | consisting of five parts; five-factored |
+> | asuci | adj | impure; unclean; filthy; foul; disgusting |
+> | kulla | masc | boat; raft |
+> | rati | fem | love (for); liking (for); enjoyment (of); delight (in) |
+> | adho | ind | below; under |
+> | addasa | aor | saw |
+> | uddha | adj | upper; upwards; upright |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | paccha | adj |  |
+> | diva | masc | heaven; sky above |
+> | pura | nt | fortified town; castle; fortress |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | ratti | fem | night |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | tatha | adj | true; real; actual |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | eta | pron | this |
+> | ka | pron | who?; what?; which? |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+<!-- pali-nlp:vocab-end -->

@@ -91,3 +91,62 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti85_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (53 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vitakkāsaya | masc | tendency to thought |
+> | sūpaṭṭhititā | fem | fact of being well established; fact of being fully present |
+> | yogātiga | adj | who has overcome the bond; who has transcended bondage |
+> | uppajjatī (?) | ? |  |
+> | sūpaṭṭhita | adj | well established; fully engaged (in) |
+> | sammaddasa | adj | seeing correctly; understanding perfectly |
+> | asubhānupassī | adj | observing ugliness; seeing unattractiveness |
+> | abhiññāvosita | adj | who has attained perfect understanding; who has completely u… |
+> | ānāpānassati | fem | mindfulness while breathing in and out; mindfulness during i… |
+> | sabbasaṅkhāra | masc | all activities; all processes; all conditions; all fabricati… |
+> | vighātapakkhika | adj | troublesome; afflictive |
+> | paṭissata | pp | self-aware; thoughtful; mindful |
+> | sabbadā | ind | always; at all times |
+> | aniccānupassī | adj | observing impermanence (of); watching instability (of) |
+> | sabbasaṅkhārasamatha | masc | stilling of all processes; calming of all activities |
+> | subha | adj | beautiful; attractive |
+> | rāgānusaya | masc | underlying tendency towards desire |
+> | dhātu | fem | state; property; condition; element |
+> | parimukhaṁ | ind | as first priority; to the fore; (comm) directed towards the … |
+> | ānāpāna | nt | inhaling and exhaling; breathing in and out; in breath and o… |
+> | pahīyati | pr | is abandoned; is given up |
+> | vimuccati | pr | is released (from); is free (from) |
+> | hoti | pr | is; becomes |
+> | bāhira | adj | outer; external |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | passa | nt | (of the body) side; rib |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | vijjanta | prp | existing |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | avoca | aor | said (something to somebody) |
+> | hon (?) | ? |  |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | ajjhatta | adj | inner; internal; personal; in oneself |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | tattha | ind | there; in that place |
+> | tvaṁ | pron | you (subject) |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

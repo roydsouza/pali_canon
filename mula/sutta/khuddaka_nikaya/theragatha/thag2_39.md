@@ -48,3 +48,29 @@ tags:
 *and attained the ending of defilements.*
 *… Usabho thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ditta | pp |  |
+> | hatthikkhandha | masc | elephant's back; shoulder of an elephant |
+> | ambapallavasaṅkāsa | adj | resembling a mango sprout |
+> | hatthigīvā | fem |  |
+> | alabhi | aor |  |
+> | oruyha | ger | descending; going down |
+> | aṁsa | masc | share; portion; part |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | saṁvega | masc | dismay; anxiety; sense of urgency |
+> | katvāna | abs | having done |
+> | tadā | ind | then; at that time |
+> | cīvara | nt | robe; cloth; robe-cloth |
+> | sohaṁ | sandhi | that, I; so, I |
+> | pāvisi | aor | entered; went (into) |
+> | gāma | masc | village; hamlet |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | piṇḍa | masc | ball; lump |
+> | santa | prp | existing; being; there is |
+> | nisinna | pp | seated (in) |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

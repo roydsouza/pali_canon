@@ -88,3 +88,48 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti65_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (39 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sucaritānī (?) | ? |  |
+> | akatvākusalaṁ (?) | ? |  |
+> | dosasaṁhita | adj | faulty; corrupt; defective |
+> | yañcaññaṁ (?) | ? |  |
+> | upapajjatī (?) | ? |  |
+> | vacīsucarita | nt | good verbal conduct |
+> | manosucarita | nt | good mental conduct; wholesome thought |
+> | kāyasucarita | nt | good physical conduct; virtuous bodily behaviour |
+> | tīṇimāni | sandhi | these three |
+> | sucarita | adj | good; right; moral |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | katvāna | abs | having done |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | sappañña | adj | wise; intelligent |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | sagga | adj | heavenly |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | ayampi | sandhi | one too; this too |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

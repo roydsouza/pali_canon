@@ -78,3 +78,46 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti2_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (37 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | duṭṭha | pp | wicked; evil; bad; corrupt |
+> | anāgāmitāyā (?) | ? |  |
+> | kudācanan (?) | ? |  |
+> | punāyan (?) | ? |  |
+> | vipassī | masc | name of the 6th previous Buddha |
+> | pajahan (?) | ? |  |
+> | anāgāmitā | fem | non-returning |
+> | sammadaññā | ger | perfectly understanding; completely comprehending |
+> | pāṭibhoga | masc | guarantor; warrantor; assurer |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | pajahati | pr | gives up; abandons; lets go (of) |
+> | duggati | fem | state of misery; bad destination; hell |
+> | ekadhamma | masc | one single thing |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | aha | nt | day |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | satta | card | seven (7) |
+> | tvaṁ | pron | you (subject) |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

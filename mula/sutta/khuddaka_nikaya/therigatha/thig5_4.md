@@ -85,3 +85,53 @@ parallels:
 
 *… Sundarīnandā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (44 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dakkhi | aor | saw |
+> | abhinibbijjha | ger | completely penetrating; totally piercing through |
+> | avekkhanta | prp | seeing; regarding; viewing; considering |
+> | virajjahaṁ (?) | ? |  |
+> | nibbindahaṁ (?) | ? |  |
+> | upasantāmhi (?) | ? |  |
+> | abhinandita | nt | object of pleasure; delight (of) |
+> | rattindivamatandita | adj | applying effort day and night; continously active |
+> | vicinanta | prp | collecting; picking; selecting |
+> | pūti | adj | fermented; foul-smelling; fetid; stinking; rotten; putrid |
+> | asubha | adj | ugly; disgusting; foul; unattractive |
+> | santarabāhira | adj | inside and outside |
+> | ajjhattañca | sandhi | internally and |
+> | ātura | adj | sick; diseased; ill; unhealthy |
+> | duggandha | adj | foul smelling; fetid; malodorous; stinky |
+> | pūtika | adj | rotten; spoiled; decayed |
+> | ekagga | adj | unified; collected |
+> | samussaya | masc | body |
+> | asuci | adj | impure; unclean; filthy; foul; disgusting |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | visaṁyutta | pp | detached (from); disengaged (from); disentangled (from); unf… |
+> | nanda | masc | name of a deity |
+> | diṭṭha | pp | seen; found; visible |
+> | evametaṁ | sandhi | so it is; just like that; exactly like that |
+> | saka | adj | one's own; my own |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | tatha | adj | true; real; actual |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | bhāva | masc | state; condition; characteristic; nature |
+> | yathābhūta | adj | as it is; in reality; of such nature |
+> | kāya | masc | body; physical body; physical process |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | eta | pron | this |
+> | aya | masc | good luck; good fortune |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

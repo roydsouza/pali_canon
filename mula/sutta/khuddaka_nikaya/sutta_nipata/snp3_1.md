@@ -308,3 +308,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_1_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | rañjanta | prp |  |
+> | abhipatthayanta | prp | longing (for); hoping (for); craving (for); aspiring (for) |
+> | niketī | adj |  |
+> | dhanaviriyena (?) | ? |  |
+> | nāgasaṅghapurakkhata | adj | at the head of an elephant squadron |
+> | anīkagga | nt |  |
+> | sobhayanta | prp | adorning; gracing; embellishing; beautifying |
+> | vaṇṇāroha | masc | beauty and height; appearance and stature |
+> | susu | adj | young; of tender age |
+> | paṭhamuppattika | adj | in the first stage of life; young; in one's prime |
+> | cāsi (?) | ? |  |
+> | pattika | masc | foot soldier; infantryman |
+> | yāyitvā | abs | having gone (to); having travelled (to) |
+> | yānabhūmi | fem |  |
+> | paṇḍavapabbata | masc | name of a mountain near Rājagaha |
+> | bhaddayāna | nt | fine coach; stylish chariot |
+> | dūtavacana | nt | messenger's report; what the messenger said |
+> | byagghusabhova (?) | ? |  |
+> | puratthato | ind | before; in front (of) |
+> | paṭivedayi | aor | informed; reported (to); made known (to) |
+> | apūresi | aor |  |
+> | rājadūta | masc | royal messanger; king's envoy |
+> | pesita | pp | sent; sent out; dispatched (by) |
+> | rājadūtābhidhāvantu (?) | ? |  |
+> | nīcakulāmiva (?) | ? |  |
+> | yugamattañca (?) | ? |  |
+> | lakkhaṇasampanna | adj |  |
+> | tamaddasā | imperf | saw him |
+> | ākiṇṇavaralakkhaṇa | adj | covered in excellent auspicious marks |
+> | parisodhayi | aor | cleansed; purified |
+> | abbhokāsova (?) | ? |  |
+> | rajassāyatana | nt | field of dirt; realm of dust |
+> | sambādhoyaṁ (?) | ? |  |
+> | taramānarūpa | adj | in a great hurry; hurrying quickly; hurriedly |
+> | piṇḍacāra | masc | going for alms round; alms wandering |
+> | abhihāreti | pr |  |
+> | ājīva | masc | livelihood; mode of living; way of life; way of earning a li… |
+> | vivajjayi | aor | avoided; shunned; eschewed; abandoned |
+> | vīmaṁsamāna | prp | investigating; examining; testing; scrutinizing |
+> | sākiya | adj | of the Sakyan clan |
+> | oruyha | ger | descending; going down |
+> | vāsūpagata | adj | staying; living; residing |
+> | gamissa (?) | ? |  |
+> | caraṇa | nt | behaviour; conduct; (theory and) practice |
+> | okkhittacakkhu | adj | with down-cast eyes; with lowered gaze |
+> | jātimant | adj | genuine; of good origin |
+> | agamā | imperf | went (to); came (to) |
+> | abhirūpa | adj | beautiful; handsome; lovely; of fine form |
+> | kāmesvādīnava | masc | danger in sensual pleasures; drawback of sensuality |
+> | pabbajitomhi | sandhi | I am ordained (in); I am a monk (in) |
+> | paṇḍava | nt | name of a mountain near Rājagaha |
+> | brahanta | adj | big; huge; large; enormous; (comm) with large girth |
+> | bimbisāra | masc | name of a Magadhan king |
+> | pabbajitvāna | abs | having ordained (in); having renounced the household life |
+> | samarocayi | aor | chose; preferred |
+> | sapadāna | adj | systematic; successive; methodical |
+> | anubandhi | aor | followed; trailed |
+> | niyyati | pr | is lead (to); is carried (to) |
+> | pekkha | adj | looking (for); seeking |
+> | ekova | sandhi | alone |
+<!-- pali-nlp:vocab-end -->

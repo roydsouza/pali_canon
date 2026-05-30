@@ -231,3 +231,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_9_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | aggahesi | aor | took; kept |
+> | saññañca (?) | ? |  |
+> | saññāviratta | adj | detached from perception; indifferent to concepts |
+> | anūpanīta | pp | not led (into); not brought (into) |
+> | tammaya | adj | identified (with) |
+> | mānameti | pr | becomes conceited |
+> | muti | fem | opinion; thought; belief |
+> | diṭṭhiyāyaka | masc | who follows a view; who goes by belief |
+> | santivāda | adj | (proponent of) doctrine of peace; professing peace |
+> | canūpalittaṁ (?) | ? |  |
+> | kaṇḍakavārijaṁ (?) | ? |  |
+> | jalambuja | nt | aquatic lotus; white lotus |
+> | uggayha | ger | taking up; grasping; embracing; holding (onto); taking a sta… |
+> | apurakkharāna | prp | not preferring; not choosing |
+> | aniketasārī | adj | wandering homeless; roaming without an abode |
+> | paṭisaṁyujeyya | opt | (of an argument) would start; would begin; would engage (in) |
+> | avikampamāna | prp | unshaken (by); unstirred (by); unaffected (by); unruffled (b… |
+> | aṇumpi (?) | ? |  |
+> | pamohamāgā | imperf | became confused; was baffled; was bewildered (about) |
+> | anupucchamāna | prp | asking; enquiring; questioning (somebody about something) |
+> | diṭṭhañca (?) | ? |  |
+> | momuhameva (?) | ? |  |
+> | nissajjati | pr |  |
+> | adassi | aor | saw; has seen |
+> | passañca (?) | ? |  |
+> | bhavūpapattiñca (?) | ? |  |
+> | narinda | masc | ruler of men; lord of men; king; chief |
+> | etādisañce (?) | ? |  |
+> | samphusituṁ | inf | to touch; to bring into contact (with) |
+> | pādāpi (?) | ? |  |
+> | muttakarīsapuṇṇa | adj | full of urine and excrement |
+> | kimevidaṁ | sandhi | what is this?; what about this? |
+> | ragañca (?) | ? |  |
+> | ghaṭṭayanta | prp | colliding; conflicting; clashing; offending |
+> | jala | nt | water |
+> | maññāmahaṁ (?) | ? |  |
+> | asīlatā | fem | free from moral conduct |
+> | añāṇa | nt | without knowing; without understanding; without insight |
+> | assuti | fem | without learning |
+> | adiṭṭhi | fem | without view; no belief |
+> | ajjhattasanti | fem | inner peace; inner calm; tranquility in oneself |
+> | patthita | pp | wished for (by); sought after (by); desired (by) |
+> | anissā | fem |  |
+> | diṭṭhiñca (?) | ? |  |
+> | momuha | adj | very foolish; completely confused; totally deluded; entirely… |
+> | suti | fem | learning; sacred knowledge |
+> | neyya | ptp | could be led astray (by); could be misguided (by) |
+> | suddhimāha (?) | ? |  |
+> | nāddasa | aor | did not see |
+> | paccen (?) | ? |  |
+> | vivadati | pr | disagrees (with); disputes (with); argues (with); quarrels (… |
+> | yametamatthaṁ | sandhi | whatever this means; concerning this matter |
+> | pavedita | pp | taught; explained; proclaimed; made known |
+> | abbata | adj | without religious practice; without ritual observances; not … |
+> | oka | masc | home; abode |
+> | pacinanta | prp | picking; plucking; collecting |
+> | kīdisa | adj | of what kind?; how is it?; what is it like? |
+> | agiddha | pp | without greed; without desire |
+> | paññāvimutta | adj | liberated by understanding; emancipated by insight |
+> | sīlabbatenāpi (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

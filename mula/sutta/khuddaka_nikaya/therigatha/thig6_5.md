@@ -95,3 +95,66 @@ tags:
 
 *… Anopamā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (57 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | lokajeṭṭha | masc | supreme in the world; most distinguished among men; epithet … |
+> | aṭṭhaguṇaṁ | ind | eight times |
+> | tulita | pp | weighed |
+> | yattaka | adj | however much; however many |
+> | pesayi | aor | sent; dispatched |
+> | gijjhita | pp | greedily desired (by); lusted after (by) |
+> | atraja | adj |  |
+> | vaṇṇarūpa | nt | outward appearance; external form |
+> | bahuvitta | adj | very rich; having many possession; with lots of property |
+> | anopama | adj | incomparable; unparalleled; peerless |
+> | seṭṭhiputta | masc | son of a business executive; son of a wealthy man |
+> | phusayi | aor | experienced; attained |
+> | patthita | pp | wished for (by); sought after (by); desired (by) |
+> | dassa | adj | seeing; looking at; viewing |
+> | visosita | pp | dried; desiccated; withered; evaporated |
+> | rājaputta | masc | king's son; prince |
+> | sāhaṁ | sandhi | then I; and I |
+> | hirañña | nt | gold |
+> | deti | pr | gives (to); donates (to); offers (to); hands (to) |
+> | mahaddhana | adj | having much money; rich; wealthy |
+> | vanditvā | abs | having bowed; having paid respect; having honoured |
+> | dhītar | fem | daughter |
+> | chetvāna | abs | having cut off; having severed |
+> | dūta | masc | messenger |
+> | upāvisi | aor | sat down; took a seat |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | ucca | adj | high; tall |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | pabbaji | aor | ordained; renounced |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | sattama | ordin | seventh (7th) |
+> | ratana | nt | jewel; gem; gemstone |
+> | rat (?) | ? |  |
+> | kesa | masc | (head) hair |
+> | kula | nt | family; house; household; respectable family |
+> | pitar | masc | father |
+> | sambuddha | masc | Awakened One; Buddha; who is wide awake; who has completely … |
+> | majjha | adj | middle of; mid- |
+> | ajja | ind | today; now |
+> | phala | nt | fruit; nut; berry |
+> | disvāna | abs | having seen |
+> | jāta | pp | born; born (in); born (from) |
+> | anagāriya | nt | homelessness; homeless state |
+> | āsana | nt | seat; chair |
+> | tatiya | ordin | third (3rd) |
+> | pāda | masc | foot |
+> | anuttara | adj | highest (of); unsurpassed (by); incomparable (to); superior … |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | nisinna | pp | seated (in) |
+> | gotama | masc | family name of the Buddha |
+> | aha | nt | day |
+> | ekamantaṁ | ind | to one side; aside |
+> | tvaṁ | pron | you (subject) |
+> | eta | pron | this |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

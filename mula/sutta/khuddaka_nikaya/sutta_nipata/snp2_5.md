@@ -143,3 +143,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_5_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vinoden (?) | ? |  |
+> | vitatāvane (?) | ? |  |
+> | māluvāva (?) | ? |  |
+> | khandhaja | adj |  |
+> | nigrodhasseva (?) | ? |  |
+> | itoja | adj | born from this; sprung from here |
+> | kutoja | adj | born from what?; sprung from where? |
+> | samphassa | masc | contact (with); touch (of); impression (of) |
+> | yāvāhaṁ | sandhi | until I |
+> | ṭaṅkitamañca | masc |  |
+> | atiṇṇapubba | adj | never crossed before; not previously traversed |
+> | yatonidāna | adj |  |
+> | itonidānā | sandhi | from this source; because of this |
+> | dhaṅkamivossajan (?) | ? |  |
+> | manovitakka | masc | thought; (comm) thought arisen in the mind |
+> | visatta | pp | attached (to); stuck (to); entangled (in); ensnared (in) |
+> | snehaja | adj | born from affection; sprung from love |
+> | khipissāmī (?) | ? |  |
+> | attasambhūta | adj | arisen in oneself; internally generated; self-produced |
+> | apunabbhavāyā (?) | ? |  |
+> | samuṭṭhāya | ger | arising; springing up; coming up (from) |
+> | apanāmeti | pr | diverts; sidetracks |
+> | atikkaman (?) | ? |  |
+> | duttara | adj | hard to cross; hard to overcome |
+> | oghamimaṁ (?) | ? |  |
+> | pāragaṅgā | fem | far side of the Ganges river |
+> | yadākaṅkhasī (?) | ? |  |
+> | samaṇaka | masc | low ascetic; worthless ascetic |
+> | bhavana | nt | home; dwelling place |
+> | upanāmeti | pr | (of food) serves; brings near; takes the next mouthful |
+> | kutonidāna | adj | from what source?; from where? |
+> | sūciloma | adj |  |
+> | phāleti | pr | splits up; chops up |
+> | khipati | pr | throws; tosses; hurls |
+> | taran (?) | ? |  |
+> | lomahaṁsa | masc | goosebumps; hair standing on end; terror |
+> | arati | fem | dissatisfaction; dislike; discontent; aversion; boredom |
+> | suṇoti | pr | listens; hears |
+> | gayā | fem | name of a village |
+> | kumāraka | masc | young boy; small boy |
+> | bhāyati | pr | is afraid (of); is frightened (of); fears; is scared (of) |
+> | ajjhabhāsi | aor | addressed; spoke (to someone with) |
+> | pajānan (?) | ? |  |
+> | puccha | imp | please enquire!; ask! (somebody about something) |
+> | hadaya | nt | heart |
+> | puthu | adj | broad; wide; large |
+> | sassamaṇabrāhmaṇa | adj | with holy men and priests |
+> | samāraka | adj | with Māra; with Māras |
+> | rati | fem | love (for); liking (for); enjoyment (of); delight (in) |
+> | khara | adj | rough; hard; harsh; painful |
+> | sadevamanussa | adj | with kings and commoners; with gods and men |
+> | sabrahmaka | adj | including gods; with Brahmas |
+> | kuto | ind | from where?; where? |
+> | sadevaka | adj | with devas; having gods |
+> | khvāhaṁ | sandhi | I indeed; I certainly |
+> | avidūra | adj |  |
+> | gātha | masc |  |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | yakkha | masc | (either protective or malevolent) spirit; supernatural being… |
+> | gahetvā | abs | having taken; having held |
+<!-- pali-nlp:vocab-end -->

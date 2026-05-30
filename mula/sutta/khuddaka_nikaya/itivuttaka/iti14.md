@@ -83,3 +83,51 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti14_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (42 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | yenevaṁ (?) | ? |  |
+> | ekadhammopi (?) | ? |  |
+> | ekanīvaraṇampi (?) | ? |  |
+> | ahoratta | nt | day and night; days and nights; time |
+> | natthañño | sandhi | there is nothing else; there is no other person; there is no… |
+> | āvuta | pp | covered (by); concealed (by); hidden (by); enclosed (by); su… |
+> | padālayi | aor | cleaved; broke; shattered; smashed |
+> | avijjānīvaraṇa | adj | impeded by ignorance; obstructed by not understanding |
+> | saṁsaran (?) | ? |  |
+> | saṁsaranta | prp | wandering on; moving on continuously; transmigrating |
+> | nivuta | pp | surrounded (by); enveloped (in); shrouded (with); veiled (wi… |
+> | sandhāvan (?) | ? |  |
+> | pahantvāna | abs | having destroyed; having put an end to; having terminated |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | moha | masc | illusion; delusion; hallucination |
+> | dīgharatta | nt | long time |
+> | nīvaraṇa | masc | obstacle; obstruction; barrier; hindrance |
+> | pajā | fem | offspring; progeny; child |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | yathayidaṁ | sandhi | such as this |
+> | sutan (?) | ? |  |
+> | vijjanta | prp | existing |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | punāti | pr | cleans; purifies |
+> | hetu | adj | because (of); by virtue (of) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | samanupassati | pr | sees; perceives |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

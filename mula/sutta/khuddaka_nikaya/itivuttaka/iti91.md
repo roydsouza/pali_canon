@@ -124,3 +124,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti91_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | chavālātaṁva (?) | ? |  |
+> | paridhaṁsamāna | prp | coming to ruin; perishing; messing up |
+> | dubbhaga | masc | loser; failure; luckless wretch; (comm) dead or unconscious … |
+> | tathūpamāhaṁ | sandhi | comparable in the same way I |
+> | kaṭṭhattha | masc | use as timber |
+> | gūthagata | adj | gone through excrement; covered in excrement |
+> | ubhatopaditta | adj | burnt at both end; scorched on both sides |
+> | chavālāta | nt | firebrand from a funeral pyre |
+> | dukkhapareta | adj | afflicted with suffering; overcome by misery |
+> | dukkhotiṇṇa | adj | immersed in suffering; afflicted with suffering; fallen into… |
+> | ājīvikāpakata | adj | problems with livelihood; difficulty earning a living |
+> | bhayaṭṭa | adj | afflicted with fear |
+> | iṇaṭṭa | adj | in debt; debt-ridden; fallen into debt |
+> | corābhinīta | adj | because of bandits; forced by thieves |
+> | rājābhinīta | adj | because of the king; forced by authorities |
+> | piṇḍola | masc | name of a privately awakened Buddha |
+> | abhisāpoyaṁ (?) | ? |  |
+> | piṇḍolya | nt | living by means of alms; subsisting on almsfood |
+> | antamidaṁ (?) | ? |  |
+> | gihibhoga | masc |  |
+> | paduṭṭhamanasaṅkappa | adj | with malevolent intention; with bad purpose in mind; with ev… |
+> | atthavasika | adj | sensible; rational |
+> | upen (?) | ? |  |
+> | pattapāṇī | adj | bowl in hand; carrying a bowl |
+> | pakirati | pr |  |
+> | paripūretī (?) | ? |  |
+> | tibbasārāga | adj | with strong desire (for); with intense lust (for) |
+> | raṭṭhapiṇḍamasaññato (?) | ? |  |
+> | tatta | pp | heated; hot; glowing |
+> | kāsāvakaṇṭha | adj | wearing a scrap of cloth on the neck |
+> | pharati | pr | pervades; suffuses; fills; extends (to) |
+> | pākatindriya | adj | having a vulgar mind; with an inferior mind; (comm) with an … |
+> | byāpannacitta | adj | with a malicious mind; evil-minded; hateful; full of ill-wil… |
+> | abhijjhālu | adj | covetous; avaricious; greedy |
+> | otiṇṇa | pp | afflicted (with); affected (by); victim (of); immersed (in) |
+> | sāmaññatthañca (?) | ? |  |
+> | aggisikhūpama | adj | like flames of fire |
+> | ayoguḷa | masc | iron ball |
+> | vibbhantacitta | adj | with a wandering mind; with runaway thoughts; mentally out o… |
+> | parihīna | pp | destroyed; defeated; refuted |
+> | vicarati | pr | moves about (in); wanders about (in); roams (in) |
+> | asaññata | pp | uncontrolled (in); unrestrained (in); hard to control (in) |
+> | asampajāna | adj | not clearly aware; inattentive; unmindful; (comm) stupid |
+> | jīvikā | fem | livelihood; way of life |
+> | bhutta | pp | eaten; finished eating |
+> | antakiriyā | fem | relief (from); making an end (of); ending |
+> | pāpadhamma | adj | evil-natured; of bad character |
+> | muṭṭha | pp | forgotten; confused; lost |
+> | upāyāsa | masc | affliction; difficulty; trouble; despair |
+> | upapajjati | pr | is reborn (in); re-arises (in) |
+> | yañce | sandhi | than if; rather than |
+> | appeva | sandhi | it is likely that; perhaps; maybe; hopefully; if only; pleas… |
+> | cāyaṁ | sandhi | and this; but this; than this |
+> | atthavasa | nt | use; benefit; advantage |
+> | arañña | nt | forest; wood; wild; wilderness |
+> | asamāhita | pp | distracted; scattered; not composed |
+> | paññāyethā (?) | ? |  |
+> | dukkhakkhandha | masc | heap of suffering; mass of difficulties; mountain of trouble |
+> | parideva | masc | lamentation; wailing; crying |
+> | domanassa | nt | (mental) suffering; distress; dissatisfaction; dejection; de… |
+<!-- pali-nlp:vocab-end -->

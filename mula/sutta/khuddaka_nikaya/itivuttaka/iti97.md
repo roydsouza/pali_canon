@@ -166,3 +166,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti97_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabbapahāyinan (?) | ? |  |
+> | sambodhigāmī | adj | leading to full awakening; going to enlightenment |
+> | hirīmana | adj | having a conscience; honourable |
+> | khayamattano (?) | ? |  |
+> | anussada | adj | not arrogant; humble |
+> | bhāvanānuyogamanuyutta | adj | devoted to meditation practice; engaged in mental cultivatio… |
+> | chinnasaṁsaya | adj | free from doubt |
+> | kalyāṇapañña | adj | of good understanding; of excellent wisdom |
+> | uttamapurisa | masc | highest of men; best of men; superman |
+> | bhayadassāvī | adj | seeing the danger (of); aware of the danger (in) |
+> | aṇumatta | adj | tiniest; smallest |
+> | ācāragocarasampanna | adj | who knows how to behave and keep to suitable places; well be… |
+> | pātimokkhasaṁvarasaṁvuta | adj | controlled by restraint of Patimokkha; restrained and contro… |
+> | dukkaṭa | adj | badly done; wrongly done |
+> | kalyāṇasīla | adj | virtuous; ethical |
+> | bodhipakkhiya | adj | related to awakening; leading to enlightenment |
+> | kalyāṇadhamma | adj | good-natured; upright nature; of solid character; virtuous |
+> | sikkhāpada | nt | precept; instruction; training rule |
+> | anīgha | adj | untroubled; undisturbed; calm |
+> | asita | pp | eaten |
+> | kevalī | adj | perfected; complete |
+> | vajja | ptp | speaking; saying |
+> | vusitavant | adj | fulfilled; completed; finished; perfected; epithet of an ara… |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | samādāya | ger | taking along; taking away |
+> | subhāvita | adj | well cultivated; fully developed |
+> | paññāvimutti | fem | liberation by understanding; emancipation by insight |
+> | āha | perf | said |
+> | sabbaloka | masc | whole world; entire universe; all the world; every world |
+> | vuccatī (?) | ? |  |
+> | idheva | sandhi | right here; just here; only here |
+> | sīlava | masc | name of an arahant monk |
+> | cetovimutti | fem | mental liberation; emancipation of heart; (comm) samadhi obt… |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | dhammavinaya | masc | teaching and training; doctrine and discipline |
+> | sacchikatvā | abs | having personally experienced; having realized for oneself |
+> | saya | adj | lying; resting; existing; residing in |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | diṭṭheva (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | kathañca | sandhi | and how? |
+> | avoca | aor | said (something to somebody) |
+> | vāca | adj | talking; speaking; of speech |
+> | ayampi | sandhi | one too; this too |
+> | abhiñña | adj | with direct knowledge; with experiential understanding; with… |
+> | sikkhati | pr | learns; trains (in); practices |
+> | manas | masc | mind; mental faculty; intellect |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | upasampajjati | pr |  |
+> | katha | adj | with words; having talk; asking |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | kāya | masc | body; physical body; physical process |
+<!-- pali-nlp:vocab-end -->

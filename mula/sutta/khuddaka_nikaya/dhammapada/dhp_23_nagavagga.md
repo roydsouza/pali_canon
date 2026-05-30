@@ -174,5 +174,71 @@ tags:
 *the getting of wisdom’s a blessing;*
 **pāpānaṁ akaraṇaṁ sukhaṁ.**  
 *and it’s a blessing to avoid doing wrong.*
-**Nāgavaggo tevīsatimo.**  
+**Nāgavaggo tevīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | tevīsatima | ordin |  |
+> | brahmaññatā | fem | devotion to Brahmans |
+> | sāmaññatā | fem | devotion to ascetics |
+> | petteyyatā | fem | love for one's father; filial piety |
+> | matteyyatā | fem | love for one's mother; filial piety |
+> | tuṭṭhi | fem | contentment (with); satisfaction (with); happiness (with) |
+> | sannova (?) | ? |  |
+> | uddharathattānaṁ (?) | ? |  |
+> | sumara (?) | ? |  |
+> | kaṭukabhedana | adj | (of an elephant in rut) releasing pungent excretion |
+> | dhanapāla | masc | name of an elephant |
+> | yathāttanā | sandhi | like by oneself |
+> | sindhava | adj | Sindh; from Sindh |
+> | varamassatarā (?) | ? |  |
+> | yotivākyaṁ | sandhi | who (endures) abuse; who (suffers) blame |
+> | rājābhirūha (?) | ? |  |
+> | samiti | fem | assembly; crowd; gathering |
+> | titikkhati | pr | endures; tolerates; bears; withstands |
+> | ativākya | nt | abuse; blame; verbal assault |
+> | nāgavagga | masc |  |
+> | carita | pp | behaving; acting; practising |
+> | aṅkusaggaha | masc | mahout; elephant driver; (comm) elephant trainer |
+> | hatthippabhinna | adj | elephant in rut |
+> | niggaheti | pr | holds back; restrains; arrests |
+> | tadajjahaṁ | sandhi | that today I; that now I |
+> | yatthakāmaṁ | ind | as one wants; where one likes |
+> | cittamacāri (?) | ? |  |
+> | gabbhamupe (?) | ? |  |
+> | nivāpapuṭṭha | adj | fat with fodder; nourished by food |
+> | mahāvarāhova (?) | ? |  |
+> | samparivattasāyī | adj | rolling around in sleep; tossing and turning in sleep |
+> | niddāyitar | masc | sleeper; snoozer; sleepy person |
+> | mahagghasa | masc | glutton; over-eater |
+> | middhī | adj | drowsy; sluggish; sleepy |
+> | kabaḷa | masc | lump; morsel; mouthful; lump of food |
+> | agata | pp | not gone to; untravelled |
+> | bahujjana | masc | multitude; many people; mass of people |
+> | patita | pp | fallen (onto); landed (on) |
+> | akaraṇa | nt | non-doing; non-performance (of); abstention (from) |
+> | dunnivāraya | adj | difficult to restrain; hard to hold back |
+> | sacittamanurakkhatha (?) | ? |  |
+> | jīvitasaṅkhaya | masc | end of life; loss of life |
+> | sahāya | masc | friend; companion; ally; fellow traveller |
+> | rājāva (?) | ? |  |
+> | tenattamano (?) | ? |  |
+> | yathāsukhaṁ | ind | as one likes; as is comfortable; according to one's pleasure |
+> | ājānīya | adj | thoroughbred; well bred; of good breed; of high pedigree |
+> | attadanta | adj | self controlled; self restrained |
+> | sahāyatā | fem | friendship (with); companionship (with); association (with) |
+> | itarītara | adj | any; any whatsoever; any kind of |
+> | sādhuvihāridhīra | masc | wise person who lives well; clean living sage |
+> | mātaṅgaraññeva (?) | ? |  |
+> | cāpa | masc | bow (and arrow) |
+> | titikkha | adj | enduring; tolerating |
+> | nāgova (?) | ? |  |
+> | yenicchakaṁ | ind | wherever it wants; as one likes; according to desire; (comm)… |
+> | nayan (?) | ? |  |
+> | appamādarata | adj | delighting in diligence; devoted to conscientiousness; takin… |
+> | parissaya | nt | danger; risk; difficulty |
+> | sudanta | adj | well tamed (by); well trained (by); well controlled (by) |
+<!-- pali-nlp:vocab-end -->

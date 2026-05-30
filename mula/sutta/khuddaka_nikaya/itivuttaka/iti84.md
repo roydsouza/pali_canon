@@ -129,3 +129,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti84_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | maggamanukkaman (?) | ? |  |
+> | pamocen (?) | ? |  |
+> | apāpuran (?) | ? |  |
+> | dhammamudīrayantā (?) | ? |  |
+> | pāṭipadopi (?) | ? |  |
+> | athāparo (?) | ? |  |
+> | tassanvayo (?) | ? |  |
+> | pāṭipada | adj | who is walking the path; who is practising the path; going a… |
+> | devamanussaseṭṭha | masc | foremost among gods and men; best among divine and human bei… |
+> | bahujjana | masc | multitude; many people; mass of people |
+> | satthavāha | masc | leader of the caravan; company leader |
+> | sīlavatūpapanna | adj | having precepts and practices; endowed with ethics and obser… |
+> | pabhaṅkara | masc | illuminator; epithet of the Buddha |
+> | paka | adj | drinking; suckling; nursing |
+> | maheti | pr |  |
+> | sudesita | adj | well preached; well taught; well explained; well instructed |
+> | kevalaparipuṇṇa | adj | altogether complete; completely realized; entirely perfect |
+> | sabyañjana | adj | in letter; (or) well phrased |
+> | sāttha | adj | in meaning; in spirit; (or) with meaning; meaningful |
+> | pariyosānakalyāṇa | adj | good at the end; beneficial at the conclusion |
+> | majjhekalyāṇa | adj | good in the middle; beneficial in the middle |
+> | ādikalyāṇa | adj | beneficial in the beginning; good from the get go |
+> | parikkhīṇabhavasaṁyojana | adj | who has worn away the bonds of being; who has exhausted the … |
+> | anuppattasadattha | adj | who has achieved the highest goal; who has attained one's pu… |
+> | katakaraṇīya | adj | who has done the job; who has done what needs to be done; wh… |
+> | devamanussānan (?) | ? |  |
+> | ohitabhāra | adj | who has put down the burden; who has laid down the load; epi… |
+> | sammadaññāvimutta | adj | who is liberated by perfect understanding; who is freed thro… |
+> | sopi | sandhi | he too; that also; that even |
+> | lokānukampā | fem | compassion for the world |
+> | vusitavant | adj | fulfilled; completed; finished; perfected; epithet of an ara… |
+> | lokavidū | masc | who knows the world; who understands the universe; epithet o… |
+> | tayome | sandhi | these three |
+> | purisadammasārathi | masc | trainer of tameable persons |
+> | dvāra | nt | door; entrance; gate; gateway |
+> | vijjācaraṇasampanna | adj | endowed with knowledge and conduct; accomplished in understa… |
+> | karon (?) | ? |  |
+> | bahujanasukha | nt | comfort of many people; ease of the masses |
+> | bahujanahitāya | nt | for the benefit of many people; for the good of the populati… |
+> | tasseva | sandhi | just for him; even for him; just that alone |
+> | anta | adj | (gram) final; ending with; finishing with |
+> | yoga | masc | yoke; bond; attachment; (comm) which bind one to the round o… |
+> | satthar | masc | master; teacher |
+> | uppajjamāna | prp | arising; appearing; coming into being |
+> | desa | masc | place; location; region; area |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | sekha | masc | trainee; apprentice; learner; initiate; (comm) seven stages … |
+> | idheva | sandhi | right here; just here; only here |
+> | hita | pp | beneficial; good; advantageous |
+> | bahussuta | adj | very learned; well educated; knowledgeable |
+> | khīṇāsava | adj | who has destroyed the effluents; awakened; epithet of an ara… |
+> | amata | nt | deathless state; immortality; epithet of Nibbāna |
+> | devamanussā | masc | gods and human beings; deities and men |
+> | sāvaka | masc | disciple; pupil; follower |
+> | parisuddha | pp | clean; pure; bright; perfect |
+> | tatiya | ordin | third (3rd) |
+> | sāsana | nt | message; letter |
+> | uppajjan (?) | ? |  |
+> | dutiya | ordin | second (2nd) |
+> | sugata | adj | faring well; going well; doing well; fortunate; who has reac… |
+<!-- pali-nlp:vocab-end -->

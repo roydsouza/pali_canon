@@ -89,3 +89,44 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti64_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (35 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | duccaritānī (?) | ? |  |
+> | katvānākusalaṁ (?) | ? |  |
+> | akatvā | abs | having not done; having not performed |
+> | dosasaṁhita | adj | faulty; corrupt; defective |
+> | sopapajjatī (?) | ? |  |
+> | yañcaññaṁ (?) | ? |  |
+> | duccarita | adj | bad; immoral; wicked |
+> | tīṇimāni | sandhi | these three |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | duppañña | adj | foolish; stupid; unintelligent; undiscerning |
+> | katvā | abs | having done |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | ayampi | sandhi | one too; this too |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

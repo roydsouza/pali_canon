@@ -212,3 +212,69 @@ parallels:
 *what use do I have for protégés?”*
 *… Aññāsikoṇḍañño thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saddhivihārī | adj | co-resident |
+> | adīnamanasa | adj | with an unwavering mind; undaunted in spirit; determined; (c… |
+> | paṭikujjita | pp | reversed; turned upside down |
+> | saṁsīda | masc |  |
+> | dubbhida | adj |  |
+> | pāsañca (?) | ? |  |
+> | khilañca (?) | ? |  |
+> | duppadālaya | adj | hard to split; tough to crack |
+> | daḷhakhila | masc | hard wasteland; barren desert |
+> | oghapāsa | masc | floods and the snare; deluges and the trap |
+> | meghopasammaye (?) | ? |  |
+> | rajamuhatañca (?) | ? |  |
+> | dhamanisantha | adj |  |
+> | kālapabbaṅgasaṅkāsa | adj | with limbs looking like the joints of a necklace plant |
+> | acapala | adj | steady; steadfast; consistent; reliable |
+> | tibbanikkama | adj | with intense energy; with keen effort |
+> | buddhānubuddha | adj | awakened following the Buddha; enlightened thanks to the Bud… |
+> | rāgūpasaṁhita | adj | connected with lust; to do with desire; provocative of passi… |
+> | mahārasa | adj | very tasty; extremely delicious |
+> | ūmi | fem | wave |
+> | tatrādhivāsayati | pr | endures there; continues in that place |
+> | saṅgāmasīseva (?) | ? |  |
+> | brahāvana | nt | great wood; mighty forest |
+> | makasa | masc | mosquito; gnat |
+> | ḍaṁsa | masc | gadfly; horsefly; stinging insect |
+> | pahīnajātimaraṇa | adj | who has left behind birth and death |
+> | saṁvutindriya | adj | with mind under control; with senses retrained |
+> | bhetvāna | abs | having caused division; having broken; having ruptured |
+> | pathavimaṇḍala | nt | wide world; sphere of the earth |
+> | nibbisa | nt | payment; wages; earnings; fee |
+> | mathen (?) | ? |  |
+> | bhataka | masc | hired worker; wage labourer |
+> | citra | nt | beautiful thing; delightful thing; something wonderful; (com… |
+> | mahogha | masc | great flood; great deluge |
+> | mārabandhana | nt | Māra's bond; shackles of death |
+> | mattaññū | adj | knowing the correct measure (in); knowing the limit (in); mo… |
+> | koṇḍañña | masc | name of a monk; seniormost of the five ascetics; first monas… |
+> | capala | adj | unsteady; wavering; fickle; inconsistent; moving to and fro |
+> | samman (?) | ? |  |
+> | catthāya | sandhi | and for the purpose (of); and for the sake (of); and for the… |
+> | kisa | adj | thin; lean; skinny; scrawny |
+> | annapāna | nt | food and drink |
+> | pariciṇṇa | pp | served; attended; waited on (by) |
+> | pāraṅgata | adj | reached the other shore; gone across safely; gone beyond; ep… |
+> | dukkhassantakara | adj | who makes an end of suffering |
+> | agārasmānagāriyaṁ (?) | ? |  |
+> | saṅkappa | masc | intention; volition; purpose |
+> | subha | adj | beautiful; attractive |
+> | anuddhata | pp | not arrogant; not pompous; not puffed up with pride |
+> | bhavanet (?) | ? |  |
+> | kevalī | adj | perfected; complete |
+> | visuddhi | fem | purity (of); purification (of); holiness |
+> | pabba | nt | elbow; joint; limb |
+> | pasīdati | pr | is bright; is calm; becomes clear |
+> | patissata | pp | self-aware; thoughtful; mindful |
+> | nābhinandati | pr | does not take delight (in); is not pleased (with); does not … |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | kalyāṇamitta | adj | with excellent friends; with good spiritual companions |
+> | tiṇṇa | pp | crossed over; gone beyond |
+> | chetvā | abs | having cut off; having severed; (comm) having killed |
+<!-- pali-nlp:vocab-end -->

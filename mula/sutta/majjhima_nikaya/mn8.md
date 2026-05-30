@@ -494,3 +494,69 @@ parallels:
 
 *Sallekhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sāgarūpama | adj | like the ocean |
+> | catuttālīsapada | nt | forty-four states |
+> | pacchāvippaṭisārī | adj | who has remorse afterwards; who has regret later |
+> | parinibbānapariyāya | masc | way of going out; method of extinguishing |
+> | uparibhāgapariyāya | masc | way of going upwards; method of ascending |
+> | parikkamanapariyāya | masc | way of going around; method of avoiding |
+> | cittuppādapariyāya | masc | way of inclining the mind; method of setting intention |
+> | sallekhapariyāya | masc | way of effacing; method of erasing |
+> | aparinibbuta | pp | (of mental defilement) not completely quenched; not entirely… |
+> | apalipapalipanna | adj | not stuck in the mud; not immersed in mire; not bogged down |
+> | uparibhāgaṅgamanīya | adj | leading upwards |
+> | adhobhāgaṅgamanīya | adj | leading downwards |
+> | upaṭṭhitassatitā | fem | fact of having presence of mind; state of attending mindfull… |
+> | ottappa | nt | regret; shame in wrongdoing; respect for others; (comm) orig… |
+> | anatimāna | masc | non-arrogance; humility; non-haughtiness; meekness |
+> | atthaddhiya | nt | flexibility; non-stubbornness; easygoingness |
+> | asāṭheyya | nt | honesty; guilelessness; non-deviousness |
+> | amacchariya | nt | unselfishness; generosity; charitableness; bigheartedness |
+> | anissukitā | fem | fact of not being jealous; not being envious |
+> | apaḷāsa | adj | without rivalry; without contention; non-competitive |
+> | amakkha | masc | not depreciating; not denigrating; not disparaging; not besm… |
+> | anupanāha | masc | non-resentment; not bearing a grudge; not harbouring enmity;… |
+> | tiṇṇavicikicchatā | fem | fact of being beyond doubt; state without uncertainty |
+> | vicikicchī | adj | in doubt (about); uncertain (about) |
+> | anuddhacca | nt | non-agitation; calmness; non-distraction; centredness |
+> | vigatathinamiddhatā | fem | fact of being without dullness and drowsiness; fact of being… |
+> | thinamiddhapariyuṭṭhitassa (?) | ? |  |
+> | anabhijjhā | fem | absence of greed; not coveting |
+> | anuvidhīyanā | fem | acting in conformity (with); following through (with) |
+> | cittuppādampi (?) | ? |  |
+> | suvaca | adj | easy to instruct; obedient; compliant |
+> | amāyāvī | adj | not deceitful; not hypocritical; not fraudulent |
+> | asaṭha | adj | honest; sincere; not devious; not deceitful |
+> | anissukī | adj | who is not jealous; who is not envious |
+> | apaḷāsī | adj | who does not rival; who is not competitive; who is not conte… |
+> | amakkhī | adj | who does not slander; who does not denigrate; (comm) who doe… |
+> | anupanāhī | adj | not resentful; who does not bear a grudge; who harbours no e… |
+> | vicikicchi | aor |  |
+> | sammāñāṇī | adj | with correct understanding; with right wisdom |
+> | micchāñāṇī | adj | with incorrect understanding; with wrong wisdom |
+> | anusen (?) | ? |  |
+> | parinibbāpessatī (?) | ? |  |
+> | vinessa (?) | ? |  |
+> | damessa (?) | ? |  |
+> | uddharissatī (?) | ? |  |
+> | abyāpāda | masc | goodwill; kindness; friendliness; benevolence |
+> | suppaṭinissaggī | adj | giving up easily; relinquishing quickly; abandoning easily |
+> | anādhānaggāhī | adj | (of views) not holding on tightly; not clutching |
+> | asandiṭṭhiparāmāsī | adj | not clinging to one's own view; who does not adheres to one'… |
+> | duppaṭinissaggī | adj | giving up with difficulty; not relinquishing quickly; not ab… |
+> | ādhānaggāhī | adj | (of views) holding on tightly; clutching |
+> | sandiṭṭhiparāmāsī | adj | clinging to one's own view; who adheres to one's own belief … |
+> | dubbaca | adj | hard to talk to; obstinate; obdurate; stubborn; unamenable t… |
+> | atimānī | adj | proud; conceited; arrogant |
+> | paḷāsī | adj | who rivals; who is competitive; who is contentious |
+> | sammāvimutti | fem | correct liberation; right emancipation |
+> | samphappalāpī | adj | who chatters frivolously; who talks rubbish; who gossips |
+> | pharusavāca | adj | speaking harshly; using rough words |
+> | pisuṇavāca | adj | who speaks divisively; who separates others by speech; who s… |
+> | avihiṁsaka | adj | not cruel; not hurtful |
+<!-- pali-nlp:vocab-end -->

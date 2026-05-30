@@ -100,3 +100,56 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti96_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (47 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | khīṇamānapunabbhava | adj | who has eradicated conceit and renewed existence |
+> | kāmayoga | masc | yoke of sensual pleasures; bondage of sense pleasure |
+> | bhavayogavisaṁyutta | adj | detached from the bond of being; unharnessed from the yoke o… |
+> | anāgantar | masc | who does not reach; who does not arrive at; who does not vis… |
+> | āgāmī | adj | who returns; who comes back |
+> | kāmayogayutta | adj | harnessed to the yoke of sensuality; under the sway of sensu… |
+> | bhavayoga | masc | yoke of being; bondage of existence |
+> | kāmayogavisaṁyutta | adj | detached from the bond of sensual desire; unharnessed from t… |
+> | bhavayogayutta | adj | harnessed to the yoke of becoming; bound to the yoke of exis… |
+> | āsavakkhayan (?) | ? |  |
+> | jātimaraṇagāmī | adj | leading to birth and death |
+> | āgantar | masc | arriver; comer; guest; visitor |
+> | chinnasaṁsaya | adj | free from doubt |
+> | appatta | pp | not reached; not attained; not gained; not accomplished; not… |
+> | anāgāmī | adj | who does not return; non-returning |
+> | cūbhayaṁ | sandhi | and both; as well as |
+> | saṁyutta | pp | bound (with); connected (to); fettered (with); tied (to) |
+> | pāraṅgata | adj | reached the other shore; gone across safely; gone beyond; ep… |
+> | pahantvāna | abs | having destroyed; having put an end to; having terminated |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | itthatta | nt | present state of existence; earthly existence; such an exist… |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | khīṇāsava | adj | who has destroyed the effluents; awakened; epithet of an ara… |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | satta | card | seven (7) |
+> | loka | masc | world; universe; cosmos |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

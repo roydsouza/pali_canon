@@ -196,3 +196,69 @@ parallels:
 *Terasamhi nipātamhi,*
 *gāthāyo cettha terasāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vayañcassānupassatī (?) | ? |  |
+> | nappavedhen (?) | ? |  |
+> | ekagghana | adj | solid; dense |
+> | paṭicaya | masc | improvement (of); augmentation (of); betterment (of); enhanc… |
+> | āyatanuppāda | masc | arising of the sense fields; coming into being of sense expe… |
+> | asammohañca (?) | ? |  |
+> | taṇhakkhayādhimutta | adj | habituated to the destruction of craving; established in des… |
+> | abyāpajjādhimutta | adj | habituated to harmlessness; established in harmlessness; fir… |
+> | pavivekañca (?) | ? |  |
+> | vīṇopamā | fem | simile of the veena |
+> | accāraddha | adj | overly aroused; over-stimulated; too forcefully applied; und… |
+> | nibbānamabhihāraye (?) | ? |  |
+> | bāhirāsa | adj | with external desires; full of worldly desire |
+> | ukkaṭṭha | pp | prominent (in); elevated (in); in a high position (in) |
+> | samukkaṭṭha | pp | prominent (in); elevated (in); in a high position (in) |
+> | yāhu | sandhi | he who was |
+> | paddhagū | masc | attendant; footman |
+> | upādānakkhaya | masc | wearing away of grasping; ending of clinging; extinction of … |
+> | codayattānaṁ (?) | ? |  |
+> | sātaccakārī | adj | persistently doing; persevering (in) |
+> | samīrati | pr | moves (with); shakes (with) |
+> | nivattati | pr | turns away (from); recoils (from) |
+> | cuttari | sandhi | and further; and furthermore |
+> | sevan (?) | ? |  |
+> | svajja | sandhi | today he; now he |
+> | uttamattha | masc | ultimate good; summum bonum; supreme goal; epithet of Nibbān… |
+> | akicca | nt | (something which) should be not done; ought not to be made |
+> | paṭipādesi | aor | practised the path (of); undertook the practice (of) |
+> | samatha | masc | stilling (of); serenity (of); calming (of); settling (of); p… |
+> | karīyati | pr | is done (by); is practised (by) |
+> | adhimutta | pp | set (on); intent (on); focused (on); fixed (on); fixated (on… |
+> | apaviddha | pp | discarded; rejected; abandoned; neglected |
+> | oghatiṇṇa | adj | who has crossed over the flood; who has overcome the deluge |
+> | yesañca | sandhi | and for whoever |
+> | visaññutta | pp | detached (from); disengaged (from); disentangled (from); unf… |
+> | nekkhamma | nt | renunciation; rejection of sensual pleasure |
+> | santacitta | adj | with calm mind; with peaceful heart |
+> | saṅgātiga | adj | who has overcome attachment; who has transcended clinging |
+> | unnaḷa | pp | haughty; arrogant; conceited; proud; (comm) with hollow prid… |
+> | kicca | nt | obligation (for); duty (for); work (for) |
+> | aṅga | nt | part of the body; limb |
+> | bhāvayati | pr | cultivates; develops |
+> | raṭṭha | nt | country; land; kingdom; realm |
+> | ujumagga | masc | straight road; direct route |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | aniṭṭha | pp | unpleasant; dislikeable; disagreeable |
+> | chindati | pr | cuts off; severs |
+> | patti | fem | reaching; attainment (of); acquisition (of); getting |
+> | vaḍḍhan (?) | ? |  |
+> | yañhi | sandhi | which certainly; whatever indeed |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | pamatta | pp | careless; heedless; negligent; inattentive |
+> | iṭṭha | pp | pleasing; likeable; cherished; wished for |
+> | pāragū | masc | who has gone beyond; who has crossed over |
+> | jaha | adj | leaving behind; giving up; abandoning |
+> | kāyagata | adj | related to the body; immersed in the body; focused within |
+> | susamāraddha | adj | resolutely undertaken; fully engaged with; energetically tak… |
+> | soṇa | masc | name of a monk |
+> | sata | pp | mindful; present; attentive |
+> | akkhāta | pp | said; told; declared; announced (by) |
+<!-- pali-nlp:vocab-end -->

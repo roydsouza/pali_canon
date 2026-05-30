@@ -252,3 +252,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_4_att#§82|Kasibhāradvājasuttavaṇṇanā §82]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | opilāpehī (?) | ? |  |
+> | kaṁsapāti | fem | bronze bowl |
+> | kasitvāna | abs | having ploughed; having farmed |
+> | evamesā | sandhi | thus this |
+> | anivattanta | prp | not deviating; not turning aside; not returning |
+> | yogakkhemādhivāhana | adj | carrying to sanctuary; transporting to release from the yoke |
+> | dhuradhorayha | nt | team of oxen |
+> | vacīgutta | adj | controlled in speech |
+> | kāyagutta | adj | controlled in action |
+> | phālapācana | nt | ploughshare and goad |
+> | yuganaṅgala | nt | yoke and plough |
+> | balībadda | masc | ox; bull |
+> | pācana | nt | goad; cattle prod |
+> | bhuñjassū (?) | ? |  |
+> | vappakāla | masc | planting season; October-November |
+> | naṅgalasata | nt | one hundred ploughs |
+> | ekanāḷā | fem | name of a Brahman village in Magadha |
+> | dakkhiṇāgiri | masc | southern mountains; hills in the south |
+> | opilāpeti | pr | immerses (in); drowns (in) |
+> | appāṇaka | adj | (of water) with no living beings |
+> | kukkuccavūpasanta | adj | who has stilled restlessness; who has settled agitation |
+> | vuttiresā (?) | ? |  |
+> | panudan (?) | ? |  |
+> | sampassati | pr |  |
+> | abhojaneyya | ptp | not edible; not fit to be eaten |
+> | kasanta | prp | ploughing; tilling; turning the soil |
+> | amatapphala | masc | fruit of the deathless |
+> | pamocana | nt | freeing (from); liberating (from); emancipating (from); deli… |
+> | yotta | nt | rope; cord; strap; anything for tying |
+> | īsa | masc |  |
+> | phāla | masc | ploughshare; cutting blade of a plough |
+> | naṅgala | nt | plough |
+> | bhuñjāmī (?) | ? |  |
+> | tvampi | sandhi | you too |
+> | parivesanā | fem | offering of food; food distribution |
+> | lomahaṭṭhajāta | adj | with hair standing on end; with bristling hair |
+> | dammī (?) | ? |  |
+> | sampadhūpāya (?) | ? |  |
+> | sandhūpāya (?) | ? |  |
+> | ciṭiciṭāya (?) | ? |  |
+> | cicciṭāyati | pr | hisses; sizzles; fizzles; crackles |
+> | appaharita | nt | place where few plants are growing; with little plant-life |
+> | vaḍḍhetvā | abs | having filled up; having piled up |
+> | soracca | nt | kindness; gentleness; compassion; (comm) good conduct |
+> | udara | nt | stomach; belly |
+> | payutta | pp | with ulterior motive; insinuating; hinting; intimating |
+> | pamuccatī (?) | ? |  |
+> | santatta | pp | heated; made red-hot; scorched |
+> | gāthābhigīta | adj | chanted over with verses; recited over |
+> | vapitvā | abs | having sown seed; having planted |
+> | kasitvā | abs | having ploughed; having farmed |
+> | vapati | pr | (of seed) sows; plants |
+> | acirūpasampanna | adj | not long after one ordained; shortly after ordination |
+> | pakkhitta | pp | thrown (into); plunged (into); dropped (into); inserted (int… |
+> | nipatitvā | abs | having fallen down (at); having gone down (at) |
+> | upanāmeti | pr | (of food) serves; brings near; takes the next mouthful |
+> | pariṇāma | masc | (of food) digestion |
+> | saṁvigga | pp | agitated; terrified; in awe; awestruck; in shock |
+> | tathāgatasāvaka | masc | disciple of the Buddha |
+> | upaṭṭhahati | pr | remains present; persists |
+<!-- pali-nlp:vocab-end -->

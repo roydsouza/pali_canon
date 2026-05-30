@@ -137,3 +137,66 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti78_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (57 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | āraddhaviriyehi (?) | ? |  |
+> | asaṁsagga | masc | non-association; detachment; social isolation; aloofness; in… |
+> | saṁsagga | masc | association; mingling; mixing (with) |
+> | samentī (?) | ? |  |
+> | samessan (?) | ? |  |
+> | saṁsandissan (?) | ? |  |
+> | anāgatampi (?) | ? |  |
+> | sami | aor | united; came together |
+> | saṁsandi | aor |  |
+> | etarahipi (?) | ? |  |
+> | atītampi (?) | ? |  |
+> | chijja | ptp | should be severed |
+> | sahāvasati | pr | lives together (with) |
+> | sādhujīvīpi (?) | ? |  |
+> | kusītamāgamma | ind | due to a lazy person; owing to a lethargic person |
+> | mahaṇṇava | masc | great sea; large ocean; immense body of water |
+> | dārumāruyha (?) | ? |  |
+> | dhātusova (?) | ? |  |
+> | kalyāṇādhimuttika | adj |  |
+> | hīnādhimuttika | adj | with inferior disposition; with bad inclination; with low te… |
+> | samen (?) | ? |  |
+> | saṁsandan (?) | ? |  |
+> | dhātuso | ind | as states; as elements; by way of the elements |
+> | vanatha | masc | underbrush; undergrowth |
+> | hīnavīriya | adj | low in energy; lacking in endurance; unenergetic; weak; feeb… |
+> | sīdati | pr | sinks down (into); submerges (in); drowns (in) |
+> | pavivitta | pp | separated; secluded; detached (from) |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | kusīta | adj | lazy; slack; inactive; apathetic |
+> | paccuppanna | pp | present; presently arisen; existing; current |
+> | jhāyi | masc | meditator; yogi |
+> | paritta | pp | little; small; tiny |
+> | jāta | pp | born; born (in); born (from) |
+> | addha | adj | soiled; dirty; moist |
+> | nicca | adj | permanent; lasting; continuous; ordered; stable; reliable; r… |
+> | pahitatta | adj | resolute; determined; applying oneself |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | saddhiṁ | ind | together (with); with |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | satta | card | seven (7) |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

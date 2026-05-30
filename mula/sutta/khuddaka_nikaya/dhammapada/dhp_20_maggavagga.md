@@ -213,5 +213,71 @@ tags:
 *one would quickly clear the path*
 **khippameva visodhaye.**  
 *that leads to extinguishment.*
-**Maggavaggo vīsatimo.**  
+**Maggavaggo vīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vīsatima | ordin |  |
+> | tāṇatā | fem | refuge (in); shelter (in); defence (in); protection (in) |
+> | antakenādhipanna | adj | seized by death; assailed by death; overpowered by death |
+> | bandhava | masc | relative; family member; relation; brother |
+> | puttapasusammatta | adj | besotted with sons and cattle; intoxicated with children and… |
+> | hemantagimhi | masc | winter and summer; cold and hot season |
+> | brūhayati | pr | develops; furthers; increases |
+> | santimaggameva (?) | ? |  |
+> | sāradikaṁva (?) | ? |  |
+> | sinehamattano (?) | ? |  |
+> | ucchindati | pr | breaks off; cuts off; severs |
+> | paṭibaddhamanova (?) | ? |  |
+> | vanathañca (?) | ? |  |
+> | vanañca (?) | ? |  |
+> | niveseti | pr | establishes; sets up; settles; directs; conducts |
+> | tathātta | adj |  |
+> | dvedhāpatha | masc | crossroads; fork in the road |
+> | bhūrisaṅkhaya | masc | loss of wisdom; depletion of discernment |
+> | maggamisippaveditaṁ (?) | ? |  |
+> | kammapatha | masc | course of action; mode of action; path of action |
+> | nākusala | nt | not unbeneficial actions; not unskilful deeds |
+> | vācānurakkhī | adj | guarding one's speech; restrained in speech; watching one's … |
+> | saṁsannasaṅkappamana | adj | with a mind full of depressed thoughts |
+> | ālasiya | nt | laziness; idleness |
+> | anuṭṭhahāna | prp | not making an effort; nor arousing oneself |
+> | uṭṭhānakāla | masc | right time for making an effort; suitable time for exertion |
+> | pamokkhan (?) | ? |  |
+> | kiccamātappaṁ | sandhi | effort should be made (by); one should strive |
+> | sallakantana | nt | cutting out the arrow; surgical removal of the dart; excisio… |
+> | pamohana | nt | bewildering; baffling; confusing |
+> | dvipadānañca (?) | ? |  |
+> | maggānaṭṭhaṅgiko (?) | ? |  |
+> | sīlasaṁvuta | adj | restrained by ethics; moderated by morality |
+> | etamatthavasaṁ (?) | ? |  |
+> | chijja | ptp | should be severed |
+> | nibbana | adj | desireless; without craving |
+> | bhūri | adj | vast; extensive; abundant |
+> | mārassetaṁ (?) | ? |  |
+> | mahoghova (?) | ? |  |
+> | nibbānagamana | adj | leading to putting out the fire; conducive to Nibbāna; going… |
+> | vicinteti | pr | thinks; imagines; conceives |
+> | kumuda | masc | (comm) part of the Avīci hell where one must stay an kumuda-… |
+> | khīrapakova (?) | ? |  |
+> | aṇumattopi (?) | ? |  |
+> | akkhātar | masc | speaker (of); who tells (about); who speaks (about); who exp… |
+> | ayoga | masc | (something) unsuitable; to be avoided |
+> | byāsattamanasa | adj | with an attached mind; mentally obsessed; infatuated |
+> | maggavagga | masc |  |
+> | ārādhayati | pr | accomplishes; succeeds (in); is successful (with); attains; … |
+> | alasa | adj | lazy; inactive; indolent; idle |
+> | natthañño | sandhi | there is nothing else; there is no other person; there is no… |
+> | bujjhati | pr | knows; understands; is aware (of) |
+> | tāṇa | nt | refuge; shelter; defence; protection |
+> | visodhayati | pr | cleans; purifies |
+> | yuva | masc | youngster; youth; lad |
+> | bali | masc | religious offering; sacrifice |
+> | mārabandhana | nt | Māra's bond; shackles of death |
+> | etañhi | sandhi | this truly; this indeed |
+> | nāpi | sandhi | nor even; nor just |
+> | vanatha | masc | underbrush; undergrowth |
+<!-- pali-nlp:vocab-end -->

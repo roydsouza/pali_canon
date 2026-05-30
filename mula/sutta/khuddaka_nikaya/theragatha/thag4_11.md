@@ -70,3 +70,46 @@ tags:
 *Ajakaraṇī is safe, pleasant, and delightful.”*
 *… Sappako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (37 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | suramma | adj | truly charming; really lovely; absolutely wonderful; totally… |
+> | vippavāsasamaya | masc | time to be away; occasion to be absent |
+> | girinadī | fem | mountain river; hillside stream |
+> | nājja | ind | not today; now (is) not |
+> | panādayan (?) | ? |  |
+> | mandavant | adj | charming; sweet; tender; (comm) sonorous |
+> | bheka | masc |  |
+> | tāmatamadasaṅghasuppahīnā (?) | ? |  |
+> | leṇa | nt | cave |
+> | āpagākūla | nt | river bank; river shore |
+> | sobhen (?) | ? |  |
+> | jambu | fem | rose-apple tree; Syzygium samarangense |
+> | ramen (?) | ? |  |
+> | leṇamaleṇadassinī (?) | ? |  |
+> | suvisuddhapaṇḍara | adj | pure white |
+> | ālayamālayesinī (?) | ? |  |
+> | sucipaṇḍaracchada | adj | with pure white wings |
+> | tajjita | pp | frightened (by); startled (by); in fear (of) |
+> | balākā | fem | crane; (or) Great Crested Grebe; Podiceps cristatus |
+> | ajakaraṇī | fem |  |
+> | rama | adj | delighting (in); enjoying |
+> | megha | masc | cloud; rain cloud; rain |
+> | ubhato | ind | both; on both sides (of); in both ways; dually |
+> | siva | adj | safe; happy; blessed; auspicious |
+> | pariyesati | pr | searches; seeks; seeks out; looks (for) |
+> | tahiṁ | ind | there; in that place |
+> | pala | nt | metal weight; measure of metal |
+> | kāḷa | adj | dark; black |
+> | tadā | ind | then; at that time |
+> | khema | adj | well; safe; secure; at peace; at rest |
+> | nadi | aor |  |
+> | paccha | adj |  |
+> | yadā | ind | when; whenever |
+> | bhaya | adj | dangerous; perilous; frightening |
+> | tattha | ind | there; in that place |
+> | ka | pron | who?; what?; which? |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

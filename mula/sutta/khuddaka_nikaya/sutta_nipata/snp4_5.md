@@ -139,3 +139,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_5_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | paṭicchita | pp | accepted; undertaken; subscribed (to) |
+> | diṭṭhimanādiyānaṁ (?) | ? |  |
+> | paṇidhīdha (?) | ? |  |
+> | yassūbhayante (?) | ? |  |
+> | ñāṇepi (?) | ? |  |
+> | attānamanūpaneyya (?) | ? |  |
+> | hīnamaññaṁ (?) | ? |  |
+> | sabbamaññaṁ | sandhi | everything else; everyone else |
+> | samuggahāya | ger | grasping; embracing; taking up |
+> | yadattanī (?) | ? |  |
+> | sabbamāha (?) | ? |  |
+> | yaduttari (?) | ? |  |
+> | paribbasāna | prp | living (in); staying (in); settled (in); stuck (in) |
+> | aṇūpi (?) | ? |  |
+> | diṭṭhimpi (?) | ? |  |
+> | nissayati | pr | depends (on); trusts (in); relies (on) |
+> | avītivatta | pp | not overcome; not escaped; not passed through |
+> | tassīdha | sandhi | for that one here; for whom here |
+> | purekkharon (?) | ? |  |
+> | kappayan (?) | ? |  |
+> | vikappayati | pr | (of concepts and opinions) forms; constructs; defines; theor… |
+> | kenīdha | sandhi | about what here; by what reason in this case |
+> | kappayati | pr | (of ideas and opinions) fashions; formulates; constructs; de… |
+> | neyya | ptp | could be led astray (by); could be misguided (by) |
+> | vaggasārī | masc | partisan; follower of a group; adherent of a faction |
+> | anupādiyāna | prp | not attaching (to); not taking as mine; not grasping (onto);… |
+> | nihīna | pp | low; inferior; worse; deficient; worthless |
+> | dhammāpi (?) | ? |  |
+> | nissaya | masc | dependency; physical support; reliance; something one depend… |
+> | paraman (?) | ? |  |
+> | sīlabbata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | nicchati | pr | does not wish; does not want; does not desire |
+> | pakappita | pp | (of an idea or opinion) imagined; fabricated; fashioned; des… |
+> | samuggahīta | pp | embraced; accepted; chosen; taken up |
+> | sīlavata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | visesī | adj | better; distinguished; attained; superior |
+> | gantha | masc | (mental) tie; knot; bond |
+> | pāraṅgata | adj | reached the other shore; gone across safely; gone beyond; ep… |
+> | vivāda | masc | quarrel; dispute; argument |
+> | tadeva | sandhi | just that; the same thing; that very thing; that itself |
+> | nissita | pp | dependent (on); clung (to); attached (to); supported (by); l… |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | huraṁ | ind | there; in another world |
+> | jantu | masc | man; person; being |
+> | paccati | pr | is cooked |
+> | ānisaṁsa | masc | profit (in); benefit (in); advantage (of); good result (of) |
+> | muta | pp | sensed; perceived; (or) thought; (comm) smelled; tasted or t… |
+> | hīna | pp | low; inferior; deficient |
+> | viyatta | pp | experienced; learned; initiated; (comm) distinguished in und… |
+> | nivesana | nt | house; home |
+> | vadan (?) | ? |  |
+> | sama | adj | level; even; balanced |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | vāpī | fem | reservoir; dam; pond |
+> | diṭṭhi | fem | view; belief; opinion; concept; theory; attitude; philosophy… |
+> | diṭṭha | pp | seen; found; visible |
+> | kara | adj | doing; making |
+> | maññati | pr | thinks; imagines; conceives; presumes; supposes |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | karoti | pr | does; acts; performs |
+<!-- pali-nlp:vocab-end -->

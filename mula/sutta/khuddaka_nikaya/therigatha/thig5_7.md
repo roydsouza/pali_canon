@@ -85,3 +85,51 @@ parallels:
 
 *… Sakulā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (42 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | palokita | pp | falling apart; dissolving; disintegrating |
+> | hetujāta | adj | born from conditions; arisen from causes |
+> | sādhubhāvita | adj | fully developed; properly cultivated |
+> | tadekaṭṭha | adj | connected with that; combined with that |
+> | rāgadosañca (?) | ? |  |
+> | maggamañjasaṁ (?) | ? |  |
+> | chedāpayitvāna | abs | having had cut off |
+> | chaḍḍiya | ptp | should be discarded |
+> | dhītarañca (?) | ? |  |
+> | vasantīhaṁ (?) | ? |  |
+> | dhanadhaññañca (?) | ? |  |
+> | padamaccutaṁ (?) | ? |  |
+> | sītibhūtāmhi (?) | ? |  |
+> | pubbajātimanussariṁ (?) | ? |  |
+> | sāhaṁ | sandhi | then I; and I |
+> | sikkhamāna | prp | training (in); practising |
+> | pahari | aor |  |
+> | vimala | adj | stainless; spotless; unblemished; immaculate |
+> | visodhita | pp | cleaned; removed |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | pabbaji | aor | ordained; renounced |
+> | bhāventa | prp | cultivating; developing |
+> | sutvāna | abs | having heard; having listened (to) |
+> | viraja | adj | pure; stainless; untainted |
+> | kesa | masc | (head) hair |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | addasa | aor | saw |
+> | anagāriya | nt | homelessness; homeless state |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | agāra | nt | dwelling; building; house; hut |
+> | putta | masc | son; child |
+> | nibbāna | nt | (of fire) extinguishing; quenching; going out |
+> | disvā | abs | having seen; having understood; having found out |
+> | santa | prp | existing; being; there is |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | upasampajjati | pr |  |
+> | saṅkhāra | masc | intention; volitional formation; choice; karmic activity |
+> | para | pron | other; another (person) |
+> | aha | nt | day |
+> | sabba | pron | all; every |
+> | dhamma | masc | nature; character |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

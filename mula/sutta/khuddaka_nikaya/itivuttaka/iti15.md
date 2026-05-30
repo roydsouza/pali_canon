@@ -83,3 +83,52 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti15_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (43 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ekasaṁyojanampi (?) | ? |  |
+> | taṇhādutiya | adj | with craving as companion; accompanied by desire |
+> | itthabhāvaññathābhāva | masc | this or another existence; existence here and there |
+> | taṇhāsaṁyojana | adj | fettered by craving; bound by desire |
+> | saṁyutta | pp | bound (with); connected (to); fettered (with); tied (to) |
+> | nātivattati | pr | does not overstep; does not cross; does not go over; does no… |
+> | saṁsaran (?) | ? |  |
+> | saṁsaranta | prp | wandering on; moving on continuously; transmigrating |
+> | sandhāvan (?) | ? |  |
+> | anādāna | adj | free from attachment; not grasping; not taking anything as o… |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | etamādīnavaṁ (?) | ? |  |
+> | paribbaja | masc | homeless spiritual life; spiritual journey |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | dīghamaddhāna | nt | long period of time; long duration |
+> | sambhava | masc | birth; origin; source (of) |
+> | ñatvā | abs | having known; having found out; having understood |
+> | dīgharatta | nt | long time |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | yathayidaṁ | sandhi | such as this |
+> | sutan (?) | ? |  |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | saṁyojana | nt | fetter; chain; bond; thing which binds |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | sa | prefix | with; having; affected with |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | samanupassati | pr | sees; perceives |
+> | purisa | masc | man; male; person |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | satta | card | seven (7) |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

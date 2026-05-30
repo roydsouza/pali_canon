@@ -48,3 +48,27 @@ tags:
 *now we have reached that goal.*
 *… Bharato thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (18 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pabbājayi | aor | gave ordination (to) |
+> | nadati | pr | roars; bellows; thunders |
+> | upajjhāya | masc | preceptor; teacher; mentor |
+> | nandaka | masc | name of a arahant monk; great disciple of the Buddha; foremo… |
+> | sīhanāda | masc | confident assertion; bold statement |
+> | buddhaseṭṭha | masc | supreme Buddha; foremost Buddha |
+> | sabbasaṁyojanakkhaya | masc | wearing away all bonds; destruction of all fetters |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | sammukha | adj | face to face with; in the presence of |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | gacchati | pr | goes; walks; moves; wanders around |
+> | santika | adj | near; close |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | attha | masc | meaning; sense; significance |
+> | ima | pron | this |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

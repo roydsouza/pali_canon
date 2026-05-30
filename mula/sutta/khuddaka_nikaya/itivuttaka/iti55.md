@@ -92,3 +92,40 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti55_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (31 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabbarāgaviratta | adj | detached from all desire; with all passion faded |
+> | saccaparāmāsa | masc | clinging to something as true; clutching something as the tr… |
+> | taṇhakkhayavimutti | fem | liberation by wearing away of craving; release through deple… |
+> | brahmacariyesanā | fem | seeking renunciation |
+> | bhavesanā | fem | seeking existence |
+> | kāmesanā | fem | seeking sensual pleasure |
+> | paṭinissaṭṭha | pp | given up; forsaken; renounced; abandoned |
+> | akathaṅkathī | adj | not confused (about); without doubt (about) |
+> | esana | adj | seeking; searching (for); requesting; begging (for) |
+> | diṭṭhiṭṭhāna | nt | basis for opinion; grounds for view; standpoint for views |
+> | samussaya | masc | body |
+> | nirāsa | adj | desire-less; free from hope; fulfilled |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | saha | adj | mutual; in common |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

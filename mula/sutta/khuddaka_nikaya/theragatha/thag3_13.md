@@ -60,3 +60,38 @@ parallels:
 *will make an end to suffering.*
 *… Abhibhūto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (29 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nikkamati | pr |  |
+> | ārambhati | pr | begins; starts; initiates; undertakes; rouses oneself |
+> | desayati | pr |  |
+> | vihassa (?) | ? |  |
+> | naḷāgāraṁva (?) | ? |  |
+> | yāvantettha (?) | ? |  |
+> | dhunāti | pr | shakes off; shake apart; destroys |
+> | karissatī (?) | ? |  |
+> | yuñjati | pr | joins (in); engages (in); participates (in); practices |
+> | samāgata | pp | gathered; assembled; met |
+> | kuñjara | masc | elephant |
+> | sena | nt | bed; sleeping place |
+> | buddhasāsana | nt | Buddha's teaching; Buddha's message |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | ñāti | masc | family; relative; kinsman |
+> | maccu | masc | death; Death |
+> | dukkhassanta | masc | end of suffering |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | suṇāti | pr | hears |
+> | dhammavinaya | masc | teaching and training; doctrine and discipline |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | ja | adj | born (from); produced (by); made (of); caused (by) |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | sabba | pron | all; every |
+> | tvaṁ | pron | you (subject) |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

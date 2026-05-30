@@ -322,3 +322,69 @@ parallels:
 *the leash to existence is eradicated.”*
 *… Aṅgulimālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vadhitvāna | abs | having removed; having taken out; having eliminated; having … |
+> | udicca | adj | high born; noble |
+> | brahmajacca | adj | of Brahman birth |
+> | satthānukampita | adj | taken pity on by the teacher; cared for by the master |
+> | ahatthapāsa | masc | not hand's reach (of); not arm's length (of) |
+> | ṭhāyati | pr | stands; remains |
+> | ubbiggamanasa | adj | mentally agitated; anxious-minded |
+> | savibhattesu (?) | ? |  |
+> | lohitapāṇi | adj | bloody-handed; violent; blood-thirsty |
+> | saccanāmomhi (?) | ? |  |
+> | ajjāhaṁ (?) | ? |  |
+> | hiṁsaka | adj | harmful; hurtful; injurious |
+> | dantomhi (?) | ? |  |
+> | aṅkusa | masc | hooked pole (used for elephant control) |
+> | daṇḍeneke (?) | ? |  |
+> | anuvidhīyati | pr | follows; acts in conformity (with) |
+> | avirodhappasaṁsī | adj | praising harmony; speaking highly of non-confrontation; (com… |
+> | dhammamevādapayan (?) | ? |  |
+> | dhammakathā | fem | Dhamma discourse; discussion about the nature of things |
+> | pabbajjamayāci (?) | ? |  |
+> | avandi | aor | worshipped; paid homage; bowed (at the feet of) |
+> | anvakāsi | aor |  |
+> | asimāvudhañca (?) | ? |  |
+> | dhammayutta | adj | Dhamma-related; connected with the teaching |
+> | sahassapāpa | nt | one thousand crimes; one thousand evil deeds |
+> | mahita | pp | honoured; renowned; celebrated |
+> | tuvamaṭṭhitosi (?) | ? |  |
+> | ṭhitohaṁ (?) | ? |  |
+> | asaññatosi (?) | ? |  |
+> | tuvañca (?) | ? |  |
+> | ahamaṭṭhitomhi (?) | ? |  |
+> | ṭhitamaṭṭhito (?) | ? |  |
+> | samaṇaṭṭhitomhi (?) | ? |  |
+> | dummantita | nt | bad advice; poor counsel; rotten plan |
+> | nāpagata | pp | not devoid (of); possessing fully |
+> | kammavipāka | masc | fruit of actions; results of one's deeds |
+> | duggatigāmī | adj | leading to a state of misery; going to a bad destination; he… |
+> | saraṇagamana | nt | taking refuge; going for refuge |
+> | saraṇamāgamā | imperf | came to (the Buddha) for refuge |
+> | naraka | masc | pit; chasm |
+> | icceva | sandhi | thus this |
+> | cajati | pr | gives up; abandons; forsakes |
+> | ahiṁsaka | adj | harmless; humane |
+> | pidhīyati | pr | is closed; is shut |
+> | pamajjitvā | abs | having been negligent; having been careless |
+> | kāmaratisanthava | masc | intimacy with the delight of sensual pleasure; close associa… |
+> | pamādamanuyuñjati | pr | is careless; is negligent; engages in heedlessness |
+> | seṭṭhaṁva (?) | ? |  |
+> | dummedhī | adj | foolish; stupid; unwise |
+> | pamādamanuyuñjan (?) | ? |  |
+> | khantivāda | masc |  |
+> | aṅgulimāla | masc | name of an arahant monk |
+> | sojja (?) | ? |  |
+> | tasathāvara | nt | frail and firm; moving and unmoving; animals and vegetables;… |
+> | mamañca | sandhi | and me (object) |
+> | tadupāgami | aor | come to that; arrived at that |
+> | hiṁsati | pr | harms; hurts; injures; (comm) kills; destroys |
+> | appamādañca (?) | ? |  |
+> | aghamūla | nt | root of misery; source of trouble |
+> | kāruṇika | adj | compassionate; sympathetic; kind |
+<!-- pali-nlp:vocab-end -->

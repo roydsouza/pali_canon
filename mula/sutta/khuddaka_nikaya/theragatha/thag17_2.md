@@ -442,3 +442,69 @@ parallels:
 *I am everywhere free.”*
 *… Sāriputto thero …*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jaḷasamāna | adj | as if stupid; like a dull-witted person |
+> | mahābuddhi | adj | having great discernment; of great wisdom; of enormous intel… |
+> | paññāpāramitā | fem | perfection of wisdom; ultimate state of understanding |
+> | pathavāpaggisamāna | adj | like earth, water and fire |
+> | cakkānuvattaka | adj |  |
+> | varavimutti | fem | excellent release; superb deliverance |
+> | yujjan (?) | ? |  |
+> | anilopi (?) | ? |  |
+> | cittakelisa | masc | mental defilement; mental impurity |
+> | pañcete | sandhi | these five |
+> | sādhūpi (?) | ? |  |
+> | ekatiya | adj | some; any |
+> | anāyāsa | adj | trouble-free; untroubled |
+> | appāsi | aor | thrown off; tossed off; discharged; scattered |
+> | nāmaraṇa | nt | not non-dying; not immortality |
+> | maraṇameva (?) | ? |  |
+> | midaṁ | sandhi | this |
+> | upatissova (?) | ? |  |
+> | rukkhamūlaṁva (?) | ? |  |
+> | sotadhātuvisuddhi | fem | pure clairaudience |
+> | cetopariya | masc | reading the mind; encompassing the mind |
+> | vimuttomhi | sandhi | I am freed; I am liberated; I am emancipated |
+> | sotamodhesimatthiko (?) | ? |  |
+> | ārādhayi | aor | attained; won; successfully reached |
+> | nippapañcapatha | masc | path of not forming various opinions; way of nonproliferatio… |
+> | virādhayi | aor | missed; failed to attain; did not succeed (in) |
+> | papañcamanuyutta | adj | indulging in various opinions; engaged in mental proliferati… |
+> | ubhayantarena | ind | in-between the two |
+> | nābhivassa (?) | ? |  |
+> | jaṇṇuka | nt | knee |
+> | idamatthika | adj |  |
+> | abhutvā | abs | having not eaten |
+> | suhita | adj | satiated; satisfied; full (with food or drink) |
+> | yatasaṅkappajjhāyi | masc | meditator who is restrained in thought |
+> | yathāsata | adj | as per mindfulness; according to attentiveness; (comm) as pe… |
+> | yathācārī | adj | as per conduct; according to behaviour |
+> | mahāñāṇī | adj | very knowledgeable; of great intelligence; extremely wise |
+> | uddhacca | nt | agitation; restlessness; distraction; excitement |
+> | dhunanta | prp |  |
+> | bhuñjanta | prp | eating; consuming |
+> | vippamuttomhi (?) | ? |  |
+> | sampādethappamādena (?) | ? |  |
+> | abbhamattaṁva (?) | ? |  |
+> | vālaggamatta | adj | size of the tip of a tail hair |
+> | mitāhāra | adj | moderate in food; limited in eating; with lean diet |
+> | ūnūdara | adj | with empty stomach |
+> | agārī | masc | householder; layman |
+> | upādānakkhayārāma | adj | talking pleasure in the wearing away of grasping; enjoying t… |
+> | sukhumadiṭṭhivipassakaṁ (?) | ? |  |
+> | sakkariyamāna | prp | being honoured; being esteemed; being respected |
+> | dukkhamaddasa | aor | saw suffering; understood discomfort |
+> | adda | aor | saw |
+> | papañcābhirata | adj | enjoying various opinions; taking delight in proliferation; … |
+> | kāmagavesī | adj | seeking sensual pleasure; seeking the objects of sensual ple… |
+> | ramissan (?) | ? |  |
+> | vāraññe | sandhi | or in the forest |
+> | satañhi (?) | ? |  |
+> | ovadeyyānusāseyya (?) | ? |  |
+> | niggayhavādī | adj | who reproves; who rebukes; who blames |
+> | vajjadassī | adj | who sees fault |
+<!-- pali-nlp:vocab-end -->

@@ -107,3 +107,68 @@ tags:
 *oh, the clear rightness of the teaching!*
 *… Sopāko thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (59 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sattavassohaṁ (?) | ? |  |
+> | dassanāyopasaṅkama (?) | ? |  |
+> | cābravi (?) | ? |  |
+> | sāmīci | fem | right way; correct course; proper procedure |
+> | paccuṭṭhānañca (?) | ? |  |
+> | piṇḍapātañca (?) | ? |  |
+> | yesāyaṁ (?) | ? |  |
+> | viloketvā | abs |  |
+> | acchambhī | adj |  |
+> | pāsādachāyā | fem | shade of mansion |
+> | abhīta | pp | fearless; bold; brave |
+> | anucaṅkamati | pr |  |
+> | paribhuñjati | pr | uses; makes use of |
+> | saṁharitvāna | abs | having gathered; having collected; having brought together |
+> | vissajjita | pp | released; let go (of); given up; discarded; given away |
+> | sopāka | masc | outcast |
+> | naruttama | masc | best of men; greatest of men; epithet of the Buddha; epithet… |
+> | caṅkamati | pr | walks up and down; walks in meditation |
+> | sabbasattānamuttama | masc | supreme being; best of all beings |
+> | imamatthaṁ (?) | ? |  |
+> | upasaṅkamma | ger | approaching; going (to) |
+> | anumodi | aor | approved (of); appreciated; applauded; was pleased (by) |
+> | vidā | imperf | understood; knew |
+> | sayanāsana | nt | living place |
+> | antima | adj | very last; final; ultimate |
+> | aṅga | nt | part of the body; limb |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | deha | masc | body |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+> | kovida | adj | skilled (in); expert (in); proficient (in); master (of) |
+> | magadha | masc | name of a country; modern day Bihar |
+> | ajjatagge | ind | from today onwards |
+> | abhāsi | aor | spoke; said |
+> | byākāsi | aor | answered; replied |
+> | viraja | adj | pure; stainless; untainted |
+> | dhāreti | pr | holds up; holds out |
+> | ekaṁsa | adj | definite; sure; straight; with absolute assurance |
+> | upasampadā | fem | undertaking (of); taking up (of) |
+> | laddha | pp | obtained; gained; won; received |
+> | pāṇi | masc | hand; palm |
+> | apucchi | aor | asked; enquired (somebody about something) |
+> | cīvara | nt | robe; cloth; robe-cloth |
+> | vandati | pr | honours; pays respect (to); bows down (to) |
+> | satthar | masc | master; teacher |
+> | lābha | masc | gain; acquisition; benefit; profit |
+> | bhavati | pr | is; is being; becomes |
+> | katvā | abs | having done |
+> | paccaya | masc | support; requisite; necessity |
+> | pañha | nt | question; enquiry |
+> | bhikkhusaṅgha | masc | community of monks; monastic order |
+> | jāti | fem | birth; rebirth; conception |
+> | disvā | abs | having seen; having understood; having found out |
+> | ceva | sandhi | only if; if just |
+> | aha | nt | day |
+> | tattha | ind | there; in that place |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | eta | pron | this |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

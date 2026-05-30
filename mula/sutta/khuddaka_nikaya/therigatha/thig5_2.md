@@ -84,3 +84,55 @@ tags:
 
 *… Vimalā purāṇagaṇikā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (46 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ujjagghanta | prp | laughing (at); joking (with); teasing |
+> | pakāsaka | masc |  |
+> | guyha | ptp | should be hidden (in); should be concealed (in) |
+> | vidaṁsenta | prp | exhibiting; showing off; displaying |
+> | piḷandhana | nt | ornament; jewellery; adornment |
+> | pāsamivoḍḍiya (?) | ? |  |
+> | vesidvāra | nt | door of the brothel; cathouse entrance |
+> | bālalāpana | nt | chattering of fools; prattling of idiots |
+> | vibhūsetvā | abs | having adorned; having ornamented; having dressed up |
+> | aññāsamatimaññihaṁ (?) | ? |  |
+> | cupatthaddhā (?) | ? |  |
+> | sobhagga | nt | good luck; good fortune; prosperity; success |
+> | sucitta | adj | well adorned; beautifully designed; (comm) painted with gold… |
+> | sītibhūtāmhi (?) | ? |  |
+> | ludda | adj | fierce; cruel; violent; savage |
+> | sājja (?) | ? |  |
+> | mā | ind | do not; may one not; don't let |
+> | caritvāna | abs | having lived; having led |
+> | yobbana | nt | youth |
+> | saṅghāṭipāruta | adj | wrapped in an outer robe |
+> | muṇḍa | adj | bald; bald-headed; shaven |
+> | akāsi | aor | did; performed |
+> | yasa | masc | name of an arahant monk |
+> | vividha | adj | various kinds of; assorted; multiple; many types of |
+> | khepetvā | abs | having spent; having lived out |
+> | matta | pp | amount of; as many as; measure of; consisting of |
+> | mānusa | adj | human |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | avitakka | adj | free from thinking; without thought |
+> | rukkhamūla | nt | foot of a tree; base of a tree |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | yoga | masc | yoke; bond; attachment; (comm) which bind one to the round o… |
+> | lābhī | adj | who gains; who gets; who has |
+> | aṭṭhāsi | aor | stood; stayed; remained |
+> | dibba | adj | divine; heavenly; celestial |
+> | piṇḍa | masc | ball; lump |
+> | vaṇṇa | masc | beauty; good looks |
+> | jana | masc | man; person; fellow |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | nisinna | pp | seated (in) |
+> | rūpa | nt | matter; material thing; materiality; experience of material … |
+> | sabba | pron | all; every |
+> | ka | pron | who?; what?; which? |
+> | ima | pron | this |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

@@ -157,3 +157,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_2_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | manasānāvilo (?) | ? |  |
+> | nābhigijjhati | pr | does not crave (for); is not greedy (for) |
+> | etthetaṁ (?) | ? |  |
+> | katthetaṁ (?) | ? |  |
+> | nāmarūpañca (?) | ? |  |
+> | paññāyete (?) | ? |  |
+> | dukkhama | adj | hard to endure; difficult to tolerate |
+> | jappābhilepanaṁ (?) | ? |  |
+> | kissābhilepanaṁ (?) | ? |  |
+> | iriyanta | prp | living; going about |
+> | pidhiyyati | pr | is closed; is shut |
+> | kenassu | sandhi | by what?; with what?; because of what?; why? |
+> | veviccha | nt | wanting to have; wanting to experience; wanting to get |
+> | nāmañca (?) | ? |  |
+> | nappakāsati | pr | does not shine |
+> | nivāraṇa | nt | preventing; obstructing; blocking; warding off |
+> | rūpañca (?) | ? |  |
+> | savan (?) | ? |  |
+> | yametaṁ | sandhi | this; this which |
+> | saṅkhātadhamma | masc | arahant; awakened being |
+> | kiṁsu | ind | what? |
+> | uparujjhati | pr | is stopped; is ended; is finished |
+> | mahabbhaya | nt | great fear; great danger; enormous risk |
+> | nivuta | pp | surrounded (by); enveloped (in); shrouded (with); veiled (wi… |
+> | sabbadhamma | masc | everything; all things; all mental phenomena; all states of … |
+> | pabrūti | pr | speaks; tells (the truth or a lie) |
+> | paribbaja | masc | homeless spiritual life; spiritual journey |
+> | puthu | adj | broad; wide; large |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | ajita | masc | name of an ascetic teacher; Ajita Kesakambala |
+> | asesa | adj | complete; without remainder |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | sabbadhi | ind | everywhere; in every way; in all respects |
+> | apucchi | aor | asked; enquired (somebody about something) |
+> | pamāda | masc | carelessness; negligence; heedlessness |
+> | saṁvara | masc | control (according to); restraint (according to); holding ba… |
+> | brū | root | (gram) √brū (say) |
+> | sekha | masc | trainee; apprentice; learner; initiate; (comm) seven stages … |
+> | mārisa | masc | venerable; sir |
+> | sota | masc | stream; river; current |
+> | yañca | sandhi | but whatever; but whoever; and whichever |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | brūti | pr | says; tells; speaks; calls |
+> | pañha | nt | question; enquiry |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | puṭṭha | pp | asked; questioned |
+> | yattha | ind | wherever; where; when; in which |
+> | siyā | opt | could be; may be; might be; should be |
+> | sa | prefix | with; having; affected with |
+> | ceva | sandhi | only if; if just |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | viññāṇa | nt | awareness; consciousness; mind; fifth of the five aggregates |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | idha | ind | here; now; in this world |
+> | eta | pron | this |
+> | loka | masc | world; universe; cosmos |
+> | ka | pron | who?; what?; which? |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+<!-- pali-nlp:vocab-end -->

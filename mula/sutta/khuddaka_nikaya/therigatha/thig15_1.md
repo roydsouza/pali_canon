@@ -561,3 +561,69 @@ tags:
 
 *Cattālīsanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | apakīritūna | abs | having thrown away; having discarded; having abandoned |
+> | viddesanamakāsiṁ (?) | ? |  |
+> | yasavant | adj | famous; renowned |
+> | giridāsa | masc | name of a man |
+> | orundhatassa (?) | ? |  |
+> | kaññā | fem | young girl; maiden; virgin |
+> | pattayobbana | adj | reaching puberty; come of age |
+> | kulaghara | nt | family home |
+> | acchinditvā | abs |  |
+> | vilapanta | prp |  |
+> | okaḍḍha (?) | ? |  |
+> | vaḍḍhi | fem | growth; increase; development |
+> | ussanna | pp | excessive; abundant; plentiful; copious |
+> | purisapātabahulamhi (?) | ? |  |
+> | dārikā | fem | girl; daughter |
+> | sākaṭikakula | nt | family of a carter; household of a wagon driver |
+> | tiṁsativassa | nt | thirty years |
+> | mahilā | fem |  |
+> | dāsī | fem | maid; maidservant; female slave |
+> | andhovaṭṭo (?) | ? |  |
+> | sakaṭañca (?) | ? |  |
+> | naṅgalamahaṁ (?) | ? |  |
+> | voḍhūna | abs | having drawn; having conveyed; having carried |
+> | lākhātamba | adj | copper coloured; with a reddish-brown coat |
+> | govāṇijaka | masc | cow merchant; cattle trader |
+> | kimināvaṭṭo (?) | ? |  |
+> | parivahitvā | abs | having carried around; having transported |
+> | eḷakī | fem |  |
+> | khañja | adj | lame; limping |
+> | sindhavārañña | nt | Sindh forest; wilderness of Sindh |
+> | nillacchesi | aor | castrated; emasculated; removed the testicles |
+> | yūthapa | masc |  |
+> | mahākapi | masc | alpha ape; large monkey |
+> | sattāhajātaka | adj | seven days after birth; a week old |
+> | makkaṭī | fem | female monkey; she-monkey |
+> | uṭṭhahitvā | abs | having stood up; having gotten up; having risen up |
+> | yobbanamada | masc | intoxication with youth (in); proud of one's youth |
+> | pahūtadhana | adj | very wealthy; extremely rich |
+> | erakaccha | nt | name of a town |
+> | ekamana | adj | with one mind; unanimous; with the same intention |
+> | phalavipāka | masc | results and consequences; fruit and outcome |
+> | yassayaṁ (?) | ? |  |
+> | abhivādayitvā | abs | having bowed down (to); having paid respect (to); having hon… |
+> | dvipadaseṭṭha | masc | best of bipeds; foremost among men; epithet of the Buddha |
+> | sacchikari | aor |  |
+> | nibbānañca (?) | ? |  |
+> | aggadhammañca (?) | ? |  |
+> | bodhiñca (?) | ? |  |
+> | nijjareti | pr |  |
+> | pāpañhi (?) | ? |  |
+> | athahaṁ (?) | ? |  |
+> | dvijātī | adj |  |
+> | tappayati | pr | satiates; satisfies; pleases |
+> | santappayitvā | abs | having satisfied; having fulfilled; having satiated (with) |
+> | bhojanamadāsiṁ (?) | ? |  |
+> | paññāpayi | aor | (of a seat, water, etc.) prepares; sets out |
+> | uṭṭhāyāsanaṁ (?) | ? |  |
+> | vinayadharī | fem | female expert in monastic law |
+> | tātakula | nt | father's house; paternal home |
+> | jinadattā | fem | name of a nun |
+<!-- pali-nlp:vocab-end -->

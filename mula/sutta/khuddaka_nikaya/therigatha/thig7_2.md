@@ -120,3 +120,69 @@ parallels:
 
 *… Cālā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kimidaṁ | sandhi | why is it? how is it that? what up with this? |
+> | muṇḍāsi | sandhi | you are bald-headed; you are shaven |
+> | pāsaṇḍa | nt | (especially non-Buddhist) doctrine; creed; sect; heretical r… |
+> | roceti | pr | approves (of); agrees (with); finds pleasing |
+> | samaṇī | fem | nun; female monastic |
+> | upanissita | pp | dependent on; clinging to; relying on |
+> | upaṭṭhapetvāna | abs | having established; having set up; having caused to attend; … |
+> | momuha | adj | very foolish; completely confused; totally deluded; entirely… |
+> | paṭivijjhi | aor | comprehended; understood; penetrated |
+> | uddissa | ger | in the name of; on account of; for the sake of; especially f… |
+> | bhāvitindriya | adj | with developed faculties |
+> | saṅkhārūpasama | masc | stilling of mental activities; quieting of conditions; epith… |
+> | appaṭipuggala | masc | who is not an equal; who is not a peer |
+> | caṭṭhaṅgikaṁ (?) | ? |  |
+> | nihata | pp | defeated; slain; destroyed |
+> | dukkhasamuppāda | masc | arising of discomfort; origination of suffering |
+> | atikkama | masc | surpassing; transcending; going beyond; overcoming (of) |
+> | antaka | masc | Death |
+> | sakyakula | nt | Sakyan family; house of Sakya |
+> | dukkhūpasamagāmī | adj | leading to relief from suffering; leading to alleviation of … |
+> | vijānan (?) | ? |  |
+> | tvamasi | sandhi | you are |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | dissati | pr | is seen; is observed; is manifest |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | kovida | adj | skilled (in); expert (in); proficient (in); master (of) |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | samatikkama | masc | surpassing (of); overcoming (of); going beyond; transcendenc… |
+> | sabbattha | ind | everywhere; every place |
+> | viya | ind | like; as |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | vihari | aor | lived; remained; stayed in |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | jāta | pp | born; born (in); born (from) |
+> | pada | nt | foot |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | ita | pp | come; gone |
+> | vacana | nt | word; utterance; talk; statement |
+> | sati | fem | memory; remembering; recollection; keeping in mind |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | diṭṭhi | fem | view; belief; opinion; concept; theory; attitude; philosophy… |
+> | sāsana | nt | message; letter |
+> | sutvā | abs | having heard; having listened (to) |
+> | vijjanta | prp | existing |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | bahiddha | adj | external; outward |
+> | santa | prp | existing; being; there is |
+> | kata | pp | done; did; completed |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | atthi | pr | there is; there exists |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | ka | pron | who?; what?; which? |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+<!-- pali-nlp:vocab-end -->

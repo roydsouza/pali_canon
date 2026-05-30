@@ -48,3 +48,28 @@ tags:
 *as the Ganges knows the ocean.*
 *… Valliyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sāgaran (?) | ? |  |
+> | gaṅgāsotova (?) | ? |  |
+> | monissati | fut | will know; will understand |
+> | maggamakkhāhi (?) | ? |  |
+> | nāvarajjhati | pr | does not miss; does not fail; does not falter |
+> | boddhumicchatā | fem | fact of having the wish to awaken; fact of having the desire… |
+> | daḷhavīriya | adj | with strong energy; making a strenuous effort |
+> | añjasa | masc | direct road; straight path |
+> | parakkama | masc | continued effort; striving; perseverance; persistence |
+> | mona | nt | silence |
+> | tvañca | sandhi | and you; but you |
+> | kicca | nt | obligation (for); duty (for); work (for) |
+> | amatogadha | adj | flowing into the deathless; immersed in the deathless; (comm… |
+> | vīriya | nt | effort; energy; might; power |
+> | karoti | pr | does; acts; performs |
+> | aha | nt | day |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

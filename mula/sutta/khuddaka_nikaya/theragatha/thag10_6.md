@@ -137,3 +137,69 @@ parallels:
 *and they realize quenching.*
 *… Upaseno vaṅgantaputto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nibbutiñcādhigacchatī (?) | ? |  |
+> | suddhikāma | adj | desiring purity; wanting purification |
+> | dukkhanta | masc | end of suffering; cessation of stress |
+> | appatvā | abs | having not reached; having not arrived (at) |
+> | yuttayoga | adj | devoted to meditation; engaged in spiritual practice |
+> | vīriyasātaccasampanna | adj | possessing energy and perseverance; endowed with effort and … |
+> | cittassuppādakovida | adj | skilled in (the causes for the arising of) mental states; ex… |
+> | suggahītanimitta | adj | with meditation subject properly grasped; with the theme of … |
+> | upaghāta | masc | harm; damage; injury (to) |
+> | sambhāsati | pr | talks; converses |
+> | anugiddha | pp | greedy (for); desiring; wanting; craving (for) |
+> | pattha | nt | isolated place; plateau; plain |
+> | santussati | pr |  |
+> | lūkhenapi (?) | ? |  |
+> | saṅghāṭika | masc | ascetic who wears a patchwork robe; patchwork robe wearer |
+> | āhatvā | abs | having brought; having fetched |
+> | saṅkārapuñja | masc | rubbish heap; garbage pile |
+> | paṭisallānakāraṇa | nt | purpose of privacy; reason of seclusion |
+> | viharamāna | prp | living; abiding; dwelling (in) |
+> | mūga | adj | dumb; mute |
+> | vāḷamiganisevita | adj | inhabited by wild beasts; frequented by fierce animals |
+> | vivajjayati | pr | avoids; shuns; eschews; (comm) abandons |
+> | appanigghosa | adj | silent; quiet |
+> | upavadati | pr | blames; criticizes; finds fault (with) |
+> | jaḷa | adj | stupid; dull; dumb |
+> | khīyan (?) | ? |  |
+> | vissāsa | masc | trust; confidence |
+> | saṅghamajjha | masc | amidst the community; middle of the monastic order |
+> | piṇḍikā | fem | alms food |
+> | dassayati | pr | shows; exhibits; displays |
+> | vipassana | adj | realted to insight; regarding introspection |
+> | lūkha | adj | rough; coarse; poor quality |
+> | sapadāna | adj | systematic; successive; methodical |
+> | nātivelaṁ | ind | (of time) concisely; not excessively; not too long |
+> | samatha | masc | stilling (of); serenity (of); calming (of); settling (of); p… |
+> | rathiyā | fem | road; street; carriageway |
+> | mattaññū | adj | knowing the correct measure (in); knowing the limit (in); mo… |
+> | karitvāna | abs | having done; having made; having built |
+> | vivitta | pp | separated; detached; secluded; solitary; aloof |
+> | cūbhayaṁ | sandhi | and both; as well as |
+> | anāgāra | masc | homeless wanderer; monk |
+> | susaṁvuta | adj | well restrained (in); well controlled (in); well guarded (in… |
+> | anuyuñjati | pr | practices; engages (in); commits (to); does |
+> | guttadvāra | adj | guarding the doors (of); with self-restraint (in); protectin… |
+> | asaṁsaṭṭha | pp | not mixed-up (with); not closely associated (with); aloof |
+> | pātimokkha | nt | (vinaya) precepts for Buddhist monastics |
+> | ramanta | prp |  |
+> | appiccha | adj | with few wishes; wanting little; having few needs; modest |
+> | pavivitta | pp | separated; secluded; detached (from) |
+> | susāna | nt | burial ground for bones of cremated corpses; cemetery |
+> | sevati | pr | associates (with); keeps company (with) |
+> | gahaṭṭha | masc | householder; layperson |
+> | eti | pr | comes (to) |
+> | nīca | adj | low; short |
+> | senāsana | nt | housing; living place; lodging |
+> | dhāreti | pr | holds up; holds out |
+> | santuṭṭha | pp | satisfied; pleased; content; happy with |
+> | cīvara | nt | robe; cloth; robe-cloth |
+> | saṁvuta | pp | closed; covered; hidden; concealed |
+> | kula | nt | family; house; household; respectable family |
+<!-- pali-nlp:vocab-end -->

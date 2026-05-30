@@ -123,3 +123,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti22_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saññamassā (?) | ? |  |
+> | padesarajja | nt | local rulership; regional rulership |
+> | anekasatakkhattuṁ | ind | many hundreds of times |
+> | chattiṁsakkhattuṁ | ind | thirty six times |
+> | ābhassarūpaga | adj | living in the radiant; experiencing the shining |
+> | punarāgamāsi | aor | returned again; came back once more |
+> | nayimaṁ | sandhi | not this; this is not |
+> | paccanubhūta | pp | personally experienced; suffered; undergone; met with |
+> | sukhassetaṁ (?) | ? |  |
+> | sukhasamuddaya | adj | which produce ease; generating comfort |
+> | bhāvayitvā | abs | having cultivated; having developed |
+> | samacariyañca (?) | ? |  |
+> | sukhudraya | adj | with pleasant consequences |
+> | āyatagga | adj | vast and great; extensive and best |
+> | puññameva (?) | ? |  |
+> | vivaṭṭamāna | prp | evolving; expanding |
+> | saṁvaṭṭamāna | prp | devolving; contracting |
+> | mettacittañca (?) | ? |  |
+> | dānañca (?) | ? |  |
+> | mettacitta | adj | with friendly heart; with kind mind; benevolent |
+> | sattaratanasamannāgata | adj | possessing the seven treasures; endowed with the seven jewel… |
+> | janapadatthāvariyappatta | adj | who has achieved stability in the country; who has attained … |
+> | mahābrahma | masc | great God almighty; supreme spirit |
+> | brahmavimāna | nt | heavenly mansion; Brahma's heavenly palace |
+> | saṁvaṭṭavivaṭṭakappa | masc | aeon of universal contraction and expansion |
+> | yenāhaṁ | sandhi | by which I; because of which I |
+> | bhāvetvā | abs | having cultivated; having developed |
+> | aññadatthudasa | adj | all seeing; visionary |
+> | upapajjatī (?) | ? |  |
+> | cāturanta | masc | four points of the compass; four corners of the world; the e… |
+> | anabhibhūta | pp | unconquered (by); unvanquished (by); undefeated (by); not ov… |
+> | abhibhū | masc | conqueror; victor; vanquisher; master (of) |
+> | evaṁmahānubhāva | adj | of such mighty power; of such mighty splendour; of such grea… |
+> | evaṁmahiddhika | adj | of such great supernormal power; so magically powerful |
+> | dāna | nt | giving; offering; charity; generosity |
+> | dama | masc | taming; restraint; self-control |
+> | abhijānāti | pr | experiences; suffers |
+> | bhāvayati | pr | cultivates; develops |
+> | bhāyi | aor | was afraid (of); was frightened (of); feared; was scared |
+> | vijitāvī | adj | who has conquered; who has vanquished |
+> | dhammarāja | masc | just king; righteous ruler; benign dictator |
+> | vasavattino | masc | name of a group of deities; gods who wield power over the cr… |
+> | upapajjati | pr | is reborn (in); re-arises (in) |
+> | panāhaṁ | sandhi | but I; then I; and I |
+> | kanta | pp | charming (to); pleasant (to); desirable; agreeable (to) |
+> | dhammika | adj | legal; legitimate; lawful |
+> | iṭṭha | pp | pleasing; likeable; cherished; wished for |
+> | abyāpajja | adj | without ill will; kind; friendly |
+> | adhivacana | nt | term (for); name (for); expression (for); epithet (of); desi… |
+> | vipāka | masc | (of an action) result; outcome; consequence; fruit |
+> | cakkavattī | masc | emperor; monarch; sovereign |
+> | suñña | adj | empty (of); devoid (of); without |
+> | vāda | adj | holding a belief; having a doctrine |
+> | manāpa | adj | pleasant; likeable; attractive; agreeable |
+> | phala | nt | fruit; nut; berry |
+> | puñña | nt | merit; good deed; spiritual wealth |
+> | sudaṁ | ind | indeed; truly; surely |
+> | hoti | pr | is; becomes |
+> | dīgharatta | nt | long time |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+<!-- pali-nlp:vocab-end -->

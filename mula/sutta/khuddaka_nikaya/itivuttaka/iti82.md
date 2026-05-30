@@ -129,3 +129,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti82_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pattamānasa | adj | who attained one's intention; (comm) who reached arahantship |
+> | anāvara | adj | irresistible; impossible to impede |
+> | jetvāna | abs | having defeated; having conquered |
+> | dujjayamajjhabhū | aor | conconquered the impossible; beat the odds |
+> | saṅgāmasīsa | nt | forefront of the battle; front line of the war |
+> | saṅgāmetī (?) | ? |  |
+> | devatāpi (?) | ? |  |
+> | abhivijiya | ger | subduing; mastering; controlling |
+> | vaja | adj | going; travelling |
+> | maccuvasa | masc | death's power; control of death |
+> | ajjhāvasanta | prp | living (in); inhabiting; staying (in) |
+> | cetetī (?) | ? |  |
+> | vītasārada | adj | confident; self-assured |
+> | niccharan (?) | ? |  |
+> | bhāvanānuyogamanuyutta | adj | devoted to meditation practice; engaged in mental cultivatio… |
+> | niccharati | pr | happens; occurs; arises; comes up |
+> | vijitasaṅgāma | adj | who has won the battle; victorious in war; epithet of the Bu… |
+> | purisājañña | masc | noble man; extraordinary man |
+> | sammāsambuddhasāvaka | masc | disciple of the perfectly awakened one; follower of the full… |
+> | tañhi | sandhi | that truly; that most certainly; that indeed |
+> | devasadda | masc |  |
+> | upādāyā (?) | ? |  |
+> | bodhipakkhiya | adj | related to awakening; leading to enlightenment |
+> | namassan (?) | ? |  |
+> | saṅgāma | masc | battle; war; fight |
+> | sena | nt | bed; sleeping place |
+> | upādāya | ger | taking; taking up; grasping (onto); taking possession (of) |
+> | passan (?) | ? |  |
+> | acchādetvā | abs | having dressed (in); having clothed oneself (in); having put… |
+> | kāsāya | adj | organic brown; colour of Buddhist monks' robes |
+> | ohāretvā | abs | having shaved; having shaved off |
+> | tayome | sandhi | these three |
+> | kesamassu | nt | hair and beard |
+> | paññāvimutti | fem | liberation by understanding; emancipation by insight |
+> | maccu | masc | death; Death |
+> | ceta | nt | name of a country |
+> | namas | masc | reverence (to); veneration (to); homage (to) |
+> | tameva | sandhi | that very; that same; just him; only that |
+> | pabbajjā | fem | (vinaya) novice ordination; renunciation; becoming a monasti… |
+> | mahati | adj | in great; in large; in powerful; in grand; in mighty; in vas… |
+> | vimokkha | masc | release (of); emancipation (of); deliverance (of); freedom (… |
+> | cetovimutti | fem | mental liberation; emancipation of heart; (comm) samadhi obt… |
+> | anagāriya | nt | homelessness; homeless state |
+> | vattha | nt | cloth; clothes; robe |
+> | agāra | nt | dwelling; building; house; hut |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | sacchikatvā | abs | having personally experienced; having realized for oneself |
+> | māra | masc | death; Death; death personified |
+> | tatiya | ordin | third (3rd) |
+> | devatā | fem | deity; god |
+> | saya | adj | lying; resting; existing; residing in |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | diṭṭheva (?) | ? |  |
+> | dutiya | ordin | second (2nd) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṭhama | ordin | first (1st); prime |
+> | hetaṁ | sandhi | indeed this; certainly this |
+<!-- pali-nlp:vocab-end -->

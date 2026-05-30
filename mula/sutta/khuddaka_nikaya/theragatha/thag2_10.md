@@ -59,3 +59,29 @@ tags:
 *Vasabhena ime honti,*
 *dasa therā mahiddhikāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sujampati | masc | epithet of Sakka |
+> | bahivaṇṇa | masc | external appearance; outer skin colour |
+> | vītaṁseneva (?) | ? |  |
+> | suhata | adj | well beaten; thoroughly thrashed |
+> | pakkhimant | masc | fowler; bird-catcher |
+> | hana | adj | killing; slaying |
+> | han (?) | ? |  |
+> | kaṇha | adj | dark; black |
+> | anta | adj | (gram) final; ending with; finishing with |
+> | paccha | adj |  |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | vaṇṇa | masc | beauty; good looks |
+> | pubba | adj | before; previous; earlier; former |
+> | kamma | nt | action; deed; doing |
+> | para | pron | other; another (person) |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | atta | masc | self; soul; spirit; essence |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

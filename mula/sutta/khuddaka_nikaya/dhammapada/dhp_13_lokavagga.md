@@ -152,5 +152,71 @@ tags:
 *than going to heaven,*
 **sotāpattiphalaṁ varaṁ.**  
 *than lordship over all the world.*
-**Lokavaggo terasamo.**  
+**Lokavaggo terasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | terasama | ordin | thirteenth (13th) |
+> | sabbalokādhipacca | nt | supreme power over the whole world; rulership over the entir… |
+> | ekarajja | nt | sole rulership; sole dominion; sovereign power |
+> | pathabya | masc | ruler of the earth |
+> | nappasaṁsan (?) | ? |  |
+> | akāriya | ptp | not do-able; could not be done; impossible to do |
+> | haṁsādiccapathe (?) | ? |  |
+> | jālamuttova (?) | ? |  |
+> | tanukettha (?) | ? |  |
+> | rājarathūpama | adj | like a royal carriage; like the king's coach |
+> | passathimaṁ (?) | ? |  |
+> | uttiṭṭha | pp | rejected; leftover; scrapped |
+> | lokavaḍḍhana | adj | who is attached to the world; who indulges in the world |
+> | anumodamāna | prp | approving (of); appreciating; applauding |
+> | vitiṇṇaparaloka | adj | who has neglected the next world; who has rejected the after… |
+> | pidhīyati | pr | is closed; is shut |
+> | pamajjitvā | abs | having been negligent; having been careless |
+> | pubbuḷaka | nt | bubble |
+> | lokavagga | masc |  |
+> | sotāpattiphala | nt | fruit of entering the stream |
+> | visīdan (?) | ? |  |
+> | marīcikā | fem | mirage; illusion; empty vision |
+> | kadariya | adj | miserly; stingy; niggardly |
+> | savāhinī | adj | with army; with platoon; with squadron |
+> | nīyan (?) | ? |  |
+> | devaloka | masc | heaven; world of gods; heavenly realm |
+> | vajan (?) | ? |  |
+> | duccarita | adj | bad; immoral; wicked |
+> | saṁvasati | pr | lives together (with); cohabits (with); lives (with) |
+> | vipassati | pr | sees deeply (into); sees in detail; understands with insight… |
+> | dhammacārī | adj | who lives the Dhamma; who practices the teaching; who walks … |
+> | andhabhūta | adj | blind; ignorant |
+> | musāvādī | adj | who lies; lying; speaking falsely |
+> | muttova (?) | ? |  |
+> | vijānanta | prp | knowing; understanding; comprehending |
+> | sakuṇa | masc | bird |
+> | abbha | nt | cloud; dark cloud; thundercloud |
+> | avekkhati | pr | sees; regards; views as; consider as |
+> | parattha | masc | benefit of others |
+> | gamana | nt | going; walking; journeying; travelling |
+> | iddhi | fem | psychic power; psychic potency; supernormal ability |
+> | pabha | adj | radiant; shining; luminous |
+> | nappamajjati | pr | is not careless; is not negligent; does not waste one's time |
+> | soma | masc |  |
+> | vara | adj | excellent; best; foremost |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | maccurāja | masc | King of Death |
+> | yan (?) | ? |  |
+> | candima | masc | moon |
+> | sucarita | adj | good; right; moral |
+> | sevati | pr | associates (with); keeps company (with) |
+> | eti | pr | comes (to) |
+> | jantu | masc | man; person; being |
+> | hu | masc | killer; murderer; slayer |
+> | teneva | sandhi | just by that; because of that very thing; by that alone |
+> | appa | adj | few; not many; not much |
+> | atīta | nt | past; what is past |
+> | micchādiṭṭhi | fem | wrong view; incorrect belief |
+> | pamāda | masc | carelessness; negligence; heedlessness |
+> | ākāsa | masc | open space; vacuity |
+<!-- pali-nlp:vocab-end -->

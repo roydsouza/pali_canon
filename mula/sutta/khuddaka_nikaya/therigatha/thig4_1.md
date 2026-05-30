@@ -78,3 +78,49 @@ parallels:
 
 *Catukkanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sītibhūtamha (?) | ? |  |
+> | tyamha (?) | ? |  |
+> | yovedi (?) | ? |  |
+> | kāpilānī | fem | descendent of Kapila |
+> | saggāpāyañca (?) | ? |  |
+> | savāhinī | adj | with army; with platoon; with squadron |
+> | jātikkhaya | masc | extinction of birth; wearing away of rebirth |
+> | abhiññāvosita | adj | who has attained perfect understanding; who has completely u… |
+> | maccuhāyī | adj | who has abandoned death; who has left death behind; who has … |
+> | dāyāda | masc | heir (of); inheritor (of) |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | antima | adj | very last; final; ultimate |
+> | deha | masc | body |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | atho | ind | and then; or; after that; because of |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | tatheva | sandhi | likewise; in the same way; as it is; as they are; similarly |
+> | kassapa | masc | name of the 1st previous Buddha |
+> | dhāra | adj | (of a weapon) sharpened; with edge; with blade |
+> | bhadda | adj | good; excellent; lucky; auspicious |
+> | ubha | pron | both |
+> | danta | masc | tooth |
+> | ādīnava | masc | danger (in); problem (in) |
+> | pubbenivāsa | masc | previous life; former existence |
+> | khīṇāsava | adj | who has destroyed the effluents; awakened; epithet of an ara… |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | tevijja | adj | knowing the three Vedas |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | māra | masc | death; Death; death personified |
+> | putta | masc | son; child |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | disvā | abs | having seen; having understood; having found out |
+> | vijjati | pr | exists (in); is found (in); is present (in) |
+> | buddha | masc | Buddha; Awakened One |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | eta | pron | this |
+> | loka | masc | world; universe; cosmos |
+> | pa | adj | drinking; who drinks |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

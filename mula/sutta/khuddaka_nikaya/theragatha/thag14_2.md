@@ -189,3 +189,69 @@ tags:
 *Cuddasamhi nipātamhi,*
 *gāthāyo aṭṭhavīsatīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | parinibbantināsavā (?) | ? |  |
+> | piyāpiya | adj | beloved and unloved; friend and foe; pleasant and unpleasant |
+> | kāmakopappahīna | adj | abandoned sense desire and anger; (or) dispelled the agitati… |
+> | maraṇañca (?) | ? |  |
+> | jīvitañca (?) | ? |  |
+> | kāmamaya | adj | derived from sense desire; coming from sensual pleasure |
+> | pavivekadukkha | nt | suffering of solitude; discomfort of seclusion |
+> | pavivekiya | nt | state of solitude; life of seclusion |
+> | kāmamayika | adj |  |
+> | bālappasaṁsanā | fem | praise by fools; approval of idiots |
+> | garahāva (?) | ? |  |
+> | ayasova (?) | ? |  |
+> | ayas | masc | iron |
+> | limpan (?) | ? |  |
+> | nālābha | masc | nor loss; nor losing out |
+> | unnataonata | adj | raised or lowered; elavated or depressed; elated or downcast |
+> | indakhīlova (?) | ? |  |
+> | sibbinimaccagū (?) | ? |  |
+> | sukhasmiñca (?) | ? |  |
+> | adassī | adj |  |
+> | conatā (?) | ? |  |
+> | sukhadhamma | masc | happiness; pleasant experience; state of ease; good thing |
+> | unnata | pp | raised; lifted; elevated |
+> | bhavābhavavasa | masc | power of existence and non-existence; sway of being and non-… |
+> | kālavasa | masc | power of time; authority of time |
+> | ariyadhammova (?) | ? |  |
+> | atimaññan (?) | ? |  |
+> | titta | adj | bitter; sharp |
+> | saṁyuga | masc | harness; yoke; attachment |
+> | atibhāra | masc |  |
+> | mathita | pp | churned (by); stirred (by); shaken (by); tossed about (by); … |
+> | dhurassaha | adj |  |
+> | dukkhañca (?) | ? |  |
+> | appabuddhi | adj | unwise; unintelligent; foolish |
+> | pasaṁsā | fem | praise (by); approval (of); commendation (of) |
+> | nigacchan (?) | ? |  |
+> | haññan (?) | ? |  |
+> | udabinduva (?) | ? |  |
+> | bhāvayitvāna | abs | having cultivated; having developed; having meditated (on) |
+> | adhammika | adj | unrighteous; unjust; impious; against the natural order |
+> | nindā | fem | blame; criticism; fault-finding; disgrace |
+> | garahanta | prp |  |
+> | dhura | adj | first; nearby |
+> | aparājita | pp | unconquered; undefeated; victorious; triumphant |
+> | kitti | fem | fame; renown; celebrity |
+> | pasaṁsanta | prp |  |
+> | ājañña | adj | thoroughbred; well bred |
+> | sukhita | pp | pleased; delighted; blessed; comforted; happy |
+> | pokkhara | nt | blue lotus flower; blue lotus petal; Nymphaea nouchali caeru… |
+> | pappuyya | ger | reaching; obtaining; attaining; getting; experiencing |
+> | santacitta | adj | with calm mind; with peaceful heart |
+> | dukkhadhamma | nt | misfortune; painful experience; state of suffering |
+> | alābha | masc | not getting; not obtaining; not finding |
+> | nātivattati | pr | does not overstep; does not cross; does not go over; does no… |
+> | socan (?) | ? |  |
+> | yasa | masc | name of an arahant monk |
+> | samudda | masc | sea; ocean |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | asita | pp | eaten |
+> | heva | sandhi | most certainly; most definitely |
+<!-- pali-nlp:vocab-end -->

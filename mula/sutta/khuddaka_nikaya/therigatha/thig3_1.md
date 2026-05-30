@@ -67,3 +67,39 @@ parallels:
 
 *… Aparā sāmā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (30 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saṁvegamāpādi | aor | experienced a sense of urgency; was startled into action |
+> | visosita | pp | dried; desiccated; withered; evaporated |
+> | saritvā | abs | having remembered; having recollected |
+> | kudācanaṁ | ind | at some time; at any time; ever |
+> | appamādarata | adj | delighting in diligence; devoted to conscientiousness; takin… |
+> | paṇṇavīsativassa | nt | twenty-five years |
+> | nābhijānāti | pr | does not know; does not understand |
+> | dukkhadhamma | nt | misfortune; painful experience; state of suffering |
+> | jinasāsana | nt | Buddha's teaching; doctrine of the Buddha |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | avasavattī | adj | with no control (of); not wielding power (over); having no a… |
+> | taṇhakkhaya | masc | wearing away of craving; depletion of desire; extinction of … |
+> | sattama | ordin | seventh (7th) |
+> | rat (?) | ? |  |
+> | laddha | pp | obtained; gained; won; received |
+> | ajja | ind | today; now |
+> | sama | adj | level; even; balanced |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | sāsana | nt | message; letter |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | santa | prp | existing; being; there is |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | cetas | masc | mind; thought; intention |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

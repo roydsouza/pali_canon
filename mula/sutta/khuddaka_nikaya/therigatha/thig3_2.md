@@ -67,3 +67,40 @@ parallels:
 
 *… Uttamā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (31 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pītisukhasamappita | adj | filled with delight and ease; overflowing with joy and happi… |
+> | pasāresi | aor | stretched out; straightened; extended |
+> | anusāsi | aor | administered; ruled; governed |
+> | khandhāyatanadhātu | fem | aggregates, bases and elements |
+> | padāliyā (?) | ? |  |
+> | pañcakkhattuṁ | ind | five times |
+> | catukkhattuṁ | ind | four times |
+> | saddhāyika | adj | trustworthy; in whom one has confidence |
+> | suṇitvāna | abs | having heard; having listened (to) |
+> | upanikkhami | aor | left; came out (from); exited |
+> | ekapallaṅka | masc |  |
+> | upagacchi | aor | took; accepted; regarded (something as something) |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | avasavattī | adj | with no control (of); not wielding power (over); having no a… |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | aṭṭhama | ordin | eighth (8th) |
+> | sattāha | nt | week; seven days |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | ahu | aor | was |
+> | vihāra | masc | dwelling; residence |
+> | pāda | masc | foot |
+> | santa | prp | existing; being; there is |
+> | nisīdi | aor | sat (on); sat down (in) |
+> | cetas | masc | mind; thought; intention |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | citta | nt | mind; heart |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

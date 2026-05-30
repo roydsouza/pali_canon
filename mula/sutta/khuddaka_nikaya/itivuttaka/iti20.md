@@ -117,3 +117,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti20_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | duggatin (?) | ? |  |
+> | padūsita | pp |  |
+> | bhikkhūna | masc | of the monks; of the mendicants |
+> | etamatthañca (?) | ? |  |
+> | cetopadosahetu | ind | because of mental corruption; due to bad mentality |
+> | paduṭṭha | pp | bad; wicked; evil; corrupt |
+> | upapajjantī (?) | ? |  |
+> | nikkhipati | pr | throws down; discards; drops |
+> | ñatvāna | abs | having known; having found out; having understood |
+> | evamidhekacca | pron | thus here one; so here a certain; thus in this case some; so… |
+> | tathāvidha | adj | of such character; of such quality; such a kind of |
+> | paduṭṭhacitta | adj | angry; upset; offended |
+> | haritvā | abs | having carried; having taken (someone or something by) |
+> | yathābhata | adj | as laden; as loaded |
+> | idhāhaṁ | sandhi | here I; now I |
+> | upapajjati | pr | is reborn (in); re-arises (in) |
+> | byākāsi | aor | answered; replied |
+> | nikkhitta | pp | dropped; discarded; set aside; rejected |
+> | cāyaṁ | sandhi | and this; but this; than this |
+> | paricca | ger | encompassing; encircling |
+> | apāya | masc | state of loss; state of misery |
+> | kayirā | opt | should do; could make |
+> | vinipāta | masc | state of suffering; purgatory; underworld |
+> | duggati | fem | state of misery; bad destination; hell |
+> | kareyya | opt | would make; could make |
+> | pajānāti | pr | knows; knows clearly; understands; distinguishes |
+> | santika | adj | near; close |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | evamevaṁ | sandhi | similarly; in exactly the same way; so too |
+> | bheda | masc | death |
+> | ekacca | pron | certain; one of |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | ayampi | sandhi | one too; this too |
+> | puggala | masc | person; individual |
+> | hetu | adj | because (of); by virtue (of) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | kāla | masc | time; occasion |
+> | buddha | masc | Buddha; Awakened One |
+> | cetas | masc | mind; thought; intention |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | para | pron | other; another (person) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | idha | ind | here; now; in this world |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | satta | card | seven (7) |
+> | samaya | masc | time; occasion |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | ima | pron | this |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+<!-- pali-nlp:vocab-end -->

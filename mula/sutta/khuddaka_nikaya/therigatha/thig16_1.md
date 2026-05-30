@@ -867,3 +867,69 @@ parallels:
 **Therīgāthāpāḷi niṭṭhitā.**  
 *The Verses of the Senior Nuns are finished.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | therīgāthāpāḷi | fem | Book 9 of the Khuddaka Nikāya; Canonical Text of the Verses … |
+> | nibbinditvā | abs |  |
+> | nibbindan (?) | ? |  |
+> | anomapañña | adj | of superior discernment; with exalted understanding |
+> | paṭhamasamodhāna | nt | first meeting; first encounter |
+> | sāva | sandhi | just that; the same thing; that very thing; that itself |
+> | dasasatakkhattuṁ | ind | one thousand times |
+> | dasakkhattuṁ | ind | ten times |
+> | vihāradāna | nt |  |
+> | jani | fem | birth |
+> | sakhī | fem | female friend; woman companion |
+> | navanivesa | masc |  |
+> | koṇāgamana | masc | name of the 2nd previous Buddha |
+> | pubbenivāsacarita | nt | course of previous lives; details of former existences |
+> | rājakaññā | fem |  |
+> | acchariyamabbhutaṁ (?) | ? |  |
+> | aggaphala | nt |  |
+> | sokabhayabhīta | adj | fearing sorrows and dangers |
+> | vimokkhasaccadassa | adj | who sees the truth of liberation; witnessing the reality of … |
+> | yācatassā (?) | ? |  |
+> | anikaratto (?) | ? |  |
+> | khipi | aor | threw; tossed; hurled |
+> | anikarattaṁ (?) | ? |  |
+> | anunenta | prp |  |
+> | aghaṭamāna | prp | not trying; not striving; not making an effort |
+> | payuñja (?) | ? |  |
+> | labhanīyamidaṁ (?) | ? |  |
+> | adhigatamidaṁ (?) | ? |  |
+> | nirupatāpa | adj |  |
+> | akhalitamabhayaṁ (?) | ? |  |
+> | asapattamasambādhaṁ (?) | ? |  |
+> | padamasokaṁ (?) | ? |  |
+> | idamajarāmaraṁ (?) | ? |  |
+> | idamajaramidamamaraṁ (?) | ? |  |
+> | maraṇabyādhigahita | adj | seized by death and illness; taken by dying and disease |
+> | paṭinissajati | pr | gives up; relinquishes; drops; abandons |
+> | kāmayutta | adj | engaged in sensual pleasures; actively pursuing sensual desi… |
+> | anubhohiti | fut | will experience; will suffer |
+> | cittadomanassa | nt | mental suffering; emotional distress |
+> | aparimitañca (?) | ? |  |
+> | sunakhaṁva (?) | ? |  |
+> | chāta | pp | hungry |
+> | khu | ind | indeed; surely; certainly; truly; verily |
+> | kāhin (?) | ? |  |
+> | saṅkhalābaddha | adj | bound with a chain |
+> | sunakhova (?) | ? |  |
+> | gilitvā | abs |  |
+> | baḷisa | nt | fishing hook |
+> | puthulomova (?) | ? |  |
+> | jahi | aor |  |
+> | muñcan (?) | ? |  |
+> | tiṇukkā | fem | grass torch |
+> | vadhabandhadukha | nt | pain of beating and binding; suffering of punishment and imp… |
+> | asakāma | adj | unwilling; not consenting |
+> | vadhabandha | masc | beating and binding; punishment and imprisonment |
+> | mokkha | masc | release; freedom |
+> | rājaggicoraudakappiyā | masc | kings, fire, thieves, flood and enemies |
+> | santāpita | pp |  |
+> | kuthita | pp | boiling hot; baking hot |
+> | kaṭukatara | adj |  |
+<!-- pali-nlp:vocab-end -->

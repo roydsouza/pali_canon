@@ -89,3 +89,50 @@ parallels:
 
 *… Aññatarā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (41 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kāmarāgenavassutā (?) | ? |  |
+> | cittassūpasamajjhagaṁ (?) | ? |  |
+> | nāccharāsaṅghātamattampi (?) | ? |  |
+> | iddhīpi (?) | ? |  |
+> | cetopariccañāṇañca (?) | ? |  |
+> | kandanta | prp | crying out; wailing |
+> | khandhāyatanadhātu | fem | aggregates, bases and elements |
+> | chaḷabhiñña | adj | having six higher knowledges |
+> | upāgacchi | aor | approached; went (to) |
+> | saddhāyika | adj | trustworthy; in whom one has confidence |
+> | suṇitvāna | abs | having heard; having listened (to) |
+> | ekamante | ind | to one side; apart; in a secluded place; in solitude |
+> | paṇṇavīsativassa | nt | twenty-five years |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | paggayha | ger | taking; eating |
+> | visodhita | pp | cleaned; removed |
+> | upāvisi | aor | sat down; took a seat |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | sotadhātu | fem | clairaudience |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | sacchikata | pp | personally experienced; individually realized |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | sāsanan (?) | ? |  |
+> | bāhā | fem | arm; forearm |
+> | pāvisi | aor | entered; went (into) |
+> | pubbenivāsa | masc | previous life; former existence |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | ahu | aor | was |
+> | vihāra | masc | dwelling; residence |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | jānāti | pr | knows; understands |
+> | santa | prp | existing; being; there is |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | cetas | masc | mind; thought; intention |
+> | aha | nt | day |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

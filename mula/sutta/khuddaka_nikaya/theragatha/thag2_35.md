@@ -48,3 +48,27 @@ tags:
 *no dread, no goosebumps.*
 *… Sambulakaccāno thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (18 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mamesā (?) | ? |  |
+> | gaḷagaḷāya (?) | ? |  |
+> | bila | nt | (of meat) piece; portion |
+> | bherava | adj | frightful; terrifying |
+> | lomahaṁsa | masc | goosebumps; hair standing on end; terror |
+> | ekaka | adj | alone; solitary |
+> | chambhitatta | nt | terror; paralysis; being frozen stiff with fear; trepidation |
+> | dhammatā | fem | nature; character; characteristic; attribute |
+> | cāhaṁ | sandhi | and I; but I |
+> | bhaya | adj | dangerous; perilous; frightening |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | deva | masc | deity; god |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -88,3 +88,49 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti60_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | puññakiriyavatthūnī (?) | ? |  |
+> | bhāvanāmaya | adj | developed by meditation; accomplished by meditation |
+> | dānamaya | adj | made by giving; produced by charity |
+> | sīlamaya | adj | defined by ethical behaviour; determined by morality |
+> | sukhasamuddaya | adj | which produce ease; generating comfort |
+> | bhāvayitvā | abs | having cultivated; having developed |
+> | samacariyañca (?) | ? |  |
+> | sukhudraya | adj | with pleasant consequences |
+> | āyatagga | adj | vast and great; extensive and best |
+> | puññameva (?) | ? |  |
+> | mettacittañca (?) | ? |  |
+> | dānañca (?) | ? |  |
+> | abyābajjha | nt | freedom from oppressive pain; pain relief; non-affliction |
+> | upapajjatī (?) | ? |  |
+> | puññakiriyavatthu | nt | basis for good deeds; grounds for making merit |
+> | tīṇimāni | sandhi | these three |
+> | bhāvayati | pr | cultivates; develops |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | sikkhati | pr | learns; trains (in); practices |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

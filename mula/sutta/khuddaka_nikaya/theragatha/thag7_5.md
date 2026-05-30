@@ -118,3 +118,69 @@ tags:
 *Sattake pañcakā therā,*
 *gāthāyo pañcatiṁsatīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | suvimuttomhi (?) | ? |  |
+> | anantaka | adj |  |
+> | dukkhasaṅkhaya | masc | extinguishing of suffering; end of stress |
+> | dhammabhūta | adj | understanding the reality |
+> | yehāyaṁ (?) | ? |  |
+> | khayogadha | adj |  |
+> | tenañjasena (?) | ? |  |
+> | kakusandhakoṇāgamano (?) | ? |  |
+> | vessabhū | masc | name of the 4th previous Buddha |
+> | vipassi | aor |  |
+> | vacanakarenātidevassa (?) | ? |  |
+> | sakala | adj | whole; entire; every part of |
+> | bhañjituṁ | inf | to break; to destroy (with) |
+> | kappatā | fem | similarity to; fact of being like |
+> | kuṭimacchisaṁ (?) | ? |  |
+> | bhañjitvā | abs | having broken; having destroyed |
+> | sarabhaṅga | masc |  |
+> | saṅkhaya | masc | destruction (of); exhaustion (of); dissolution (of); end (of… |
+> | tādī | adj | such; of such character; of such quality; like; kind of |
+> | soyaṁ | sandhi | this very |
+> | nivattati | pr | turns away (from); recoils (from) |
+> | nāddasa | aor | did not see |
+> | sammuti | fem | common opinion; popular idea; general agreement; general con… |
+> | sabbadhī | ind | everywhere; in every way; in all respects |
+> | sikhī | masc | flame; fire |
+> | agamāsi | aor | went (to); left (for) |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | anādāna | adj | free from attachment; not grasping; not taking anything as o… |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | sikkhāpada | nt | precept; instruction; training rule |
+> | yeneva | sandhi | wherever; whenever; because |
+> | katvāna | abs | having done |
+> | samatta | pp | completed; finished |
+> | yasassī | adj | famous; renowned; illustrious; celebrated |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | roga | masc | disease; illness; sickness |
+> | pāṇi | masc | hand; palm |
+> | sara | masc | reed |
+> | kassapa | masc | name of the 1st previous Buddha |
+> | hattha | masc | hand |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | ajja | ind | today; now |
+> | paññatta | pp | prepared; readied; arranged; laid out |
+> | desita | pp | preached (by); taught (by); explained (by); instructed (by) |
+> | ahu | aor | was |
+> | ga | adj | who goes; goes after; going; gone; having gone; being |
+> | samudaya | masc | source; origination; appearance |
+> | diṭṭha | pp | seen; found; visible |
+> | jīvita | nt | life; existence |
+> | pubba | adj | before; previous; earlier; former |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | bheda | masc | death |
+> | ariyasacca | nt | truth of the Buddha; noble truth |
+> | nāma | ind | certainly; truly; for sure |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | catu | card | four (4) |
+> | gotama | masc | family name of the Buddha |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+<!-- pali-nlp:vocab-end -->

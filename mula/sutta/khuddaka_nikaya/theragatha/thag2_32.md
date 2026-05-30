@@ -58,3 +58,32 @@ parallels:
 *in this very life it will dissipate.*
 *… Sivako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (23 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vidhamissatī (?) | ? |  |
+> | vimariyādikata | adj | unbounded; unrestricted; without limits |
+> | vidālita | pp |  |
+> | thūṇikā | fem |  |
+> | gahaka | nt | body |
+> | phāsuka | nt | ease; comfort; health |
+> | gahakāraka | masc | house builder; mason; carpenter |
+> | gahakāra | masc | house builder; mason; carpenter |
+> | bhagga | pp | broken; shattered; fractured |
+> | diṭṭhosi | sandhi | you are seen; you've been discovered |
+> | gavesanta | prp | seeking; searching (for); looking (for) |
+> | kāhati | fut | will do; will make |
+> | geha | nt | house; dwelling |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | idheva | sandhi | right here; just here; only here |
+> | ja | adj | born (from); produced (by); made (of); caused (by) |
+> | anicca | adj | impermanent; inconstant; not lasting; discontinuous; disorde… |
+> | punāti | pr | cleans; purifies |
+> | sabba | pron | all; every |
+> | tattha | ind | there; in that place |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | citta | nt | mind; heart |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

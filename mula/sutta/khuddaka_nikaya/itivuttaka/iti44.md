@@ -121,3 +121,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti44_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dhammasārādhigama | masc | realizing the essence of the Dhamma; reaching the core the t… |
+> | diṭṭhadhammika | adj | concerning this life; regarding this world; relevant to here… |
+> | dosakkhaya | masc | wearing away of ill-will; extinction of aversion |
+> | rāgakkhaya | masc | wearing away of desire; extinction of desire |
+> | avighātatta | nt | fact of being unharmed; unimpaired state |
+> | dvemā | sandhi | these two |
+> | bhavanettisaṅkhaya | masc | destruction of the conduit to existence; ending of the chann… |
+> | si | ve | (gram) verbal ending of the present tense 2nd person singula… |
+> | tiṭṭhanteva (?) | ? |  |
+> | etadaññāya | ger | understanding this |
+> | dhātar | masc |  |
+> | manāpāmanāpa | adj | pleasant and unpleasant; agreeable and disagreeable |
+> | paccanubho (?) | ? |  |
+> | sabbabhava | masc | all states of existence; all forms of existence |
+> | samparāyika | adj | in the next world; related to the next life; of relevance to… |
+> | mohakkhaya | masc | wearing away of delusion; extinction of stupidity |
+> | saupādisesa | adj | with fuel remaining; with remaining attachment; with residua… |
+> | sabbavedayita | nt | all that is felt; all that is experienced; all feeling |
+> | pahari | aor |  |
+> | asaṅkhata | pp | unconditioned; not created; unformed; unconstructed; epithet… |
+> | vimuttacitta | adj | with liberated mind; with emancipated heart |
+> | pañcindriya | nt | five faculties (confidence, effort, mindfulness, mental comp… |
+> | parikkhīṇabhavasaṁyojana | adj | who has worn away the bonds of being; who has exhausted the … |
+> | anuppattasadattha | adj | who has achieved the highest goal; who has attained one's pu… |
+> | katakaraṇīya | adj | who has done the job; who has done what needs to be done; wh… |
+> | anupādisesa | adj | with no grasping to existence; with no fuel remaining; with … |
+> | ohitabhāra | adj | who has put down the burden; who has laid down the load; epi… |
+> | sammadaññāvimutta | adj | who is liberated by perfect understanding; who is freed thro… |
+> | anabhinandita | pp | without delight in; not enjoyed; not pleased with |
+> | vusitavant | adj | fulfilled; completed; finished; perfected; epithet of an ara… |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | nibbānadhātu | fem | condition of being liberated; state of Nibbāna |
+> | nirujjhan (?) | ? |  |
+> | paṭisaṁvedeti | pr | personally experiences; undergoes; feels |
+> | sukhadukkha | nt | ease and discomfort; pleasure and pain; happiness and sorrow |
+> | pakāsita | pp | explained (with); illustrated (by); made known (by); declare… |
+> | anissita | pp | detached (from); disengaged (from); separated (from); indepe… |
+> | idheva | sandhi | right here; just here; only here |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | khīṇāsava | adj | who has destroyed the effluents; awakened; epithet of an ara… |
+> | pada | nt | foot |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | bhavissan (?) | ? |  |
+> | sutan (?) | ? |  |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | sabbaso | ind | in every way; entirely; completely; altogether |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | bhava | imp | be!; you must be! |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | idha | ind | here; now; in this world |
+<!-- pali-nlp:vocab-end -->

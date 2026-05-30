@@ -136,3 +136,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_4_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhavarāgaratta | adj | inflamed with passion for existence; infatuated with the des… |
+> | kāmābhijappan (?) | ? |  |
+> | abhijappan (?) | ? |  |
+> | āsīsan (?) | ? |  |
+> | yaññapatha | masc | method of sacrifice; sacrificial technique |
+> | āsīsamāna | prp | desiring; wishing to get; hoping to get; expecting |
+> | mūladassāvī | adj | who has seen the source; who knows the origin |
+> | yājayoga | adj | devoted to sacrifice; engaging in sacrifice; undertaking sac… |
+> | juhan (?) | ? |  |
+> | kaccissu | sandhi | I hope; I trust; I doubt; I suspect; I wonder |
+> | yassiñjitaṁ | sandhi | for whom (there is no) agitation |
+> | devamanussaloka | masc | world of gods and men |
+> | nātari | aor | did not cross (over); did not make it across; did not escape |
+> | puthūdha (?) | ? |  |
+> | vidhūma | adj | passionless; desireless |
+> | jarañca (?) | ? |  |
+> | thomayan (?) | ? |  |
+> | jātijaran (?) | ? |  |
+> | paropara | adj | further and beyond; above and beyond; (comm) high and low; s… |
+> | jātiñca (?) | ? |  |
+> | carahi | ind | then; therefore; now |
+> | yaññamakappayi | aor | arranged the sacrifice; performed the sacrificial offering |
+> | brūmī (?) | ? |  |
+> | lokasmi | masc | in the world |
+> | puṇṇaka | masc | name of a deity |
+> | kecime | sandhi | whoever of these; whichever of these |
+> | sita | nt | smile |
+> | atāri | aor | crossed (over); made it across |
+> | yañña | masc | sacrifice; offering |
+> | manuja | masc | human being; person |
+> | āgama | masc | scripture; religious text; canon |
+> | nissita | pp | dependent (on); clung (to); attached (to); supported (by); l… |
+> | anīgha | adj | untroubled; undisturbed; calm |
+> | nirāsa | adj | desire-less; free from hope; fulfilled |
+> | kuhiñci | ind | somewhere; anywhere; wherever |
+> | itthatta | nt | present state of existence; earthly existence; such an exist… |
+> | isi | masc | seer; sage |
+> | aneja | adj | unperturbed; unmoved; unruffled; unshakeable |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | khattiya | adj | of ruling caste; of high caste; noble |
+> | brū | root | (gram) √brū (say) |
+> | lābha | masc | gain; acquisition; benefit; profit |
+> | saṅkha | masc | conch shell; mother of pearl |
+> | mārisa | masc | venerable; sir |
+> | jara | adj | old |
+> | pucchati | pr | asks; enquires; questions (somebody about something) |
+> | devatā | fem | deity; god |
+> | brūti | pr | says; tells; speaks; calls |
+> | pañha | nt | question; enquiry |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | santa | prp | existing; being; there is |
+> | paṭicca | ger | dependent; depending (on); contingent (upon); relying (on); … |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | atthi | pr | there is; there exists |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | loka | masc | world; universe; cosmos |
+> | ka | pron | who?; what?; which? |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

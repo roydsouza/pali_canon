@@ -81,3 +81,28 @@ tags:
 *so rain forth, heavens, if you wish.*
 *… Girimānando thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sugīta | adj | well recited; well spoken; well stated |
+> | santacitta | adj | with calm mind; with peaceful heart |
+> | nivāta | adj | sheltered |
+> | channa | pp | covered (with); hidden (by); concealed (by) |
+> | kuṭika | adj | with a little hut; living in a small shack |
+> | vītamoha | adj | free from delusion; free from confusion |
+> | patthayasī | pr | you wish (for); you want |
+> | vītadosa | adj | free from hatred; free from ill-will |
+> | pavassati | pr | rains; pours |
+> | vūpasanta | pp | subsided; calmed; settled |
+> | vītarāga | adj | free from desire (for); without lust (for); free from passio… |
+> | deva | masc | deity; god |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

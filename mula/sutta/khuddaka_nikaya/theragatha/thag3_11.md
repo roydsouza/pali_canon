@@ -59,3 +59,28 @@ tags:
 *would wander undistracted.*
 *… Upālitthero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kappākappa | adj |  |
+> | budha | masc |  |
+> | navapabbajita | masc | newly ordained monk; new renunciant |
+> | abhinikkhamma | ger | leaving; coming out (of); retiring (from) |
+> | apurakkhata | pp | not preferred; not given importance |
+> | suddhājīva | adj | clean-living; living a pure life; innocent |
+> | atandita | pp | energetic; effortful; active; alert |
+> | kalyāṇa | adj | good; favourable; propitious; beneficial; lovely |
+> | bhajati | pr | associates (with); keeps company (with) |
+> | mitta | masc | friend |
+> | nava | adj | new; fresh |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | vinaya | masc | discipline; training |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | sikkhati | pr | learns; trains (in); practices |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

@@ -293,3 +293,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_2_att#§34|Dhaniyasuttavaṇṇanā §34]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pavassi | aor |  |
+> | mahāmegha | masc | heavy rain; great downpour; massive shower |
+> | pūrayanta | prp | filling up; making full |
+> | thalañca (?) | ? |  |
+> | punupeti | pr | returns; comes again; comes back |
+> | dālayitvā | abs | having split; having severed; having broken; having torn apa… |
+> | usabhoriva (?) | ? |  |
+> | dhenupāpi (?) | ? |  |
+> | sakkhin (?) | ? |  |
+> | susaṇṭhāna | adj | well-shape; well-formed; fine-figured |
+> | muñjamaya | adj | made of muñja grass |
+> | dāma | masc | bond; fetter; rope; chain |
+> | asampavedhī | adj |  |
+> | nikhāta | pp | dug down; buried |
+> | bhati | fem | wage; fee; money |
+> | nibbiṭṭha | pp |  |
+> | bhatakosmi (?) | ? |  |
+> | samāniya | adj | together; at home; (comm) not living abroad |
+> | attavetanabhatohamasmi (?) | ? |  |
+> | saṁvāsiya | adj | living together; cohabitating |
+> | baddhāsi (?) | ? |  |
+> | saheyyumāgataṁ (?) | ? |  |
+> | vuṭṭhimpi (?) | ? |  |
+> | rūḷhatiṇa | nt | grass growing; long grass |
+> | andhakamakasā | masc | gadflies and mosquitos |
+> | mahiyekarattivāso (?) | ? |  |
+> | vigatakhilohamasmi (?) | ? |  |
+> | āhita | pp | stocked up; heaped up; provided with fuel |
+> | samānavāsa | adj | living with equals |
+> | mahī | fem | mighty earth; vast world |
+> | duddhakhīrohamasmi (?) | ? |  |
+> | pakkodana | adj | with food cooked; with meal prepared |
+> | nandana | masc | name of a deity |
+> | gomant | adj | with many cattle |
+> | puttima | adj |  |
+> | gabbhaseyyā | fem | conception in a womb |
+> | pūtilataṁva (?) | ? |  |
+> | chetva (?) | ? |  |
+> | chettuṁ | inf | to cut; to sever; to break |
+> | gavampatīdha (?) | ? |  |
+> | usabhopi (?) | ? |  |
+> | paveṇiyopi (?) | ? |  |
+> | godharaṇī | fem | pregnant cow |
+> | dhenupa | masc | suckling calf; unweaned calf; (comm) (or) nursing cow; dairy… |
+> | alola | adj |  |
+> | gopī | fem |  |
+> | susaṅkhata | adj |  |
+> | bhisi | fem | cushion; pillow; bolster; mattress |
+> | gini | masc | fire; fireplace |
+> | anutīra | nt |  |
+> | ninnañca (?) | ? |  |
+> | socana | nt |  |
+> | khila | masc | hardness (towards); coldness (towards); hard-heartedness (to… |
+> | assava | masc | discharge; suppuration; outflow |
+> | pāraga | masc | who has gone beyond; who has crossed over; who has mastered;… |
+> | imamatthaṁ (?) | ? |  |
+> | paribhāvita | pp | (of an egg) nurtured; incubated; hatched |
+> | kaccha | masc | shore land; marsh; wet-land |
+> | jātimaraṇa | nt | birth and death |
+> | anappaka | adj | great; considerable; not insignificant |
+<!-- pali-nlp:vocab-end -->

@@ -74,3 +74,38 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti66_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (29 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | soceyyasampanna | adj | completely pure |
+> | cetosucimanāsavaṁ (?) | ? |  |
+> | vacīsuci | nt | purity of speech |
+> | kāyasuci | nt | purity of body |
+> | soceyyānī (?) | ? |  |
+> | manosoceyya | nt | purity of mind |
+> | vacīsoceyya | nt | purity of speech |
+> | kāyasoceyya | nt |  |
+> | soceyya | nt | purity; purification rites |
+> | sabbappahāyinan (?) | ? |  |
+> | suci | adj | clean; pure |
+> | tīṇimāni | sandhi | these three |
+> | āha | perf | said |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

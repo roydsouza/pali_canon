@@ -119,3 +119,59 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti95_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (50 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | piyarūpasātagadhita | adj | bound to the pleasure of beloved forms; ensnared by delight … |
+> | pariccaja | adj | rejection; disapproval |
+> | paccupaṭṭhitakāma | adj | who desires what is present |
+> | kāmūpapatti | fem | occurrence of sensual pleasure |
+> | ariyaddasa | adj |  |
+> | dukkhamaccagā | imperf | surpassed suffering; transcended stress; sumounted discomfor… |
+> | kāmabhoga | masc | enjoyment of sensual pleasures; sensual gratification; hedon… |
+> | nāgacchan (?) | ? |  |
+> | jātikkhayamabhiññāya | ger | directly knowing the destruction of birth; understanding the… |
+> | kāmabhogī | adj | who enjoys sensual gratification; who indulges in sensual pl… |
+> | parinibban (?) | ? |  |
+> | duraccaya | adj | difficult to escape; hard to cross; hard to overcome; diffic… |
+> | itthabhāvaññathābhāva | masc | this or another existence; existence here and there |
+> | punabbhavan (?) | ? |  |
+> | caññe | sandhi | and others |
+> | paranimmitavasavattī | adj | who wield power over the creations of others |
+> | nimmānaratino | masc | name of a group of devas |
+> | nātivattati | pr | does not overstep; does not cross; does not go over; does no… |
+> | etamādīnavaṁ (?) | ? |  |
+> | vasavattino | masc | name of a group of deities; gods who wield power over the cr… |
+> | sammadaññā | ger | perfectly understanding; completely comprehending |
+> | mānusa | adj | human |
+> | vedagū | masc | who has perfect knowledge; who has complete understanding |
+> | chetvā | abs | having cut off; having severed; (comm) having killed |
+> | asesa | adj | complete; without remainder |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | ñatvā | abs | having known; having found out; having understood |
+> | sota | masc | stream; river; current |
+> | dibba | adj | divine; heavenly; celestial |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | deva | masc | deity; god |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | sabba | pron | all; every |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

@@ -106,3 +106,68 @@ tags:
 
 *… Uttarā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (59 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sakkaṁva (?) | ? |  |
+> | vuṭṭhāsi | aor | (of meditation) arose (from); emerged (from); came out (of) |
+> | paṭācārānusāsanī | fem | Paṭācārā's advice; teaching of Paṭācārā |
+> | tevijjāmhi (?) | ? |  |
+> | tidasa | adj | of Tavatimsa heaven |
+> | koṭṭen (?) | ? |  |
+> | pakkhālayitvāna | abs | having washed; having rinsed |
+> | vindan (?) | ? |  |
+> | posenta | prp | supporting; looking after; taking care (of); nurturing |
+> | upaṭṭhapetvāna | abs | having established; having set up; having caused to attend; … |
+> | ghaṭati | pr | strives; makes an effort; exerts oneself |
+> | ekamante | ind | to one side; apart; in a secluded place; in solitude |
+> | dhovitvā | abs | having washed; having cleaned; having rinsed |
+> | visodhayi | aor | cleaned; purified; cleansed; (comm) attained |
+> | pubbajātimanussariṁ (?) | ? |  |
+> | musala | masc | mace; club; truncheon |
+> | aparājita | pp | unconquered; undefeated; victorious; triumphant |
+> | padālayi | aor | cleaved; broke; shattered; smashed |
+> | nānutappa (?) | ? |  |
+> | vihassati | fut | will live |
+> | dhañña | adj | lucky; auspicious; fortunate |
+> | purakkhatvā | abs | having put in front; having given priority (to) |
+> | gahetvāna | abs | having taken; having brought |
+> | saṅgāma | masc | battle; war; fight |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | upāvisi | aor | sat down; took a seat |
+> | puttadāra | masc | wife and kids |
+> | ekagga | adj | unified; collected |
+> | buddhasāsana | nt | Buddha's teaching; Buddha's message |
+> | anusāsanī | fem | advice; instruction; teaching |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | paccavekkhati | pr | reviews; regards; reflects; considers |
+> | khippa | adj | quick; fast |
+> | dhana | nt | wealth; riches; treasure |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | majjhima | adj | middle; middling; medium; medium-sized; moderate |
+> | nisīdati | pr | sits (on); sits down (in) |
+> | purima | adj | earlier; past; former; previous |
+> | yāma | masc | watch (of the night); one eighth of the day; about three hou… |
+> | pacchima | nt | what was said after; what was stated subsequently |
+> | vacana | nt | word; utterance; talk; statement |
+> | māṇava | masc | young man; young gentleman; young Brahman |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | tevijja | adj | knowing the three Vedas |
+> | katvā | abs | having done |
+> | sutvā | abs | having heard; having listened (to) |
+> | pāda | masc | foot |
+> | ratti | fem | night |
+> | kata | pp | done; did; completed |
+> | saṅkhāra | masc | intention; volitional formation; choice; karmic activity |
+> | deva | masc | deity; god |
+> | para | pron | other; another (person) |
+> | ekamantaṁ | ind | to one side; aside |
+> | atta | masc | self; soul; spirit; essence |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

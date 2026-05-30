@@ -90,3 +90,37 @@ parallels:
 *Aṭṭhatālīsa gāthāyo,*
 *therā soḷasa kittitāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | patthenta | prp |  |
+> | bhajeyyuttamapuggalaṁ (?) | ? |  |
+> | vivajjetvā | abs |  |
+> | sahāvasati | pr | lives together (with) |
+> | sādhujīvīpi (?) | ? |  |
+> | kusītamāgamma | ind | due to a lazy person; owing to a lethargic person |
+> | mahaṇṇava | masc | great sea; large ocean; immense body of water |
+> | dārumāruyha (?) | ? |  |
+> | pāpamitta | adj | with evil friends; with a bad companion; with wicked associa… |
+> | acala | adj | unshakeable; immobile; stationary; stable |
+> | hīnavīriya | adj | low in energy; lacking in endurance; unenergetic; weak; feeb… |
+> | ovāda | masc | advice; instruction encouragement; exhortation |
+> | sīdati | pr | sinks down (into); submerges (in); drowns (in) |
+> | pavivitta | pp | separated; secluded; detached (from) |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | kusīta | adj | lazy; slack; inactive; apathetic |
+> | jhāyi | masc | meditator; yogi |
+> | āraddhavīriya | adj | energetic (in); with energy aroused (to); applying energy (t… |
+> | paritta | pp | little; small; tiny |
+> | nicca | adj | permanent; lasting; continuous; ordered; stable; reliable; r… |
+> | pahitatta | adj | resolute; determined; applying oneself |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | tiṭṭhati | pr | stands |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

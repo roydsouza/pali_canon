@@ -96,3 +96,62 @@ parallels:
 
 *… Khemā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (53 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | suddhimamaññatha (?) | ? |  |
+> | yathābhuccamajānantā (?) | ? |  |
+> | paricaranta | prp | attending (to); looking after; tending (to) |
+> | harāyati | pr | is ashamed (of); is humiliated (by); is worried (by) |
+> | aṭṭiyati | pr | is troubled (by); perturbed (by) |
+> | satthusāsanakāraka | adj | following the teacher's instruction; complying with the mast… |
+> | pūtikāya | masc | putrid body; disgusting body; stinking body; foul mass |
+> | adhikuṭṭana | nt | chopping up; pulverizing |
+> | khandhāsaṁ (?) | ? |  |
+> | turiya | nt | instrumental music |
+> | yuva | masc | youngster; youth; lad |
+> | sattisūlūpama | adj | like swords and spears; similar to swords and spears |
+> | namassanta | prp | worshipping; venerating; revering; honouring |
+> | nihata | pp | defeated; slain; destroyed |
+> | ramati | pr | enjoys; finds pleasure (in); takes delight (in); likes |
+> | kāmataṇhā | fem | craving for sensual pleasure |
+> | pabhaṅgu | adj | brittle; breakable; fragile; perishable |
+> | kāmarati | fem | delight in sensual pleasure; enjoying sex |
+> | pamutta | pp | freed (from); liberated (from) |
+> | arati | fem | dissatisfaction; dislike; discontent; aversion; boredom |
+> | antaka | masc | Death |
+> | sabbadukkha | nt | all suffering; all pain; all stress; all discomfort |
+> | rūpavant | adj | material; physical; having material form; possessing form |
+> | ātura | adj | sick; diseased; ill; unhealthy |
+> | nakkhatta | nt | constellation; zodiac; celestial object |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+> | tvamasi | sandhi | you are |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | ahañca | sandhi | and I |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | pañcaṅgika | adj | consisting of five parts; five-factored |
+> | dahara | adj | young; youthful; junior |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | khema | adj | well; safe; secure; at peace; at rest |
+> | sabbattha | ind | everywhere; every place |
+> | vana | nt | wood; forest; grove |
+> | ahampi | sandhi | I too |
+> | sambuddha | masc | Awakened One; Buddha; who is wide awake; who has completely … |
+> | aggi | masc | fire |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | brūti | pr | says; tells; speaks; calls |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | tvaṁ | pron | you (subject) |
+> | ima | pron | this |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

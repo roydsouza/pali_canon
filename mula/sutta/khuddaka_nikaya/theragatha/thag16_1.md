@@ -257,3 +257,69 @@ tags:
 *they realized the state of extinguishment, the unconditioned.*
 *… Adhimutto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | asaṅkhatan (?) | ? |  |
+> | nibbānapada | nt | state of Nibbāna; state of complete quenching |
+> | phusi | aor | experienced; reached; attained; achieved |
+> | katindriya | adj | developed in mind |
+> | bojjhaṅgabala | nt | elements of awakening and mental powers; factor of enlighten… |
+> | bhāvetva | abs | having cultivated; having developed |
+> | pabbajjamarocayi | aor | chose to get ordained; decided to become a monastic; asked f… |
+> | viramāsi | aor | stopped; ended; ceased; finished |
+> | nikkhippa | ger | dropping; discarding; setting aside |
+> | sabbalokatikicchaka | masc | healer of the whole world; doctor for the entire world |
+> | mahākāruṇika | adj | of great compassion; enormously compassionate |
+> | sabbadassāvī | adj | all seeing; who perceives everything |
+> | sabbaññū | adj | omniscient; all knowing; with complete understanding |
+> | bhijjissa (?) | ? |  |
+> | ukkaṇṭhati | pr | sick (of); is fed up (with); is dissatisfied (with); is anno… |
+> | tiṇakaṭṭhasama | adj | grass and twigs; like straw and sticks |
+> | saṅkhārasantati | fem | continuity of conditions; succession of conditioned states |
+> | dhammasamuppāda | masc | arising of phenomena; origination of causes |
+> | vigamissan (?) | ? |  |
+> | sutattaṁva (?) | ? |  |
+> | anissara | adj | godless; ruler-less; without an overlord; without power |
+> | ādittāva (?) | ? |  |
+> | pitvāva (?) | ? |  |
+> | nirassāda | adj | tasteless; unsavoury; unsatisfying; ungratifying |
+> | rogānamiva (?) | ? |  |
+> | bhavanetti | fem | conduit to existence; channel to becoming; i.e. craving |
+> | paridevesi | aor | mourned; lamented |
+> | bhītatta | nt | state of fear; state of terror |
+> | vilapan (?) | ? |  |
+> | vedhan (?) | ? |  |
+> | dhanatthaṁ | ind | for wealth; for riches |
+> | āvudha | nt | weapon; arms; (comm) bows and crossbows |
+> | tenāyaṁ | sandhi | by him this |
+> | asokatā | fem | sorrow-free state; sorrowlessness |
+> | sāsanamāgamma (?) | ? |  |
+> | bhavenamhi (?) | ? |  |
+> | āghātana | nt | place of execution; execution block |
+> | saṅkhaya | masc | destruction (of); exhaustion (of); dissolution (of); end (of… |
+> | khīṇasaṁyojana | adj | who has removed the bonds; who has worn away the fetters; ep… |
+> | gāmaṇi | masc | chief; chieftain; headman; leader |
+> | avasesa | adj | remaining; rest of |
+> | asaṁvindanta | prp | not finding; not obtaining; not discovering |
+> | yadicchati | pr | whatever one wants; what one desires |
+> | pabbajitvā | abs | having ordained (in); having renounced the household life |
+> | pemañca (?) | ? |  |
+> | soyaṁ | sandhi | this very |
+> | bhāranikkhepana | nt | putting down the burden; dropping the weight |
+> | saṅgata | pp | met; gathered together; assembled |
+> | mamatta | nt | possession (of); ownership (of); self-identification (with);… |
+> | āyukkhaya | masc | end of life; exhaustion of life energy; running out of life … |
+> | nikkhipitvāna | abs | having placed down; having dropped; having deposited; having… |
+> | etadabravi | aor | one said this (to) |
+> | yadatthi | sandhi | whatever there is; whichever there are |
+> | khayagāmī | adj | leading to wearing away; leading to destruction |
+> | ayoguḷa | masc | iron ball |
+> | paridevanā | fem | mourning; lamentation; wailing; crying |
+> | ahosin (?) | ? |  |
+> | anatthika | adj | not wanting; not in need (of); not desiring; not seeking |
+> | udaggacitta | adj | with elated heart; with exulted mind |
+> | visa | nt | poison; toxin; venom |
+<!-- pali-nlp:vocab-end -->

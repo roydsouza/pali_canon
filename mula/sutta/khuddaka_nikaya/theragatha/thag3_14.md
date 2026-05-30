@@ -59,3 +59,40 @@ tags:
 *mindful, I found peace.*
 *… Gotamo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (31 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | samajjhagan (?) | ? |  |
+> | mahamattasambhavaṁ | sandhi | I (having seen that) self generation; I (having seen that) I… |
+> | saderita | adj | always in motion; ever-moving; (comm) fragile; breakable |
+> | pacalita | pp | shaky; unsteady; in motion |
+> | asāraka | adj | essence-less; insubstantial |
+> | suvidita | adj | well known; completely understood; fully comprehended |
+> | asaññisuṭṭhita | adj | established in the impercipient |
+> | nevasaññī | adj | neither impercipient; neither unconscious; neither unaware |
+> | saggakāyamagamaṁ | sandhi | I went to the heavenly host |
+> | bhavobhirādhito | sandhi | enjoyed the state; successfully attained existence |
+> | mānusopi (?) | ? |  |
+> | nekadhā | ind | many times; frequently; often |
+> | dukkhamamhipi (?) | ? |  |
+> | petalokamagami | aor | went to the ghost realm |
+> | agacchi | aor | went; travelled |
+> | arūpadhātu | fem | formless state; immaterial element |
+> | rūpadhātu | fem | realm of form; material world |
+> | santimeva (?) | ? |  |
+> | saṁsaranta | prp | wandering on; moving on continuously; transmigrating |
+> | sakiṁ | ind | once |
+> | cira | adj | (of time) long |
+> | tiracchānayoni | fem | animal realm; animal birth |
+> | saṅkhata | pp | created; constructed; conditioned; fabricated |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | sambhava | masc | birth; origin; source (of) |
+> | vusita | pp | fulfilled; completed; finished |
+> | satima | adj | one hundredth (1/100th) |
+> | niraya | masc | hell; hell realm |
+> | viditvā | abs | having got; having received |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -137,3 +137,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_8_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | labhethā (?) | ? |  |
+> | viññātadhamma | adj | who has understood the teaching; who has comprehended the re… |
+> | medhāvinañceva (?) | ? |  |
+> | sotāvadhānūpanisūpapanne | sandhi | when the conditions for paying attention have appeared; when… |
+> | nijjhapayati | pr | persuades; convinces; makes understand |
+> | avedhadhamma | adj | unperturbable; unshakeable; unflappable |
+> | vedagu (?) | ? |  |
+> | tatrūpayaññū (?) | ? |  |
+> | bahūpi (?) | ? |  |
+> | phiya | nt | oar |
+> | daḷhamāruhitvā (?) | ? |  |
+> | nijjhapetuṁ | inf | to persuade; to convince; to make believe |
+> | anisāmayatthaṁ (?) | ? |  |
+> | tārayetuṁ | inf | to help across |
+> | anusotagāmī | adj | going with the stream; headed downstream; going with the flo… |
+> | mahodaka | nt | mass of water; flood; torrent; deluge |
+> | āpagamotaritvā (?) | ? |  |
+> | usūyakañca (?) | ? |  |
+> | anāgatatthañca (?) | ? |  |
+> | upasevamāna | prp | associating (with); keeping company (with) |
+> | khuddañca (?) | ? |  |
+> | vibhāvī | adj | intelligent; wise |
+> | tadaṭṭhikatvāna (?) | ? |  |
+> | pātukari | aor |  |
+> | tasmi | pron | in that; in that person |
+> | aja | masc | goat |
+> | salila | nt | water |
+> | avibhāvayitvā | abs | having not understood clearly; having not accurately discern… |
+> | paṭipajjamāna | prp | practising; following a course of training |
+> | indaṁva (?) | ? |  |
+> | bahussutañca (?) | ? |  |
+> | vijaññā | opt | should know; should understand |
+> | mutīmant | adj | intelligent; clever; wise |
+> | tārayati | pr | helps across; saves; rescues |
+> | pūjayati | pr | reveres; honours |
+> | nisamma | ind | calmly; considerately; carefully |
+> | sīghasota | adj | with a fast current; flowing swiftly; (comm) with a violent … |
+> | vuyhamāna | prp | being carried away (by); being swept along (by) |
+> | avitiṇṇakaṅkha | adj | who has not overcome doubt; who has not crossed beyond uncer… |
+> | samaṅgibhūta | adj | endowed (with); provided (with); possessing |
+> | dhammānudhamma | adj | in accordance with the teaching; following the teaching |
+> | ritta | pp | empty; emptied; hollow |
+> | sakkhi | adj | personally experienced; personally witnessed |
+> | pasannacitta | adj | full of devotion; mentally full of confidence |
+> | nāvā | fem | ship; boat; raft |
+> | nipuṇa | adj | fine; subtle |
+> | hu | masc | killer; murderer; slayer |
+> | viññū | adj | wise; intelligent; discerning; knowledgeable |
+> | bhajati | pr | associates (with); keeps company (with) |
+> | sappurisa | masc | good man; moral man; virtuous man; superior man |
+> | pūjita | pp | revered; venerated; honoured |
+> | yathāpi | sandhi | just like; just as |
+> | tatheva | sandhi | likewise; in the same way; as it is; as they are; similarly |
+> | upeti | pr | comes; approaches; enters |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | idheva | sandhi | right here; just here; only here |
+> | bahussuta | adj | very learned; well educated; knowledgeable |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | nara | masc | man; person |
+<!-- pali-nlp:vocab-end -->

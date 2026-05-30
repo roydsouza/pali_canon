@@ -88,3 +88,55 @@ tags:
 
 *Pañcakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (46 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ayyāyovāda | masc | advice of the nun; lady's instruction |
+> | paramattha | masc | ultimate goal; highest truth; ultimate state; ultimate benef… |
+> | ovaditvāna | abs | having advised; having instructed; having taught |
+> | ḍayhanta | prp | being burned (by); being scorched (by) |
+> | sītuṇha | nt | cold and heat |
+> | bhikkhamāna | prp | begging; looking for alms |
+> | nādhigā | imperf | did not obtain; did not get; did not acquire |
+> | bhattacoḷa | masc | food and clothes |
+> | aputtaka | adj | without a son; childless; without heirs |
+> | vidhavā | fem | widow |
+> | duggatāhaṁ (?) | ? |  |
+> | tevijjāmhi (?) | ? |  |
+> | cārihaṁ (?) | ? |  |
+> | daṇḍañca (?) | ? |  |
+> | gaṇhitvā | abs | having grabbed hold (of); having seized; having taken |
+> | niyojayi | aor | urged; impelled; instigated; encouraged (to do) |
+> | paṭācārā | fem | name of an arahant nun; great disciple of the Buddha; foremo… |
+> | vini | aor |  |
+> | pabbājeti | pr | banishes (from); exiles (from); drives away (from) |
+> | upasaṅkamma | ger | approaching; going (to) |
+> | annapāna | nt | food and drink |
+> | akāsi | aor | did; performed |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | anusāsanī | fem | advice; instruction; teaching |
+> | ñāti | masc | family; relative; kinsman |
+> | amogha | adj | fruitful; efficacious; not in vain; not futile |
+> | kula | nt | family; house; household; respectable family |
+> | mitta | masc | friend |
+> | pabbajjā | fem | (vinaya) novice ordination; renunciation; becoming a monasti… |
+> | lābhī | adj | who gains; who gets; who has |
+> | āsi | aor | was |
+> | disvāna | abs | having seen |
+> | anagāriya | nt | homelessness; homeless state |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | vacana | nt | word; utterance; talk; statement |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | vassa | masc | rain; downpour |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | pura | nt | fortified town; castle; fortress |
+> | sutvā | abs | having heard; having listened (to) |
+> | avoca | aor | said (something to somebody) |
+> | punāti | pr | cleans; purifies |
+> | satta | card | seven (7) |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

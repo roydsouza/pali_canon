@@ -88,3 +88,46 @@ tags:
 *Gāthāyo dve ca paññāsa,*
 *therā sabbepi terasāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (37 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jaṇṇukasandhi | masc | knee joint |
+> | visīyati | pr | is unbound; falls apart |
+> | maṁsapesi | fem | lump of meat; chunk of meat; slice of meat |
+> | bhijjatuyaṁ (?) | ? |  |
+> | parakkami | aor | tried (to); strived (to); made an effort (to); endeavoured (… |
+> | jīvikatthohaṁ (?) | ? |  |
+> | nipāteti | pr | lets fall; drops |
+> | daḷhavīriya | adj | with strong energy; making a strenuous effort |
+> | paṭilabhi | aor | obtained; got; received; acquired |
+> | vīriyaparakkama | masc | effort and persistence; energy and perseverance |
+> | nāsati | pr | does not eat |
+> | jaṅgha | adj | with calves |
+> | mevaṁ (?) | ? |  |
+> | anūhata | pp | not destroyed; unimpaired; not uprooted |
+> | papatati | pr | falls (from); falls away (from); falls off |
+> | taṇhāsalla | nt | arrow of craving; dart of desire |
+> | nikkhama | masc |  |
+> | pivati | pr | drinks; imbibes |
+> | pabbaji | aor | ordained; renounced |
+> | napi | sandhi | not even; nor just |
+> | sāsanan (?) | ? |  |
+> | upasampadā | fem | undertaking (of); taking up (of) |
+> | laddha | pp | obtained; gained; won; received |
+> | ubha | pron | both |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | passa | nt | (of the body) side; rib |
+> | vijjanta | prp | existing |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | kata | pp | done; did; completed |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | buddha | masc | Buddha; Awakened One |
+> | ka | pron | who?; what?; which? |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -574,3 +574,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_4_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mahapphalan (?) | ? |  |
+> | puññakhettamanuttaraṁ (?) | ? |  |
+> | ijjhan (?) | ? |  |
+> | vinayitvāna | abs | having removed; having cleared |
+> | bhakuṭi | fem | frown; scowl; black look |
+> | yaññamāgataṁ (?) | ? |  |
+> | jātimaraṇakovida | adj | expert in birth and death; skilled in being born and dying |
+> | vinetar | masc | remover |
+> | sīmanta | masc |  |
+> | panūdita | pp | dispelled; driven out |
+> | khettañhi (?) | ? |  |
+> | paṭigaṇhāti | pr | (of a guest) receives; welcomes |
+> | hutamatthu (?) | ? |  |
+> | hutañca (?) | ? |  |
+> | sarīrañca (?) | ? |  |
+> | ñāṇadassī | adj |  |
+> | mohantara | masc | delusion within; internal illusion |
+> | nānupassati | pr | does not see; does not consider; does not take (as) |
+> | akāca | adj |  |
+> | nidosa | adj | without fault; without defect |
+> | yopānudi (?) | ? |  |
+> | upādānakhaya | masc | eradication of attachment; wearing away of acquisition |
+> | diṭṭhimupātivatto (?) | ? |  |
+> | sakhettavatthu | adj | with causes and conditions |
+> | amānasatta | adj | not attached to arrogance; not clinging to conceit |
+> | mānasatta | nt | fact of having such mind; fact of having a certain mental st… |
+> | caññāsi (?) | ? |  |
+> | sokamala | nt | stain of sorrow; impurity of grief |
+> | anantapañña | adj |  |
+> | udakarahadova (?) | ? |  |
+> | jātīmaraṇa | nt | birth and death |
+> | abhibhuyyacārī | adj |  |
+> | damas | masc | taming; restraint; self-control |
+> | dhitīmā | adj | resolute; determined; unswayed |
+> | nīcākulīnopi (?) | ? |  |
+> | jātaveda | masc |  |
+> | caraṇañca (?) | ? |  |
+> | yiṭṭhukāma | adj |  |
+> | ratohaṁ (?) | ? |  |
+> | abhivindati | pr |  |
+> | appevidha (?) | ? |  |
+> | tumhādisānañhi (?) | ? |  |
+> | vedagumaddasāma (?) | ? |  |
+> | hutamijjhe (?) | ? |  |
+> | tassijjhe (?) | ? |  |
+> | yassāhutiṁ (?) | ? |  |
+> | yadantagū (?) | ? |  |
+> | catuvīsatakkhara | adj | with twenty-four syllables |
+> | tipada | adj |  |
+> | gottapañha | nt | question about lineage; enquiry about ancestry |
+> | nivuttakesa | adj |  |
+> | saṅghāṭivāsī | adj | wearing a double robe; clothed in an outer robe |
+> | vessāyana | masc | man of the merchant or agricultural class |
+> | kiṁjacca | adj | of what caste (are you)? |
+> | muṇḍāpi (?) | ? |  |
+> | nivattitukāma | adj | wanting to turn back; wishing to return |
+> | tatova (?) | ? |  |
+> | vivari | aor | opened |
+> | padasadda | masc |  |
+> | kamaṇḍalu | masc | water-pitcher |
+<!-- pali-nlp:vocab-end -->

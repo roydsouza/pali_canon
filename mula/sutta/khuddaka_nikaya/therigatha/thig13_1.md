@@ -239,3 +239,69 @@ parallels:
 
 *… Ambapālī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jarāghara | masc | old house |
+> | sopalepapatito | sandhi | this (old house) with the plaster fallen down |
+> | bahudukkhānamālayo (?) | ? |  |
+> | jajjara | adj | very old; decrepit; worn out |
+> | valīmant | adj | wrinkled; shrivelled |
+> | phuṭita | pp | cracked; burst open; split |
+> | tūlapuṇṇasadisopama | adj | as if filled with cotton |
+> | tiladaṇḍakāriva (?) | ? |  |
+> | saṇhanūpurasuvaṇṇamaṇḍita | adj | adorned with burnished gold ankle bracelets |
+> | veḷunāḷī | fem | bamboo stalk; hollow reed |
+> | nāgabhogasadisopama | adj | like elephant trunks |
+> | otata | pp | overspread; covered (with) |
+> | vali | fem | wrinkle; fold; crease |
+> | sammaṭṭha | pp | swept; cleaned |
+> | phalakaṁva (?) | ? |  |
+> | nodaka | adj | without water; dry |
+> | lamban (?) | ? |  |
+> | thevikīva (?) | ? |  |
+> | thanaka | masc | breast |
+> | pīnavaṭṭasahituggata | adj | full, round, pressed together and pert |
+> | mūlamūlika | adj | like roots; (comm) like yams |
+> | saṇhamuddikasuvaṇṇamaṇḍita | adj | adorned with burnished gold rings |
+> | pāṭalibbalita | adj | wrinkled like trumpet flowers; (comm) like grey trumpet flow… |
+> | vaṭṭapalighasadisopama | adj | like round iron bars |
+> | vināmita | pp | bent; bowed; stooped |
+> | suppamajjita | adj | well polished; rubbed smooth |
+> | saṇhakamburiva (?) | ? |  |
+> | nikūjihaṁ (?) | ? |  |
+> | kokilāva (?) | ? |  |
+> | vanasaṇḍacārī | adj | roaming in the forest grove |
+> | cāsitā (?) | ? |  |
+> | khaṇḍita | pp | (of teeth) broken; cracked; shattered |
+> | pattalīmakulavaṇṇasādisa | adj | resembling the colour of plantain buds; (comm) with the colo… |
+> | kaṇṇapāḷi | fem | ear; auricle; outer ear |
+> | kaṅkaṇaṁva (?) | ? |  |
+> | upakūlita | pp | shrivelled |
+> | abhiyobbana | nt | early youth; bloom of youth |
+> | nāsikā | fem | nose |
+> | saṇhatuṅgasadisa | adj | like a delicate mountain peak |
+> | jarāyabhihata | adj | ruined by old age; hammered with age |
+> | nettahesumabhinīlamāyatā (?) | ? |  |
+> | surucira | adj | extremely beautiful; exceptionally gorgeous; very attractive |
+> | bhamukā | fem | eyebrow |
+> | lekhikā | fem | small line; little stroke |
+> | cittakārasukatāva (?) | ? |  |
+> | suveṇīhilaṅkata | adj | elegantly braided; artfully plaited |
+> | kaṇhakhandhakasuvaṇṇamaṇḍita | adj | with dark tresses adorned with gold |
+> | virala | adj | sparse; scanty; patchy |
+> | kocchasūcivicitaggasobhita | adj | made beautiful, with separate strands brushed and pinned |
+> | suropita | adj | well planted |
+> | kānanaṁva (?) | ? |  |
+> | salomagandhika | adj | smelling like dog fur; (comm) with the smell of natural hair… |
+> | jarāyatha (?) | ? |  |
+> | uttamaṅgaja | masc | hair |
+> | pupphapūra | adj | full of flowers; filled with blossoms |
+> | vāsitova (?) | ? |  |
+> | sāṇavākasādisa | adj | like Sunn hemp fibre; like jute fibre |
+> | muddhaja | adj | (gram) cerebral; retroflex; lingual |
+> | vellitagga | adj | curly; with curly tips; curled at the end |
+> | bhamaravaṇṇasādisa | adj | like the colour of a bumblebee; glossy black in appearance |
+<!-- pali-nlp:vocab-end -->

@@ -63,3 +63,37 @@ parallels:
 
 *… Sukkā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | valāhakamivaddhagū (?) | ? |  |
+> | appaṭivānīya | ptp | irrefusable; irresistible; compelling; captivating |
+> | upāsan (?) | ? |  |
+> | pītāva (?) | ? |  |
+> | kiṁme | sandhi | what are these?; what have these? |
+> | asecanakamojavaṁ | sandhi | pure and nourishing; delicious and nutritious |
+> | acchati | pr | waits (in); remains (in) |
+> | madhu | nt | honey |
+> | pivan (?) | ? |  |
+> | desenta | prp | preaching (to); teaching (to); explaining (to); pointing out… |
+> | savāhinin (?) | ? |  |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | sukka | adj | pure; bright |
+> | antima | adj | very last; final; ultimate |
+> | deha | masc | body |
+> | buddhasāsana | nt | Buddha's teaching; Buddha's message |
+> | sappañña | adj | wise; intelligent |
+> | vītarāga | adj | free from desire (for); without lust (for); free from passio… |
+> | dhāra | adj | (of a weapon) sharpened; with edge; with blade |
+> | mañña | masc | thought; conception; imagination |
+> | rājagaha | masc | name of a city; capital of Magadha |
+> | māra | masc | death; Death; death personified |
+> | samāhita | pp | composed; centred; settled; collected |
+> | manussa | masc | human being; man; person |
+> | kata | pp | done; did; completed |
+> | tañca | sandhi | and that |
+> | dhamma | masc | nature; character |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

@@ -68,3 +68,29 @@ tags:
 *Therā ekūnapaññāsaṁ,*
 *bhāsitā nayakovidāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saññamalabhiṁ (?) | ? |  |
+> | ekatiṁsa | ordin | thirty first (31st) |
+> | saṁvirūḷha | pp | fully grown; grown tall; flourished |
+> | haritobhāsa | adj | bright green; radiant green |
+> | assattha | masc | Bodhi tree; Ficus religiosa |
+> | buddhagata | adj | immersed in the Buddha; focused on the Buddha |
+> | pādapa | masc | tree |
+> | vāhasā | ind | on account (of); owing (to); due (to) |
+> | alabhi | aor |  |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | patissata | pp | self-aware; thoughtful; mindful |
+> | tadā | ind | then; at that time |
+> | ita | pp | come; gone |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+> | sañña | adj | perceiving; regarding (as); with perception |
+> | eka | card | one (1) |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

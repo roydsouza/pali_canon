@@ -67,3 +67,43 @@ parallels:
 
 *… Ubbirī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (34 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | munin (?) | ? |  |
+> | dhītusoka | masc | grief over a daughter; sadness about one's daughter |
+> | kamanusocasi (?) | ? |  |
+> | etamhāḷāhane (?) | ? |  |
+> | jīvasanāmika | adj | with the name Jīva; called Jīva |
+> | cullāsītisahassa | card | eighty-four thousand (84 000) |
+> | ubbirī | fem | name of an arahant nun |
+> | abbūḷhasallāhaṁ (?) | ? |  |
+> | hadayassita | adj | embedded in the heart; planted in the heart |
+> | abbahi | aor | pulled out; plucked out; drew out; extracted; uprooted |
+> | kandati | pr | cries (over); weeps (about); wails (over) |
+> | sokapareta | adj | afflicted with sorrow; overcome with sadness; overwhelmed wi… |
+> | byapānudi | aor | removed; dispelled; eradicated |
+> | sājja (?) | ? |  |
+> | daḍḍha | pp | burnt; burnt down; consumed by fire |
+> | ammā | fem | mother |
+> | saṅghañca (?) | ? |  |
+> | duddasa | adj | difficult to see; hard to perceive; difficult to understand |
+> | nicchāta | adj | satiated; satisfied; desireless |
+> | adhigacchati | pr | gets to; attains; finds; acquires; obtains |
+> | dhammañca (?) | ? |  |
+> | salla | masc | (any sharp pointed object which causes pain) arrow; spike; d… |
+> | vana | nt | wood; forest; grove |
+> | upeti | pr | comes; approaches; enters |
+> | jīva | nt | soul; life force |
+> | parinibbuta | pp | (of mental defilement) completely quenched; entirely emancip… |
+> | saraṇa | adj | harmful; malign; unpeaceful; (comm) defiled |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | buddha | masc | Buddha; Awakened One |
+> | sabba | pron | all; every |
+> | atta | masc | self; soul; spirit; essence |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

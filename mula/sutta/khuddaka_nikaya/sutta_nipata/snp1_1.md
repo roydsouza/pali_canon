@@ -273,3 +273,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_1_att#§17|Uragasuttavaṇṇanā §17]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | purāṇan (?) | ? |  |
+> | hetukappa | masc | suitable cause (for); appropriate condition (for) |
+> | vinibandha | masc | bondage; attachment; subjection; being tied by |
+> | vanathaja | masc | born from desire; born from craving |
+> | āgamana | nt | coming; approach; arrival |
+> | darathaja | masc | anxiety; anxiousness; uneasiness; angst |
+> | ñatva (?) | ? |  |
+> | pupphamivā (?) | ? |  |
+> | nājjhagamā | imperf | did not discover; did not find |
+> | mānamudabbadhi | aor | demolished pride; obliterated conceit |
+> | visosayitvā | abs | having dried up; having evaporated |
+> | sīghasara | adj | fast flowing; swiftly moving |
+> | taṇhamudacchidā | imperf | cut craving; stopped desire |
+> | saroruha | adj | growing in a lake |
+> | bhisapupphaṁva (?) | ? |  |
+> | rāgamudacchidā | imperf | severed desire; cut off passion |
+> | sappavisaṁva (?) | ? |  |
+> | visaṭa | pp | dispersed; diffused; spread out; widespread |
+> | anigha | adj | untroubled; undisturbed; calm |
+> | yassānusayā (?) | ? |  |
+> | itibhavābhavatañca (?) | ? |  |
+> | kopa | masc | anger; wrath; rage; temper |
+> | yassantarato (?) | ? |  |
+> | udumbara | masc | cluster fig; Ficus racemosa |
+> | sudubbala | adj | very weak; extremely feeble; very fragile |
+> | naḷasetuṁva (?) | ? |  |
+> | tiṇṇakathaṅkatho (?) | ? |  |
+> | papañca | masc | various opinions; proliferation; endless conceptualization |
+> | vītivatta | pp | gone past; passed by |
+> | osadha | nt | medicine; drug; medicinal herb |
+> | uppatita | pp | sprung up; jumped up; flared up |
+> | ora | adj | lower; inferior |
+> | vītalobha | adj | without greed; without craving |
+> | suvikappita | adj | neatly arranged; well ordered; neatly trimmed |
+> | vicinanta | prp | collecting; picking; selecting |
+> | vigayha | ger | plunging (into); diving (into) |
+> | visalla | adj | removed the arrow; free from the barb |
+> | vitathamidan (?) | ? |  |
+> | vidhūpita | pp | dispersed; dispelled; scattered; exorcised; (comm) destroyed… |
+> | paccasārī | adj | lagged behind; stayed back |
+> | nāccasārī | adj | not gone over the limit; who does not overshoot; not overrea… |
+> | mahogha | masc | great flood; great deluge |
+> | sarita | pp | flowing; in motion; streaming |
+> | accagamā | imperf | overcame; surmounted; conquered; transcended |
+> | vītamoha | adj | free from delusion; free from confusion |
+> | vītadosa | adj | free from hatred; free from ill-will |
+> | jiṇṇamivattacaṁ (?) | ? |  |
+> | orapāra | nt | near and far shore; here and beyond; this world and the next |
+> | uraga | masc | snake; creepy crawly |
+> | sāra | adj | essential; fundamental; substantial; valuable; sound |
+> | kodha | masc | anger; wrath; rage; temper |
+> | asesa | adj | complete; without remainder |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | mūla | nt | (of a tree) root; base; foot |
+> | purāṇa | adj | of old; ancient |
+> | jaha | adj | leaving behind; giving up; abandoning |
+> | vītarāga | adj | free from desire (for); without lust (for); free from passio… |
+> | nīvaraṇa | masc | obstacle; obstruction; barrier; hindrance |
+> | vitakka | masc | thought; reflection; pondering |
+> | paccaya | masc | support; requisite; necessity |
+<!-- pali-nlp:vocab-end -->

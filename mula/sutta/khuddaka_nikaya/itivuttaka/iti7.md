@@ -71,3 +71,47 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti7_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (38 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabbadukkhamupaccagā | imperf | transcended all suffering; gone beyond all stress |
+> | sabbapariññā | ger | completely comprehending everything; fully understanding all |
+> | sabbatthā | masc | all cases; all matters; all things ?? |
+> | sabbañca (?) | ? |  |
+> | appajahanta | prp | not giving up; not abandoning; not letting go (of) |
+> | avirājayanta | prp | not detaching; not losing interest (in); not losing desire (… |
+> | anabhijānanta | prp | not directly knowing; not understanding experientially; not … |
+> | virājayanta | prp | cleaning; purifying; dissolving; removing |
+> | parijānanta | prp | completely comprehending; totally understanding; knowing ful… |
+> | aparijānanta | prp | not completely comprehending; not totally understanding; not… |
+> | dukkhakkhayāyā (?) | ? |  |
+> | abhijānanta | prp | directly knowing; understanding experientially; knowing for … |
+> | pajahanta | prp | giving up; abandoning; letting go (of) |
+> | dukkhakkhaya | masc | wearing away of suffering; extinction of stress; termination… |
+> | abhabba | ptp | unable (to); impossible (to); incapable (of); unlikely (to) |
+> | bhabba | ptp | able (to); capable (of); possible (to); likely (to); fit (to… |
+> | rajja | nt | kingship; rulership; sovereignty; dominion; power |
+> | ñatvā | abs | having known; having found out; having understood |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | sabba | pron | all; every |
+> | tattha | ind | there; in that place |
+> | citta | nt | mind; heart |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

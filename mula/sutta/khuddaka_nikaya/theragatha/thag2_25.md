@@ -48,3 +48,30 @@ tags:
 *now there’ll be no more future lives.*
 *… Vītasoko thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (21 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | adissi | aor | seemed; appeared to be |
+> | ādāsamādāya (?) | ? |  |
+> | olikhissan (?) | ? |  |
+> | coḷa | masc | cloth; rag |
+> | kappaka | masc | barber; hairdresser |
+> | paccavekkhi | aor | reviewed; reflected (on); contemplated |
+> | upasaṅkami | aor | approached; drew near; went (to) |
+> | byagā | imperf |  |
+> | tuccha | adj | empty; hollow; void; (comm) with nothing inside |
+> | andhakāra | masc | darkness; blackness; blindness |
+> | tamas | masc | darkness; gloom |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | kesa | masc | (head) hair |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | sarīra | nt | body |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | ka | pron | who?; what?; which? |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

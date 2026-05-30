@@ -70,3 +70,37 @@ tags:
 *not alienated from their friends.*
 *… Sambhūto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | virujjhanta | prp |  |
+> | sukkapakkheva (?) | ? |  |
+> | dandhe (?) | ? |  |
+> | āyasakyañca (?) | ? |  |
+> | dandhayati | pr | goes slowly; takes it easy; moves at a leisurely pace |
+> | kāḷapakkheva (?) | ? |  |
+> | tassatthā (?) | ? |  |
+> | saṁvidhāna | nt | arranging; organising; planning |
+> | taraṇīya | ptp |  |
+> | dandhakāla | masc | time to be slow; occasion to do something leisurely |
+> | ayoni | fem |  |
+> | virujjhati | pr | is blocked (by); is obstructed (by); is opposed (by) |
+> | kittiñca (?) | ? |  |
+> | tārayati | pr | helps across; saves; rescues |
+> | pappo (?) | ? |  |
+> | yasa | masc | name of an arahant monk |
+> | candima | masc | moon |
+> | tara | adj | crossing; going beyond; passing; surpassing |
+> | nigaccha (?) | ? |  |
+> | parihāyan (?) | ? |  |
+> | mitta | masc | friend |
+> | paripūren (?) | ? |  |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

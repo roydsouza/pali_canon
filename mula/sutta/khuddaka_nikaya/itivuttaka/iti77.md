@@ -71,3 +71,45 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti77_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (36 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sampatvā | abs | having attained; having achieved |
+> | jātimaraṇamaccagā | imperf | surpassed birth and death; transcended being born and dying |
+> | virāguna | adj | displeasing; disconcerting; undesirable; (comm) disappearing |
+> | bhidura | adj | fragile; breakable; brittle; perishable |
+> | virāgadhamma | adj | liable to fade; prone to disappear |
+> | viññāṇañca (?) | ? |  |
+> | kaṅkhati | pr | has doubt (about); is uncertain (about) |
+> | kāyañca (?) | ? |  |
+> | upadhi | masc | attachment; taking as mine; appropriation; acquisition; sens… |
+> | vipariṇāmadhamma | adj | changing nature; changing character |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | parama | adj | highest; most extreme; very best; ultimate; superior; sublim… |
+> | ñatvā | abs | having known; having found out; having understood |
+> | bhaya | adj | dangerous; perilous; frightening |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | disvā | abs | having seen; having understood; having found out |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | anicca | adj | impermanent; inconstant; not lasting; discontinuous; disorde… |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāla | masc | time; occasion |
+> | viññāṇa | nt | awareness; consciousness; mind; fifth of the five aggregates |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | sabba | pron | all; every |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | ka | pron | who?; what?; which? |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

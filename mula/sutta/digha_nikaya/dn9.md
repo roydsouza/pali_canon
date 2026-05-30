@@ -1387,3 +1387,69 @@ parallels:
 
 *Poṭṭhapādasuttaṁ niṭṭhitaṁ navamaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cirasseva | sandhi | after a very long time |
+> | aparāmasan (?) | ? |  |
+> | lokapaññatti | fem | worldly designation; worldly concept |
+> | lokavohāra | masc | worldly name; common expression; worldly designation |
+> | lokanirutti | fem | worldly language; common expression |
+> | lokasamaññā | fem | worldly expression; common term |
+> | sappimaṇḍotveva (?) | ? |  |
+> | khīran (?) | ? |  |
+> | khīrantveva (?) | ? |  |
+> | atthāhaṁ (?) | ? |  |
+> | bhavissāmahaṁ (?) | ? |  |
+> | ahosāhaṁ (?) | ? |  |
+> | pāmujjañceva (?) | ? |  |
+> | oḷārikassapi (?) | ? |  |
+> | evaṁpaṭipanna | adj | practising like this; going along like this; who practice in… |
+> | ujuppaṭipannāttha (?) | ? |  |
+> | suppaṭipannāttha (?) | ? |  |
+> | sacchikiriyāyā (?) | ? |  |
+> | sañjānāthā (?) | ? |  |
+> | paṭijānan (?) | ? |  |
+> | ekaṁsikadhammā (?) | ? |  |
+> | anekaṁsikāpi (?) | ? |  |
+> | ekaṁsikāpi (?) | ? |  |
+> | dvīhatīha | nt | two or three days |
+> | nābbhanumodeyyā (?) | ? |  |
+> | abbhanumodati | pr | appreciates enormously; vigorously applauds; expresses appro… |
+> | tadevassa | sandhi | just that of his |
+> | sañjhabbharimakāsi | aor | laughed at; taunted; made fun of |
+> | sannitodaka | masc | teasing; poking; making fun of |
+> | sacetaṁ (?) | ? |  |
+> | ñātuṁ | inf | to know; to understand |
+> | saññāmayan (?) | ? |  |
+> | ahīnindriyan (?) | ? |  |
+> | kabaḷīkārāhārabhakkhan (?) | ? |  |
+> | paccesī (?) | ? |  |
+> | ekaññeva | sandhi | just one; only one; merely a single |
+> | cābhisaṅkharo (?) | ? |  |
+> | sutapubba | adj | heard before |
+> | ākiñcaññāyatanasukhumasaccasaññīyeva (?) | ? |  |
+> | ākiñcaññāyatanasukhumasaccasaññā | fem | refined and true perception of the dimension of nothingness |
+> | viññāṇañcāyatanasukhumasaccasaññīyeva (?) | ? |  |
+> | ākāsānañcāyatanasukhumasaccasaññīyeva (?) | ? |  |
+> | adukkhamasukhasukhumasaccasaññīyeva (?) | ? |  |
+> | adukkhamasukhasukhumasaccasaññā | fem | refined and true perception of neither unpleasant nor pleasa… |
+> | upekkhāsukhasukhumasaccasaññīyeva (?) | ? |  |
+> | samādhijapītisukhasukhumasaccasaññīyeva (?) | ? |  |
+> | vivekajapītisukhasukhumasaccasaññīyeva (?) | ? |  |
+> | āditova | sandhi | from the very beginning |
+> | nirujjhantipī (?) | ? |  |
+> | pakataññū | adj | expert; adept; well versed (in) |
+> | sukusala | adj | very skilled; masterful; highly adept |
+> | ape (?) | ? |  |
+> | apetipi (?) | ? |  |
+> | upetipi (?) | ? |  |
+> | tatrekacca | pron | there someone; in this case some; in this regard someone |
+> | kotūhalasālā | fem | debating hall; ceremonial hall |
+> | nānātitthiya | adj | belonging to various sects; of different schools |
+> | purimatara | adj | earlier; prior |
+> | pacchāpi (?) | ? |  |
+> | tiṭṭhatesā | sandhi | never mind that!; let that be! |
+<!-- pali-nlp:vocab-end -->

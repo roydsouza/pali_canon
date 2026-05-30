@@ -85,3 +85,44 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti59_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (35 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | virocatī (?) | ? |  |
+> | paññākkhandha | masc | category of wisdom; group of understanding |
+> | māradheyya | nt | Māra's realm; death's domain; power of death |
+> | samādhikkhandha | masc | category of mental stability; class of mental composure |
+> | ādiccova (?) | ? |  |
+> | atikkamma | ger | surpassing; overcoming; going beyond |
+> | asekha | masc | adept; arahant |
+> | sīlakkhandha | masc | combination of ethical behaviours; virtuous conduct |
+> | virocati | pr | shines brightly; is brilliant; is radiant (among) |
+> | subhāvita | adj | well cultivated; fully developed |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | samādhi | masc | perfect peace of mind; stability of mind; stillness of mind;… |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | sīla | nt | ethical conduct; virtue; moral integrity |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | idha | ind | here; now; in this world |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

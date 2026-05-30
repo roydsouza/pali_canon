@@ -53,3 +53,29 @@ parallels:
 *the astute who practice absorption.*
 *… Somamitto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sahāvasati | pr | lives together (with) |
+> | sādhujīvīpi (?) | ? |  |
+> | kusītamāgamma | ind | due to a lazy person; owing to a lethargic person |
+> | mahaṇṇava | masc | great sea; large ocean; immense body of water |
+> | dārumāruyha (?) | ? |  |
+> | hīnavīriya | adj | low in energy; lacking in endurance; unenergetic; weak; feeb… |
+> | sīdati | pr | sinks down (into); submerges (in); drowns (in) |
+> | pavivitta | pp | separated; secluded; detached (from) |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | kusīta | adj | lazy; slack; inactive; apathetic |
+> | jhāyi | masc | meditator; yogi |
+> | āraddhavīriya | adj | energetic (in); with energy aroused (to); applying energy (t… |
+> | paritta | pp | little; small; tiny |
+> | nicca | adj | permanent; lasting; continuous; ordered; stable; reliable; r… |
+> | pahitatta | adj | resolute; determined; applying oneself |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -132,3 +132,69 @@ tags:
 
 *Navakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | aphusi | aor | experienced; reached; attained; achieved |
+> | dhammasaṁvegamāpādiṁ (?) | ? |  |
+> | anusiṭṭhi | fem | order; governance; administration |
+> | paramatthasañhita | adj | connected with the ultimate goal; concerning the highest ben… |
+> | samavassari | aor | reminded; made recollect |
+> | ukkaṭṭhamajjhima | adj | high or middle; elevated or middling |
+> | māmikā | fem | dear; beloved; mother |
+> | janet (?) | ? |  |
+> | visāradāva (?) | ? |  |
+> | anubrūhayati | pr | fosters; nurtures; develops; cultivates; increases |
+> | dassanapatti | fem | attainment of realization; acquisition of insight |
+> | tehānuciṇṇaṁ (?) | ? |  |
+> | sukhañhi (?) | ? |  |
+> | bhāgimant | adj | having a share (of); partaking (in) |
+> | janettī | fem | mother |
+> | santimuttamaṁ | sandhi | highest peace; supreme tranquillity; total calm |
+> | aṇūpi (?) | ? |  |
+> | damappatta | adj | who has attained self-mastery; who is self-controlled |
+> | padhānapahitatta | adj | striving resolutely; making a determined effort |
+> | dukkhassantakiriya | nt | making an end of suffering |
+> | rattindivamatandita | adj | applying effort day and night; continously active |
+> | aṇumattopi (?) | ? |  |
+> | puttaka | masc | small son; young son |
+> | patoda | masc | whip; goad; riding crop |
+> | chinnasaṁsaya | adj | free from doubt |
+> | sītibhūta | pp | calmed; liberated |
+> | kudācanaṁ | ind | at some time; at any time; ever |
+> | vanatha | masc | underbrush; undergrowth |
+> | codita | pp | accused; rebuked; charged; blamed |
+> | jhāyanta | prp | meditating; contemplating |
+> | anukampaka | adj | compassionate (towards); kind (to); concerned (for) |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | vaḍḍha | adj |  |
+> | patti | fem | reaching; attainment (of); acquisition (of); getting |
+> | nūna | ind | indeed; surely; surely not; truly |
+> | hīna | pp | low; inferior; deficient |
+> | isi | masc | seer; sage |
+> | su | ind | (interrogative & emphatic particle) |
+> | aneja | adj | unperturbed; unmoved; unruffled; unshakeable |
+> | āha | perf | said |
+> | bhaṇati | pr | speaks; says; tells |
+> | yathāpi | sandhi | just like; just as |
+> | uḷāra | adj | excellent; lofty; high; noble |
+> | sohaṁ | sandhi | that, I; so, I |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | yogakkhema | masc | (spiritual) safety; security; sanctuary |
+> | mātar | fem | mother |
+> | gātha | masc |  |
+> | khīṇa | pp | consumed; spent; finished; exhausted; slowly destroyed |
+> | vacana | nt | word; utterance; talk; statement |
+> | ahu | aor | was |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | maññati | pr | thinks; imagines; conceives; presumes; supposes |
+> | sāsana | nt | message; letter |
+> | sutvā | abs | having heard; having listened (to) |
+> | viharan (?) | ? |  |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | vijjanta | prp | existing |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+<!-- pali-nlp:vocab-end -->

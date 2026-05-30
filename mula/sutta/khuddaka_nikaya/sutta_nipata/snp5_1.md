@@ -824,3 +824,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_1_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nisīditvāna | abs | having sat down |
+> | katokāsa | adj |  |
+> | sabbasaṁsaya | masc | all doubt; all uncertainty |
+> | tvañcāpi (?) | ? |  |
+> | ajina | nt | animal hide; fur |
+> | santhambhitvāna | abs | having straightened up; having taken heart; having got coura… |
+> | chandaviriyena (?) | ? |  |
+> | saddhāsatisamādhi | masc | faith, mindfulness and mental stability |
+> | muddhādhipātī | adj | destroying the head; demolishing the head; head-splitting |
+> | isati | pr |  |
+> | paṭibhāsati | pr | speaks against; objects |
+> | kametaṁ (?) | ? |  |
+> | sujampa (?) | ? |  |
+> | viyākata | pp | answered; replied |
+> | asuṇanta | prp | not hearing; not listening (to) |
+> | pucchañhi (?) | ? |  |
+> | uṇṇa | nt |  |
+> | kaṅkhāyita | nt |  |
+> | pakāsa | masc |  |
+> | kaṅkhacchida | adj |  |
+> | sadhamma | masc | one's own teaching; personal doctrine |
+> | sanighaṇḍusakeṭubhe (?) | ? |  |
+> | itihāsa | masc | tradition; legendary tales; history |
+> | tīṇissa (?) | ? |  |
+> | salakkhaṇa | adj |  |
+> | jammana | nt |  |
+> | apucchā | imperf | asked; enquired; questioned (somebody about something) |
+> | manopañha | nt | mental question; psychic question |
+> | haṭṭha | pp | (of hair) bristled; stood up; stood erect |
+> | paripūrañca (?) | ? |  |
+> | upāgata | pp | reached; attained; entered into a state; reached a condition |
+> | sataraṁsiṁva (?) | ? |  |
+> | pabbatamāruhuṁ (?) | ? |  |
+> | chāya | adj | shady; providing shade |
+> | mahālābhaṁva (?) | ? |  |
+> | tasitovudakaṁ (?) | ? |  |
+> | cetiyañca (?) | ? |  |
+> | pāvañca (?) | ? |  |
+> | mandira | nt | mansion; palace; temple |
+> | kusinārañca (?) | ? |  |
+> | setabyā | fem |  |
+> | sāvatthiñca (?) | ? |  |
+> | kosambiñcāpi (?) | ? |  |
+> | vanasavhayaṁ (?) | ? |  |
+> | vedisā | fem | name of a town |
+> | gonaddha | nt | name of a town |
+> | ujjeniñcāpi (?) | ? |  |
+> | purimāhissatiṁ (?) | ? |  |
+> | uttarāmukha | adj |  |
+> | jaṭājinadhara | adj | wearing dreadlocks and antelope hides |
+> | pubbavāsanavāsita | adj | with good qualities from previous lives |
+> | paccekagaṇī | adj | having an individual following; each with a group |
+> | vissajessa (?) | ? |  |
+> | manasāyeva (?) | ? |  |
+> | gottañca (?) | ? |  |
+> | manusāsa (?) | ? |  |
+> | āvasati | pr | lives (in); resides (in); spends time (in) |
+> | dveyeva | sandhi | only two; just two |
+> | anupubbaso | ind |  |
+> | byākkhāta | pp | spoken about; told of; mentioned |
+<!-- pali-nlp:vocab-end -->

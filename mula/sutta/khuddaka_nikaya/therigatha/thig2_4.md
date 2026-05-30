@@ -56,3 +56,35 @@ parallels:
 
 *… Aḍḍhakāsi therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (26 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nibbindañca (?) | ? |  |
+> | aḍḍhenagghaṁ (?) | ? |  |
+> | negama | adj | urban; from a town |
+> | tatthako (?) | ? |  |
+> | suṅka | masc | tax; toll; duty; customs |
+> | kāsijanapada | adj | in the Kāsi area; from the kingdom of Kāsi |
+> | virajjahaṁ (?) | ? |  |
+> | nibbindahaṁ (?) | ? |  |
+> | aggha | masc | value; cost; price; worth |
+> | ṭhapeti | pr | helps to last; causes to remain |
+> | sandhāvati | pr | transmigrates |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | sacchikata | pp | personally experienced; individually realized |
+> | sāsanan (?) | ? |  |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | ahu | aor | was |
+> | katvā | abs | having done |
+> | yāvant | adj | as many as; however many |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | punāti | pr | cleans; purifies |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | buddha | masc | Buddha; Awakened One |
+> | rūpa | nt | matter; material thing; materiality; experience of material … |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

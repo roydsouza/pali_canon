@@ -127,3 +127,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti92_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dhammamabhiññāya | ger | directly knowing the teaching; understanding reality experie… |
+> | anibbuta | pp |  |
+> | vighātavant | adj | unhappy (with); annoyed (with); displeased (with); dissatisf… |
+> | anubandhopi (?) | ? |  |
+> | santikeva (?) | ? |  |
+> | apaduṭṭhamanasaṅkappo (?) | ? |  |
+> | yojanasata | nt | one hundred yojanas; approximately 200km |
+> | saṅghāṭikaṇṇa | masc | edge of an outer robe; corner of a double robe |
+> | yāvañca (?) | ? |  |
+> | ejānuga | adj | following one's impulses; running after desire |
+> | anabhijjhālu | adj | not covetous; not avaricious |
+> | nikkhipanta | prp | (of feet) placing down; setting down; stepping |
+> | paduṭṭhamanasaṅkappa | adj | with malevolent intention; with bad purpose in mind; with ev… |
+> | rahadova (?) | ? |  |
+> | saṁvutindriya | adj | with mind under control; with senses retrained |
+> | dhammañhi (?) | ? |  |
+> | ārakāva (?) | ? |  |
+> | tibbasārāga | adj | with strong desire (for); with intense lust (for) |
+> | mahiccha | adj | greedy; of many wishes; full of desire |
+> | agiddha | pp | without greed; without desire |
+> | pākatindriya | adj | having a vulgar mind; with an inferior mind; (comm) with an … |
+> | byāpannacitta | adj | with a malicious mind; evil-minded; hateful; full of ill-wil… |
+> | abhijjhālu | adj | covetous; avaricious; greedy |
+> | vītagedha | adj | without greed; without craving |
+> | vibbhantacitta | adj | with a wandering mind; with runaway thoughts; mentally out o… |
+> | abyāpannacitta | adj | with a kind mind |
+> | anubandha | adj | following after; following behind; trailing |
+> | dhammamaññāya | ger | understanding the Dhamma; comprehending the teaching |
+> | vūpasammati | pr | is extinguished; subsides completely |
+> | giddha | pp | greedy (for); desirous (of) |
+> | asampajāna | adj | not clearly aware; inattentive; unmindful; (comm) stupid |
+> | nivāta | adj | sheltered |
+> | āraka | adj | distant; away from; far from |
+> | ahañca | sandhi | and I |
+> | muṭṭha | pp | forgotten; confused; lost |
+> | ekaggacitta | adj | with a unified mind; with a collected mind |
+> | apassanta | prp | not seeing; not noticing; not aware |
+> | aneja | adj | unperturbed; unmoved; unruffled; unshakeable |
+> | asamāhita | pp | distracted; scattered; not composed |
+> | piṭṭhi | fem | back |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | passanta | prp | seeing |
+> | upaṭṭhita | pp | present; in attendance |
+> | cepi | sandhi | even if |
+> | gahetvā | abs | having taken; having held |
+> | samāhita | pp | composed; centred; settled; collected |
+> | santika | adj | near; close |
+> | pāda | masc | foot |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | sampajāna | adj | clearly aware; fully knowing; completely comprehending |
+> | hetu | adj | because (of); by virtue (of) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | assa | masc | horse |
+<!-- pali-nlp:vocab-end -->

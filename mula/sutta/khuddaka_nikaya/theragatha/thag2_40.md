@@ -59,3 +59,27 @@ tags:
 *Poṭiriyaputto nisabho,*
 *usabho kappaṭakuroti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (18 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pacalāyamāna | prp | nodding off; dozing off |
+> | mattamaññāti | pr | knows the limit; understands the boundary; recognizes the li… |
+> | upakaṇṇa | masc | near the ear; around the ear |
+> | pacālesi | aor | nodded off; dozed off |
+> | ocetuṁ | inf | to collect; to harvest; to accumulate |
+> | katapada | nt | the path (has been) laid out; the way (has been) set out |
+> | dhammakaṭamatta | adj | with a sufficient measure of the teaching |
+> | amataghaṭikā | fem |  |
+> | atibharita | pp | filled to the brim; overflowing |
+> | kappaṭakura | masc | name of an arahant monk |
+> | ayami (?) | ? |  |
+> | tāḷeti | pr | beats; thrashes; flogs |
+> | kappaṭa | masc | patch; old rag; torn cloth |
+> | saṅghamajjha | masc | amidst the community; middle of the monastic order |
+> | accha | adj | clean; clear; transparent |
+> | jhāna | nt | state of deep meditative calm |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | tvaṁ | pron | you (subject) |
+<!-- pali-nlp:vocab-end -->

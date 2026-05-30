@@ -78,3 +78,37 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_3_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sibbinimaccagā (?) | ? |  |
+> | ubhantamabhiññāya (?) | ? |  |
+> | brahmacariyavant | adj | living the holy life; following the spiritual path; who is c… |
+> | tissametteyya | masc | name of a Brahman ascetic |
+> | metteyya | masc |  |
+> | iñjita | nt | movement; perturbation; agitation; turmoil; disturbance |
+> | lippa (?) | ? |  |
+> | santusita | pp | satisfied; pleased; content |
+> | mahāpurisa | masc | great man; illustrious being |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | kodha | masc | anger; wrath; rage; temper |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | manta | masc | mantra; scripture; sacred hymn; Veda; chant |
+> | majjha | adj | middle of; mid- |
+> | saṅkha | masc | conch shell; mother of pearl |
+> | sadā | ind | always; ever; all the time |
+> | brūti | pr | says; tells; speaks; calls |
+> | san (?) | ? |  |
+> | sa | prefix | with; having; affected with |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | idha | ind | here; now; in this world |
+> | loka | masc | world; universe; cosmos |
+> | ka | pron | who?; what?; which? |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

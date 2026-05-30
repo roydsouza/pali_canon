@@ -99,3 +99,64 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti69_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (55 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | maccurājan (?) | ? |  |
+> | pamāṇameti | pr | makes judgements |
+> | maccujaha | adj | abandoned death |
+> | accatāri | aor | crossed beyond; transcended; overcame; escaped |
+> | saūmibhaya | adj | with danger of waves |
+> | atiṇṇa | pp | who has not crossed over; who has not gone beyond |
+> | amohayi | aor | confused; misled; misguided; deceived |
+> | apunabbhava | masc | not being again; no renewed existence |
+> | atari | aor | crossed (over); made it across |
+> | savīci | adj | with waves; with currents |
+> | atthaṅgata | pp | (of the sun) set; gone down |
+> | duttara | adj | hard to cross; hard to overcome |
+> | sāvaṭṭa | adj | containing whirlpools; with eddies |
+> | saūmi | adj | with waves; containing waves |
+> | virājita | pp | cleansed; purified; removed |
+> | sarakkhasa | adj | with monsters; with daemons; epithet of women |
+> | sagaha | adj | full of fierce animals |
+> | brūmī (?) | ? |  |
+> | saṅgātiga | adj | who has overcome attachment; who has transcended clinging |
+> | pahari | aor |  |
+> | soma | masc |  |
+> | samudda | masc | sea; ocean |
+> | pāraṅgata | adj | reached the other shore; gone across safely; gone beyond; ep… |
+> | appahīna | pp | not removed; not given up; not abandoned |
+> | nirūpadhi | adj | free from attachment; free from grasping; not taking as mine… |
+> | thala | nt | dry land; firm ground; terra firma |
+> | tiṇṇa | pp | crossed over; gone beyond |
+> | moha | masc | illusion; delusion; hallucination |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | tiṭṭhati | pr | stands |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | aya | masc | good luck; good fortune |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -81,3 +81,42 @@ parallels:
 *as the firmament from the earth.*
 *… Sabhiyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (33 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | iriyantyamarā (?) | ? |  |
+> | puthavī | fem | earth; world |
+> | saṅkassara | adj | suspect; dodgy; doubtful; (comm) remembered with suspicion |
+> | saṅkiliṭṭhañca (?) | ? |  |
+> | avijānanta | prp | not knowing; not understanding; not comprehending |
+> | anātura | adj | healthy; free from suffering |
+> | yamati | pr | dies |
+> | nūpalabbha (?) | ? |  |
+> | sithila | adj | loose; lax; slack; (comm) loosely grasped |
+> | medhaga | masc | argument; dispute; differences |
+> | samman (?) | ? |  |
+> | nabhas | masc | sky |
+> | gārava | masc | respect; reverence; esteem; value |
+> | ātura | adj | sick; diseased; ill; unhealthy |
+> | vijānan (?) | ? |  |
+> | āraka | adj | distant; away from; far from |
+> | sabrahmacāri | masc | fellow monk; spiritual companion |
+> | viya | ind | like; as |
+> | mayamettha | sandhi | in this case we |
+> | saddhamma | masc | good teaching; true doctrine; true nature of things; (comm) … |
+> | mahapphala | adj | of great fruit; yielding good results |
+> | yadā | ind | when; whenever |
+> | kamma | nt | action; deed; doing |
+> | brahmacariya | nt | spiritual path; spiritual practice; holy life; celibacy |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | para | pron | other; another (person) |
+> | tattha | ind | there; in that place |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

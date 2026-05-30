@@ -59,3 +59,37 @@ tags:
 *now there’ll be no more future lives.*
 *… Uttarapālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pamuccituṁ | inf | to get free (from); to escape (from); to get out (of); to li… |
+> | daḷhasallasamappita | adj | struck by the strong arrow; (or) pierced firmly by the dart |
+> | māravisaya | masc | death's domain; Māra's realm |
+> | pātayi | aor |  |
+> | alamatthavicintaka | adj |  |
+> | asakkhi | aor | was able (to) |
+> | pāsa | masc | throw; reach |
+> | vikkhīṇa | pp | totally annihilated; destroyed |
+> | maccurāja | masc | King of Death |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | pakkhanda | adj | jumping (into); leaping (into) |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | sammoha | masc | confusion; delusion; bewilderment |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | kāmaguṇa | masc | object of sensual pleasure |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | santa | prp | existing; being; there is |
+> | bhava | imp | be!; you must be! |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | pañca | card | five (5) |
+> | aha | nt | day |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | loka | masc | world; universe; cosmos |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

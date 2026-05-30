@@ -167,3 +167,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_6_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | visuddhimiccha (?) | ? |  |
+> | nopalimpa (?) | ? |  |
+> | udabindu | nt | drop of water |
+> | paridevamacchara | nt | mourning and joy; sorrow and elation |
+> | sāmaggiyamāhu (?) | ? |  |
+> | vivittamāsanaṁ (?) | ? |  |
+> | patilīnacara | adj | wandering withdrawn; going about secluded |
+> | khemadassī | adj | who sees safety; who sees sanctuary |
+> | sokapparidevamacchara | nt | sorrow, crying and happiness; grief, lamentation and elation |
+> | nāmaṁyevāvasissa (?) | ? |  |
+> | nāmamidaṁ (?) | ? |  |
+> | sutāpi (?) | ? |  |
+> | diṭṭhāpi (?) | ? |  |
+> | piyāyita | pp | loved; held dear; dearly loved |
+> | mamidan (?) | ? |  |
+> | maraṇenapi (?) | ? |  |
+> | nāgāramāvasati | pr | does not lives in a home |
+> | vinābhāvasantamevidaṁ (?) | ? |  |
+> | jarasāpi (?) | ? |  |
+> | vassasatāpi (?) | ? |  |
+> | virajjanta | prp | becoming detached (from); losing interest (in); becoming dis… |
+> | paṇṇa | nt | leaf |
+> | paṭibuddha | pp | woken up; awakened |
+> | aticca | ger | passing beyond; escaping; overcoming |
+> | dassayati | pr | shows; exhibits; displays |
+> | saṅgata | pp | met; gathered together; assembled |
+> | mamatta | nt | possession (of); ownership (of); self-identification (with);… |
+> | miyyati | pr | is killed (by); dies (from) |
+> | ora | adj | lower; inferior |
+> | namati | pr | bends (towards); inclines (to); veers (towards) |
+> | diṭṭhasuta | nt | what is seen and heard |
+> | bhavana | nt | home; dwelling place |
+> | bhajamāna | prp | associating (with); keeping company (with) |
+> | dhona | masc | pure one; purified being |
+> | māmaka | masc | follower; devotee |
+> | pokkhara | nt | blue lotus flower; blue lotus petal; Nymphaea nouchali caeru… |
+> | acari | aor | acted; behaved; performed; did |
+> | akkhāti | pr | says (to); tells (to); explains (to) |
+> | limpati | pr | smears; stains; sticks (to) |
+> | kubbanta | prp | doing; performing |
+> | supina | nt | dream |
+> | giddha | pp | greedy (for); desirous (of) |
+> | mamāyita | nt | (something) treasured; cherished; taken as mine; made mine; … |
+> | socan (?) | ? |  |
+> | jahan (?) | ? |  |
+> | etampi | sandhi | just this; this alone; this |
+> | nopi | sandhi | nor; nor even |
+> | peta | pp | departed; deceased; dead |
+> | pavucca (?) | ? |  |
+> | paduma | nt | lotus |
+> | jantu | masc | man; person; being |
+> | muta | pp | sensed; perceived; (or) thought; (comm) smelled; tasted or t… |
+> | vāri | nt | water |
+> | pariggaha | masc | personal possession; material possession; worldly belongings… |
+> | rajja | nt | kingship; rulership; sovereignty; dominion; power |
+> | appa | adj | few; not many; not much |
+> | sabbattha | ind | everywhere; every place |
+> | yathāpi | sandhi | just like; just as |
+> | nāñña | pron | not another; not different; not someone else; not somewhere … |
+> | appiya | adj | not dear (to); unloved (by); disliked (by) |
+<!-- pali-nlp:vocab-end -->

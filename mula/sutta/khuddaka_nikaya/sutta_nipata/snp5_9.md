@@ -90,3 +90,48 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_9_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (39 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nibbānapadamaccutaṁ (?) | ? |  |
+> | chandarāgavinodana | masc |  |
+> | diṭṭhasutamutaviññāta | pp |  |
+> | taṇhānigghātana | nt |  |
+> | dhammamakkhāhi (?) | ? |  |
+> | abhirami | aor | enjoyed; delighted (in); took pleasure (in) |
+> | visattikan (?) | ? |  |
+> | takkavaḍḍhana | nt | increasing speculation; proliferating ideas; (comm) increasi… |
+> | itihītiha | nt | hearsay; according to tradition; saying the same old stuff a… |
+> | iccāsi | sandhi | it was thus |
+> | diṭṭhadhammābhinibbuta | adj |  |
+> | etadaññāya | ger | understanding this |
+> | viyākāsi | aor | answered; replied; explained |
+> | hemaka | masc | name of a Brahman ascetic |
+> | gotamasāsana | nt | Gotama's teaching; Buddha's teaching |
+> | tvañca | sandhi | and you; but you |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | tara | adj | crossing; going beyond; passing; surpassing |
+> | huraṁ | ind | there; in another world |
+> | tiṇṇa | pp | crossed over; gone beyond |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | piyarūpa | adj | agreeable; endearing; cherished |
+> | sata | pp | mindful; present; attentive |
+> | sadā | ind | always; ever; all the time |
+> | pubba | adj | before; previous; earlier; former |
+> | cara | adj | walking; going; roaming; living |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | viditvā | abs | having got; having received |
+> | sa | prefix | with; having; affected with |
+> | bhavissa | cond | would have been; could be |
+> | idha | ind | here; now; in this world |
+> | sabba | pron | all; every |
+> | tattha | ind | there; in that place |
+> | loka | masc | world; universe; cosmos |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

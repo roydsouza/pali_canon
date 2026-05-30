@@ -79,3 +79,37 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti50_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (28 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | samphalan (?) | ? |  |
+> | tacasāraṁva (?) | ? |  |
+> | pāpacetasa | adj | evil-minded; bad-minded |
+> | akusalamūlānī (?) | ? |  |
+> | attasambhūta | adj | arisen in oneself; internally generated; self-produced |
+> | hiṁsan (?) | ? |  |
+> | akusalamūla | nt | bad root; root of the unwholesome |
+> | tīṇimāni | sandhi | these three |
+> | lobha | masc | greed; wanting; desire |
+> | moha | masc | illusion; delusion; hallucination |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | purisa | masc | man; male; person |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

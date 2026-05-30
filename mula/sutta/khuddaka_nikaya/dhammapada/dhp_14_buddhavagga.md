@@ -225,5 +225,71 @@ tags:
 **imettamapi kenaci.**  
 *saying it is just this much.*
 **Buddhavaggo cuddasamo.**  
-**Paṭhamabhāṇavāraṁ.**  
+**Paṭhamabhāṇavāraṁ.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cuddasama | ordin | fourteenth (14th) |
+> | imettamapi | sandhi | there is just this much; he has so much |
+> | tiṇṇasokapariddava | adj | who has gone beyond weeping and wailing; who has overcome gr… |
+> | papañcasamatikkanta | adj | who has surmounted mental proliferation; who has transcended… |
+> | pūjāraha | adj | worthy of veneration; worthy of reverence |
+> | saddhammadesanā | fem | discourse about the true teaching; explanation of the nature… |
+> | sukhamedha | adj | happily prospering; thriving comfortably |
+> | buddhañca (?) | ? |  |
+> | ārāmarukkhacetyāni | nt | parks, trees and shrines; (or) parkland shrines and sacred t… |
+> | taṇhakkhayarata | adj | delighted with the wearing away of craving; taking pleasure … |
+> | kahāpaṇavassa | masc | shower of silver coins |
+> | viheṭhayanta | prp | harming; vexing; annoying; troubling |
+> | parūpaghātī | adj | who harms others; who injures others |
+> | sacittapariyodapanā | fem | purifying one's own mind; cleaning one's heart; (comm) remov… |
+> | manussapaṭilābha | masc | becoming a human being; acquiring the human state |
+> | nekkhammūpasama | masc | peace of renunciation; tranquillity of giving up sensual ple… |
+> | netave | inf | to lead astray; to misguide |
+> | noyā (?) | ? |  |
+> | nāvajīyati | pr | is undefeated; is unconquered |
+> | saṅkhātuṁ | inf | to calculate; to reckon; to enumerate |
+> | pūjayanta | prp | revering; honouring (with) |
+> | sāmaggī | fem | concord; unity; peace; harmony |
+> | saraṇamāgamma | ger | going for refuge; taking shelter |
+> | saraṇamuttama | nt | highest refuge; supreme shelter |
+> | bhayatajjita | adj | startled by fear; threatened by danger |
+> | anūpaghāta | masc | not harming; not hurting; non-violence |
+> | anūpavāda | masc | not blaming; without insulting; not abusing |
+> | akaraṇa | nt | non-doing; non-performance (of); abstention (from) |
+> | sabbapāpa | nt | all evil deeds; all wrongdoing; all unwholesome action |
+> | buddhānamuppāda | masc | arising of Buddhas; coming into existence of Awakened Beings |
+> | jhānapasuta | adj | intent on meditation; devoted to meditation; engrossed in me… |
+> | buddhamanantagocaraṁ (?) | ? |  |
+> | buddhavagga | masc |  |
+> | tit (?) | ? |  |
+> | āyoga | masc | devotion (to); practice (of); exertion (in); pursuit (of) |
+> | adhicitta | nt | meditation; mental development; higher consciousness |
+> | pantañca (?) | ? |  |
+> | mattaññutā | fem | moderation (in); knowing the correct amount (of); temperance… |
+> | saddhammassavana | nt | hearing the true teaching; listening to the good doctrine |
+> | jālī | adj | entangling; ensnaring; deceptive |
+> | titikkha | adj | enduring; tolerating |
+> | khanti | fem | patience; endurance; tolerance |
+> | jita | nt | conquest; victory; triumph |
+> | paṭhamabhāṇavāra | masc | first recitation cycle |
+> | akutobhaya | adj | nothing to fear from anywhere; with no reason for fear |
+> | caṭṭhaṅgikaṁ (?) | ? |  |
+> | purisājañña | masc | noble man; extraordinary man |
+> | dukkhasamuppāda | masc | arising of discomfort; origination of suffering |
+> | saṅghañca (?) | ? |  |
+> | appassāda | adj | giving little enjoyment; without satisfaction |
+> | apada | adj | footless; legless |
+> | sammāsambuddhasāvaka | masc | disciple of the perfectly awakened one; follower of the full… |
+> | neti | pr | leads; carries away; takes away |
+> | pihayan (?) | ? |  |
+> | nādhigacchati | pr | does not get to; does not attain; does not find; does not ac… |
+> | atikkama | masc | surpassing; transcending; going beyond; overcoming (of) |
+> | pātimokkha | nt | (vinaya) precepts for Buddhist monastics |
+> | kiccha | adj | difficult; troublesome; hard to get |
+> | devāpi | sandhi | even the gods |
+> | sabbadukkha | nt | all suffering; all pain; all stress; all discomfort |
+<!-- pali-nlp:vocab-end -->

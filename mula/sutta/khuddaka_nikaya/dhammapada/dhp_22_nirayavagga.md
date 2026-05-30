@@ -178,5 +178,71 @@ tags:
 *beings who uphold right view*
 **sattā gacchanti suggatiṁ.**  
 *go to a good place.*
-**Nirayavaggo dvāvīsatimo.**  
+**Nirayavaggo dvāvīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dvāvīsatima | adj |  |
+> | sammādiṭṭhisamādāna | adj | who has undertaken right view |
+> | avajjañca (?) | ? |  |
+> | vajjañca (?) | ? |  |
+> | cāvajjadassino (?) | ? |  |
+> | cābhayadassino (?) | ? |  |
+> | lajjitāya | ptp | should be ashamed (of) |
+> | lajjan (?) | ? |  |
+> | alajjitāya | ptp | should not be ashamed (of) |
+> | katañca (?) | ? |  |
+> | ākirati | pr | stirs up; heaps up; kicks up |
+> | daḷhamenaṁ | sandhi | firmly this, strongly this, vigorously this |
+> | kayirāthenaṁ | sandhi | one should do it oneself; one must perform this oneself |
+> | nirayāyupakaḍḍha (?) | ? |  |
+> | dupparāmaṭṭha | adj | wrongly held; incorrectly grasped |
+> | hatthamevānukanta (?) | ? |  |
+> | paṇati | pr |  |
+> | thokaka | adj | tiny; very small; insignificant; short; brief |
+> | tatīya | ordin | third (3rd) |
+> | nikāmaseyyā | fem | pleasant sleep; comfortable rest |
+> | paradārūpasevī | adj | who commits adultery; who gets involved with another's wife |
+> | nirayavagga | masc |  |
+> | vajjamatī | adj | perceiving fault (in); believing to be a mistake; thinking t… |
+> | lajjati | pr | is ashamed (of); is embarrassed (about) |
+> | paribbāja | masc | homeless spiritual seeker; wandering monk |
+> | saṅkassara | adj | suspect; dodgy; doubtful; (comm) remembered with suspicion |
+> | saṅkiliṭṭhañca (?) | ? |  |
+> | nindanta | prp |  |
+> | apuññalābha | masc | acquiring demerit; accumulation of demerit |
+> | avajja | nt | not a fault; non-error; what is not wrong |
+> | micchādiṭṭhisamādāna | nt | taking up wrong views; believing wrong theories |
+> | gopeti | pr | guards; watches; protects |
+> | parakkama | masc | continued effort; striving; perseverance; persistence |
+> | kusa | masc | kusa grass; Desmostachya bipinnata |
+> | raṭṭhapiṇḍamasaññato (?) | ? |  |
+> | tatta | pp | heated; hot; glowing |
+> | kāsāvakaṇṭha | adj | wearing a scrap of cloth on the neck |
+> | suggati | fem | state of happiness; good destination; heaven |
+> | aggisikhūpama | adj | like flames of fire |
+> | ayoguḷa | masc | iron ball |
+> | nihīnakamma | adj | base; immoral |
+> | abhūtavādī | masc | liar; who speaks falsely |
+> | khaṇātīta | masc | who has missed the chance; who lost the opportunity |
+> | sukata | nt | good deed; right action |
+> | abhaya | adj | safe; without fear; free from fright |
+> | nānutappa (?) | ? |  |
+> | bhayadassī | adj | knowing the danger (of); wary (of); fearful (of); apprehensi… |
+> | duggahita | adj | wrongly held; grasped in the wrong way |
+> | bhīta | pp | afraid (of); frightened (by); terrified (of) |
+> | sithila | adj | loose; lax; slack; (comm) loosely grasped |
+> | cāha | sandhi | and one said |
+> | ubhopi | sandhi | and both; as well as |
+> | asaññata | pp | uncontrolled (in); unrestrained (in); hard to control (in) |
+> | paradāra | masc | another's wife |
+> | dukkaṭa | adj | badly done; wrongly done |
+> | parattha | masc | benefit of others |
+> | socan (?) | ? |  |
+> | santarabāhira | adj | inside and outside |
+> | akata | pp | not done; not performed; not acted |
+> | bhutta | pp | eaten; finished eating |
+<!-- pali-nlp:vocab-end -->

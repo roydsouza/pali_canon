@@ -391,3 +391,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_6_att#§114|Parābhavasuttavaṇṇanā §114]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sivan (?) | ? |  |
+> | mahātaṇha | adj | with great greed; having enormous ambition |
+> | vikiraṇī | fem | squanderer; who scatters; who disperses |
+> | soṇḍi | fem | neck of a tortoise |
+> | timbarutthanī | adj | with breasts like gaub fruit |
+> | āna | nt | inhaling; inhalation; breathing in |
+> | atītayobbana | adj |  |
+> | padussati | pr | misbehaves (with) |
+> | vesiyā | fem | prostitute; sex worker |
+> | atimaññati | pr | despises; scorns; looks down (on); has contempt (for); is co… |
+> | saññāti | masc | one's own kin; one's own family |
+> | gottatthaddha | adj | proud of one's family clan; arrogant about one's ancestry |
+> | dhanatthaddha | adj | proud of one's wealth |
+> | jātitthaddha | adj | proud of one's birth |
+> | sādu | adj | sweet; delicious; tasty |
+> | sabhojana | adj | with food; with luxuries |
+> | sahirañña | adj | with gold; wealthy |
+> | pahūtavitta | adj | with vast wealth; with abundant resources |
+> | kodhapaññāṇa | adj | characterised by anger; known for anger; with angry nature |
+> | anuṭṭhātar | masc | who is inactive; who is lazy |
+> | sabhāsīlī | adj | gregarious; fond of company; of social nature |
+> | niddāsīlī | adj | habitually sleeping; sleepy by nature; fond of sleep |
+> | dhammadessī | masc | hater of truth; Dhamma despiser |
+> | dhammakāma | adj | truth loving; Dhamma lover; (comm) loves the three baskets |
+> | parābhavati | pr | succumbs; is ruined; suffers downfall |
+> | issa | masc |  |
+> | chaṭṭhama | ordin |  |
+> | bhara | adj | supporting; bearing; carrying |
+> | pahu | adj | able; capable |
+> | jiṇṇaka | adj | aged; old |
+> | rocati | pr |  |
+> | suvijāna | adj | easily understood; easily recognised; easily known |
+> | puṭṭhumāgamma | ger | coming to ask; arriving to question |
+> | samavekkhiya | ger | considering; reflecting (on) |
+> | dassanasampanna | adj | endowed with insight; who has vision; wise; epithet of a str… |
+> | gatayobbana | adj | passed one's prime; in old age |
+> | vanibbaka | masc | mendicant; beggar; pauper |
+> | ekādasama | ordin | eleventh (11th) |
+> | issariya | nt | charge (of); power (over); control (of) |
+> | dvādasama | ordin | twelfth (12th) |
+> | supati | pr | sleeps |
+> | alasa | adj | lazy; inactive; indolent; idle |
+> | navama | ordin | ninth (9th) |
+> | appabhoga | adj | poor; destitute |
+> | ṭhapeti | pr | helps to last; causes to remain |
+> | akkhadhutta | masc | gambler; who is addicted to gambling |
+> | surādhutta | masc | drunkard; who indulges in liquor |
+> | itthidhutta | masc | Romeo; promiscuous man; who indulges in women |
+> | asantuṭṭha | pp | displeased (by); discontented (with); unhappy (with) |
+> | obhāsetvā | abs | having lit up; having illuminated |
+> | kevalakappa | adj | almost the entire |
+> | abhikkantavaṇṇa | adj | stunningly beautiful; of extraordinary appearance |
+> | vañceti | pr | deceives; defrauds; cheats; tricks; swindles |
+> | patthayati | pr | wishes (for); wants; aspires (for); craves (for) |
+> | paradāra | masc | another's wife |
+> | asanta | prp | untrue; false |
+> | jāyati | pr | is born (in); comes into being (from) |
+> | dussa | nt | cloth |
+> | dāra | masc | wife |
+> | ajjhabhāsi | aor | addressed; spoke (to someone with) |
+<!-- pali-nlp:vocab-end -->

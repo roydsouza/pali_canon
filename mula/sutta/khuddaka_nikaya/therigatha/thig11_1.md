@@ -166,3 +166,69 @@ parallels:
 
 *Dvādasakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vasībhūtāhaṁ (?) | ? |  |
+> | karissaseko (?) | ? |  |
+> | iñja | masc |  |
+> | sahassānipi (?) | ? |  |
+> | sālamūla | nt | foot of a sal tree; base of a sal tree |
+> | supupphitagga | adj | having a flowering crest; with flowers on top |
+> | abhinimmitvā | abs | having created; having formed (by supernormal power) |
+> | pabbajjiṁ (?) | ? |  |
+> | bahukaṇṭaka | adj | highly problematic; with many difficulties |
+> | sapattī | fem | fellow wife; co-wife; rival wife; husband's other wife |
+> | upagamma | ger | coming to; approaching |
+> | caturassa | masc | square; rectangle |
+> | iddhīpi (?) | ? |  |
+> | cetopariccañāṇañca (?) | ? |  |
+> | bhamukantare | ind | in-between the eyebrows |
+> | ārati | fem | abstinence (from); stopping; desisting (from); refraining (f… |
+> | sabhariya | adj |  |
+> | adhikuṭṭana | nt | chopping up; pulverizing |
+> | khandhāsaṁ (?) | ? |  |
+> | dhuttaka | masc | rogue; villain; Romeo; rapist |
+> | chaḷabhiñña | adj | having six higher knowledges |
+> | pādapa | masc | tree |
+> | edisaka | adj | such; like this; something like this |
+> | dakkhati | pr | sees; finds |
+> | kucchi | masc | stomach; belly |
+> | kāmesvādīnava | masc | danger in sensual pleasures; drawback of sensuality |
+> | lokanātha | masc | saviour of the world; protector of the planet |
+> | dhiratthu | sandhi | shame on you!; damn you!; curse you!; to hell with! |
+> | daṭṭhar | masc | who sees; seer; (comm) having seen |
+> | sattisūlūpama | adj | like swords and spears; similar to swords and spears |
+> | nihata | pp | defeated; slain; destroyed |
+> | vanditvā | abs | having bowed; having paid respect; having honoured |
+> | dhītar | fem | daughter |
+> | lomahaṁsana | adj | hair-raising; causing the hair to stand on end |
+> | kāmarati | fem | delight in sensual pleasure; enjoying sex |
+> | nekkhamma | nt | renunciation; rejection of sensual pleasure |
+> | iddhi | fem | psychic power; psychic potency; supernormal ability |
+> | antaka | masc | Death |
+> | sampavedhati | pr | shakes; trembles; quakes; is frightened (because of) |
+> | samāgata | pp | gathered; assembled; met |
+> | loma | masc | body hair |
+> | duggandha | adj | foul smelling; fetid; malodorous; stinky |
+> | visodhita | pp | cleaned; removed |
+> | ratha | masc | chariot; coach; carriage |
+> | tvamasi | sandhi | you are |
+> | agārasmānagāriyaṁ (?) | ? |  |
+> | bhāyati | pr | is afraid (of); is frightened (of); fears; is scared (of) |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | pavisati | pr | enters; goes (into) |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | sotadhātu | fem | clairaudience |
+> | saṁvega | masc | dismay; anxiety; sense of urgency |
+> | sacchikata | pp | personally experienced; individually realized |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | antaradhāyati | pr | disappears; vanishes |
+> | asuci | adj | impure; unclean; filthy; foul; disgusting |
+> | napi | sandhi | not even; nor just |
+> | subhāvita | adj | well cultivated; fully developed |
+> | vihata | pp | killed; destroyed |
+<!-- pali-nlp:vocab-end -->

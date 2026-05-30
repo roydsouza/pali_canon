@@ -77,3 +77,49 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti68_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhāvitattaññataraṁ (?) | ? |  |
+> | omukka | pp | loosened; unfastened |
+> | verabhayātīta | adj | beyond hatred and fear; surpassed animosity and danger |
+> | abaddha | pp | not bound; not trapped; unfettered; not imprisoned |
+> | mārapāsa | masc | noose of death; Māra's snare |
+> | paṭimukka | pp | tied on; strapped on; fastened; bound |
+> | sabbappahāyinan (?) | ? |  |
+> | yathākāmakaraṇīya | adj | to be done with as one wishes (by); vulnerable (to) |
+> | virājita | pp | cleansed; purified; removed |
+> | baddha | pp | bound (to); tied (onto); fastened (to) |
+> | brahmabhūta | adj | holy; noble |
+> | appahīna | pp | not removed; not given up; not abandoned |
+> | āha | perf | said |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | moha | masc | illusion; delusion; hallucination |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | māra | masc | death; Death; death personified |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | aya | masc | good luck; good fortune |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

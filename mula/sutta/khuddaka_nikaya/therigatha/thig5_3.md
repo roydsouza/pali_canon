@@ -84,3 +84,56 @@ tags:
 
 *… Sīhā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (47 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pakkhipi | aor | placed (on); put (around); enclosed (around); threw (onto) |
+> | bandhiya | ger | tying; binding |
+> | rukkhasākhā | fem | branch of a tree |
+> | daḷhapāsa | masc | strong noose |
+> | punācarati | pr | repeats the behaviour; does again |
+> | ubbandha | masc | hanging; suicide by hanging |
+> | vanamantara | nt | inner forest; interior of the jungle |
+> | rajji | aor |  |
+> | sudukkhita | adj | badly afflicted; suffering miserably |
+> | vindi | aor | found; got; experienced; enjoyed |
+> | paṇḍu | adj | white; off-white; pale; yellow |
+> | rāgacittavasānuga | adj | obedient to the lustful mind; slave of the impassioned heart |
+> | subhasaññānuvattī | adj | pursuing beautiful perceptions; following attractive impress… |
+> | klesa | masc | defilement; impurity |
+> | cārihaṁ (?) | ? |  |
+> | vivaṇṇa | adj | faded; discoloured; altered in colour |
+> | pariyuṭṭhita | pp | obsessed (with); consumed (by); possessed (by); overwhelmed … |
+> | labhi | aor | got; received; obtained |
+> | aṭṭita | pp | troubled (with); afflicted (with) |
+> | pāsa | masc | throw; reach |
+> | karitvāna | abs | having done; having made; having built |
+> | gīva | adj | witn a neck; having a (certain kind of) neck |
+> | gahetvāna | abs | having taken; having brought |
+> | kisa | adj | thin; lean; skinny; scrawny |
+> | vara | adj | excellent; best; foremost |
+> | avasavattī | adj | with no control (of); not wielding power (over); having no a… |
+> | kāmarāga | masc | passion for sensual pleasure; sensual desire; lust for sensu… |
+> | ayoniso | ind | improperly; imprudently; unwisely; carelessly |
+> | uddhata | pp | arrogant; conceited; haughty; puffed up; overbearing; (comm)… |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | manasikāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | pāvisi | aor | entered; went (into) |
+> | sama | adj | level; even; balanced |
+> | diva | masc | heaven; sky above |
+> | yañca | sandhi | but whatever; but whoever; and whichever |
+> | vassa | masc | rain; downpour |
+> | pubba | adj | before; previous; earlier; former |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | ratti | fem | night |
+> | ahosi | aor | was; existed; became |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | idha | ind | here; now; in this world |
+> | satta | card | seven (7) |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -339,3 +339,69 @@ parallels:
 *being undefiled, I will be fully extinguished.”*
 *… Anuruddho thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | heṭṭhato | ind |  |
+> | veḷuvagāma | masc | name of a village |
+> | visujjhi | aor |  |
+> | paṭippassaddhiladdha | adj | obtained by internal settling; acquired by tranquillity |
+> | ekodibhāvita | adj |  |
+> | nivāsamabhijānāti | pr |  |
+> | anusāsayi | aor | administered; ruled; governed |
+> | rajjamakārayi | aor | ruled over the kingdom; wielded authority |
+> | manussinda | masc |  |
+> | sakkajāti | fem | birth as Sakka |
+> | upariṭṭha | adj |  |
+> | ghāsahāraka | adj |  |
+> | annabhāra | masc |  |
+> | devakāyasmi | masc | in the host of heavenly beings; among the group of gods |
+> | punāvāsa | masc | staying again; living once more |
+> | phassapañcama | adj | with contact as the fifth |
+> | pañcavīsativassa | nt | twenty-five years |
+> | nippapañcamadesayi (?) | ? |  |
+> | nippapañcarata | adj | who takes delight in not forming various opinions; taking pl… |
+> | bodhipakkhika | adj |  |
+> | niccamāraddhavīriyo (?) | ? |  |
+> | avighātavant | adj | happy (with); satisfied (with); content (with); OK (with) |
+> | matimant | adj | clever; intelligent; wise; insightful |
+> | dhārayi | aor | held; kept; carried |
+> | rajayi | aor | died; coloured |
+> | dhovi | aor |  |
+> | vicini | aor |  |
+> | piṇḍapātamatikkanto (?) | ? |  |
+> | sabbogha | masc | all the floods; every deluge |
+> | suddhimajjhagaṁ (?) | ? |  |
+> | ñātibhātar | masc | relatives and brothers |
+> | veḷugumba | masc | bamboo thicket |
+> | āgati | fem | coming; arrival |
+> | iddhiguṇa | nt | attainment of psychic powers; mastery of supernormal abiliti… |
+> | sabrahmakappa | adj | together with the Brahma world |
+> | saṁvidita | pp | known together; recognised together |
+> | pañcapaññāsavassa | nt | fifity-five years |
+> | desayi | aor | taught (to); explained (to) |
+> | saṅkappamaññāya | ger | knowing (my) thoughts; understanding (my) idea |
+> | sammatāḷappabodhana | adj | waking up with (the sound of) cymbals and drumming |
+> | naccagīta | nt | dancing and singing; acting and singing |
+> | aggahi | aor | took |
+> | pajjotasseva (?) | ? |  |
+> | ajjhavāsayi | aor | endured; tolerated; weathered |
+> | santimārabbha (?) | ? |  |
+> | ṭhitacitta | adj |  |
+> | sahassadhā | ind | thousandfold; thousand part |
+> | middha | nt | drowsiness; sluggishness; lethargy |
+> | anuruddhova (?) | ? |  |
+> | nesajjika | masc | ascetic who remains in a sitting position; upright sitter |
+> | etañca | sandhi | and this |
+> | sameta | pp | (of a state of being) attained; come to; arrived (at) |
+> | jambusaṇḍa | masc | India |
+> | sattakkhattuṁ | ind | seven times |
+> | jīvitasaṅkhaya | masc | end of life; loss of life |
+> | jālī | adj | entangling; ensnaring; deceptive |
+> | mahiccha | adj | greedy; of many wishes; full of desire |
+> | athaddasāsiṁ (?) | ? |  |
+> | devaloka | masc | heaven; world of gods; heavenly realm |
+> | pacchimaka | adj | very last; final |
+<!-- pali-nlp:vocab-end -->

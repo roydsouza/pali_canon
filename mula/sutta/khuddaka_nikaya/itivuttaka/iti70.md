@@ -103,3 +103,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti70_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | appassutāpuññakara | adj | with little learning and not making merit; uneducated and do… |
+> | bhāsiya | ger | speaking; saying; talking |
+> | vācañca (?) | ? |  |
+> | tadevāhaṁ | sandhi | just that I; that very thing I |
+> | sopapajjatī (?) | ? |  |
+> | micchādiṭṭhikammasamādāna | adj | undertaking action based on wrong view; performing deeds due… |
+> | upavādaka | masc | blamer (of); who finds fault (with) |
+> | micchā | ind | false; untrue; wrong |
+> | micchādiṭṭhika | adj | who has wrong view; who holds a false belief |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | katvāna | abs | having done |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | sāma | masc | dark colour; brown colour |
+> | panāhaṁ | sandhi | but I; then I; and I |
+> | yadeva | sandhi | any; whichever |
+> | ñāta | pp | known; recognized; understood |
+> | duppañña | adj | foolish; stupid; unintelligent; undiscerning |
+> | appa | adj | few; not many; not much |
+> | nāñña | pron | not another; not different; not someone else; not somewhere … |
+> | upapanna | pp | arose; appeared |
+> | apāya | masc | state of loss; state of misery |
+> | vinipāta | masc | state of suffering; purgatory; underworld |
+> | paṇidhāya | ger | guiding; directing; determining; setting |
+> | duggati | fem | state of misery; bad destination; hell |
+> | vidita | pp | known; understood; experienced |
+> | diṭṭha | pp | seen; found; visible |
+> | mana | adj | having such a mind; -minded; -hearted |
+> | jīvita | nt | life; existence |
+> | sutvā | abs | having heard; having listened (to) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | ayampi | sandhi | one too; this too |
+> | puggala | masc | person; individual |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | samaṇa | masc | ascetic; renunciant; holy man; monk; recluse |
+> | para | pron | other; another (person) |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | idha | ind | here; now; in this world |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | satta | card | seven (7) |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -114,3 +114,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti41_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sarīrantimadhārinan (?) | ? |  |
+> | jātibhavaparikkhaya | masc | exhaustion of birth and being; extinction of rebirth and bec… |
+> | suparihīna | adj |  |
+> | nibbedhagāmī | adj | leading to penetration; which culminates in breakthrough |
+> | apariḷāha | adj | comfortable; not distressed; without fever |
+> | avighāta | adj | untroubled; unharmed; uninjured |
+> | sapariḷāha | adj | uncomfortable; distressing; feverish |
+> | saupāyāsa | adj | accompanied with difficultly; problematic; troublesome |
+> | suga (?) | ? |  |
+> | anupāyāsa | adj | unafflicted; peaceful; trouble-free |
+> | savighāta | adj | troublesome; annoying; bringing vexation |
+> | parihāna | nt | deteriorating; decreasing; declining; regressing |
+> | parihīna | pp | destroyed; defeated; refuted |
+> | saccan (?) | ? |  |
+> | pihayan (?) | ? |  |
+> | aparihīna | pp | not deficient; not lacking; not deprived of |
+> | dugga | nt | bad place; difficult road |
+> | hāsapañña | adj | with joyful wisdom; with playful understanding; with intelli… |
+> | niviṭṭha | pp | established (in); settled down (in); camped (in) |
+> | satīmant | adj | mindful; fully present; attentive |
+> | seṭṭha | adj | foremost; best (of); primary; most important; supreme |
+> | sambuddha | masc | Awakened One; Buddha; who is wide awake; who has completely … |
+> | sadevaka | adj | with devas; having gods |
+> | mañña | masc | thought; conception; imagination |
+> | nāmarūpa | nt | name and form; naming and materiality; mental and physical p… |
+> | pāṭikaṅkha | ptp | to be expected (for); certain (for); can be anticipated |
+> | diṭṭheva (?) | ? |  |
+> | viharan (?) | ? |  |
+> | manussa | masc | human being; man; person |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | deva | masc | deity; god |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | para | pron | other; another (person) |
+> | vuccati | pr | is said to be; is called |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | pajāna | adj | knowing; clearly understanding; comprehending |
+> | satta | card | seven (7) |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | loka | masc | world; universe; cosmos |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

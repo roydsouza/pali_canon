@@ -59,3 +59,28 @@ tags:
 *Bharato bhāradvājo ca,*
 *kaṇhadinno mahāmunīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhavarāga | masc | passion for existence; desire to be; desire to become |
+> | bhavarāgahata | adj | slain passion for existence; killed desire to be |
+> | upāsita | pp |  |
+> | añjasa | masc | direct road; straight path |
+> | abhiṇhaso | ind | repeatedly; regularly; often; frequently |
+> | cāhu | sandhi | and there was |
+> | amatogadha | adj | flowing into the deathless; immersed in the deathless; (comm… |
+> | paṭipajjati | pr | follows a path; undertake a journey; travels |
+> | sutvāna | abs | having heard; having listened (to) |
+> | sappurisa | masc | good man; moral man; virtuous man; superior man |
+> | etarahi | ind | now; at present |
+> | vijjanta | prp | existing |
+> | vijjati | pr | exists (in); is found (in); is present (in) |
+> | sa | prefix | with; having; affected with |
+> | punāti | pr | cleans; purifies |
+> | bhavissa | cond | would have been; could be |
+> | suta | pp | heard |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

@@ -48,3 +48,29 @@ tags:
 *it’s not hard to gain extinguishment.*
 *… Visākho pañcālaputto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dullabhan (?) | ? |  |
+> | saṁsevitavuddhasīlī | adj | who has practiced and is developed in ethics; (or) who has a… |
+> | nivātavuttī | adj | humble; modest; obedient |
+> | matikusala | adj | skilled in thought; adpet in mind |
+> | susukhumanipuṇatthadassī | adj | seeing the extemely refined and subtle truth; who perceives … |
+> | sammitabhāṇī | adj | speaking in moderation; who is measured in speech |
+> | byāharati | pr | talks (with); speaks (with) |
+> | cattavaṇṇaṁ (?) | ? |  |
+> | okkhipati | pr |  |
+> | parikkhipati | pr |  |
+> | ukkhipati | pr | throws out; suspends |
+> | pāragata | adj | gone beyond; reached the far shore; crossed over; epithet of… |
+> | erayati | pr |  |
+> | subbata | adj | virtuous; of good conduct |
+> | anuddhata | pp | not arrogant; not pompous; not puffed up with pride |
+> | parisā | fem | assembly; meeting; forum; council; gathering |
+> | nibbāna | nt | (of fire) extinguishing; quenching; going out |
+> | para | pron | other; another (person) |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

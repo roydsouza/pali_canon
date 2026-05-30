@@ -173,3 +173,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti75_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uṭṭhānādhigata | adj | obtained by hard work; acquired by effort; achieved by initi… |
+> | abhisandantova (?) | ? |  |
+> | gajjayitvā | abs |  |
+> | thanayitvā | abs | having roared; having thundered |
+> | dethā (?) | ? |  |
+> | āmodamāna | prp |  |
+> | subhikkhavāca | adj | who supports beggars; who encourages almsgiving |
+> | saṁvibhāje (?) | ? |  |
+> | kapaṇaddhikavanibbakā | masc | tramps, travellers and paupers |
+> | sabbesaṁva (?) | ? |  |
+> | sabbesaññeva (?) | ? |  |
+> | saṁharitvāna | abs | having gathered; having collected; having brought together |
+> | ninnañca (?) | ? |  |
+> | pakirati | pr |  |
+> | sabbabhūtānukampaka | adj | compassionate towards all beings; sympathetic to all living … |
+> | purisādhama | masc | wicked person |
+> | vanibbaka | masc | mendicant; beggar; pauper |
+> | pānañca (?) | ? |  |
+> | seyyāvasathapadīpeyya | nt | bedding, housing and lighting |
+> | samaṇabrāhmaṇakapaṇaddhikavanibbakayācakā | masc | ascetics, priests, tramps, homeless wanderers and beggars |
+> | sabbatthābhivassī | adj | raining everywhere; pouring in all places |
+> | padesavassī | adj | raining in a certain area; with scattered showers |
+> | avuṭṭhikasama | adj | with no rain; (comm) like a rainless cloud |
+> | megha | masc | cloud; rain cloud; rain |
+> | dātar | masc | giver; donor (of) |
+> | deti | pr | gives (to); donates (to); offers (to); hands (to) |
+> | mālāgandhavilepana | masc | garlands, perfumes and oils |
+> | annapāna | nt | food and drink |
+> | lokasmin (?) | ? |  |
+> | tappati | pr | is burned; is consumed; is tormented |
+> | dada | adj | giving; offering; bestowing |
+> | anna | nt | food |
+> | saṁvijjamāna | prp | existing (in); being found (in) |
+> | tayome | sandhi | these three |
+> | thala | nt | dry land; firm ground; terra firma |
+> | pavecchati | pr | gives; shares; offers (to) |
+> | pavassati | pr | rains; pours |
+> | vāri | nt | water |
+> | āha | perf | said |
+> | dhana | nt | wealth; riches; treasure |
+> | laddha | pp | obtained; gained; won; received |
+> | pūra | adj | full (of); filled (with); stuffed (with) |
+> | yathāpi | sandhi | just like; just as |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | idhekacca | pron | here one; here a certain; in this case some; some people her… |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | bhojana | nt | food; meal |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | bhāsa | adj | shining; radiating |
+> | vattha | nt | cloth; clothes; robe |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | evamevaṁ | sandhi | similarly; in exactly the same way; so too |
+> | jana | masc | man; person; fellow |
+> | kathañca | sandhi | and how? |
+> | ekacca | pron | certain; one of |
+> | avoca | aor | said (something to somebody) |
+<!-- pali-nlp:vocab-end -->

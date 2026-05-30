@@ -229,3 +229,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_2_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pabbajjamarocayitthā (?) | ? |  |
+> | nīcamana | adj | humble |
+> | sabbadukkhappanūdana | adj | dispelling all suffering; driving out all pain; removing all… |
+> | pakāsayi | aor | explained lucidly; showed clearly; illustrated; illuminated;… |
+> | iccetamatthaṁ (?) | ? |  |
+> | ajjavamaddava | nt | uprightness and gentleness; sincerity and humility |
+> | viditindriya | adj | with the faculties understood |
+> | yaññamutūpasevanā | fem | devotion to sacrifices and seasonal ascetic practices |
+> | mantāhutī | fem | mantras and fire oblations; sacred hymns and religious offer… |
+> | nāggihuttassupasevanā (?) | ? |  |
+> | jaṭājalla | nt | dreadlocks and mud; matted hair and mud |
+> | muṇḍiya | nt | bald-headedness; fact of being shaven |
+> | naggiya | nt | nudity; nakedness |
+> | macchamaṁsānamanāsakattaṁ (?) | ? |  |
+> | avaṁsira | adj | headfirst; head-downwards; headlong; upside down |
+> | niccuyyuta | adj | always actively engaged (in); continuously intent (on) |
+> | viruddhātipātī | adj | hostile and aggressive (towards); opposed and attacking |
+> | dussīlaludda | adj | immoral and cruel; unprincipled and violent |
+> | vihesamuyyuta | adj | intent on harming; engaged in hurting |
+> | paresamādāya (?) | ? |  |
+> | kibbisa | nt | dirty deed; crime; offence |
+> | yedha | sandhi | whoever here |
+> | narādhama | masc |  |
+> | pāṭirūpika | masc | faker; imposter; sham; hypocrite; pretender |
+> | vohārakūṭa | masc | false witness; who lies in court |
+> | iṇaghātasūcakā | masc | loan-defaulters and denouncers |
+> | pāpasīla | adj | of bad conduct; with evil behaviour; wicked; of bad characte… |
+> | bhassasamussaya | masc | boasting; bragging; bigging up oneself |
+> | usūyanta | prp | being resentful (towards); being displeased (by); being irri… |
+> | paccupaṭṭhāpanā | fem | contrariness; opposition; antagonism; contrariety |
+> | den (?) | ? |  |
+> | adānasīla | adj | not accustomed to giving; not in the habit of donating; mise… |
+> | nikkaruṇātimānino (?) | ? |  |
+> | mittaddu | masc |  |
+> | piṭṭhimaṁsika | adj | backbiting; two-faced; who stabs others in the back |
+> | lūkhasa | adj | rough; harsh; unpleasant; disagreeable |
+> | natthikadiṭṭhi | fem |  |
+> | asucibhāvamassitā (?) | ? |  |
+> | paradārasevanā | fem | committing adultery |
+> | ajjhenakutta | nt | useless recitation; chanting fictitious mantras; (comm) stud… |
+> | nikativañcana | nt | counterfeiting and defrauding |
+> | vadhachedabandhana | nt | beating, mutilation and imprisonment |
+> | kathaṁpakāra | adj |  |
+> | sakuntamaṁsa | nt | bird meat; fowl flesh |
+> | bhuñjasī | pr | you eat; you consume |
+> | yadasnamāna | prp | eating whatever |
+> | bhaṇan (?) | ? |  |
+> | satamasnamānā (?) | ? |  |
+> | gavipphala | nt | fruit of the vine Ampelocissus latifolia; (comm) any fruit f… |
+> | mūlaphala | nt | root vegetable; tuber; yam |
+> | pattapphala | nt | edible leaves; green leaves |
+> | sāmākaciṅgūlakacīnaka | nt | millet, wood sorrel and proso millet |
+> | mantapāragū | masc | master of the Vedas |
+> | vedayi | aor | felt; experienced; sensed |
+> | sabbadukkhappahīna | adj | dispelled all suffering; eliminated all pain; removed all st… |
+> | kharājina | nt | rough antelope hide |
+> | icceva | sandhi | thus this |
+> | paribhuñjamāna | prp | using; enjoying |
+> | sālīnamannaṁ (?) | ? |  |
+> | payata | pp | generous; liberal; open |
+<!-- pali-nlp:vocab-end -->

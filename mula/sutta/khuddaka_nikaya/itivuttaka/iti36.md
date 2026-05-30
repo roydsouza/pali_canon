@@ -89,3 +89,53 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti36_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (44 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pariññatthañcā (?) | ? |  |
+> | abhiññatthañceva (?) | ? |  |
+> | abhiññattha | adj | for the purpose of direct knowledge; for the sake of higher … |
+> | satthusāsanakārī | adj | fulfilling the teacher's instruction; acting on the teacher'… |
+> | nibbānogadhagāmī | adj | leading to a immersion in Nibbāna |
+> | jānātū (?) | ? |  |
+> | lābhasakkārasilokānisaṁsatthaṁ | ind | for the sake of the benefit of gain, honour and fame |
+> | janalapanatthaṁ | ind | to butter people up |
+> | janakuhanatthaṁ | ind | to deceive people; to create a false impression |
+> | mahatta | adj | outstanding; illustrious; (comm) with great qualities |
+> | pariññattha | adj | sake of complete comprehension (of); purpose of full underst… |
+> | adesayi | aor | taught; explained |
+> | anītiha | adj | not hearsay; not mere talk; not oral tradition |
+> | anuyāta | pp | followed (by); travelled (by) |
+> | vussati | pr | is lived; is lived (under) |
+> | paṭipajjan (?) | ? |  |
+> | karissan (?) | ? |  |
+> | nayidaṁ | sandhi | not this; this (is) not; it (is) not |
+> | dukkhassanta | masc | end of suffering |
+> | mahesi | masc | great sage; mighty seer |
+> | desita | pp | preached (by); taught (by); explained (by); instructed (by) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | avoca | aor | said (something to somebody) |
+> | brahmacariya | nt | spiritual path; spiritual practice; holy life; celibacy |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | eta | pron | this |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

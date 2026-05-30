@@ -96,3 +96,58 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_3_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | porisa | masc | man; employee; worker |
+> | vahant | masc | ox; bull |
+> | phalānisaṁsa | adj | expecting the results; anticipating the fruit |
+> | pasaṁsāvahana | adj | which brings praise; conferring approval |
+> | pāmujjakaraṇa | adj | creating joy; making one happy |
+> | abhejja | ptp | indivisible; unsplittable; inseparable |
+> | urasīva (?) | ? |  |
+> | randhamevānupassī (?) | ? |  |
+> | bhedāsaṅkī | adj | (of friendship) fearing a breakup; suspecting a split; appre… |
+> | ananvaya | adj |  |
+> | sayha | ptp |  |
+> | tavāhamasmi | sandhi | I am yours; I am your friend |
+> | pakubba (?) | ? |  |
+> | anādiyanta | prp | taking no notice; paying no heed; not obeying; ignoring |
+> | dhammapītirasa | masc | flavour of delight in the Dhamma; juice of joy in the teachi… |
+> | nippāpa | adj | sinless; free from evil; stainless |
+> | niddara | adj | fearless; free from anguish; anxiety-free |
+> | pitvā | abs | having drunk; having sipped |
+> | pavivekarasa | masc | flavour of solitude; nectar of seclusion |
+> | vijaññā | opt | should know; should understand |
+> | vijigucchamāna | prp | feeling aversion; being disgusted; being sick of |
+> | pivan (?) | ? |  |
+> | dhura | adj | first; nearby |
+> | parijānan (?) | ? |  |
+> | akaronta | prp | not doing; not performing |
+> | yasmiñca (?) | ? |  |
+> | maman (?) | ? |  |
+> | tarati | pr | crosses; goes through |
+> | hiri | fem | sense of shame; modesty; conscience; sense of right and wron… |
+> | bhāsamāna | prp | speaking (about); talking (about); saying |
+> | mitta | masc | friend |
+> | upasama | masc | calmness (of); tranquillisation (of); stillness (of); peace … |
+> | sadā | ind | always; ever; all the time |
+> | rasa | masc | taste; flavour |
+> | putta | masc | son; child |
+> | piya | adj | dear (to); beloved (by); loved (by) |
+> | ṭha | adj | living (on); living (in); standing (on); situated (on); rema… |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | kamma | nt | action; deed; doing |
+> | vāca | adj | talking; speaking; of speech |
+> | neta | pron | this (is) not |
+> | bhāva | masc | state; condition; characteristic; nature |
+> | para | pron | other; another (person) |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -286,3 +286,69 @@ parallels:
 
 *… Cāpā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ādisitvāna | abs | having dedicated (merit to) |
+> | labbhamamhehi (?) | ? |  |
+> | vajjati | pr | (of a musical instrument) is played |
+> | gāmanigama | masc | village and town |
+> | punarāvattayati | pr | makes rereturn; causes to come back again |
+> | puttakattā | fem | mother of one's children |
+> | padāhiti | fut | will give (to) |
+> | nisumbhati | pr | knocks down (onto); strikes down (onto) |
+> | churikā | fem | dagger; knife |
+> | chetvāva (?) | ? |  |
+> | puttavant | adj | having a son; with children |
+> | uppādita | pp | produced; made; generated (by) |
+> | puttaphala | nt | son, fruit of the loins |
+> | bādhayati | pr | oppresses; torments; afflicts; injures; causes discomfort |
+> | āharima | adj |  |
+> | bandhitumiccha (?) | ? |  |
+> | sakuṇī | fem | female bird |
+> | sākuntikova (?) | ? |  |
+> | kāsikuttamadhārī | adj | wearing the finest Kāsi cloth; (comm) (or) wearing cloth bet… |
+> | haricandanalittaṅgī | adj | having limbs perfumed with yellow sandal; having a body anoi… |
+> | pāṭalī | masc | name of a village |
+> | antodīpeva (?) | ? |  |
+> | dālimalaṭṭhiṁva (?) | ? |  |
+> | girimuddha | masc | summit of a hill; peak of a mountain |
+> | takkārī | fem | Egyptian riverhemp; pea tree; Sesbania sesban |
+> | kāḷaṅginiṁva (?) | ? |  |
+> | catubbhāga | masc | quarter |
+> | bandhanta | prp | tying; binding; bandaging |
+> | nāḷa | masc | (of a flower) stalk; stem |
+> | nāḷā | fem | name of a Brahman village in Magadha |
+> | pakkamissañca (?) | ? |  |
+> | kodhapareta | adj | afflicted with anger; overcome by rage; overwhelmed with wra… |
+> | punopahaṁ (?) | ? |  |
+> | puttamatosayi (?) | ? |  |
+> | sumatta | adj | completely besotted; totally infatuated; utterly enamoured |
+> | pārametave | inf | to cross to the far shore; to go to the other side |
+> | palipa | masc | mud; mire; marsh; swamp |
+> | laṭṭhihattha | adj | with staff in hand; holding a walking stick |
+> | padakkhiṇañca (?) | ? |  |
+> | sabbadukkhappahāna | nt | giving up all suffering; letting go of all discomfort; aband… |
+> | kujjhi | aor | was angry; was upset (with); was mad (at) |
+> | pupphita | pp | blossomed; bloomed; flowered |
+> | etta | adj | so much; this much |
+> | samaṇamānī | adj | imagining one is an ascetic; thinking one is a monk |
+> | vandana | nt | respecting; adoring; worshipping; paying homage |
+> | migaluddaka | masc | deer huntsman; game hunter |
+> | ādisati | pr | points out; explains; reveals |
+> | nivattati | pr | turns away (from); recoils (from) |
+> | ghora | adj | terrible; awful; dreadful |
+> | vasīkata | adj | subjugated; under one's control; subject to one's authority |
+> | vicari | aor | wandered about; roamed about |
+> | phulla | adj | blossoming; in bloom; flowering; opening |
+> | puttasoka | masc | grief for a son; sadness over (the loss of) a child |
+> | ohāya | ger | leaving; giving up; abandoning |
+> | assamaṇa | masc | not a monk |
+> | maññamāna | prp | thinking; imagining; conceiving |
+> | bhaddanta | masc | venerable; sir; honoured person |
+> | lokanātha | masc | saviour of the world; protector of the planet |
+> | cāpa | masc | bow (and arrow) |
+> | ñātaka | masc | kin; kinsman; relative; relation; family member |
+<!-- pali-nlp:vocab-end -->

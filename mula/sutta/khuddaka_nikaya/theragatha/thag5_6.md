@@ -81,3 +81,53 @@ tags:
 *now there’ll be no more future lives.*
 *… Nadīkassapo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (44 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dakkhiṇeyyaggi | masc | fire (of hell for those abusing) someone worthy of gifts |
+> | mohita | pp |  |
+> | diṭṭhigahanapakkhanda | adj | within a jungle of views; entered into an impenetrable thick… |
+> | juhi | aor |  |
+> | yaji | aor |  |
+> | aga | masc |  |
+> | maññi | aor | became proud (because of); became conceited (on account of);… |
+> | vivajjayi | aor | avoided; shunned; eschewed; abandoned |
+> | asuddhi | fem | impurity; unholiness |
+> | aggihutta | nt | fire sacrifice; fire oblation |
+> | yassāhaṁ | sandhi | for which I |
+> | juhati | pr | makes an oblation; makes an offering |
+> | parāmāsa | masc | seizing; clutching; clinging tightly; attachment |
+> | andhabhūta | adj | blind; ignorant |
+> | uccāvaca | adj | high and low; here and there; good and bad; elation and depr… |
+> | maññanta | prp | thinking; imagining; conceiving; presuming; supposing |
+> | yañña | masc | sacrifice; offering |
+> | vikkhīṇa | pp | totally annihilated; destroyed |
+> | namassati | pr | worships; venerates; reveres; honours |
+> | nerañjarā | fem | name of a river |
+> | aviddasu | adj | ignorant; foolish; idiotic |
+> | bhavataṇhā | fem | craving for becoming; craving for existence; (or) craving (f… |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | sutvāna | abs | having heard; having listened (to) |
+> | micchādiṭṭhi | fem | wrong view; incorrect belief |
+> | suddhi | fem | purity; purification; holiness |
+> | nadi | aor |  |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | moha | masc | illusion; delusion; hallucination |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | puthujjana | masc | common man; ordinary man; normal person; man in the street |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | bhava | imp | be!; you must be! |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | aha | nt | day |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | eta | pron | this |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

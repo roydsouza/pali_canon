@@ -145,5 +145,71 @@ tags:
 *Now they lie like spent arrows,*
 **purāṇāni anutthunaṁ.**  
 *bemoaning over things past.*
-**Jarāvaggo ekādasamo.**  
+**Jarāvaggo ekādasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cāpātikhīṇāva (?) | ? |  |
+> | khīṇamaccheva (?) | ? |  |
+> | jhāyan (?) | ? |  |
+> | jiṇṇakoñcāva (?) | ? |  |
+> | khayamajjhagā | imperf | exhausted; wore away; slowly destroyed |
+> | visaṅkhāragata | adj | become unconditioned; unconstructed; unfabricated; become di… |
+> | visaṅkhata | pp | deconstructed; destroyed |
+> | gahakūṭa | nt | ridge-pole; top beam |
+> | balībaddhova (?) | ? |  |
+> | pavedayan (?) | ? |  |
+> | sarīrampi (?) | ? |  |
+> | rājaratha | masc | royal chariot; state carriage |
+> | jīran (?) | ? |  |
+> | maṁsalohitalepana | adj | smeared with flesh and blood; coated with meat and blood |
+> | sārada | masc | autumn; fall |
+> | alābūneva (?) | ? |  |
+> | apattha | pp | thrown away; discarded |
+> | maraṇantañhi (?) | ? |  |
+> | pūtisandeha | masc | rotting mass; fetid body; putrid accumulation |
+> | parijiṇṇamidaṁ (?) | ? |  |
+> | kimānando (?) | ? |  |
+> | hāsa | masc | laughter; joke |
+> | jarāvagga | masc |  |
+> | acaritvā | abs | having not lived; having not led |
+> | phāsuka | nt | ease; comfort; health |
+> | gahakāraka | masc | house builder; mason; carpenter |
+> | gahakāra | masc | house builder; mason; carpenter |
+> | anibbisanta | prp | not understanding; not penetrating; not finding; not getting… |
+> | anekajātisaṁsāra | masc | transmigration through many births; cyclical existence havin… |
+> | jīrati | pr | ages; grows old; gets worn out; declines |
+> | sucitta | adj | well adorned; beautifully designed; (comm) painted with gold… |
+> | bhijjati | pr | is broken; is destroyed |
+> | roganīḷa | nt | abode of disease; nest of illness |
+> | gavesati | pr | seeks (for); searches (for); looks (for) |
+> | padīpa | masc | lamp; light; lantern; lighting |
+> | kāpotaka | adj | dove gray; off white |
+> | ekādasama | ordin | eleventh (11th) |
+> | anutthunanta | prp | moaning (about); lamenting (over); sighing (about) |
+> | yānimāni | sandhi | these |
+> | bahusaṅkappa | adj | full of plans; with many intentions; (or) much thought about… |
+> | samussita | pp | elevated; propped up |
+> | arukā | fem |  |
+> | pabhaṅgura | adj | brittle; breakable; fragile; perishable |
+> | sen (?) | ? |  |
+> | bhagga | pp | broken; shattered; fractured |
+> | diṭṭhosi | sandhi | you are seen; you've been discovered |
+> | satañca (?) | ? |  |
+> | yobbana | nt | youth |
+> | gavesanta | prp | seeking; searching (for); looking (for) |
+> | pajjalita | pp | burning; blazing; on fire |
+> | pallala | nt | lake; pond; marsh |
+> | onaddha | pp | enveloped (with); covered (with); wrapped (with) |
+> | kāhati | fut | will do; will make |
+> | appassuta | adj | ignorant; uneducated; unlearned |
+> | ṭhi (?) | ? |  |
+> | bimba | nt | form; image; doll; puppet; body |
+> | geha | nt | house; dwelling |
+> | sandhāvati | pr | transmigrates |
+> | cittakata | adj | mind-made; mentally manufactured |
+> | ohita | pp | put down; placed down; laid down |
+<!-- pali-nlp:vocab-end -->

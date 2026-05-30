@@ -81,3 +81,51 @@ tags:
 *I, your pupil, am fully trained.*
 *… Sumano thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (42 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | tuyhamovādo (?) | ? |  |
+> | anukampi | aor | took pity (on); had compassion (for); was concerned (for) |
+> | ariyavata | nt | noble practice; spiritual practice; (or) the practice of the… |
+> | tavantike (?) | ? |  |
+> | visuddhañāṇa | adj | with purified understanding; with clear insight |
+> | kattabbaka | adj |  |
+> | abhikaṅkhati | pr | longs (for); wishes (for) |
+> | anusāsi | aor | administered; ruled; governed |
+> | anuggahi | aor | helped; supported |
+> | sadattha | masc | highest good; true welfare; spiritual health |
+> | sussuta | adj | well heard; correctly heard |
+> | nikkaṅkha | adj | doubtless; confident |
+> | sikkhita | pp | trained; practised |
+> | anītiha | adj | not hearsay; not mere talk; not oral tradition |
+> | patthayāna | prp | wishing (for); aspiring (for); craving (for) |
+> | upajjhā | fem |  |
+> | visodhita | pp | cleaned; removed |
+> | antevāsī | masc | apprentice; assistant; understudy |
+> | sacchikata | pp | personally experienced; individually realized |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | amogha | adj | fruitful; efficacious; not in vain; not futile |
+> | sikkhanta | prp | learning; training (in); practicing |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | pubbenivāsa | masc | previous life; former existence |
+> | amata | nt | deathless state; immortality; epithet of Nibbāna |
+> | khīṇa | pp | consumed; spent; finished; exhausted; slowly destroyed |
+> | byākaroti | pr | answers; replies (to) |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | sāsana | nt | message; letter |
+> | saya | adj | lying; resting; existing; residing in |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | appamatta | pp | diligent (in); vigilant (about); careful (about); attentive … |
+> | jānāti | pr | knows; understands |
+> | kata | pp | done; did; completed |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | buddha | masc | Buddha; Awakened One |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | tvaṁ | pron | you (subject) |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

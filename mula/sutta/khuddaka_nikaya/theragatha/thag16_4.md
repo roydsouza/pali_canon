@@ -310,3 +310,69 @@ parallels:
 *the ending of all fetters.”*
 *… Raṭṭhapālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sampatta | pp | reached; arrived; is here |
+> | gabbhavokkanti | fem |  |
+> | avañjha | adj | productive; profitable; successful |
+> | sāmaññameva (?) | ? |  |
+> | apaṇṇaka | adj | unquestionable; incontrovertible; indisputable; irrefutable;… |
+> | sarīrabheda | masc | breakup of the body; physical death |
+> | dumapphalānīva (?) | ? |  |
+> | gahīta | pp | taken; seized; captured |
+> | sandhimukha | nt | place where one breaks into a house; breach |
+> | abhisaddahanta | prp | truly believing (in); having total trust (in); having comple… |
+> | tassappapañño (?) | ? |  |
+> | parampara | adj | in succession; one after another |
+> | saṁsāramāpajja | ger | experiencing transmigration; suffering continuous rebirth |
+> | abyositatta | nt | fact of not being perfected; fact of not being accomplished |
+> | vosānamidhādhigaccha (?) | ? |  |
+> | paññāvant | adj | wise; intelligent; insightful; percipient |
+> | phassaphuṭṭha | adj | contacted by experience; experiencing the touch |
+> | vadhitova (?) | ? |  |
+> | vippariṇāmadhamma | adj | changeable in nature; with the characteristic of transformat… |
+> | dīghamāyu | nt | long life; longevity |
+> | dhanamanve (?) | ? |  |
+> | tujjamāna | prp | being poked; being pierced; being stabbed (with) |
+> | ḍahan (?) | ? |  |
+> | samodhāya | ger | placing down; laying down |
+> | cita | pp | heaped; filled; piled |
+> | ūnāva (?) | ? |  |
+> | samuddassapi (?) | ? |  |
+> | atittarūpa | adj | dissatisfied; discontented; not content |
+> | mahimāvasanta | prp | ruling the mighty earth; reigning over the vast land |
+> | sasāgaranta | adj | extending to the ocean; stretching as far as the sea |
+> | vijetvā | abs | having conquered; having triumphed over; having taken contro… |
+> | pasayhappathaviṁ (?) | ? |  |
+> | abhipatthayan (?) | ? |  |
+> | bhiyyova (?) | ? |  |
+> | sakamma | nt |  |
+> | gabbhañca (?) | ? |  |
+> | dāyādaka | masc | heir; inheritor |
+> | mīyamāna | prp | being killed (by); dying (from) |
+> | kandati | pr | cries (over); weeps (about); wails (over) |
+> | odahi | aor | put (in); inserted |
+> | añjanamakkhita | adj | with eyeliner; outlined |
+> | cuṇṇakamakkhita | adj | smeared with powder; powdered |
+> | dhanañca (?) | ? |  |
+> | dadan (?) | ? |  |
+> | haran (?) | ? |  |
+> | virūparūpena | ind | in different ways; in various ways; differently |
+> | upen (?) | ? |  |
+> | vihan (?) | ? |  |
+> | sadhana | adj | rich; wealthy |
+> | alabhi | aor |  |
+> | saddhāyāhaṁ (?) | ? |  |
+> | nīharitvā | abs | having removed; having extracted; having taken out |
+> | migaluddaka | masc | deer huntsman; game hunter |
+> | chinna | pp | without; with no |
+> | migabandhaka | masc | deer catcher; deer trapper |
+> | añjanīva (?) | ? |  |
+> | aṭṭhapadakata | adj | arranged in eight ways; plaited eightfold |
+> | alattakakata | adj | hennaed; henna-tattooed |
+> | kuṇḍala | masc | ring; earring |
+> | vedha | masc | hit; strike; piercing blow |
+<!-- pali-nlp:vocab-end -->

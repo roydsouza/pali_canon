@@ -92,3 +92,55 @@ tags:
 *and every kind of conceit is destroyed.*
 *… Jento purohitaputto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (46 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mānavidha | masc | type of egotism; variety of conceit |
+> | omāna | masc |  |
+> | madañca (?) | ? |  |
+> | tapantamiva (?) | ? |  |
+> | mānatthaddha | masc |  |
+> | garusammata | adj | honoured; renowned; revered; esteemed |
+> | pitarañcāpi (?) | ? |  |
+> | ussitaddhaja | adj | full of oneself; with oneself held high |
+> | patthaddha | pp | stiff; inflexible; rigid |
+> | atimānahata | adj | slain by pride; injured by arrogance |
+> | atireka | adj | surplus; excess; leftover; too much |
+> | samaka | adj |  |
+> | nātta | masc | not I; not myself |
+> | acārihaṁ (?) | ? |  |
+> | madamatta | adj | intoxicated with pride (about); drunk on conceit (over) |
+> | saṇṭhānavaṇṇarūpa | nt | beautiful outward appearance; attractive external form |
+> | bhogaissariyena (?) | ? |  |
+> | mattohaṁ (?) | ? |  |
+> | jātimada | masc | pride in one's birth |
+> | chaḍḍetvā | abs | having thrown away; having discarded; having tossed aside; h… |
+> | abhivādesi | aor |  |
+> | maññi | aor | became proud (because of); became conceited (on account of);… |
+> | vināyaka | masc | leader; guide; teacher; epithet of the Buddha |
+> | varuttama | adj | foremost ultimate; excellent supreme |
+> | susamūhata | adj | completely removed; totally eradicated |
+> | sabbasattānamuttama | masc | supreme being; best of all beings |
+> | atimāna | masc | arrogance; pride; haughtiness; self-importance |
+> | bhikkhusaṅghapurakkhata | adj | at the forefront of the community of monks; surrounded by th… |
+> | hata | pp | beaten (by); struck (by); thrashed (by) |
+> | asmimāna | masc | egotism; self-conceit; concept of I am; thought I am; self c… |
+> | anādara | adj | disrespectful; disdainful; contemptuous |
+> | ādicca | masc | sun |
+> | aññepi (?) | ? |  |
+> | sārathi | masc | charioteer; driver |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | vippasanna | pp | clear; calm; tranquil |
+> | siras | masc | head |
+> | agga | adj | highest; topmost; foremost; supreme; ultimate |
+> | mātar | fem | mother |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | disvā | abs | having seen; having understood; having found out |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | cetas | masc | mind; thought; intention |
+> | sabba | pron | all; every |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+<!-- pali-nlp:vocab-end -->

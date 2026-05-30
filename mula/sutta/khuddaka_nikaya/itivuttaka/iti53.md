@@ -97,3 +97,57 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti53_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (48 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dukkhamaddasa | aor | saw suffering; understood discomfort |
+> | adda | aor | saw |
+> | yogātiga | adj | who has overcome the bond; who has transcended bondage |
+> | antamakāsi | aor | made an end (of); finished (with) |
+> | vivattayi | aor | untied; unravelled; (comm) torn out |
+> | sammaddasa | adj | seeing correctly; understanding perfectly |
+> | mānābhisamaya | masc | complete comprehension of conceit; total understanding of co… |
+> | abhiññāvosita | adj | who has attained perfect understanding; who has completely u… |
+> | acchecchi | aor | completely cut out; utterly severed; totally destroyed |
+> | dukkhassā (?) | ? |  |
+> | salla | masc | (any sharp pointed object which causes pain) arrow; spike; d… |
+> | addasa | aor | saw |
+> | daṭṭhabba | ptp | should be seen; should be regarded as; should be understood … |
+> | vimuccati | pr | is released (from); is free (from) |
+> | diṭṭha | pp | seen; found; visible |
+> | adukkhamasukha | adj | neutral; neither unpleasant nor pleasant; neither comfortabl… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | saṁyojana | nt | fetter; chain; bond; thing which binds |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | anicca | adj | impermanent; inconstant; not lasting; discontinuous; disorde… |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | katama | pron | what?; which (of the many)? |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | aya | masc | good luck; good fortune |
+> | vedanā | fem | (pleasant, unpleasant or neutral) felt experience; feeling; … |
+> | ima | pron | this |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

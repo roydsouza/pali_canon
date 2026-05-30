@@ -92,3 +92,59 @@ tags:
 *now there’ll be no more future lives.”*
 *… Nhātakamunitthero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (50 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | suddhacitta | nt | pure mind; clean heart |
+> | jhānasokhummasampanna | adj | accomplished in the delicacy of meditation; succeeded in the… |
+> | pharitvāna | abs | having filled; having suffused; having pervaded |
+> | paviddhagocara | adj | abandoned the alms village |
+> | chinnamūlaka | adj | with the roots cut off |
+> | lūkhampi (?) | ? |  |
+> | vātarogābhinīta | adj | afflicted with illness caused by wind humour |
+> | paccavekkhanta | prp | reviewing; reflecting (on); contemplating; thinking (about) |
+> | abhisambhonta | prp | overcoming; withstanding; enduring |
+> | vijji | aor | existed; was found; was present |
+> | lūkha | adj | rough; coarse; poor quality |
+> | kilesa | masc | defilement; impurity; unwholesome mental state |
+> | pañcakkhandha | masc | five aggregates; five masses; materiality, feeling, percepti… |
+> | ucchinna | pp | broken off; cut off; severed |
+> | abhiṇha | adj | constant; frequent; regular; habitual |
+> | ajjhattañca | sandhi | internally and |
+> | kānana | nt | wood; grove; glade |
+> | samussaya | masc | body |
+> | dukkhakkhaya | masc | wearing away of suffering; extinction of stress; termination… |
+> | tiṭṭhan (?) | ? |  |
+> | pariññāta | pp | completely comprehended; fully understood |
+> | bhāventa | prp | cultivating; developing |
+> | asesa | adj | complete; without remainder |
+> | anāvila | adj | (of water) tranquil; placid; glassy; smooth; ripple-free |
+> | bala | nt | strength; power; might |
+> | vana | nt | wood; forest; grove |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | vipula | adj | vast; extensive; expansive; massive |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | pītisukha | nt | delight and ease; joy and happiness |
+> | indriya | nt | sense; mental faculty; power |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | karoti | pr | does; acts; performs |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | bahiddha | adj | external; outward |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | punāti | pr | cleans; purifies |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | bojjhaṅga | masc | element of awakening; factor of enlightenment |
+> | uppajjati | pr | appears; arises; occurs; takes place (for) |
+> | katha | adj | with words; having talk; asking |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | satta | card | seven (7) |
+> | tvaṁ | pron | you (subject) |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

@@ -102,3 +102,57 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti62_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (48 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | indriyasampanna | adj | mentally accomplished; equipped with the faculty; with the a… |
+> | bhavasaṁyojanakkhaya | masc | wearing away the chain of existence; exhausting the bond of … |
+> | aññātāvindriya | nt | faculty of one who is awakened |
+> | aññindriya | nt | faculty of awakening; power of final knowledge |
+> | anaññātaññassāmītindriya | nt | faculty that senses 'I will know the unknown' |
+> | aññāvimutta | adj | freed by gnosis; liberated through spiritual insight |
+> | ujumaggānusārī | adj | going along the straight path; following the direct route |
+> | indriyānī (?) | ? |  |
+> | santipada | nt | state of peace; tranquillity; epithet of Nibbāna |
+> | savāhinin (?) | ? |  |
+> | anantara | adj | (gram) contiguous; adjoining; immediately following |
+> | akuppa | ptp | unshakeable; unwavering; unassailable |
+> | sikkhamāna | prp | training (in); practising |
+> | tīṇimāni | sandhi | these three |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | antima | adj | very last; final; ultimate |
+> | deha | masc | body |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | vimutti | fem | release; liberation; deliverance; freedom; emancipation |
+> | dhāra | adj | (of a weapon) sharpened; with edge; with blade |
+> | sekha | masc | trainee; apprentice; learner; initiate; (comm) seven stages … |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | indriya | nt | sense; mental faculty; power |
+> | māra | masc | death; Death; death personified |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṭhama | ordin | first (1st); prime |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

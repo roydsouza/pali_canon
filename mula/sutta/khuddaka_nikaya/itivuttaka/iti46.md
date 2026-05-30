@@ -91,3 +91,58 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti46_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | apahānadhamma | adj |  |
+> | paripuṇṇasikkha | adj | who has completed the training; who has perfected the practi… |
+> | sasena | adj | with an army; commanding an army |
+> | satādhipateyya | adj | ruled by mindfulness; governed by awareness; (or) having min… |
+> | vimuttisāra | adj | centred in liberation; liberation is essence |
+> | sikkhānisaṁsa | masc | benefit of training; profit of practice; (comm) training is … |
+> | mārañjaha | adj | who has left Death behind; (comm) who has abandoned the defi… |
+> | paññuttara | adj | with wisdom as chief characteristic; having understanding as… |
+> | antimadehadhārī | adj | carrying the last body; in one's final existence |
+> | jātikhayantadassī | adj | who sees the wearing away and ending of birth; who observes … |
+> | pāraga | masc | who has gone beyond; who has crossed over; who has mastered;… |
+> | jātimaraṇa | nt | birth and death |
+> | jhānarata | adj | taking pleasure in meditation; enjoying contemplation; delig… |
+> | upādisesa | masc | remnant of grasping; remaining fuel of existence |
+> | anāgāmitā | fem | non-returning |
+> | pāragū | masc | who has gone beyond; who has crossed over |
+> | abhibhuyya | ger | conquering; vanquishing; overcoming; overpowering; mastering |
+> | phala | nt | fruit; nut; berry |
+> | sadā | ind | always; ever; all the time |
+> | jara | adj | old |
+> | bhavati | pr | is; is being; becomes |
+> | māra | masc | death; Death; death personified |
+> | pāṭikaṅkha | ptp | to be expected (for); certain (for); can be anticipated |
+> | samāhita | pp | composed; centred; settled; collected |
+> | brūti | pr | says; tells; speaks; calls |
+> | diṭṭheva (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | aññatara | pron | a certain; a |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

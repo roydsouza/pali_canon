@@ -843,3 +843,69 @@ parallels:
 **Theragāthāpāḷi niṭṭhitā.**  
 *The Verses of the Senior Monks are finished.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | theragāthāpāḷi | fem | Book 8 of the Khuddaka Nikāya; Canonical Text of the Verses … |
+> | mahānipāta | masc |  |
+> | kappāna | masc | name of an arahant monk; Nigrodhakappa |
+> | kārī | adj | doing; making |
+> | kaccissataṁ (?) | ? |  |
+> | jānamanomavīriya (?) | ? |  |
+> | ayamañjali (?) | ? |  |
+> | jānamupāgamimha (?) | ? |  |
+> | pabhāsati | pr |  |
+> | mutyapekha | adj | seeking release; longing for liberation |
+> | iddhipattomhi (?) | ? |  |
+> | abhiññāpāramippatta | adj | attained the perfection of higher understanding; (or) reache… |
+> | nirāmagataddasā (?) | ? |  |
+> | bodhimajjhagamā (?) | ? |  |
+> | purisānañca (?) | ? |  |
+> | pasīdi | aor | gained confidence (in); acquired faith (in); was inspired (b… |
+> | athaddasāma (?) | ? |  |
+> | kāveyyamatta | adj | drunk on poetry; intoxicated by verse |
+> | vītamalova (?) | ? |  |
+> | sabbaṅgasampanna | adj | endowed with all (the good) qualities; possessing all the fa… |
+> | moggallāna | masc | name of a monk; chief disciple; great disciple of the Buddha… |
+> | buddhadāyāda | masc | heir of the Buddha; inheritor of awakening |
+> | sāsanakārī | adj |  |
+> | dasaddha | masc |  |
+> | atikkamamaddasa | aor | saw the transcendence (of); saw what lies beyond; (comm) saw… |
+> | sabbaṭhiti | fem | all states of being; (or) all points of view |
+> | nitaraṇattha | masc | purpose of crossing; sake of getting across |
+> | pavibhajja | ger | analysing; dissecting |
+> | asitaṁva (?) | ? |  |
+> | bandhapamuñcakara | adj | liberating (others) from bondage; freeing (another) from the… |
+> | pabhijjati | pr |  |
+> | ummaggapatha | masc | wrong road; divergent path; deviant way |
+> | vaṅgisa | masc | name of a monk; foremost disciple in spontaneous expression |
+> | satthudassanakamyatā | fem | desire to see the teacher; longing to behold the master |
+> | abhivassati | pr | rains (on); pours (onto) |
+> | mahāmeghova (?) | ? |  |
+> | nāganāmosi (?) | ? |  |
+> | palāpesi | aor |  |
+> | sāgaranta | adj | surrounded by the sea; encircled by the ocean |
+> | amaccaparivārita | adj | surrounded by ministers |
+> | odhen (?) | ? |  |
+> | savanīya | ptp | worth hearing; listenable; lovely to listen to; (comm) easy … |
+> | desayanta | prp | preaching (to); teaching (to); explaining (to); pointing out… |
+> | udiyya (?) | ? |  |
+> | sālikāyiva (?) | ? |  |
+> | vitthārenapi (?) | ? |  |
+> | saṅkhittenapi (?) | ? |  |
+> | vipariyesa | masc |  |
+> | vijjāyantakara | adj | who makes an end through understanding |
+> | sukhañcānubho (?) | ? |  |
+> | vippaṭisārīhosi | aor | had regret; was remorseful |
+> | mānapatha | masc | path of pride; way of conceit; mode of comparing oneself |
+> | mānapathañca (?) | ? |  |
+> | cirarattasamāhita | adj | (mentally) composed for a long time; long settled (in medita… |
+> | duṭṭhullagāhī | adj |  |
+> | puthujjanatā | fem | fact of being a common man; fact of being a normal person |
+> | saṭṭhisita | adj | based on the sixty (two) (wrong views) |
+> | chandamanejo (?) | ? |  |
+> | mutatta | masc | who knows; awakened being |
+> | sabbamaniccaṁ (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

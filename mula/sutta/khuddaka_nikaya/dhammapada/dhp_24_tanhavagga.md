@@ -315,5 +315,71 @@ tags:
 *That’s why a gift to one rid of desire*
 **dinnaṁ hoti mahapphalaṁ.**  
 *is so very fruitful.*
-**Taṇhāvaggo catuvīsatimo.**  
+**Taṇhāvaggo catuvīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | catuvīsatima | ordin |  |
+> | vigaticcha | adj | without wish; free from desire |
+> | icchādosa | adj | spoiled by desire; ruined by longing; corrupted by desire |
+> | mohadosa | adj | ruined by delusion; spoiled by confusion; corrupted by illus… |
+> | dosadosa | adj | ruined by hatred; spoiled by ill-will; corrupted by aversion |
+> | rāgadosa | masc | desire and hatred; craving and aversion; lust and hate |
+> | bhogataṇhā | fem | greed for wealth; thirst for riches |
+> | dhammara (?) | ? |  |
+> | sabbarati | fem | all delight; every pleasure |
+> | sabbarasa | masc | all tastes; every flavour |
+> | sabbadāna | nt | all giving; every offering |
+> | kamuddiseyyaṁ (?) | ? |  |
+> | sabbavidūhamasmi (?) | ? |  |
+> | akkhara | nt | (gram) letter of the alphabet; syllable; morpheme |
+> | bhavasalla | nt | barb of being; arrow of existence; (comm) dart leading to be… |
+> | acchindi | aor | cut off; broken off; removed |
+> | niṭṭhaṅgata | pp | attained perfection; complete; finished |
+> | byan (?) | ? |  |
+> | tibbarāga | adj | with intense passion; with raging lust |
+> | vitakkamathita | adj | with agitated mind; mentally disturbed |
+> | makkaṭakova (?) | ? |  |
+> | rāgarattānupatan (?) | ? |  |
+> | paribbajan (?) | ? |  |
+> | ohārī | adj | heavy; dragging down; weighing down |
+> | dārujapabbajañca (?) | ? |  |
+> | yadāyasa | adj | which is made of iron; which is metal |
+> | bandhanameva (?) | ? |  |
+> | puggalametha (?) | ? |  |
+> | vanameva (?) | ? |  |
+> | vanamutta | adj | free from desire |
+> | vanādhimutta | adj | inclined to the forest; inclined to the monk's life |
+> | virāgamattano (?) | ? |  |
+> | dukkhamupen (?) | ? |  |
+> | saṁyojanasaṅgasattaka | adj | bound fast by bonds and fetters; attached by ties and chains |
+> | sukhesī | adj | seeking happiness; pleasure-seeking |
+> | sātasita | adj | attached to pleasure; clinging to comfort |
+> | sinehita | pp | attractive; lovely |
+> | mahāvahan (?) | ? |  |
+> | manāpasavana | adj | flowing to the pleasant; streaming towards the attractive |
+> | nibbattanta | prp |  |
+> | taṇhānusaya | masc | underlying tendency towards craving; dormant desire |
+> | punareva | sandhi | just again |
+> | chinnopi (?) | ? |  |
+> | anupaddava | adj | safe; free from danger; uninjured; unafflicted |
+> | sabbañjaha | adj | leaving everything behind; giving up everything; abandoning … |
+> | pubbāpara | nt | sequence; order |
+> | niruttipadakovida | adj | skilled in language; (comm) accomplished in the grammar and … |
+> | asantāsī | adj | fearless; unstartled; unshaken; not alarmed |
+> | checchati | fut | will cut; will sever; will destroy |
+> | vimuttamānasa | adj | mentally liberated; with emancipated mind; with free mind |
+> | duppamuñca | adj | difficult to release; hard to get free from |
+> | maṇikuṇḍala | masc | jewels and jewellery; gems and rings |
+> | sārattaratta | adj | with strong infatuation (for); totally obsessed (with) |
+> | bandhanamāhu (?) | ? |  |
+> | bandhita | pp | trapped; caught; bound |
+> | sasova (?) | ? |  |
+> | parisappan (?) | ? |  |
+> | rāganissita | adj | based on passion; supported by craving; dependent on desire |
+> | duddiṭṭhi | adj | who has wrong view; who has incorrect outlook |
+> | bhañji | aor | snapped; broke up; destroyed |
+<!-- pali-nlp:vocab-end -->

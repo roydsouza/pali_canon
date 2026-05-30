@@ -70,3 +70,44 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Bhagutthero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (35 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | caṅkami | aor | walked up and down; walked in meditation |
+> | punapāruyha (?) | ? |  |
+> | parimajjitvā | abs | having stroked; having rubbed; having massaged |
+> | papati | aor | fell; fell down |
+> | abhiruhanta | prp | ascending; mounting; climbing up |
+> | caṅkama | masc | walking meditation; walking up and down (in meditation) |
+> | middha | nt | drowsiness; sluggishness; lethargy |
+> | upanikkhami | aor | left; came out (from); exited |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | chamā | fem | earth; ground; floor |
+> | udapajjā | imperf | appeared; arose |
+> | paka | adj | drinking; suckling; nursing |
+> | pāturahosi | aor | appeared; manifested |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | gatta | nt | (of the body) limb |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | sāsanan (?) | ? |  |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | sohaṁ | sandhi | that, I; so, I |
+> | tattheva | sandhi | right there; in that place; on the spot; there and then |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | ādīnava | masc | danger (in); problem (in) |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | ajjhatta | adj | inner; internal; personal; in oneself |
+> | buddha | masc | Buddha; Awakened One |
+> | aha | nt | day |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

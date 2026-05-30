@@ -56,3 +56,32 @@ parallels:
 
 *… Mettikā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (23 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nikujjiya | ger | turning upside down; inverting |
+> | pattakañca (?) | ? |  |
+> | abhirūhiya | ger | ascending; climbing up |
+> | khomhi | sandhi | I am definitely; I am truly |
+> | gatayobbana | adj | passed one's prime; in old age |
+> | daṇḍamolubbha | ind | hanging onto a walking stick; leaning on a staff |
+> | nikkhipitvāna | abs | having placed down; having dropped; having deposited; having… |
+> | dubbala | adj | frail; weak; feeble |
+> | saṅghāṭi | fem | outer robe; double robe; patchwork robe |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | sāsanan (?) | ? |  |
+> | dukkhita | pp | afflicted; miserable; suffering |
+> | kiñcāpi | sandhi | however much; even if; even though; although |
+> | pabbata | masc | rock |
+> | sela | adj | rock; rocky; stone; stony |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | gacchati | pr | goes; walks; moves; wanders around |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | nisinna | pp | seated (in) |
+> | buddha | masc | Buddha; Awakened One |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

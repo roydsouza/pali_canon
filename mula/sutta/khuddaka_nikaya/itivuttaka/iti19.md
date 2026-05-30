@@ -81,3 +81,61 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti19_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (52 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | modatī (?) | ? |  |
+> | samaggānañcanuggaho (?) | ? |  |
+> | pasīdan (?) | ? |  |
+> | saṅghasāmaggī | fem | concord within the community; harmony in the Saṅgha |
+> | pasannānañca (?) | ? |  |
+> | appasanna | masc | non-believer; who has no faith (in); who is without confiden… |
+> | pariccajana | nt |  |
+> | parikkhepa | adj | surrounding; encircling |
+> | sāmaggī | fem | concord; unity; peace; harmony |
+> | paribhāsa | masc | abuse; revilement; insult |
+> | dhaṁsati | pr | falls (from); falls down (from); is deprived (of) |
+> | samaggarata | adj | who enjoys unity; who is fond of concord; who likes harmony |
+> | bhaṇḍana | nt | blaming; accusing; conflicting |
+> | dhammaṭṭha | adj | firmly established in the Dhamma; righteous; just; moral; vi… |
+> | katvāna | abs | having done |
+> | samagga | adj | (vinaya) unified; united; in concord; harmonious; in agreeme… |
+> | bahujanasukha | nt | comfort of many people; ease of the masses |
+> | bahujanahitāya | nt | for the benefit of many people; for the good of the populati… |
+> | yogakkhema | masc | (spiritual) safety; security; sanctuary |
+> | uppajjamāna | prp | arising; appearing; coming into being |
+> | sagga | adj | heavenly |
+> | hita | pp | beneficial; good; advantageous |
+> | devamanussā | masc | gods and human beings; deities and men |
+> | aññamañña | pron | mutual; one another; one to another |
+> | bhiyyobhāva | masc | growth (of); increase (of); multiplication (of) |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+> | ekadhamma | masc | one single thing |
+> | hotī (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | avoca | aor | said (something to somebody) |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | hon (?) | ? |  |
+> | ayampi | sandhi | one too; this too |
+> | ceva | sandhi | only if; if just |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | uppajjati | pr | appears; arises; occurs; takes place (for) |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | katama | pron | what?; which (of the many)? |
+> | loka | masc | world; universe; cosmos |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

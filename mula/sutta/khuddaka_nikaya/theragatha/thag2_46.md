@@ -48,3 +48,36 @@ tags:
 *so very pure, subtle, and hard to see.*
 *… Cūḷako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (27 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uttamamaccutaṁ (?) | ? |  |
+> | susukkasukka | adj | perfectly pure; so very good; very pure and bright |
+> | subuddhasāsana | nt | good doctrine of the Buddha; (or) the teaching of the well a… |
+> | sunikkama | adj | applying oneself well (to); practicing dilligently (in) |
+> | sukallarūpa | adj |  |
+> | suvalāhaka | adj | with beautiful clouds; well-clouded |
+> | subyāpitambu | adj | with widespread water; with water everywhere |
+> | mahāmahī | fem | great world; mighty earth |
+> | susaddala | adj | with lush green grass; with verdant lawn |
+> | sugajjī | adj | calling out loudly |
+> | supekhuṇa | adj | with beautiful tail feathers |
+> | mora | masc | peacock; (comm) any bird |
+> | susikha | adj | beautifully crested; attractively plumed |
+> | sunīlagīva | adj | beautiful blue-necked |
+> | nadan (?) | ? |  |
+> | sumukha | adj | handsome |
+> | sududdasa | adj | extremely difficult to see; very difficult to discern |
+> | padan (?) | ? |  |
+> | nabhas | masc | sky |
+> | sumana | adj | glad; happy; pleased; satisfied; cheerful |
+> | nipuṇa | adj | fine; subtle |
+> | phusati | pr | touches; contacts; feels; experiences |
+> | jhāyati | pr | thinks; thinks about |
+> | cāpi | sandhi | or even; and even; as well as |
+> | sādhu | adj | good; pleasant; auspicious |
+> | aya | masc | good luck; good fortune |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

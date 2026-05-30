@@ -69,3 +69,47 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti94_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (38 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sattasaṅgappahīna | adj | who has removed the seven ties; who has abandoned the seven … |
+> | jātijarāmaraṇadukkhasamudayasambhava | masc |  |
+> | netticchinna | adj | who has cut the conduit to existence; (comm) who has severed… |
+> | avisaṭa | pp | not dispersed; not scattered |
+> | avikkhitta | pp | not scattered; not confused; not distracted |
+> | aparitassa | adj | unperturbed; unagitated; unshaken |
+> | asaṇṭhita | pp | not fixed (in); not stuck (in); not caught (in); not attache… |
+> | paritassati | pr | is perturbed; is shaken; is agitated; is anguished |
+> | vikkhīṇa | pp | totally annihilated; destroyed |
+> | yathāssa | sandhi | like when he; as when one |
+> | upaparikkhanta | prp | exploring; examining; investigating; inspecting; inquiring (… |
+> | upaparikkhati | pr | explores; examines; investigates; inspects; inquires (into);… |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | anupāda | masc | sequence; succession; series |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | āyati | fem | future; what's coming |
+> | hotī (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | bahiddha | adj | external; outward |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | tatha | adj | true; real; actual |
+> | ajjhatta | adj | inner; internal; personal; in oneself |
+> | viññāṇa | nt | awareness; consciousness; mind; fifth of the five aggregates |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -77,3 +77,43 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti32_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (34 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sopapajjatī (?) | ? |  |
+> | yathābhata | adj | as laden; as loaded |
+> | nikkhitta | pp | dropped; discarded; set aside; rejected |
+> | duppañña | adj | foolish; stupid; unintelligent; undiscerning |
+> | nara | masc | man; person |
+> | diṭṭhi | fem | view; belief; opinion; concept; theory; attitude; philosophy… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | puggala | masc | person; individual |
+> | sīla | nt | ethical conduct; virtue; moral integrity |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+> | ima | pron | this |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

@@ -166,3 +166,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_6_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | niddhamitvāna | abs | having removed; having got rid of |
+> | vāheti | pr | conveys (to); carries (to); transports (to) |
+> | apakassati | pr | removes; expels |
+> | kasambu | masc | rubbish; filth |
+> | kāraṇḍava | masc | rubbish; junk; garbage |
+> | abhinibbajjiyātha | opt | you all should expel |
+> | pāpasaṅkappa | masc |  |
+> | sāṅgaṇa | adj | blemished; defiled; impure |
+> | dubbisodha | adj | hard to clean; difficult to purify |
+> | gaṇavassika | adj | for many years; many years old |
+> | sampuṇṇa | pp | filled (with); full (of); with lots of |
+> | nirayagāmī | adj | leading to hell; conducive to hell |
+> | akkhātampi (?) | ? |  |
+> | mohadhamma | masc | state of delusion; characteristic of illusion |
+> | vihesābhirata | adj | really enjoying annoying; very fond of cruelty |
+> | mukharajātika | adj | big-mouthed; talking big; (comm) speaking harshly |
+> | pabbajitopi (?) | ? |  |
+> | vasuttama | nt | highest wealth; greatest goodness; (comm) best jewel |
+> | etadāhu (?) | ? |  |
+> | kappayati | pr | (of ideas and opinions) fashions; formulates; constructs; de… |
+> | samaṇamānī | adj | imagining one is an ascetic; thinking one is a monk |
+> | pāpaācāragocara | adj | with bad behaviour and environment |
+> | gūthakūpa | masc | cesspit; long drop |
+> | kalahābhirata | adj | really enjoying arguments; very fond of quarrels; indulging … |
+> | palāpa | masc | chattering; prattle; idle talk; blah blah |
+> | karissathā (?) | ? |  |
+> | gehanissita | adj | connected with household life; associated with lay life |
+> | hutvāna | abs | having become |
+> | dhammacariyā | fem | conduct in line with the Dhamma; ethical conduct; moral beha… |
+> | niddhamati | pr | blows off; removes by blowing; purifies |
+> | assamaṇa | masc | not a monk |
+> | maga | masc | deer; antelope |
+> | āvuta | pp | covered (by); concealed (by); hidden (by); enclosed (by); su… |
+> | saṁvāsa | masc | living together (with); co-habitation (with); close associat… |
+> | gabbha | masc | womb |
+> | tādisaka | adj | of that kind; of such character; of such quality; like |
+> | pāpiccha | masc | who has evil wishes; who has evil desires |
+> | saṅkilesa | masc | defilement (of); impurity (of); corruption (of) |
+> | vaḍḍha | adj |  |
+> | raja | adj | dusty; dirty; with dirt |
+> | purakkhata | pp | given importance; esteemed; honoured |
+> | vihesā | fem | irritation; annoyance; trouble |
+> | patissata | pp | self-aware; thoughtful; mindful |
+> | tamas | masc | darkness; gloom |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | suddha | pp | clean; pure; white |
+> | samagga | adj | (vinaya) unified; united; in concord; harmonious; in agreeme… |
+> | dukkhassanta | masc | end of suffering |
+> | nigaccha (?) | ? |  |
+> | pecca | ind | after death |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | samāpanna | pp | entered; reached; attained; achieved |
+> | vinipāta | masc | state of suffering; purgatory; underworld |
+> | anagāriya | nt | homelessness; homeless state |
+> | desita | pp | preached (by); taught (by); explained (by); instructed (by) |
+> | agāra | nt | dwelling; building; house; hut |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | jīvita | nt | life; existence |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | jāna | adj | knowing; being aware (of); understanding |
+<!-- pali-nlp:vocab-end -->

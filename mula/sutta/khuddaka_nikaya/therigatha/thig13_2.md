@@ -260,3 +260,69 @@ tags:
 
 *… Rohinī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | idānimhi (?) | ? |  |
+> | amhampi (?) | ? |  |
+> | tibbagārava | adj | with keen respect (for); with intense esteem (for); who high… |
+> | piyāyan (?) | ? |  |
+> | nānākula | adj | of a different family; from another household |
+> | rūpiya | nt | silver; silver coin; money; cash |
+> | gaṇhan (?) | ? |  |
+> | pariniṭṭhitamesānā (?) | ? |  |
+> | khaḷopi | fem | basket; container |
+> | open (?) | ? |  |
+> | anapekkhāva (?) | ? |  |
+> | viloken (?) | ? |  |
+> | pakkaman (?) | ? |  |
+> | saṅkhamuttāva (?) | ? |  |
+> | vacīkammañca (?) | ? |  |
+> | pahīnesaṁ (?) | ? |  |
+> | sucikārī | adj | doing wholesome deeds; performing good actions |
+> | dhunan (?) | ? |  |
+> | kammaseṭṭha | nt | highest form of work; most important activity |
+> | kammakāma | adj | wanting to work; wishing to fulfil one's obligation |
+> | paññāsīlaparakkama | masc | wisdom, virtue and effort; understanding, moral integrity an… |
+> | sādukāma | adj | wanting sweet eats; desiring delicious food |
+> | āsaṁsuka | adj | expecting; hoping; longing |
+> | akammakāma | adj | unwilling to work; not wanting to work |
+> | paveccasi (?) | ? |  |
+> | samaṇāneva (?) | ? |  |
+> | supi | aor | slept |
+> | koṭṭha | masc | store-room; granary |
+> | samaṇī | fem | nun; female monastic |
+> | nānājanapada | masc | various countries; different provinces |
+> | kumbhi | fem | clay cooking vessel; earthenware pot |
+> | paradattūpajīvī | adj | living on what is given by others; subsisting on others' don… |
+> | pabujjhati | pr | wakes up; is awake; gets up |
+> | paṭigaṇhan (?) | ? |  |
+> | kitteti | pr |  |
+> | jātāsi (?) | ? |  |
+> | kāraka | masc | doer; maker; creator (of) |
+> | rohinī | fem | name of a river |
+> | pānañca (?) | ? |  |
+> | annañca (?) | ? |  |
+> | dūraṅgama | adj | going far; travelling far; wandering far; far-ranging |
+> | samādiyati | pr | accepts; undertakes; takes upon oneself |
+> | dukkhamappiyaṁ | sandhi | suffering is disliked (by) |
+> | alasa | adj | lazy; inactive; indolent; idle |
+> | cirassaṁ | ind | at long last; long time since; after a long time |
+> | analasa | adj | active; energetic; industrious; not lazy |
+> | paripucchati | pr | asks about; questions; enquires; interrogates (somebody abou… |
+> | hirañña | nt | gold |
+> | brahmabandhu | masc | nominal Brahman; Brahman merely by birth |
+> | yāpen (?) | ? |  |
+> | sotti | fem | scourer; scrubber; cleanser |
+> | mantabhāṇī | masc | wise speaker; sage counsellor |
+> | dhammajīvī | adj | morally upright; living ethically; righteous |
+> | hettha | sandhi | indeed here |
+> | kittayati | pr | explains; declares; relates |
+> | nhātaka | adj | perfected; purified |
+> | saṅghañca (?) | ? |  |
+> | manokamma | nt | mental action; thought; intention |
+> | kāyakamma | nt | physical action; bodily act |
+> | yañña | masc | sacrifice; offering |
+<!-- pali-nlp:vocab-end -->

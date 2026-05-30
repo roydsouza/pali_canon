@@ -59,3 +59,33 @@ tags:
 
 *Dukanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (24 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pañcakkhattuṁ | ind | five times |
+> | catukkhattuṁ | ind | four times |
+> | upanikkhami | aor | left; came out (from); exited |
+> | appamādarata | adj | delighting in diligence; devoted to conscientiousness; takin… |
+> | dukkhadhamma | nt | misfortune; painful experience; state of suffering |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | avasavattī | adj | with no control (of); not wielding power (over); having no a… |
+> | taṇhakkhaya | masc | wearing away of craving; depletion of desire; extinction of … |
+> | aṭṭhama | ordin | eighth (8th) |
+> | sāsanan (?) | ? |  |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | rat (?) | ? |  |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | santa | prp | existing; being; there is |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | cetas | masc | mind; thought; intention |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

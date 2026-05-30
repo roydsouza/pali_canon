@@ -83,3 +83,66 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti18_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (57 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | paccatī (?) | ? |  |
+> | padhaṁsa | masc |  |
+> | adhammaṭṭha | adj | not living in accordance with the teaching |
+> | vaggārāma | adj | enjoying disunity; taking pleasure in division |
+> | saṅghabhedaka | adj | schismatic; who causes dissension in the community; who caus… |
+> | nappasīdan (?) | ? |  |
+> | saṅghabheda | masc | splitting apart of the community; schism in the monastic ord… |
+> | bahujanāsukhāya | nt | for the discomfort of many people |
+> | bahujanāhitāya | nt | for the disadvantage of many people; for the harm of the peo… |
+> | pasannānañca (?) | ? |  |
+> | appasanna | masc | non-believer; who has no faith (in); who is without confiden… |
+> | pariccajana | nt |  |
+> | parikkhepa | adj | surrounding; encircling |
+> | bhetvāna | abs | having caused division; having broken; having ruptured |
+> | aññathatta | nt | change; alteration |
+> | paribhāsa | masc | abuse; revilement; insult |
+> | kappaṭṭha | adj | remaining for an aeon; lasting for a world cycle |
+> | bhaṇḍana | nt | blaming; accusing; conflicting |
+> | bhinna | pp | broken; cracked; damaged |
+> | āpāyika | adj | suffering; wretched; miserable |
+> | nerayika | masc | denizen of hell; inhabitant of hell |
+> | ahita | pp | not good; unbeneficial; harmful |
+> | samagga | adj | (vinaya) unified; united; in concord; harmonious; in agreeme… |
+> | yogakkhema | masc | (spiritual) safety; security; sanctuary |
+> | uppajjamāna | prp | arising; appearing; coming into being |
+> | anattha | masc | harm; misfortune; damage; injury; hurt |
+> | devamanussā | masc | gods and human beings; deities and men |
+> | aññamañña | pron | mutual; one another; one to another |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+> | ekadhamma | masc | one single thing |
+> | hotī (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | ekacca | pron | certain; one of |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | hon (?) | ? |  |
+> | ayampi | sandhi | one too; this too |
+> | ceva | sandhi | only if; if just |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | uppajjati | pr | appears; arises; occurs; takes place (for) |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | katama | pron | what?; which (of the many)? |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | loka | masc | world; universe; cosmos |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

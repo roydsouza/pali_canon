@@ -56,3 +56,29 @@ parallels:
 
 *… Mittā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | daran (?) | ? |  |
+> | patthehaṁ (?) | ? |  |
+> | devakāyābhinandī | adj | taking delight in the host of heavenly beings; relishing the… |
+> | aṭṭhaṅgasusamāgata | adj | well endowed with eight factors; complete in all eight parts |
+> | pañcadasī | fem | fifteenth day of the lunar fortnight |
+> | pāṭihāriyapakkhañca (?) | ? |  |
+> | cātuddasī | fem | fourteenth day of the lunar fortnight |
+> | upāgacchi | aor | approached; went (to) |
+> | pakkha | adj | associated with; connected to; siding with |
+> | sājja (?) | ? |  |
+> | devakāya | masc | host of heavenly beings; group of gods |
+> | saṅghāṭipāruta | adj | wrapped in an outer robe |
+> | uposatha | masc | full moon or new moon observance day |
+> | muṇḍa | adj | bald; bald-headed; shaven |
+> | hadaya | nt | heart |
+> | aṭṭhama | ordin | eighth (8th) |
+> | bhatta | nt | food; boiled rice |
+> | vināti | pr |  |
+> | eka | card | one (1) |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

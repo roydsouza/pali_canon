@@ -139,5 +139,71 @@ tags:
 *Those free of greed will delight there,*
 **na te kāmagavesino.**  
 *not those who seek sensual pleasures.*
-**Arahantavaggo sattamo.**  
+**Arahantavaggo sattamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uttamaporisa | masc | highest of men; best of men; superman |
+> | vantāsa | adj | vomited one's food; given up hope |
+> | hatāvakāsa | adj | destroyed one's chance; lost the opportunity |
+> | sandhiccheda | adj | (comm) who has broken the connection (to cycle of existence) |
+> | akataññū | adj | ungrateful; thankless; unappreciative |
+> | apetakaddama | adj | mud-free; not muddy |
+> | indakhilupama | adj | like Inda's column; similar to the gate post of a city |
+> | pathavisama | adj | like earth; stable; rock solid |
+> | yassāsavā (?) | ? |  |
+> | pariññātabhojana | adj | who has completely comprehended nutriment; who has fully und… |
+> | okamoka | masc | all homes |
+> | haṁsāva (?) | ? |  |
+> | uyyuñjan (?) | ? |  |
+> | sabbaganthappahīna | adj | eliminated all ties; abandoned all bonds |
+> | visoka | adj | without grief; sorrow-free |
+> | gataddhī | adj | who has walked the path; who has completed the journey |
+> | arahantavagga | masc |  |
+> | kāmagavesī | adj | seeking sensual pleasure; seeking the objects of sensual ple… |
+> | ramissan (?) | ? |  |
+> | vāraññe | sandhi | or in the forest |
+> | rahadova (?) | ? |  |
+> | virujjhati | pr | is blocked (by); is obstructed (by); is opposed (by) |
+> | yassindriyāni (?) | ? |  |
+> | sakunta | masc | bird; bird of prey |
+> | raman (?) | ? |  |
+> | niketa | nt | home; house |
+> | samathaṅgata | adj | stilled; calmed; settled |
+> | sannicaya | masc | hoard; pile; stockpile; cache; stash; accumulation |
+> | pahīnamāna | adj | who has removed conceit; who has abandoned egotism; who has … |
+> | durannaya | adj | difficult to follow; tricky to trace; hard to understand; (c… |
+> | ākāseva (?) | ? |  |
+> | bhūmirāmaṇeyyaka | nt | delighfulness of a place; lovlineness of an area |
+> | assaddha | adj | faithless; without confidence; without conviction |
+> | pallala | nt | lake; pond; marsh |
+> | ninna | adj | sloping (towards); slanting (towards); inclining down (to) |
+> | subbata | adj | virtuous; of good conduct |
+> | parikkhīṇa | pp | exhausted; consumed; extinguished; terminated; used up |
+> | pihayan (?) | ? |  |
+> | sudanta | adj | well tamed (by); well trained (by); well controlled (by) |
+> | ramanta | prp |  |
+> | devāpi | sandhi | even the gods |
+> | jahan (?) | ? |  |
+> | sārathi | masc | charioteer; driver |
+> | gocara | masc | food; fodder; grazing; pasture |
+> | sammadaññāvimutta | adj | who is liberated by perfect understanding; who is freed thro… |
+> | pariḷāha | masc | affliction (of); discomfort (of); distress (in) |
+> | thala | nt | dry land; firm ground; terra firma |
+> | satīmant | adj | mindful; fully present; attentive |
+> | sattama | ordin | seventh (7th) |
+> | arañña | nt | forest; wood; wild; wilderness |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | animitta | pp | signless; featureless; free of mental images |
+> | sabbadhi | ind | everywhere; in every way; in all respects |
+> | vītarāga | adj | free from desire (for); without lust (for); free from passio… |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | vimokkha | masc | release (of); emancipation (of); deliverance (of); freedom (… |
+> | anissita | pp | detached (from); disengaged (from); separated (from); indepe… |
+> | suñña | adj | empty (of); devoid (of); without |
+> | hitvā | abs | having left; having left behind; having abandoned |
+<!-- pali-nlp:vocab-end -->

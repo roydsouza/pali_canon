@@ -212,5 +212,71 @@ tags:
 *A mendicant cannot rest confident*
 **appatto āsavakkhayaṁ.**  
 *without attaining the end of defilements.*
-**Dhammaṭṭhavaggo ekūnavīsatimo.**  
+**Dhammaṭṭhavaggo ekūnavīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ekūnavīsatima | ordin |  |
+> | vissāsamāpādi | aor |  |
+> | nekkhammasukha | nt | ascetic pleasure; happiness of renunciation; pleasure of giv… |
+> | vivittasayana | nt | secluded dwelling; solitary living place |
+> | samādhilābha | masc | possessing mental composure; gaining meditation attainments |
+> | sīlabbatamatta | nt | mere precepts and practices; just rites and rituals |
+> | sabbapāṇā | masc | all living beings; all creatures |
+> | pāṇāni | nt | beings; living beings |
+> | varamādāya (?) | ? |  |
+> | tulaṁva (?) | ? |  |
+> | mūḷharūpa | adj | foolish; stupid; (comm) empty |
+> | bāhetvā | abs | having removed; having dispelled; having driven out |
+> | bhikkhatā | fem | fact of begging; fact of asking |
+> | samitatta | nt | calmness (of); peacefulness (of) |
+> | aṇuṁthūlāni (?) | ? |  |
+> | icchālobhasamāpanna | adj | full of desire and greed; avaricious and covetous |
+> | vākkaraṇamatta | nt | virtue of polished conversation; fact of eloquence; mere pol… |
+> | vantamala | adj | free from impurity; without defilements |
+> | moghajiṇṇa | masc | grown old in vain; waste of old age; useless old man; foolis… |
+> | palita | adj | grey; hoary |
+> | yenassa | sandhi | because of his |
+> | nayatī | pr | draws a conclusion; passes judgement; infers |
+> | asāhasa | adj | meek; gentle; non-violent |
+> | anatthañca (?) | ? |  |
+> | naya | masc | inference; conclusion |
+> | yenatthaṁ (?) | ? |  |
+> | dhammaṭṭhavagga | masc |  |
+> | aputhujjanasevita | adj | outside the realm of ordinary people; not the purview of com… |
+> | brahmacariyavant | adj | living the holy life; following the spiritual path; who is c… |
+> | vantadosa | adj | free from ill-will; without aversion; purged of hatred |
+> | sādhurūpa | adj | good; respectable; of distinguished quality; of pleasant dis… |
+> | khemī | adj | at peace; safe; secure |
+> | mūlaghacca | adj | radically annihilated; destroyed at the root |
+> | vaṇṇapokkharatā | fem | beauty of complexion; physical beauty |
+> | mona | nt | silence |
+> | pāpañca (?) | ? |  |
+> | puññañca (?) | ? |  |
+> | alika | nt | lie; falsehood; untruth |
+> | abbata | adj | without religious practice; without ritual observances; not … |
+> | issukī | adj | who is jealous; who is envious |
+> | saccañca (?) | ? |  |
+> | appampi | sandhi | even a little |
+> | tāvatā | ind | so long; that far; to such an extent |
+> | bāhusacca | nt | fact of being deeply learned; fact of having profound knowle… |
+> | ahiṁsā | fem | non-violence (towards); harmlessness (to) |
+> | paripakka | pp | matured; developed; ripened |
+> | muṇḍaka | adj | bald; bald-headed; shaven |
+> | abhaya | adj | safe; without fear; free from fright |
+> | sāhasa | nt | violence; aggression |
+> | averī | adj | friendly; free from animosity; without hatred |
+> | appatta | pp | not reached; not attained; not gained; not accomplished; not… |
+> | maccharī | adj | selfish; stingy; covetous; envious |
+> | sira | adj | with a head; with a skull |
+> | nicchati | pr | does not wish; does not want; does not desire |
+> | saṭha | adj | devious; deceitful; dishonest; crafty; cunning |
+> | bhaṇanta | prp | telling about; preaching; proclaiming |
+> | hiṁsa | adj | harming; injuring; hurting |
+> | nappamajjati | pr | is not careless; is not negligent; does not waste one's time |
+> | dama | masc | taming; restraint; self-control |
+> | saṁyama | masc | restraint (from); abstinence (from); self-control (wrt) |
+<!-- pali-nlp:vocab-end -->

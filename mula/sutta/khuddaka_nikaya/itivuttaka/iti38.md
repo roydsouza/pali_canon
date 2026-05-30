@@ -159,3 +159,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti38_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jātijarābhibhūtan (?) | ? |  |
+> | janatamapetasoko (?) | ? |  |
+> | sokāvatiṇṇa | adj | afflicted with grief; suffering sorrow; immersed in sadness |
+> | pāsādamāruyha | ger | climbing the mansion; scaling the palace |
+> | dhammamaya | adj | made of the Dhamma |
+> | pabbatamuddhaniṭṭhito | sandhi | standing on top of a mountain; stood on the crest of a hill |
+> | visantara | adj | gone beyond the poisons; crossed over the toxins; (comm) (or… |
+> | vasimaṁ | adj | who is a master; who has gained control |
+> | buddhamasayhasāhinaṁ (?) | ? |  |
+> | pajahāmā (?) | ? |  |
+> | imāyāhaṁ (?) | ? |  |
+> | janatā | fem | people; population; generation |
+> | mārañjaha | adj | who has left Death behind; (comm) who has abandoned the defi… |
+> | pāragata | adj | gone beyond; reached the far shore; crossed over; epithet of… |
+> | udīrita | pp | said; uttered; spoken; mentioned |
+> | samudācarissa (?) | ? |  |
+> | byābādheti | pr | obstructs; impedes; (comm) hurts; harms |
+> | iriyā | fem | posture; deportment |
+> | antimadehadhārī | adj | carrying the last body; in one's final existence |
+> | tamonuda | adj | who dispels the darkness; who removes ignorance |
+> | pahīnan (?) | ? |  |
+> | tumhepi | sandhi | even you all |
+> | pattipatta | adj | reached the goal (of) |
+> | pavivekārāma | adj | enjoying solitude; taking pleasure in seclusion |
+> | abyāpajjharata | adj | taking pleasure in good-will |
+> | abyāpajjhārāma | adj | enjoying good-will; taking pleasure in benevolence |
+> | tathūpama | adj | comparable in the same way; similar to that; like this |
+> | pavivekarata | adj | taking pleasure in solitude |
+> | thāvara | adj | stationary; stable; immobile; arahant; (comm) without cravin… |
+> | tasa | adj | moving; mobile; (comm) with craving |
+> | samudācarati | pr | speaks (to); addresses (as) |
+> | avekkhati | pr | sees; regards; views as; consider as |
+> | samantacakkhu | masc | all seeing one; epithet of the Buddha |
+> | paviveka | masc | solitude; seclusion |
+> | viveka | masc | seclusion; solitude; detachment; disengagement; independence |
+> | taṇhakkhaya | masc | wearing away of craving; depletion of desire; extinction of … |
+> | appahīna | pp | not removed; not given up; not abandoned |
+> | sumedha | adj | wise; sage |
+> | samanta | adj | all; every |
+> | eseva | sandhi | just this; exactly the same |
+> | samudācaran (?) | ? |  |
+> | pāragū | masc | who has gone beyond; who has crossed over |
+> | bahula | adj | abundant; full of |
+> | pakāsita | pp | explained (with); illustrated (by); made known (by); declare… |
+> | khema | adj | well; safe; secure; at peace; at rest |
+> | mahesi | masc | great sage; mighty seer |
+> | yathāpi | sandhi | just like; just as |
+> | arahati | pr | is worthy (of); deserves; merits |
+> | sela | adj | rock; rocky; stone; stony |
+> | jara | adj | old |
+> | vimutta | pp | freed (from); liberated (from); emancipated (from) |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | tamenaṁ | sandhi | that one; him; her; that thing; that person |
+> | tasmātiha | sandhi | therefore here; therefore in this regard |
+> | vitakka | masc | thought; reflection; pondering |
+> | brūti | pr | says; tells; speaks; calls |
+> | passa | nt | (of the body) side; rib |
+> | dutiya | ordin | second (2nd) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

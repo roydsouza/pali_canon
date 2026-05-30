@@ -404,3 +404,69 @@ parallels:
 
 *Sabbāsavasuttaṁ niṭṭhitaṁ dutiyaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabbāsavasaṁvarasaṁvuta | adj | restrained with regard to all the effluents |
+> | abhāvayanta | prp | not cultivating; not developing |
+> | vinodayanta | prp | dispelling; driving out; removing |
+> | avinodayanta | prp | not dispelling; not driving out; not removing |
+> | aparivajjayanta | prp | not completely avoiding; not shunning; not keeping away from |
+> | okappeti | pr | suspects (of); has a hunch (about); considers possible |
+> | oḷigalla | nt | cesspool |
+> | candanikā | fem | sewer; cesspool |
+> | khāṇu | masc | tree stump |
+> | adhivāsayanta | prp | enduring; tolerating; weathering |
+> | anadhivāsayanta | prp | not enduring; not tolerating; not weathering |
+> | appaṭisevanta | prp | not using; not making use (of) |
+> | abyābajjhaparamatā | fem | relief from pain at most |
+> | veyyābādhika | adj | oppressive; disturbing; painful; causing affliction |
+> | gilānappaccayabhesajjaparikkhāra | masc | healthcare and medicinal ingredients; support for the sick a… |
+> | utuparissayavinodanapaṭisallānārāmatthaṁ | ind | for the purpose of warding off the perils of seasonal weathe… |
+> | anavajjatā | fem | blamelessness; absence of sin |
+> | yātrā | fem | way of keeping going; means of sustaining; life support |
+> | paṭihaṅkhati | fut | will destroy; will put an end (to); will terminate |
+> | purāṇañca (?) | ? |  |
+> | brahmacariyānuggaha | masc | support for the spiritual practice; help for the holy life |
+> | vihiṁsūparati | fem | preventing harm; stopping discomfort |
+> | yāpana | nt | (of the body) sustenance (of); preservation (of); continuanc… |
+> | hirikopīnappaṭicchādanatthaṁ | ind | to conceal the genitals |
+> | manindriyasaṁvarasaṁvuta | adj | with the mental faculty restrained |
+> | kāyindriyasaṁvarasaṁvuta | adj | with the sense of touch restrained |
+> | jivhindriyasaṁvarasaṁvuta | adj | with the sense of taste restrained |
+> | ghānindriyasaṁvarasaṁvuta | adj | with the sense of smell restrained |
+> | sotindriyasaṁvarasaṁvuta | adj | with the sense of hearing restrained |
+> | cakkhundriyasaṁvarasaṁvuta | adj | with the sense of sight restrained |
+> | diṭṭhisaṁyojanasaṁyutta | adj | attached to the chain of views; fettered with the bond of vi… |
+> | diṭṭhisaṁyojana | nt | bond of belief; fetter of views |
+> | diṭṭhivipphandita | masc | writhing of views; contortion of views |
+> | diṭṭhivisūka | nt | twisting of views; writhing of views; contortion of views |
+> | diṭṭhikantāra | masc | wasteland of views; desert of belief |
+> | diṭṭhigahana | nt | jungle of views; impenetrable thicket of beliefs; thick cove… |
+> | kalyāṇapāpaka | adj | good and bad; good and evil |
+> | vedeyya | adj | which knows; which feels; which experiences |
+> | anattanāva (?) | ? |  |
+> | gāmī | adj | leading to; going to; heading to |
+> | paccuppannamaddhānaṁ | ind | in the present |
+> | sabbāsavasaṁvarapariyāya | masc | method for the restraint of all the effluents; (comm) cause … |
+> | anāsana | nt | unsuitable seat |
+> | vibhūsana | nt | decorating; adorning |
+> | dava | masc | fun; joke; play; sport; pleasure |
+> | manindriyasaṁvara | masc | restraint of the mental faculty |
+> | cakkhundriyasaṁvara | masc | restraint of the sense of sight |
+> | pajānanta | prp | knowing; clearly understanding; comprehending |
+> | adhivāsakajātika | adj | who is patient; who endures |
+> | vacanapatha | masc | way of saying things; mode of expression; manner of speech |
+> | durutta | adj | rudely spoken; impolite |
+> | jighacchā | fem | hunger |
+> | navañca (?) | ? |  |
+> | sīlabbataparāmāsa | masc | clinging to precepts and practices; adherence to rites and r… |
+> | kaṇṭakaṭṭhāna | nt | thorny place; briar patch |
+> | parivajjayanta | prp | completely avoiding; shunning; keeping away from |
+> | sañjānāmī (?) | ? |  |
+> | anāgatamaddhānan (?) | ? |  |
+> | pāṇahara | adj | life threatening; fatal |
+> | khama | adj | patient (with); forbearing (with); enduring (of); tolerant (… |
+<!-- pali-nlp:vocab-end -->

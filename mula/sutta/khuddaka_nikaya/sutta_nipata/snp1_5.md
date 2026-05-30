@@ -153,3 +153,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_5_att#§90|Cundasuttavaṇṇanā §90]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | asuddha | pp | dirty; unclean; impure; corrupt |
+> | asampaduṭṭha | pp | uncorrupted; unsullied; undefiled |
+> | kuladūsaka | masc | who corrupts families; who subverts households; (comm) who s… |
+> | pakkhandi | aor |  |
+> | maggajīvī | adj | who lives on the path; who is on the road |
+> | anavajjapada | nt | blameless state; irreproachable path; (comm) thirty seven fa… |
+> | maggadesī | masc | who shows the way; who teaches the path |
+> | kaṅkhachida | adj |  |
+> | maggakkhāyī | adj | who guides; who gives directions |
+> | maggadesaka | adj | who points the way; who shows the way |
+> | pañcamatthi (?) | ? |  |
+> | netādisa | adj | not of this kind; not of this type; not like this |
+> | palāpa | masc | chattering; prattle; idle talk; blah blah |
+> | chadana | nt | wing |
+> | bhikkhunamāhu (?) | ? |  |
+> | anānugiddha | pp | not greedy; without desire; not following lustful impulse |
+> | atulya | ptp |  |
+> | sakkhipuṭṭha | adj | questioned as eye witness; asked in court |
+> | hāpe (?) | ? |  |
+> | asañña | adj | impercipient; without consciousness; senseless |
+> | sapañña | adj | wise; intelligent; discerning |
+> | paṭivijjhi | aor | comprehended; understood; penetrated |
+> | nibbānābhirata | adj | taking delight in extinguishing; indulging in going out |
+> | maggadūsī | masc | highway robber |
+> | dhammassāmī | masc | lord of the Dhamma; master of reality |
+> | tiṇṇakathaṅkatho (?) | ? |  |
+> | sevamāna | prp | associating; connecting; experiencing |
+> | pagabbha | adj | cheeky; arrogant; bold; impudent; brash; reckless |
+> | maggajina | masc | ruler of the road; champion of the path; (comm) who has conq… |
+> | āvikaroti | pr | explains; clarifies |
+> | tadiṅgha | sandhi | please … that!; pray … that!; come now … that! |
+> | dvipaduttama | masc | best of men; highest being |
+> | pahūtapañña | masc | who has considerable wisdom; who has vast understanding |
+> | visalla | adj | removed the arrow; free from the barb |
+> | duṭṭha | pp | wicked; evil; bad; corrupt |
+> | pavara | adj | excellent; eminent; high-quality; distinguished |
+> | māyāvī | adj | deceitful; hypocritical; fraudulent |
+> | paraman (?) | ? |  |
+> | dhammapada | nt | verse of the teaching; line of Dhamma; religious saying |
+> | vibhajati | pr | dissects; analyses in detail; explains at length |
+> | subbata | adj | virtuous; of good conduct |
+> | sudesita | adj | well preached; well taught; well explained; well instructed |
+> | sārathi | masc | charioteer; driver |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | yodha | masc | soldier; warrior; mercenary |
+> | gahaṭṭha | masc | householder; layperson |
+> | katvāna | abs | having done |
+> | satīmant | adj | mindful; fully present; attentive |
+> | akkha | adj | with eyes; having eyes |
+> | patirūpa | adj | suitable (for); proper (for); appropriate (for); befitting (… |
+> | suddha | pp | clean; pure; white |
+> | aneja | adj | unperturbed; unmoved; unruffled; unshakeable |
+> | brū | root | (gram) √brū (say) |
+> | sadevaka | adj | with devas; having gods |
+> | parama | adj | highest; most extreme; very best; ultimate; superior; sublim… |
+> | vadan (?) | ? |  |
+> | idheva | sandhi | right here; just here; only here |
+> | sutavant | adj | learned; well-studied; educated; initiated |
+> | kammāraputta | masc | smith's son; metal worker's son |
+> | sama | adj | level; even; balanced |
+<!-- pali-nlp:vocab-end -->

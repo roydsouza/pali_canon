@@ -260,5 +260,71 @@ tags:
 *No conditions last forever,*
 **natthi buddhānamiñjitaṁ.**  
 *the Awakened Ones are not shaken.*
-**Malavaggo aṭṭhārasamo.**  
+**Malavaggo aṭṭhārasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | aṭṭhārasama | ordin |  |
+> | buddhānamiñjitaṁ (?) | ? |  |
+> | nippapañca | adj | not forming various opinions; without proliferating; epithet… |
+> | paravajjānupassī | adj | seeing another's faults; observing the defects of others |
+> | kitava | masc | gambler; cheat; conman; (comm) fowler |
+> | kaliṁva (?) | ? |  |
+> | opunā (?) | ? |  |
+> | vajjamaññesaṁ (?) | ? |  |
+> | sudassa | adj | easy to see; easily perceived |
+> | taṇhāsama | adj | like craving; equal to desire |
+> | mohasama | adj | like illusion; equal to delusion |
+> | gaha | masc | grip; grabbing; seizing; holding |
+> | yathāpasādanaṁ | ind | according to what inspires one; according to what one has co… |
+> | yathāsaddhaṁ | ind | according to what one has confidence in; according to faith |
+> | randhayi | aor | afflicted; harmed; oppressed; hurt |
+> | surāmerayapānañca (?) | ? |  |
+> | paradārañca (?) | ? |  |
+> | adinnamādiya (?) | ? |  |
+> | musāvādañca (?) | ? |  |
+> | pāṇamatipāte (?) | ? |  |
+> | alīnenāppagabbhena (?) | ? |  |
+> | dujjīva | adj | (of life) hard (for); difficult (for); difficult to live (by… |
+> | hirīmant | adj | having a conscience; with scruples |
+> | saṅkiliṭṭhena (?) | ? |  |
+> | dhaṁsī | adj | fallen; corrupt |
+> | kākasūra | adj | brazen as a crow |
+> | sujīva | adj | (of life) easy (for); comfortable (for); easy to live (by) |
+> | malatara | adj | more impure (than); filthier (than); dirtier (than) |
+> | macchera | nt | selfishness (for); stinginess (about); meanness; tight-fiste… |
+> | malitthiyā (?) | ? |  |
+> | anuṭṭhānamala | adj | having non-effort as stain; tarnished by inaction |
+> | asajjhāyamala | adj | having not reciting as the stain; tarnished by non-recitatio… |
+> | atidhonacārī | adj | (comm) who uses too many requisites; who indulges oneself to… |
+> | tatuṭṭhāya | ger | arising from that; appearing from that |
+> | ayasāva (?) | ? |  |
+> | sampayātosi (?) | ? |  |
+> | upanītavaya | adj | at the end of life; come to the last stage of life |
+> | ariyabhūmi | fem | realm of the noble ones; state of awakening |
+> | uyyogamukha | nt | moment of death; door to departure; mouth of death; (comm) e… |
+> | yamapurisāpi (?) | ? |  |
+> | paṇḍupalāsova (?) | ? |  |
+> | malavagga | masc |  |
+> | papañcābhirata | adj | enjoying various opinions; taking delight in proliferation; … |
+> | ujjhānasaññī | adj | perceiving fault; with a critical mind; captious; nitpicky |
+> | mūlaghacca | adj | radically annihilated; destroyed at the root |
+> | samādhimadhigaccha (?) | ? |  |
+> | nimmala | adj | spotless; stainless; shining |
+> | malamattano (?) | ? |  |
+> | rajatasseva (?) | ? |  |
+> | kammāra | masc | smith; metal worker; blacksmith |
+> | punaṁ | ind | again; once more |
+> | yama | masc | ruler of the underworld; king of death |
+> | niddhantamala | adj |  |
+> | dīpamattano (?) | ? |  |
+> | pātheyyampi (?) | ? |  |
+> | dānisi | sandhi | now you are |
+> | dosasama | adj | like hatred; equal to aversion |
+> | rāgasama | adj | like desire; like passion; equal to lust |
+> | chāda | masc | clothes; clothing |
+> | pānabhojana | nt | drink and food |
+<!-- pali-nlp:vocab-end -->

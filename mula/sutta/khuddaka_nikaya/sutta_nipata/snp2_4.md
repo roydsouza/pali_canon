@@ -210,3 +210,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_4_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | maṅgalamuttaman (?) | ? |  |
+> | maparājitā (?) | ? |  |
+> | lokadhamma | masc | worldly matter; things of the world; vicissitudes of life |
+> | nibbānasacchikiriyā | fem | personally experiencing liberation; intimate experience of t… |
+> | dhammasākacchā | fem | talking about the Dhamma; Dhamma discussion |
+> | samaṇānañca (?) | ? |  |
+> | dhammassavana | nt | hearing the teaching; hearing a sermon; listening to the Dha… |
+> | majjapāna | nt | drinking alcohol; intoxicating drink |
+> | virati | fem | stopping; abstinence (from); ending |
+> | ñātakānañca (?) | ? |  |
+> | sippañca (?) | ? |  |
+> | attasammāpaṇidhi | masc | good self-orientation; right self-direction |
+> | katapuññatā | fem | fact of having made merit; fact of having done good; fact of… |
+> | patirūpadesavāsa | adj | living in a suitable place |
+> | sevana | nt |  |
+> | paṇḍitānañca (?) | ? |  |
+> | asevanā | fem | not associating (with); having nothing to do (with) |
+> | acintayi | aor | thought (about); pondered (over) |
+> | sovacassatā | fem | suavity; gentleness; obedience; courteousness |
+> | kataññutā | fem | gratitude; thankfulness; appreciativeness |
+> | ārati | fem | abstinence (from); stopping; desisting (from); refraining (f… |
+> | anākula | adj | not overcrowded; not full of; not overburdened; (comm) not e… |
+> | susikkhita | adj | well trained; thoroughly mastered |
+> | bāhusaccañca (?) | ? |  |
+> | pūjaneyya | ptp | worthy of veneration; reverable; deserving honour |
+> | maṅgala | adj |  |
+> | sotthāna | nt | safety; sanctuary; well-fare; well-being; blessing |
+> | brahmacariyañca (?) | ? |  |
+> | dhammacariyā | fem | conduct in line with the Dhamma; ethical conduct; moral beha… |
+> | dānañca (?) | ? |  |
+> | upaṭṭhāna | nt | attending (to); waiting on; serving |
+> | sotthi | fem | safety (for); well-being (for) |
+> | khanti | fem | patience; endurance; tolerance |
+> | obhāsetvā | abs | having lit up; having illuminated |
+> | kevalakappa | adj | almost the entire |
+> | abhikkantavaṇṇa | adj | stunningly beautiful; of extraordinary appearance |
+> | santuṭṭhi | fem | satisfaction; contentment (with) |
+> | nivāta | adj | sheltered |
+> | kampati | pr | shakes; trembles; wavers; is disturbed |
+> | kammanta | masc | work; business activity |
+> | gārava | masc | respect; reverence; esteem; value |
+> | etādisa | adj | of this kind; of this type; such as this |
+> | saṁyama | masc | restraint (from); abstinence (from); self-control (wrt) |
+> | maṅgalamuttamaṁ (?) | ? |  |
+> | anavajja | ptp | irreproachable; faultless; blameless; innocent |
+> | pūjā | fem | veneration (from); homage (from); honour (from) |
+> | puttadāra | masc | wife and kids |
+> | ajjhabhāsi | aor | addressed; spoke (to someone with) |
+> | saṅgaha | masc | support (of); maintenance (of); looking after |
+> | tapa | adj | hot; warm |
+> | katvāna | abs | having done |
+> | asoka | adj | sorrow-free; free from sadness |
+> | subhāsita | adj | well spoken; articulate; eloquent |
+> | viraja | adj | pure; stainless; untainted |
+> | ākaṅkhamāna | prp | wishing (for); desiring (for); seeking (for) |
+> | khema | adj | well; safe; secure; at peace; at rest |
+> | sabbattha | ind | everywhere; every place |
+> | mātāpitar | masc | mother and father; parents |
+> | appamāda | masc | alertness; care; carefulness; caution; vigilance; diligence;… |
+> | brū | root | (gram) √brū (say) |
+<!-- pali-nlp:vocab-end -->

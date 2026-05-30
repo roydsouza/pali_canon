@@ -214,3 +214,69 @@ parallels:
 
 *Soḷasakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saccabrāhmaṇa | masc | true Brahman; real Brahman |
+> | ajjamhi (?) | ? |  |
+> | palāyanta | prp | running away; fleeing; trying to escape |
+> | upeccāpi (?) | ? |  |
+> | nāhamicchāmi (?) | ? |  |
+> | sāṭa | masc | cloth; robe; garment; suit; clothes; outfit |
+> | samānayi | aor | brought (to); led (to); guided (to); united (with) |
+> | puññampimā (?) | ? |  |
+> | vahi | aor | carried away; removed; transported off |
+> | vajjhaghāta | masc | slaughterer; executioner; hangman; professional killer |
+> | macchika | masc | fisherman |
+> | maṇḍūkakacchapā | masc | frogs and turtles |
+> | ajānaka | masc | idiot; fool; ignoramus |
+> | idamakkhāsi (?) | ? |  |
+> | katapāpaka | nt | evil that had been done; crimes committed |
+> | rundhati | pr | obstructs; prevents |
+> | puṇṇikā | fem | name of a water-carrying servant girl; lay name of Puṇṇā the… |
+> | vācādosabhayaṭṭita | adj | tormented by fear of verbal condemnation; (comm) afflicted b… |
+> | daṇḍabhayabhīta | adj | afraid of punishment; in dread of chastisement |
+> | udakamotariṁ (?) | ? |  |
+> | udahārī | fem | water carrier; water fetcher |
+> | pamutyatthi | sandhi | there is freedom; there is escape |
+> | sāṭaka | masc | cloak; outer garment |
+> | tuyheva (?) | ? |  |
+> | kāsi | masc | name of a kingdom |
+> | sūkarika | masc | pig farmer; boar hunter; (comm) pig butcher |
+> | vedhamāna | prp | trembling; shaking; quaking; wobbling |
+> | udakamotari (?) | ? |  |
+> | vedasampanna | adj | (of a Brahman) accomplished in the Vedas; consummate in the … |
+> | paribāhira | masc | outsider (to); alien (to); stranger (to) |
+> | kummaggapaṭipanna | adj | following the wrong path; going the wrong way |
+> | pakubba (?) | ? |  |
+> | migabandhaka | masc | deer catcher; deer trapper |
+> | pāpakammī | masc | evil doer; criminal; villain |
+> | vahati | pr | carries; carries away |
+> | samādiyati | pr | accepts; undertakes; takes upon oneself |
+> | dukkhamappiyaṁ | sandhi | suffering is disliked (by) |
+> | dakābhisecana | nt | ritual bathing with water; ablution with water; ritual water… |
+> | gamissan (?) | ? |  |
+> | chavi | fem | skin; outer skin |
+> | susumāra | masc | crocodile; alligator |
+> | paripucchati | pr | asks about; questions; enquires; interrogates (somebody abou… |
+> | brahmabandhu | masc | nominal Brahman; Brahman merely by birth |
+> | hana | adj | killing; slaying |
+> | mākāsi | aor | do not make; do not create; don't do |
+> | ariyamagga | masc | path of the noble ones; path to awakening; noble way |
+> | sotti | fem | scourer; scrubber; cleanser |
+> | bhīta | pp | afraid (of); frightened (by); terrified (of) |
+> | nhātaka | adj | perfected; purified |
+> | bhusa | adj | strong; powerful; mighty; intense; potent |
+> | saṅghañca (?) | ? |  |
+> | āvi | ind | openly; in full view; face to face |
+> | orabbhika | masc | sheep farmer; sheep dealer; sheep butcher |
+> | caññe | sandhi | and others |
+> | vuḍḍha | pp | old; elderly; senior |
+> | rahas | masc | private place; secret location |
+> | pamuccati | pr | is freed (from); is liberated (from) |
+> | bhāyati | pr | is afraid (of); is frightened (of); fears; is scared (of) |
+> | tepi | sandhi | they too; and those too |
+> | gatta | nt | (of the body) limb |
+<!-- pali-nlp:vocab-end -->

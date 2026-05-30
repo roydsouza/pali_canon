@@ -98,3 +98,58 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti40_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uppādayanta | prp | producing; generating; causing; giving rise to |
+> | icchālobhasamussaya | masc | accumulation of desire and greed; mass of longing and desire |
+> | avijjāmūlika | adj | rooted in ignorance; based on not understanding |
+> | hirottappan (?) | ? |  |
+> | kācimā (?) | ? |  |
+> | anottappa | nt |  |
+> | avijjañca (?) | ? |  |
+> | ahirīka | adj |  |
+> | chandañca (?) | ? |  |
+> | lobhañca (?) | ? |  |
+> | anvadeva | ind | following behind |
+> | anādara | adj | disrespectful; disdainful; contemptuous |
+> | ahirika | adj | shameless; unashamed; without conscience |
+> | virājayanta | prp | cleaning; purifying; dissolving; removing |
+> | pāpiccha | masc | who has evil wishes; who has evil desires |
+> | samāpatti | fem | attainment; meditation attainment |
+> | pasava | masc |  |
+> | pubbaṅgama | adj | preceding (in); leading (in); first (in); as forerunner (of) |
+> | jaha | adj | leaving behind; giving up; abandoning |
+> | apāya | masc | state of loss; state of misery |
+> | duggati | fem | state of misery; bad destination; hell |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | vijjanta | prp | existing |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | akusala | adj | unskilful; incompetent; inexperienced |
+> | gaccha | imp | go!; begone!; away with you! |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | para | pron | other; another (person) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | sabba | pron | all; every |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

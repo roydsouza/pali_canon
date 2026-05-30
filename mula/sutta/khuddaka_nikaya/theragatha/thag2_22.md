@@ -49,3 +49,29 @@ parallels:
 *numbering seven times six thousand.*
 *… Bhaddajitthero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | chasahassa | adj |  |
+> | anacci | aor | danced |
+> | haritāmaya | adj | yellow coloured; golden coloured |
+> | dhajālu | adj | adorned with flags; covered in banners |
+> | satageṇḍu | adj | with one hundred turrets; with a hundred towers |
+> | sahassakaṇḍa | adj | with a thousand floors; (or) with one thousand apartments |
+> | ubbhamāhu (?) | ? |  |
+> | soḷasubbedha | adj | (comm) measuring sixteen arrow-shots |
+> | suvaṇṇaya | adj | golden; made of gold |
+> | yūpa | masc | sacrificial post |
+> | panāda | masc |  |
+> | sattadhā | ind | in seven pieces; into seven |
+> | sahassadhā | ind | thousandfold; thousand part |
+> | gandhabba | masc | demigod; heavenly musician; class of mythological beings |
+> | tiriyā | fem |  |
+> | nāma | ind | certainly; truly; for sure |
+> | rāja | masc | king; sovereign; lord; ruler |
+> | tattha | ind | there; in that place |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

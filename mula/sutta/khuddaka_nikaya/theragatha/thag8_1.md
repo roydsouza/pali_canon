@@ -121,3 +121,69 @@ parallels:
 *lie as still as a corpse.*
 *… Mahākaccāyano thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | matasāyikan (?) | ? |  |
+> | dubbaloriva (?) | ? |  |
+> | paññavāssa (?) | ? |  |
+> | badhira | masc | deaf person |
+> | sotavant | adj | who can hear; who has ears; endowed with hearing |
+> | cakkhumāssa (?) | ? |  |
+> | ujjhitumaraha (?) | ? |  |
+> | yathāvedi | aor | as one knew; how one knew |
+> | kammabandhu | adj | who is bound by actions; who is related to actions |
+> | parassupanidhāya (?) | ? |  |
+> | sukhādhivāha | adj | bringing ease; conferring comfort |
+> | uyyama | masc |  |
+> | avedayi | aor | declared; made known; taught |
+> | mūga | adj | dumb; mute |
+> | vittavāpi (?) | ? |  |
+> | vittaparikkhaya | masc | loss of possessions; depletion of wealth; financial ruin |
+> | māti | fem | mother |
+> | kārayati | pr | makes one do |
+> | dujjaha | adj | hard to give up; difficult to abandon; hard to let go of |
+> | durubbaha | adj |  |
+> | vandanapūjanā | fem | respect and veneration (from); reverence and homage (among) |
+> | rasānugiddha | adj | greedy for flavours; wanting tastes |
+> | ussukki | aor |  |
+> | kāpurisa | masc | evil man; despicable person; worthless man |
+> | sayati | pr | lies down; rests; sleeps |
+> | yamati | pr | dies |
+> | riñca (?) | ? |  |
+> | andha | masc | blind person |
+> | medhaga | masc | argument; dispute; differences |
+> | samman (?) | ? |  |
+> | paṅka | masc | dirt; mud; mire; swamp |
+> | devāpi | sandhi | even the gods |
+> | alābha | masc | not getting; not obtaining; not finding |
+> | bahuka | adj | many; lots (of) |
+> | vidā | imperf | understood; knew |
+> | sakkāra | masc | honour; accolade; respect |
+> | vijānan (?) | ? |  |
+> | samuppanna | pp | sprung up together; arisen; originated; happened; occurred |
+> | macca | masc | man; mortal man |
+> | sevati | pr | associates (with); keeps company (with) |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | sappañña | adj | wise; intelligent |
+> | cora | masc | thief; robber |
+> | suṇa | masc |  |
+> | balavant | adj | strong; powerful |
+> | salla | masc | (any sharp pointed object which causes pain) arrow; spike; d… |
+> | sukhuma | adj | fine; subtle; refined |
+> | kula | nt | family; house; household; respectable family |
+> | jīvati | pr | lives |
+> | mayamettha | sandhi | in this case we |
+> | jīva | nt | soul; life force |
+> | vāpī | fem | reservoir; dam; pond |
+> | vacana | nt | word; utterance; talk; statement |
+> | sota | masc | stream; river; current |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | diṭṭha | pp | seen; found; visible |
+> | jana | masc | man; person; fellow |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | cakkhu | nt | eye |
+> | kamma | nt | action; deed; doing |
+<!-- pali-nlp:vocab-end -->

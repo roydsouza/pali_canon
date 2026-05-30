@@ -80,3 +80,45 @@ parallels:
 *I’m cooled, quenched.*
 *… Rāhulo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (36 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sītibhūtosmi (?) | ? |  |
+> | ahamujjhitvā (?) | ? |  |
+> | taṇhāchādanachādita | adj | covered with a veil of craving; submerged in a shroud of des… |
+> | jālapacchanna | adj |  |
+> | yañcamhi (?) | ? |  |
+> | rāhulabhadda | masc | auspicious Rāhula; Rāhula the fortunate |
+> | kumināmukha | nt |  |
+> | macchāva (?) | ? |  |
+> | kāmandha | adj | blinded by sensual desire; deluded by passion |
+> | amataddasa | adj | who has seen the deathless |
+> | ubhayeneva (?) | ? |  |
+> | dakkhiṇeyyomhi (?) | ? |  |
+> | pamattabandhu | masc | epithet of Māra |
+> | taṇhamabbuyha | sandhi | uprooting desire; pulling out craving; removing thirst |
+> | samūla | adj | with the root; at the source; together with the foundation |
+> | baddha | pp | bound (to); tied (onto); fastened (to) |
+> | vidā | imperf | understood; knew |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | chetvā | abs | having cut off; having severed; (comm) having killed |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | bandhana | nt | tie; rope; bond; fetter |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | khīṇa | pp | consumed; spent; finished; exhausted; slowly destroyed |
+> | yañca | sandhi | but whatever; but whoever; and whichever |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | tevijja | adj | knowing the three Vedas |
+> | māra | masc | death; Death; death personified |
+> | putta | masc | son; child |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | buddha | masc | Buddha; Awakened One |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

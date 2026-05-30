@@ -90,3 +90,60 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti31_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (51 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | akatakibbisa | adj | who has not done wrong; who has not done dirty things; who h… |
+> | akataludda | adj | who has not done cruel deeds; who has not committed cruelty |
+> | akatapāpa | adj | who has not done evil; who has not done wrong; who has not c… |
+> | katabhīruttāṇa | adj | who has made a refuge from fear; who has made a protection a… |
+> | katakusala | adj | who has done good; who has made merit |
+> | katakalyāṇa | adj | who has done good deeds |
+> | akatvākusalaṁ (?) | ? |  |
+> | atapanīya | ptp | not causing remorse |
+> | pāpantipi (?) | ? |  |
+> | kalyāṇantipi (?) | ? |  |
+> | dosasañhita | adj | faulty; corrupt; defective |
+> | yañcaññaṁ (?) | ? |  |
+> | upapajjatī (?) | ? |  |
+> | akata | pp | not done; not performed; not acted |
+> | tappati | pr | is burned; is consumed; is tormented |
+> | dveme | sandhi | these two |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | katvāna | abs | having done |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | sappañña | adj | wise; intelligent |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | sagga | adj | heavenly |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | ekacca | pron | certain; one of |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | kata | pp | done; did; completed |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | idha | ind | here; now; in this world |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -110,3 +110,68 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti29_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (59 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cetosukha | nt | mental pleasure; happiness |
+> | kāyasukha | nt | physical pleasure |
+> | guttadvāratā | fem | control of the senses; self-restraint |
+> | aḍayhamāna | prp | not being burned; not being scorched; not suffering |
+> | sugutta | adj | well guarded (by); well protected (by); carefully kept watch… |
+> | apariḷāha | adj | comfortable; not distressed; without fever |
+> | avighāta | adj | untroubled; unharmed; uninjured |
+> | mattaññutā | fem | moderation (in); knowing the correct amount (of); temperance… |
+> | suga (?) | ? |  |
+> | anupāyāsa | adj | unafflicted; peaceful; trouble-free |
+> | mattaññū | adj | knowing the correct measure (in); knowing the limit (in); mo… |
+> | ghānañca (?) | ? |  |
+> | sotañca (?) | ? |  |
+> | adhigacchati | pr | gets to; attains; finds; acquires; obtains |
+> | dvāra | nt | door; entrance; gate; gateway |
+> | saṁvuta | pp | closed; covered; hidden; concealed |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | jivha | adj | with a tongue; having a tongue |
+> | bhojana | nt | food; meal |
+> | diva | masc | heaven; sky above |
+> | indriya | nt | sense; mental faculty; power |
+> | mana | adj | having such a mind; -minded; -hearted |
+> | yadi | ind | if; even; even if; perhaps |
+> | pāṭikaṅkha | ptp | to be expected (for); certain (for); can be anticipated |
+> | diṭṭheva (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | ratti | fem | night |
+> | cakkhu | nt | eye |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | tatha | adj | true; real; actual |
+> | cetas | masc | mind; thought; intention |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | para | pron | other; another (person) |
+> | vuccati | pr | is said to be; is called |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+> | ka | pron | who?; what?; which? |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

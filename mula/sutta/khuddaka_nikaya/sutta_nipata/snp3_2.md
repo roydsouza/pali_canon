@@ -381,3 +381,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_2_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | abhassi | aor | fell (out of); dropped (from) |
+> | nibbijjāpeti | pr | leaves having lost interest; departs disheartened; goes away… |
+> | selamāsajja | ger | attacking a rock; assaulting a stone |
+> | kākova (?) | ? |  |
+> | vāyasetto (?) | ? |  |
+> | assādanā | fem |  |
+> | apesi | aor |  |
+> | anupariyagā | imperf | went around; went about |
+> | pāsāṇa | masc | stone; rock |
+> | medavaṇṇaṁva (?) | ? |  |
+> | padāpadaṁ | ind | step by step; closely behind |
+> | sūpatiṭṭhita | adj | attending well; fully present |
+> | vasīkaritvā | abs | having mastered; having subdued; having brought under contro… |
+> | asma | masc | rock; stone |
+> | bhecchati | fut | will break; will split; will cut through |
+> | acāvayi | aor | caused to fall (from); made move (from); made retreat (from) |
+> | paccuggacchati | pr |  |
+> | savāhana | adj | together with one's vehicle |
+> | dhajinī | fem |  |
+> | pagāḷhettha (?) | ? |  |
+> | pariharati | pr | carries around |
+> | asūra | adj |  |
+> | kaṇhassābhippahārinī (?) | ? |  |
+> | micchāladdha | adj | improperly gained; wrongly attained |
+> | siloka | masc | fame; popularity |
+> | bhīru | adj | timid; cautious; fearful; cowardly |
+> | khuppipāsā | fem | hunger and thirst |
+> | suddhatā | fem |  |
+> | nāpekkhati | pr | does not long (for); does not desire; does not require |
+> | pattassuttamavedanaṁ (?) | ? |  |
+> | khīyamāna | prp |  |
+> | sussati | pr | dries up (because of); withers (through); shrivels up (with) |
+> | sussamāna | prp | drying up (because of); withering (though) |
+> | nupasussayati | pr | does not dry up; does not evaporate |
+> | visosayati | pr | dries up; evaporates |
+> | nadīnamapi (?) | ? |  |
+> | jīvamanupucchasi (?) | ? |  |
+> | pahitattampi (?) | ? |  |
+> | vattumaraha (?) | ? |  |
+> | idhāgata | adj | come here |
+> | yenatthena (?) | ? |  |
+> | jūhanta | prp | offering; making an oblation |
+> | aggihuttañca (?) | ? |  |
+> | sahassabhāga | masc | one thousand parts; almost all |
+> | viparakkamma | ger | putting forth strong effort; striving valiantly |
+> | tatthevantaradhāyathā (?) | ? |  |
+> | akāma | adj | without desire; without need |
+> | sāsanakāraka | adj |  |
+> | pattaṁva (?) | ? |  |
+> | pahūta | pp | much; considerable; abundant; vast |
+> | padhānapahitatta | adj | striving resolutely; making a determined effort |
+> | vāyas | masc | air; wind |
+> | samukkaṁsati | pr | exalts; praises |
+> | nappasaha (?) | ? |  |
+> | yuddha | nt | warfare; battle; fighting |
+> | sokapareta | adj | afflicted with sorrow; overcome with sadness; overwhelmed wi… |
+> | viriya | nt | effort; energy; might; power |
+> | namuci | masc | name of Māra |
+> | durabhisambhava | adj | troublesome; hard to endure; difficult to withstand; beset w… |
+> | avajānāti | pr | denies; disagrees; does not accept |
+<!-- pali-nlp:vocab-end -->

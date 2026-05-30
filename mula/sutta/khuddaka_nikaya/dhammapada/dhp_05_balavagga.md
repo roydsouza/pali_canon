@@ -204,5 +204,71 @@ tags:
 *would never delight in honors,*
 **vivekamanubrūhaye.**  
 *but rather would foster seclusion.*
-**Bālavaggo pañcamo.**  
+**Bālavaggo pañcamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vivekamanubrūhaye (?) | ? |  |
+> | lābhūpanisā | fem | reason for material gain; cause for worldly acquisition |
+> | mamevātivasā (?) | ? |  |
+> | purekkhārañca (?) | ? |  |
+> | bhāvanamiccheyya (?) | ? |  |
+> | vipātayanta | prp | tearing open; splitting apart; destroying |
+> | muddhamassa (?) | ? |  |
+> | sukkaṁsa | masc | fortune; good lot |
+> | ñatta | nt | knowledge; learning |
+> | bhasmacchannova (?) | ? |  |
+> | bālamanve (?) | ? |  |
+> | sajjukhīraṁva (?) | ? |  |
+> | madhuṁvā (?) | ? |  |
+> | kaṭukapphala | adj | with painful results; with bitter fruit |
+> | dabbī | fem | spoon; wooden spoon; ladle |
+> | yāvajīvampi (?) | ? |  |
+> | paṇḍitamānī | adj | imagining (oneself) to be wise; thinking (oneself) to be int… |
+> | sadisamattano (?) | ? |  |
+> | bālavagga | masc |  |
+> | nibbānagāmī | adj | leading to putting out the fire; conducive to Nibbāna |
+> | parakula | nt | another family; other clan |
+> | pāvaka | adj | bright; shining; pure |
+> | aggha | masc | value; cost; price; worth |
+> | kusagga | nt | tip of a blade of Kusa grass |
+> | patīta | pp | satisfied; pleased; happy; cheerful |
+> | rodanta | prp | crying; weeping; wailing |
+> | amitteneva (?) | ? |  |
+> | sūparasa | masc | taste of soup; flavour of curry |
+> | carañce (?) | ? |  |
+> | yojana | nt | approximately twenty kilometres |
+> | kiccākicca | nt | right and wrong; good and bad |
+> | issariya | nt | charge (of); power (over); control (of) |
+> | assumukha | adj | with tear-stained face; with tears running down the face; cr… |
+> | bālya | nt | foolishness; stupidity; childishness; ignorance |
+> | sahāyatā | fem | friendship (with); companionship (with); association (with) |
+> | ekacariya | nt | living alone; solitude; being single |
+> | avijānanta | prp | not knowing; not understanding; not comprehending |
+> | anutappa | ptp | should be mourned; to be lamented |
+> | matthi | sandhi | these are my; this is my |
+> | mameva | sandhi | of me alone; only mine; mine alone |
+> | ḍahati | pr | burns; sets fire (to); burns down |
+> | saṅkhātadhamma | masc | arahant; awakened being |
+> | nānutappa (?) | ? |  |
+> | muhuttamapi (?) | ? |  |
+> | paṭisevati | pr | practices; indulges (in); engages (in) |
+> | āvāsa | masc | home (of); dwelling place (of); residence (of) |
+> | soḷasī | fem | one sixteenth (1/16th) |
+> | nādhigacchati | pr | does not get to; does not attain; does not find; does not ac… |
+> | vihaññati | pr | suffers hardship (because of); suffers anguish (from) |
+> | han (?) | ? |  |
+> | kala | masc |  |
+> | sakkāra | masc | honour; accolade; respect |
+> | muccati | pr | is free (from); becomes free (from); is released (from) |
+> | sumana | adj | glad; happy; pleased; satisfied; cheerful |
+> | payirupāsati | pr | associates closely (with); attends closely (to); sits at the… |
+> | pūjā | fem | veneration (from); homage (from); honour (from) |
+> | vaḍḍha | adj |  |
+> | seti | pr | lies; lies around |
+> | saṅkappa | masc | intention; volition; purpose |
+> | dummedha | adj | foolish; stupid; unwise |
+<!-- pali-nlp:vocab-end -->

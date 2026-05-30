@@ -100,3 +100,69 @@ tags:
 **Itthaṁ sudaṁ pañcasatamattā therī bhikkhuniyo … pe….**  
 *That is how Paṭācārā, who had a following of five hundred, declared her enlightenment.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pañcasatamatta | adj | five hundred in value |
+> | yathāgata | adj | as one has arrived; in the way one has come |
+> | manussarūpa | nt | human form; human state |
+> | tatopaññena (?) | ? |  |
+> | itopi (?) | ? |  |
+> | katipāhakaṁ | ind | for a few days; for some time |
+> | nānuññāta | pp | not given permission; without leave; unapproved |
+> | tatāgacchi (?) | ? |  |
+> | ayācita | pp | unasked for (by); unrequested (by) |
+> | samanusoceti | pr | grieves (for); mourns the loss (of) |
+> | khossa (?) | ? |  |
+> | cāgataṁ (?) | ? |  |
+> | abbūḷhasallāhaṁ (?) | ? |  |
+> | hadayassita | adj | embedded in the heart; planted in the heart |
+> | abbahi | aor | pulled out; plucked out; drew out; extracted; uprooted |
+> | vasitvā | abs | having lived; having stayed; having remained |
+> | sokapareta | adj | afflicted with sorrow; overcome with sadness; overwhelmed wi… |
+> | gamissa (?) | ? |  |
+> | byapānudi | aor | removed; dispelled; eradicated |
+> | puttasoka | masc | grief for a son; sadness over (the loss of) a child |
+> | maggañca (?) | ? |  |
+> | paridevanā | fem | mourning; lamentation; wailing; crying |
+> | kutoci | ind | from somewhere; from anywhere; from some other place |
+> | rodati | pr | cries (about); weeps (over); wails |
+> | sājja (?) | ? |  |
+> | saṅghañca (?) | ? |  |
+> | āgantvā | abs | having arrived; having come to; having returned |
+> | saṁsaranta | prp | wandering on; moving on continuously; transmigrating |
+> | peta | pp | departed; deceased; dead |
+> | duddasa | adj | difficult to see; hard to perceive; difficult to understand |
+> | nicchāta | adj | satiated; satisfied; desireless |
+> | nūna | ind | indeed; surely; surely not; truly |
+> | evaṁdhamma | adj | of such nature; of such character |
+> | dhammañca (?) | ? |  |
+> | āgata | masc | guest; visitor; arriver |
+> | pāṇi | masc | hand; palm |
+> | salla | masc | (any sharp pointed object which causes pain) arrow; spike; d… |
+> | itthaṁ | ind | thus; such; in this way |
+> | kuto | ind | from where?; where? |
+> | gata | pp | gone (to); went (for) |
+> | upeti | pr | comes; approaches; enters |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | ita | pp | come; gone |
+> | sudaṁ | ind | indeed; truly; surely |
+> | ga | adj | who goes; goes after; going; gone; having gone; being |
+> | parinibbuta | pp | (of mental defilement) completely quenched; entirely emancip… |
+> | thera | adj | old; elderly; senior |
+> | putta | masc | son; child |
+> | saraṇa | adj | harmful; malign; unpeaceful; (comm) defiled |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | jānāti | pr | knows; understands |
+> | gaccha | imp | go!; begone!; away with you! |
+> | tatha | adj | true; real; actual |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | tattha | ind | there; in that place |
+> | satta | card | seven (7) |
+> | ka | pron | who?; what?; which? |
+<!-- pali-nlp:vocab-end -->

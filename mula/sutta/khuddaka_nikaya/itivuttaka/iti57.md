@@ -77,3 +77,43 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti57_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (34 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | virājita | pp | cleansed; purified; removed |
+> | savāhinin (?) | ? |  |
+> | parikkhīṇa | pp | exhausted; consumed; extinguished; terminated; used up |
+> | jetvā | abs | having conquered; having defeated; having overcome |
+> | antima | adj | very last; final; ultimate |
+> | deha | masc | body |
+> | nirūpadhi | adj | free from attachment; free from grasping; not taking as mine… |
+> | tayome | sandhi | these three |
+> | avijjāsava | masc | effluent of ignorance |
+> | kāmāsava | masc | effluent of sensual pleasure; oozing sensual desire |
+> | bhavāsava | masc | effluent of becoming; effluent of being |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | dhāra | adj | (of a weapon) sharpened; with edge; with blade |
+> | khīṇa | pp | consumed; spent; finished; exhausted; slowly destroyed |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | māra | masc | death; Death; death personified |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

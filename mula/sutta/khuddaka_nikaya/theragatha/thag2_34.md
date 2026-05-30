@@ -58,3 +58,34 @@ parallels:
 *so they cling to children, wives, and wealth.*
 *… Isidinno thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (25 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dhanañcā (?) | ? |  |
+> | balatthi (?) | ? |  |
+> | yatodha (?) | ? |  |
+> | chettuṁ | inf | to cut; to sever; to break |
+> | maṇikuṇḍala | masc | jewels and jewellery; gems and rings |
+> | sārattaratta | adj | with strong infatuation (for); totally obsessed (with) |
+> | sita | nt | smile |
+> | rāgañca (?) | ? |  |
+> | dāra | masc | wife |
+> | puttadāra | masc | wife and kids |
+> | bhāsamāna | prp | speaking (about); talking (about); saying |
+> | apekkha | adj | looking (for); longing (for); wanting; desiring |
+> | āha | perf | said |
+> | jānan (?) | ? |  |
+> | dhammadhara | adj | who knows the Dhamma by heart |
+> | cāpi | sandhi | or even; and even; as well as |
+> | addha | adj | soiled; dirty; moist |
+> | diṭṭha | pp | seen; found; visible |
+> | putta | masc | son; child |
+> | upāsaka | masc | lay disciple; lay devotee |
+> | anicca | adj | impermanent; inconstant; not lasting; discontinuous; disorde… |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

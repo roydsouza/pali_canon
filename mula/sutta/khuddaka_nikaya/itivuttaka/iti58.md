@@ -98,3 +98,50 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti58_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (41 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jātīmaraṇagāmī | adj | leading to birth and death |
+> | ayogakkhemī | adj | not free from bondage; not secure from bondage |
+> | yogayutta | adj | under the yoke (of); under the control (of) |
+> | taṇhāyogena (?) | ? |  |
+> | āsavakkhayan (?) | ? |  |
+> | rattacitta | adj |  |
+> | vibhavataṇhā | fem | craving for nonexistence; craving for annihilation; (or) cra… |
+> | kāmataṇhā | fem | craving for sensual pleasure |
+> | saṁyutta | pp | bound (with); connected (to); fettered (with); tied (to) |
+> | pāraṅgata | adj | reached the other shore; gone across safely; gone beyond; ep… |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | pahantvāna | abs | having destroyed; having put an end to; having terminated |
+> | bhavataṇhā | fem | craving for becoming; craving for existence; (or) craving (f… |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | saṁsāra | masc | wandering on; moving on continuously; transmigration; passin… |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | māra | masc | death; Death; death personified |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | satta | card | seven (7) |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

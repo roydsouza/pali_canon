@@ -105,3 +105,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti47_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jhānalābhī | adj | who has deep states of meditation |
+> | suṇāthetaṁ (?) | ? |  |
+> | jāgaranta | prp | awake; staying awake; alert; watchful; lucid |
+> | jāgariya | nt | being awake; wakefulness; lucidity |
+> | pabujjhati | pr | wakes up; is awake; gets up |
+> | kālavipassī | adj | seeing distinctly at the right time; observing with clarity … |
+> | vihanati | pr | removed; eliminates; destroys; puts an end (to) |
+> | sambodhimanuttaraṁ (?) | ? |  |
+> | mudita | pp | happy; glad |
+> | jātijarā | fem | birth and old age; being born and ageing |
+> | parivīmaṁsamāna | prp | thoroughly investigating; examining all aspects (of) |
+> | jāgarita | nt | being awake |
+> | upādisesa | masc | remnant of grasping; remaining fuel of existence |
+> | ekodibhūta | adj | become unified; become integrated; become whole |
+> | anāgāmitā | fem | non-returning |
+> | hu | masc | killer; murderer; slayer |
+> | tamas | masc | darkness; gloom |
+> | jāgara | adj | awake; alert; lucid |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | chetvā | abs | having cut off; having severed; (comm) having killed |
+> | bhajati | pr | associates (with); keeps company (with) |
+> | pamudita | pp | pleased; delighted; happy |
+> | vippasanna | pp | clear; calm; tranquil |
+> | phusati | pr | touches; contacts; feels; experiences |
+> | sutta | pp | sleeping; asleep |
+> | seyya | adj | better (than); preferable (to) |
+> | sata | pp | mindful; present; attentive |
+> | idheva | sandhi | right here; just here; only here |
+> | phala | nt | fruit; nut; berry |
+> | bhaya | adj | dangerous; perilous; frightening |
+> | pāṭikaṅkha | ptp | to be expected (for); certain (for); can be anticipated |
+> | samāhita | pp | composed; centred; settled; collected |
+> | diṭṭheva (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | satima | adj | one hundredth (1/100th) |
+> | aññatara | pron | a certain; a |
+> | saṁyojana | nt | fetter; chain; bond; thing which binds |
+> | avoca | aor | said (something to somebody) |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | sampajāna | adj | clearly aware; fully knowing; completely comprehending |
+> | sa | prefix | with; having; affected with |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāla | masc | time; occasion |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | tattha | ind | there; in that place |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | dhamma | masc | nature; character |
+<!-- pali-nlp:vocab-end -->

@@ -92,3 +92,66 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti42_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (57 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sukkamūla | nt | bright root; pure source |
+> | vokkanta | pp |  |
+> | yesañce (?) | ? |  |
+> | soṇasiṅgālā | masc | dogs and jackals |
+> | kukkuṭasūkara | nt | chickens and pigs |
+> | ajeḷaka | nt | goats and sheep |
+> | agamissa | cond | would have fallen into; would have become |
+> | sambheda | masc | confusion; disarray |
+> | pāleti | pr | protects; guards; takes care of; preserves |
+> | virūḷhabrahmacariya | adj | developed in the holy life; mature on the spiritual path; fl… |
+> | jātimaraṇagāmī | adj | leading to birth and death |
+> | ācariyabhariyā | fem | teacher's wife |
+> | mātulānī | fem | mother's brother's wife; aunt |
+> | mātucchā | fem | maternal aunt; mother's sister |
+> | hiriottappa | nt | conscience and a sense of shame in wrongdoing |
+> | ottappañca (?) | ? |  |
+> | pālen (?) | ? |  |
+> | nayidha | sandhi | not here; there isn't; wouldn't be here |
+> | khīṇapunabbhava | adj | ended rebirth; finished with re-becoming |
+> | paññāyati | pr | is clearly known; is evident; is perceived; there is |
+> | hiri | fem | sense of shame; modesty; conscience; sense of right and wron… |
+> | yesañca | sandhi | and for whoever |
+> | sukka | adj | pure; bright |
+> | dāra | masc | wife |
+> | dveme | sandhi | these two |
+> | sabbadā | ind | always; at all times |
+> | garu | adj | heavy; onerous; weighty |
+> | upaṭṭhita | pp | present; in attendance |
+> | mātar | fem | mother |
+> | sadā | ind | always; ever; all the time |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | vijjati | pr | exists (in); is found (in); is present (in) |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

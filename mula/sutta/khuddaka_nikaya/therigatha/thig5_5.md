@@ -84,3 +84,52 @@ tags:
 
 *… Nanduttarā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (43 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | patthanāpi (?) | ? |  |
+> | labhitvāna | abs | having obtained; having got |
+> | upakāsi | aor | nurtured; looked after; took care (of) |
+> | nhāpanucchādana | nt | bathing and massaging; washing and rubbing |
+> | vibhūsāmaṇḍanarata | adj | taking pleasure in adorning and beautifying oneself |
+> | bhuñjahaṁ (?) | ? |  |
+> | olikhi | aor | scraped; shaved; tonsured |
+> | bahūvatasamādāna | adj | undertaking many religious rituals; performing many practice… |
+> | oruhāmihaṁ (?) | ? |  |
+> | nadītittha | nt | river ford; river crossing |
+> | namassihaṁ (?) | ? |  |
+> | sūriyañca (?) | ? |  |
+> | candañca (?) | ? |  |
+> | samūha | masc | mass; accumulation; aggregation |
+> | pāpuṇi | aor | reached; arrived (at) |
+> | sabbayogavisaṁyutta | adj | detached from all ties; free from all attachment |
+> | aṭṭita | pp | troubled (with); afflicted (with) |
+> | kappeti | pr | prepares; arranges; forms; fashions; constructs |
+> | aḍḍha | adj | half |
+> | chamā | fem | earth; ground; floor |
+> | gantvāna | abs | having gone (to); having travelled (to) |
+> | seti | pr | lies; lies around |
+> | kāmarāga | masc | passion for sensual pleasure; sensual desire; lust for sensu… |
+> | pabbaji | aor | ordained; renounced |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | sīsa | nt | head |
+> | iccha | adj | wishing for; desiring; wanting |
+> | bhatta | nt | food; boiled rice |
+> | aggi | masc | fire |
+> | anagāriya | nt | homelessness; homeless state |
+> | devatā | fem | deity; god |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | udaka | nt | water |
+> | ratti | fem | night |
+> | disvā | abs | having seen; having understood; having found out |
+> | santa | prp | existing; being; there is |
+> | bhava | imp | be!; you must be! |
+> | cetas | masc | mind; thought; intention |
+> | yathābhūta | adj | as it is; in reality; of such nature |
+> | sabba | pron | all; every |
+> | ka | pron | who?; what?; which? |
+> | ima | pron | this |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

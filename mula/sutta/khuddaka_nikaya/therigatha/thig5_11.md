@@ -101,3 +101,69 @@ tags:
 **Itthaṁ sudaṁ tiṁsamattā therī bhikkhuniyo paṭācārāya santike aññaṁ byākariṁsūti.**  
 *That is how thirty senior nuns declared their enlightenment in the presence of Paṭācārā.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | byākariṁsū (?) | ? |  |
+> | tevijjāmha (?) | ? |  |
+> | pubbajātimanussaruṁ (?) | ? |  |
+> | tidasa | adj | of Tavatimsa heaven |
+> | koṭṭen (?) | ? |  |
+> | indaṁva (?) | ? |  |
+> | tiṁsamatta | adj | thirty in number |
+> | pakkhālayitvāna | abs | having washed; having rinsed |
+> | vindan (?) | ? |  |
+> | posenta | prp | supporting; looking after; taking care (of); nurturing |
+> | uṭṭhāya | ger | rising (from); emerging (from); getting up (from) |
+> | ekamante | ind | to one side; apart; in a secluded place; in solitude |
+> | dhovitvā | abs | having washed; having cleaned; having rinsed |
+> | visodhayi | aor | cleaned; purified; cleansed; (comm) attained |
+> | vandi | aor | paid respect (to); honoured |
+> | paṭācārā | fem | name of an arahant nun; great disciple of the Buddha; foremo… |
+> | musala | masc | mace; club; truncheon |
+> | aparājita | pp | unconquered; undefeated; victorious; triumphant |
+> | padālayi | aor | cleaved; broke; shattered; smashed |
+> | nānutappa (?) | ? |  |
+> | vihassati | fut | will live |
+> | cetosamathamanuyutta | adj | devoted to tranquillity of mind; practising internal peace |
+> | dhañña | adj | lucky; auspicious; fortunate |
+> | purakkhatvā | abs | having put in front; having given priority (to) |
+> | gahetvāna | abs | having taken; having brought |
+> | akari | aor | did; practiced; performed |
+> | saṅgāma | masc | battle; war; fight |
+> | upāvisi | aor | sat down; took a seat |
+> | puttadāra | masc | wife and kids |
+> | buddhasāsana | nt | Buddha's teaching; Buddha's message |
+> | anusāsanī | fem | advice; instruction; teaching |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | khippa | adj | quick; fast |
+> | dhana | nt | wealth; riches; treasure |
+> | majjhima | adj | middle; middling; medium; medium-sized; moderate |
+> | nisīdati | pr | sits (on); sits down (in) |
+> | itthaṁ | ind | thus; such; in this way |
+> | purima | adj | earlier; past; former; previous |
+> | yāma | masc | watch (of the night); one eighth of the day; about three hou… |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | pacchima | nt | what was said after; what was stated subsequently |
+> | vacana | nt | word; utterance; talk; statement |
+> | sudaṁ | ind | indeed; truly; surely |
+> | māṇava | masc | young man; young gentleman; young Brahman |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | thera | adj | old; elderly; senior |
+> | katvā | abs | having done |
+> | sāsana | nt | message; letter |
+> | sutvā | abs | having heard; having listened (to) |
+> | santika | adj | near; close |
+> | pāda | masc | foot |
+> | karoti | pr | does; acts; performs |
+> | ratti | fem | night |
+> | kata | pp | done; did; completed |
+> | deva | masc | deity; god |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | ekamantaṁ | ind | to one side; aside |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

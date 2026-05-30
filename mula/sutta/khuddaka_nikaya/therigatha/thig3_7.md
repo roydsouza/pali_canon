@@ -63,3 +63,41 @@ parallels:
 
 *… Selā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (32 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pacchānutāpī | adj | having remorse later; regretting it afterwards |
+> | adhikuṭṭana | nt | chopping up; pulverizing |
+> | khandhāsaṁ (?) | ? |  |
+> | māhu | sandhi | may there not be; don't let there be |
+> | sattisūlūpama | adj | like swords and spears; similar to swords and spears |
+> | kāhati | fut | will do; will make |
+> | nihata | pp | defeated; slain; destroyed |
+> | kāmarati | fem | delight in sensual pleasure; enjoying sex |
+> | arati | fem | dissatisfaction; dislike; discontent; aversion; boredom |
+> | antaka | masc | Death |
+> | viveka | masc | seclusion; solitude; detachment; disengagement; independence |
+> | tvamasi | sandhi | you are |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | sabbattha | ind | everywhere; every place |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | nissaraṇa | nt | escape (from); exit (from); exodus (from); way out (of) |
+> | bhuñjati | pr | eats; consumes |
+> | brūti | pr | says; tells; speaks; calls |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | tvaṁ | pron | you (subject) |
+> | loka | masc | world; universe; cosmos |
+> | ka | pron | who?; what?; which? |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

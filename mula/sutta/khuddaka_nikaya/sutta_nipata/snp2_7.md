@@ -538,3 +538,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_7_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vasamanvagun (?) | ? |  |
+> | gottarakkhita | adj | protected by a family clan |
+> | bhariyāvamaññatha (?) | ? |  |
+> | suddavessikā | masc | workers and merchants |
+> | viyāpanna | pp | failed; gone wrong; spoiled; corrupted |
+> | viññugarahita | adj | blamed by the wise; criticized by intelligent people |
+> | aṇudhamma | masc |  |
+> | evameso (?) | ? |  |
+> | dhaṁsan (?) | ? |  |
+> | okkanta | pp | entered; gone (into) |
+> | aṭṭhānavutimāgamuṁ (?) | ? |  |
+> | samārambha | masc | initiative; undertaking; activity |
+> | pasūnañca (?) | ? |  |
+> | anasana | nt | hunger |
+> | pakkandi | aor | cried out; wailed; screamed |
+> | asurarakkhasā | masc | titans and daemons |
+> | ghātayi | aor | killed; slaughtered (with); butchered |
+> | kumbhadūhana | adj | giving a pot of milk |
+> | eḷakasamāna | adj | like a sheep; i.e. meek |
+> | aghātayi | aor | killed; slaughtered; butchered |
+> | satasahassī | adj | numbering one hundred thousand; one hundred thousand in numb… |
+> | dhanadhāniya | nt | wealth and grain |
+> | mupāgamuṁ (?) | ? |  |
+> | pavaḍḍhati | pr | increases; develops; grows |
+> | icchāvatiṇṇa | adj | afflicted with longing; immersed in desire |
+> | nānādhañña | nt | various kinds of grain; diverse crops |
+> | vatthañca (?) | ? |  |
+> | sayanañca (?) | ? |  |
+> | pahūtadhanadhaññosi (?) | ? |  |
+> | abhijjhāyi | aor |  |
+> | nārīvaragaṇāyuta | adj | mingled with bevies of beautiful women |
+> | gomaṇḍalaparibyūḷha | adj | surrounded by herds of cattle |
+> | mita | pp | measured; balanced; limited |
+> | nivesa | masc | attachment; adherence; fixation |
+> | viyākāra | masc | wealth; success; splendour |
+> | vipallāsa | masc | distortion; delusion; hallucination; inversion; perversion |
+> | sukhamedhitthayaṁ (?) | ? |  |
+> | avatti | aor | existed; continued; lasted (in) |
+> | sukhada | adj | giving ease; who gives comfort |
+> | vaṇṇada | adj | giving beauty; who gives good appearance |
+> | balada | adj | giving strength; who gives energy |
+> | annada | adj | giving food; who gives food |
+> | jāyan (?) | ? |  |
+> | samodhānetvā | abs |  |
+> | yāciya | ger | begging (for); asking (for) |
+> | sappitelañca (?) | ? |  |
+> | viññujātika | adj | intelligent; wise; discerning; knowledgeable |
+> | idheke (?) | ? |  |
+> | vattamanusikkhanta | prp | training in religious duties |
+> | nāgama | masc | not coming; not approaching; not arriving |
+> | supinantepi (?) | ? |  |
+> | avihiṁsañca (?) | ? |  |
+> | ajjava | masc | uprightness; rectitude; sincerity |
+> | utuveramaṇī | fem | end of the fertile period |
+> | saṅgantvā | abs | having united; having come together |
+> | sampiyeneva (?) | ? |  |
+> | kiṇi | aor |  |
+> | aññamagami | aor | went to another (woman); went to (a woman of) another (caste… |
+> | vijjācaraṇapariyeṭṭhi | fem | search for wisdom and ethical conduct |
+> | komāra | adj | juvenile; youthful; related to children |
+<!-- pali-nlp:vocab-end -->

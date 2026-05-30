@@ -79,3 +79,41 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti25_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (32 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | akāriyan (?) | ? |  |
+> | sampajānamusāvāda | masc | deliberate lying; intentional lie |
+> | akaraṇīyan (?) | ? |  |
+> | vitiṇṇaparaloka | adj | who has neglected the next world; who has rejected the after… |
+> | musāvādī | adj | who lies; lying; speaking falsely |
+> | jantu | masc | man; person; being |
+> | pāpakamma | nt | bad deed; crime; evil action; wrongdoing; misconduct |
+> | atīta | nt | past; what is past |
+> | purisapuggala | masc | individual; individual person |
+> | ekadhamma | masc | one single thing |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | yadidaṁ | sandhi | namely; that is |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | katama | pron | what?; which (of the many)? |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

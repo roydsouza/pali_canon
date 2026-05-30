@@ -166,3 +166,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_8_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | anoghatiṇṇa | adj | not crossed over the flood; not overcome the deluge |
+> | atāru | aor | they crossed (over); they made it across |
+> | jīvitenūpapanna | adj | because of lifestyle; due to way of life |
+> | ñāṇūpapanna | adj | possessed of knowledge; having understanding; endowed with w… |
+> | kathaṁsu | sandhi | how? |
+> | anekarūpampi (?) | ? |  |
+> | sīdha | sandhi | here; now; in this world |
+> | gotamanūpadhīkaṁ (?) | ? |  |
+> | sukittita | adj | well explained; well expounded; well elaborated |
+> | etābhinandāmi (?) | ? |  |
+> | kaccissu | sandhi | I hope; I trust; I doubt; I suspect; I wonder |
+> | visenikatvā | abs | having disarmed; not opposing; at peace; (or) having disasso… |
+> | munīdha (?) | ? |  |
+> | diṭṭhassutenāpi (?) | ? |  |
+> | devamanussaloka | masc | world of gods and men |
+> | nātari | aor | did not cross (over); did not make it across; did not escape |
+> | suti | fem | learning; sacred knowledge |
+> | anekarūpa | adj | various kinds; different sorts; assorted types |
+> | jarañca (?) | ? |  |
+> | sīlabbatenāpi (?) | ? |  |
+> | jātijaran (?) | ? |  |
+> | jātiñca (?) | ? |  |
+> | carahi | ind | then; therefore; now |
+> | brūmī (?) | ? |  |
+> | sīlabbata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | yata | pp | controlled (wrt); restrained (in); in check |
+> | oghatiṇṇa | adj | who has crossed over the flood; who has overcome the deluge |
+> | jātijarā | fem | birth and old age; being born and ageing |
+> | kecime | sandhi | whoever of these; whichever of these |
+> | atāri | aor | crossed (over); made it across |
+> | tayidaṁ | sandhi | that so; that like this; exactly that |
+> | vaca | root | (gram) √vac (say, speak) |
+> | nivuta | pp | surrounded (by); enveloped (in); shrouded (with); veiled (wi… |
+> | anīgha | adj | untroubled; undisturbed; calm |
+> | caranta | prp | walking; wandering; roaming about |
+> | nirāsa | adj | desire-less; free from hope; fulfilled |
+> | caran (?) | ? |  |
+> | pariñña | adj | completely comprehending; fully understanding |
+> | muta | pp | sensed; perceived; (or) thought; (comm) smelled; tasted or t… |
+> | udāhu | ind | or (second part of a question) |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | kiñcāpi | sandhi | however much; even if; even though; although |
+> | mahesi | masc | great sage; mighty seer |
+> | suddhi | fem | purity; purification; holiness |
+> | ahampi | sandhi | I too |
+> | brū | root | (gram) √brū (say) |
+> | vadan (?) | ? |  |
+> | mārisa | masc | venerable; sir |
+> | nanda | masc | name of a deity |
+> | vāpī | fem | reservoir; dam; pond |
+> | pucchati | pr | asks; enquires; questions (somebody about something) |
+> | nara | masc | man; person |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | diṭṭhi | fem | view; belief; opinion; concept; theory; attitude; philosophy… |
+> | diṭṭha | pp | seen; found; visible |
+> | brūti | pr | says; tells; speaks; calls |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | jana | masc | man; person; fellow |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | san (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

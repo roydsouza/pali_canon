@@ -604,3 +604,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_3_att#§75|Khaggavisāṇasuttavaṇṇanā §75]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | attaṭṭhapañña | adj | self-centred; looking out only for one's own benefit; servin… |
+> | nikkāraṇa | adj | without grounds; with no basis; unnecessary |
+> | kāraṇattha | adj | for a purpose; for a reason |
+> | bhajan (?) | ? |  |
+> | muditañca (?) | ? |  |
+> | āsevamāna | prp | applying oneself (to); engaging (in); practicing; pursuing |
+> | dāṭhabalī | adj | with powerful teeth; fierce-fanged |
+> | padumaṁva (?) | ? |  |
+> | patthayamappamatto (?) | ? |  |
+> | sammasita | pp |  |
+> | jhānamariñcamāna | prp | not neglecting meditation; not forgetting jhāna |
+> | thāmabalūpapanna | adj | endowed with endurance and power; having stamina and strengt… |
+> | daḷhanikkama | adj | with strong energy; with steady effort |
+> | akusītavut (?) | ? |  |
+> | paramatthapatti | fem | reaching the ultimate goal; attainment of the highest truth;… |
+> | laddhānupekkhaṁ | abs | having obtained mental poise; having attained equanimity |
+> | dukhañca (?) | ? |  |
+> | sinehadosa | masc | love and hate; desire and aversion |
+> | byapanujja | ger | removing; dispelling; eradicating |
+> | pañcāvaraṇa | nt | five obstructions; five obstacles; five impediments |
+> | abhinikkhamitvā | abs | having retired from the world; having renounced the househol… |
+> | kāsāyavattha | adj |  |
+> | pārichatta | masc | name of a type of tree; Bauhinia variegata |
+> | sañchannapatta | adj | covered in leaves |
+> | ohārayitvā | abs | having shaved; having shaved off |
+> | apariḍayhamāna | prp |  |
+> | rakkhitamānasāna | adj | with a guarded mind; with a protected mind |
+> | guttindriya | adj | protecting the mind; guarding the sense faculties |
+> | anivattamāna | prp | not returning; not coming back (from) |
+> | salilambucārī | masc | fish in water |
+> | jālaṁva (?) | ? |  |
+> | matīmant | adj | clever; intelligent; wise; insightful |
+> | gaḷa | adj | dripping; oozing |
+> | dukkhamettha (?) | ? |  |
+> | sokhya | nt | wellbeing; happiness; comfort |
+> | parittamettha (?) | ? |  |
+> | yathodhika | adj | to whatver degree; to whatever extent |
+> | bandhavāni | nt | relatives; family members; relations |
+> | puttañca (?) | ? |  |
+> | vibhūsanaṭṭhāna | nt | adorning; ornamenting; embellishing |
+> | anapekkhamāna | prp | not wishing (for); not longing (for); not hoping (for); not … |
+> | anatthadassī | adj |  |
+> | bhavitvā | abs |  |
+> | nirāsaya | adj | without support; independent; without recourse |
+> | niddhantakasāvamoha | adj |  |
+> | nimmakkha | adj | not depreciating; not denigrating; not smirching; (comm) not… |
+> | nippipāsa | adj | with no greed; without desire |
+> | nillolupa | adj |  |
+> | uppannañāṇomhi (?) | ? |  |
+> | paṭiladdhamagga | adj | who has found the way; who has attained the path |
+> | niyāma | masc | orderliness; certainty; inevitability; fixed order |
+> | diṭṭhīvisūka | nt | distorted view; twisted belief; contorted concept |
+> | sāmayika | adj |  |
+> | saṅgaṇikārata | adj |  |
+> | aṭṭhānatā | fem | impossibility |
+> | padumī | adj |  |
+> | sañjātakhandha | adj | fully-grown; well-developed; well build; with massive forebo… |
+> | vivajjayitvā | abs | having avoided; having shunned; having eschewed; having stee… |
+> | abhisambhavitvā | abs | having overcome; having withstood; having endured |
+> | sabbānipetāni (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

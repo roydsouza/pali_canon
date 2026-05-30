@@ -81,3 +81,55 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Rājadatto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (46 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sampajānohaṁ (?) | ? |  |
+> | odanapāka | adj |  |
+> | jigucchan (?) | ? |  |
+> | andhova (?) | ? |  |
+> | kimihī | masc | by worms; by maggots |
+> | khajjanta | prp | being nibbled (by); being eaten (by); being devoured (by) |
+> | itthimujjhitaṁ (?) | ? |  |
+> | savanta | prp | (of river) flowing |
+> | apakkami | aor | departed (from); left |
+> | ora | adj | lower; inferior |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | apaviddha | pp | discarded; rejected; abandoned; neglected |
+> | udapajjā | imperf | appeared; arose |
+> | phuṭa | pp | permeated (with); pervaded (with); suffused (with); filled (… |
+> | pāturahosi | aor | appeared; manifested |
+> | susāna | nt | burial ground for bones of cremated corpses; cemetery |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | upāvisi | aor | sat down; took a seat |
+> | sivathikā | fem | charnel ground |
+> | mata | pp | dead; deceased; departed |
+> | kāmarāga | masc | passion for sensual pleasure; sensual desire; lust for sensu… |
+> | gantvā | abs | having gone (to); having travelled (to) |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | ṭhāna | nt | (physical) place |
+> | yañhi | sandhi | which certainly; whatever indeed |
+> | sāsanan (?) | ? |  |
+> | addasa | aor | saw |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | disvāna | abs | having seen |
+> | ādīnava | masc | danger (in); problem (in) |
+> | ahu | aor | was |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | satima | adj | one hundredth (1/100th) |
+> | vijjanta | prp | existing |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | ekamantaṁ | ind | to one side; aside |
+> | eka | card | one (1) |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

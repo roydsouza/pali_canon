@@ -235,3 +235,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti83_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | punappunan (?) | ? |  |
+> | āyusaṅkhaya | masc |  |
+> | bhavāhī (?) | ? |  |
+> | nābhiramatī (?) | ? |  |
+> | devāsana | nt | divine seat; heavenly throne |
+> | dubbaṇṇiya | adj | having a bad appearance; related to ugliness |
+> | kilissan (?) | ? |  |
+> | milāyan (?) | ? |  |
+> | pañcassa (?) | ? |  |
+> | anumodati | pr | approves (of); appreciates; applauds; is pleased (by) |
+> | suppatiṭṭhitasaṅkhātan (?) | ? |  |
+> | suladdhalābhasaṅkhāta | adj | considered as 'a profitable gain'; reckoned as 'a fortunate … |
+> | sugatigamanasaṅkhāta | adj | reckoned as 'going to a good destination'; considered as 'ha… |
+> | suladdhalābha | masc | profitable gain; fortunate acquisition |
+> | anumoden (?) | ? |  |
+> | labhitvā | abs | having obtained; having got |
+> | suppavedita | adj | well taught; well explained; correctly preached |
+> | yāvajīva | adj |  |
+> | asaṁhāriya | ptp | unmoveable; unshakeable (by); unassailable (by) |
+> | mūlajāta | adj | deeply rooted (in) |
+> | muccan (?) | ? |  |
+> | dosasañhita | adj | faulty; corrupt; defective |
+> | okkamati | pr | occurs; happens; develops; befalls |
+> | asaṁhīra | ptp | unmoveable; unshakeable; unassailable |
+> | niccharan (?) | ? |  |
+> | nivesayati | pr | establishes (in); settles (in); makes oneself at home (in) |
+> | kaccha | masc | shore land; marsh; wet-land |
+> | devakāya | masc | host of heavenly beings; group of gods |
+> | yañcaññaṁ (?) | ? |  |
+> | opadhika | adj |  |
+> | manussabhūta | adj | in human form; of human birth |
+> | cavanadhamma | adj | bound to fall; destined to pass away |
+> | pubbanimitta | nt | prophesy; prediction; prognostication; portent; omen |
+> | paṭilabhati | pr | obtains; gets; receives; personally experiences |
+> | manussatta | nt | human existence; human state |
+> | devaputta | masc | young deity; minor god |
+> | pātubhavan (?) | ? |  |
+> | aññepi (?) | ? |  |
+> | dāna | nt | giving; offering; charity; generosity |
+> | vidā | imperf | understood; knew |
+> | cavati | pr | moves; shifts; falls away (from) |
+> | suppatiṭṭhita | adj | well established; firmly grounded; firmly planted; fully cen… |
+> | tathāgatappavedita | adj | preached by the Realised One; proclaimed by the Such Become |
+> | māla | masc | pavilion; tent |
+> | seda | masc | sweat; drop of perspiration |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | macca | masc | man; mortal man |
+> | niviṭṭha | pp | established (in); settled down (in); camped (in) |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | nirūpadhi | adj | free from attachment; free from grasping; not taking as mine… |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | gantvā | abs | having gone (to); having travelled (to) |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | sahabyatā | fem | companionship (of); company (of); fellowship (of) |
+> | patiṭṭhita | pp | firmly grounded (in); well established (in) |
+> | panassati | pr | is lost; is destroyed; perishes; is ruined |
+> | sugati | fem | good destination; happy fate |
+> | kiñcati | pr |  |
+> | daḷha | pp | strong; firm; steady |
+> | hitvā | abs | having left; having left behind; having abandoned |
+<!-- pali-nlp:vocab-end -->

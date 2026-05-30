@@ -101,3 +101,59 @@ parallels:
 
 *… Guttā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (50 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vivajjiya | ger | avoiding; shunning; eschewing; steering clear (of) |
+> | uddhaccañca (?) | ? |  |
+> | punareti | pr | comes again (to); comes back (to); returns (to) |
+> | orambhāgamanīya | adj | leading to inferior states of existence; headed downwards |
+> | pajahitvāna | abs | having given up; having abandoned; having let go (of) |
+> | vicikicchañca (?) | ? |  |
+> | sakkāyadiṭṭhimeva (?) | ? |  |
+> | kāmacchandañca (?) | ? |  |
+> | gami | aor | went |
+> | anubrūheti | pr | practices; develops; cultivates; improves; fosters |
+> | yadattha | masc | purpose for which |
+> | sīlabbataparāmāsa | masc | clinging to precepts and practices; adherence to rites and r… |
+> | vañcita | pp | deceived; defrauded; cheated; tricked; swindled |
+> | carissatī (?) | ? |  |
+> | anekajātisaṁsāra | masc | transmigration through many births; cyclical existence havin… |
+> | avijjañca (?) | ? |  |
+> | visaya | masc | realm; region; sphere; domain; environment |
+> | chetvāna | abs | having cut off; having severed |
+> | vasi | aor | lived; stayed (in) |
+> | sandhāvan (?) | ? |  |
+> | aviddasu | adj | ignorant; foolish; idiotic |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | khepetvā | abs | having spent; having lived out |
+> | gutta | pp | guarded; protected; kept watch (over) |
+> | nicchāta | adj | satiated; satisfied; desireless |
+> | nayidaṁ | sandhi | not this; this (is) not; it (is) not |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | pariñña | adj | completely comprehending; fully understanding |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | pañcama | ordin | fifth (5th) |
+> | dukkhassanta | masc | end of suffering |
+> | tameva | sandhi | that very; that same; just him; only that |
+> | pabbajjā | fem | (vinaya) novice ordination; renunciation; becoming a monasti… |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | vasa | masc | wish; desire; will |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | byāpāda | masc | dislike; ill-will; hatred; hostility; enmity; malevolence (t… |
+> | māra | masc | death; Death; death personified |
+> | putta | masc | son; child |
+> | diṭṭheva (?) | ? |  |
+> | piya | adj | dear (to); beloved (by); loved (by) |
+> | karoti | pr | does; acts; performs |
+> | saṁyojana | nt | fetter; chain; bond; thing which binds |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | satta | card | seven (7) |
+> | eta | pron | this |
+> | citta | nt | mind; heart |
+> | dhamma | masc | nature; character |
+<!-- pali-nlp:vocab-end -->

@@ -63,3 +63,36 @@ parallels:
 
 *… Dantikā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (27 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | damita | pp | tamed; trained; subdued; mastered |
+> | nāgamāruhi (?) | ? |  |
+> | pasārayi | aor | stretched out; extended |
+> | pādan (?) | ? |  |
+> | aṅkusamādāya (?) | ? |  |
+> | nadītīra | nt | riverside; bank of a river; shore |
+> | ogāhamuttiṇṇaṁ | sandhi | emerged from bathing; coming out of the river |
+> | samādhesi | aor | settled; centred; brought under control |
+> | yāca | nt | something asked for; begged item |
+> | divāvihāra | masc | meditation place for the day |
+> | khalu | ind | indeed; surely |
+> | nikkhamma | ger | leaving; exiting; coming out (of) |
+> | adati | pr |  |
+> | gijjhakūṭa | masc | name of a mountain peak around Rājagaha |
+> | vana | nt | wood; forest; grove |
+> | pabbata | masc | rock |
+> | gata | pp | gone (to); went (for) |
+> | addasa | aor | saw |
+> | vasa | masc | wish; desire; will |
+> | nāga | masc | noble person; great man; epithet of an arahant; epithet of t… |
+> | pāda | masc | foot |
+> | manussa | masc | human being; man; person |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | disvā | abs | having seen; having understood; having found out |
+> | purisa | masc | man; male; person |
+> | citta | nt | mind; heart |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -213,3 +213,69 @@ parallels:
 *Soḷasamhi nipātamhi,*
 *gāthāyo dve ca tiṁsa cāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vijahanta | prp | abandoning; giving up; leaving behind |
+> | viññissan (?) | ? |  |
+> | atthassāyaṁ | sandhi | of the meaning this |
+> | anāhāropasamma (?) | ? |  |
+> | mahāgini | masc | great fire; large inferno |
+> | anapekkhova (?) | ? |  |
+> | ghāsamacchādanaṁ | sandhi | food and clothing |
+> | assāsarata | adj | taking pleasure in the relief; taking delight in comfort (of… |
+> | dhammakucchisamāvāsa | adj | with Dhamma residing in the belly |
+> | dhammacintana | nt | thinking about the Dhamma; examination of phenomena |
+> | upekkhāsetadantavant | adj | with equanimity as white tusks |
+> | tepare | sandhi | they (are) the other (two) |
+> | nāganāma | adj | called great; named mighty; called nāga |
+> | himavāvaññe | sandhi | like the Himalayas (outshines) other |
+> | accaruci | aor | outshone; dazzled |
+> | selāva (?) | ? |  |
+> | nekkhammarata | adj | enjoying renunciation (from); taking delight in giving up se… |
+> | nibbanamāgataṁ (?) | ? |  |
+> | cittassūpasama | masc | calming of the mind; stilling of the heart; tranquillity of … |
+> | brahmapatha | masc | holy path; spiritual path |
+> | iriyamāna | prp | moving about (on); going around (in); (comm) living (in) |
+> | parinibbissatyanāsavo (?) | ? |  |
+> | nopalippa (?) | ? |  |
+> | parivajjayanta | prp | completely avoiding; shunning; keeping away from |
+> | sāvajja | adj | objectionable; blameworthy; wrong; at fault |
+> | sampadā | fem | attainment (of); achievement (of); accomplishment (of); succ… |
+> | saddhāhattha | adj | with faith as the trunk; having confidence as a trunk |
+> | siluccaya | masc | hill; mountain |
+> | kañcana | nt | gold |
+> | sabbasaṁyojanātīta | adj | who has passed beyond all bonds; who has escaped all ties |
+> | āgā | imperf | came; arrived |
+> | sucigandha | adj | fragrant; with a fine perfume; sweet-smelling |
+> | vāladhi | masc | tail; tip of the tail; tail hair |
+> | caraṇa | nt | behaviour; conduct; (theory and) practice |
+> | sannidhi | masc | store; hoard; cache; stockpile |
+> | soracca | nt | kindness; gentleness; compassion; (comm) good conduct |
+> | attadanta | adj | self controlled; self restrained |
+> | saccanāma | adj | truly called; correctly named |
+> | nisinnopi (?) | ? |  |
+> | thūla | adj | massive; large |
+> | pajjalita | pp | burning; blazing; on fire |
+> | manussabhūta | adj | in human form; of human birth |
+> | avihiṁsā | fem | non-violence; non-cruelty; non-harm |
+> | aṅgāra | nt | burning ember; charcoal |
+> | kittayati | pr | explains; declares; relates |
+> | toya | nt | water |
+> | sira | adj | with a head; with a skull |
+> | aṇu | adj | small; tiny; minute; minuscule |
+> | viññāpana | nt | teaching (of); instruction (of); communication (of) |
+> | chetvāna | abs | having cut off; having severed |
+> | mahānāga | masc | great man; epithet of an arahant |
+> | gīva | adj | witn a neck; having a (certain kind of) neck |
+> | devāpi | sandhi | even the gods |
+> | namassan (?) | ? |  |
+> | sampajaññañca (?) | ? |  |
+> | puṇḍarīka | nt | lotus |
+> | anavajja | ptp | irreproachable; faultless; blameless; innocent |
+> | viveka | masc | seclusion; solitude; detachment; disengagement; independence |
+> | sabbadhamma | masc | everything; all things; all mental phenomena; all states of … |
+> | pavucca (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

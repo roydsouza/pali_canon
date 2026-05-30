@@ -196,5 +196,71 @@ tags:
 *outshines with their wisdom*
 **sammāsambuddhasāvako.**  
 *the blind ordinary folk.*
-**Pupphavaggo catuttho.**  
+**Pupphavaggo catuttho.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saṅkārabhūta | adj | rubbish-like; worthless |
+> | saṅkāradhāna | nt | rubbish heap; pile of trash |
+> | sammadaññāvimuttānaṁ (?) | ? |  |
+> | tagaracandanī | adj |  |
+> | sīlagandha | masc | fragrance of virtue; perfume of ethical conduct; sweet smell… |
+> | gandhajāta | nt | kind of perfume; variety of fragrance; type of scent |
+> | vassikī | fem | Arabian jasmine; Jasmine Sambac |
+> | tagara | nt | crape jasmine; milk flower; flower of Tabernaemontana divari… |
+> | pavāyati | pr | (of scent) wafts; diffuses; radiates |
+> | tagaramallikā | fem |  |
+> | pupphagandha | masc | floral scent; flower perfume |
+> | mālāguṇa | masc |  |
+> | puppharāsi | masc | heap of flowers; pile of blossoms |
+> | sagandhaka | adj | fragrant; perfumed; pleasant smelling |
+> | attanova (?) | ? |  |
+> | katākata | nt | commissions and omissions (of); what is done and not done (b… |
+> | viloma | adj | wrong; disagreeable (for); which rub one up the wrong way; w… |
+> | rasamādāya (?) | ? |  |
+> | vaṇṇagandhamaheṭhayaṁ (?) | ? |  |
+> | bhamara | masc | bee; bumblebee |
+> | atittaññeva (?) | ? |  |
+> | papupphaka | nt | garland; wreath; (comm) spinning in the three realms of cycl… |
+> | abhisambudhāna | prp | realising; discovering; understanding |
+> | marīcidhamma | adj | insubstantial; illusory |
+> | pheṇūpama | adj | like foam; similar to froth |
+> | sucigandha | adj | fragrant; with a fine perfume; sweet-smelling |
+> | candana | nt | sandalwood |
+> | paṭivātame (?) | ? |  |
+> | kattabba | ptp | should be done (by) |
+> | saphala | adj | fruitful; productive; efficacious |
+> | aphala | adj | useless; empty; in vain; unprofitable |
+> | agandhaka | adj | scentless; odourless; without smell |
+> | mahoghova (?) | ? |  |
+> | pacessa (?) | ? |  |
+> | pupphamiva (?) | ? |  |
+> | yamalokañca (?) | ? |  |
+> | vicessa (?) | ? |  |
+> | kāyamimaṁ (?) | ? |  |
+> | pupphavagga | masc |  |
+> | atirocati | pr | outshines; dazzles; illuminates |
+> | mahāpatha | masc | main road; high road; highway |
+> | sampannasīla | adj | virtuous; with perfect conduct |
+> | byāsattamanasa | adj | with an attached mind; mentally obsessed; infatuated |
+> | pacinanta | prp | picking; plucking; collecting |
+> | ujjhita | pp | discarded; dumped; abandoned; left |
+> | satañca (?) | ? |  |
+> | vaṇṇavant | adj | beautiful; good-looking |
+> | andhabhūta | adj | blind; ignorant |
+> | appamādavihārī | adj | living with care; dwelling diligently; not living negligentl… |
+> | akubbanta | prp | not doing; not making |
+> | dhammapada | nt | verse of the teaching; line of Dhamma; religious saying |
+> | sammāsambuddhasāvaka | masc | disciple of the perfectly awakened one; follower of the full… |
+> | kubbanta | prp | doing; performing |
+> | rucira | adj | beautiful; gorgeous; attractive; pleasing |
+> | chetvāna | abs | having cut off; having severed |
+> | avekkhati | pr | sees; regards; views as; consider as |
+> | uttama | adj | best; highest; ultimate; supreme; top |
+> | pala | nt | metal weight; measure of metal |
+> | sīlavata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | antaka | masc | Death |
+<!-- pali-nlp:vocab-end -->

@@ -93,3 +93,44 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti61_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (35 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cakkhūnī (?) | ? |  |
+> | pamuccatī (?) | ? |  |
+> | maṁsacakkhu | nt | physical eye; fleshly eye |
+> | paññācakkhu | nt | eye of wisdom; insight |
+> | akkhāti | pr | says (to); tells (to); explains (to) |
+> | sabbadukkha | nt | all suffering; all pain; all stress; all discomfort |
+> | tīṇimāni | sandhi | these three |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+> | paṭilābha | masc | obtaining (of); acquiring (of); gaining (of); personal acqui… |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | dibba | adj | divine; heavenly; celestial |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | uppāda | masc | arising (of); appearance (of); coming into being (of) |
+> | cakkhu | nt | eye |
+> | anuttara | adj | highest (of); unsurpassed (by); incomparable (to); superior … |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | udapādi | aor | arose (for); sprung up (for) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | magga | masc | road; path; track; way |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

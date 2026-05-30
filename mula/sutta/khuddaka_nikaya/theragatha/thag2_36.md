@@ -66,3 +66,26 @@ parallels:
 *whose mind is developed like this?*
 *… Nitako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (17 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mamevaṁ (?) | ? |  |
+> | dukkhamessa (?) | ? |  |
+> | dukkhamessatī (?) | ? |  |
+> | yassevaṁ (?) | ? |  |
+> | kuppanīya | ptp | irritating; annoying; provocative |
+> | nānupakampa (?) | ? |  |
+> | selūpama | adj | like rock; rock-steady |
+> | kuppa | ptp | shakeable; wobbly; unsteady |
+> | viratta | pp | detached (from); without desire (for); become indifferent (t… |
+> | rajanīya | ptp | desirable; arousing; enticing; tantalizing |
+> | kuto | ind | from where?; where? |
+> | ṭhita | pp | stood; stood still |
+> | bhāvita | pp | cultivated; developed |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

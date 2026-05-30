@@ -48,3 +48,25 @@ tags:
 *being undefiled, I will be fully extinguished.*
 *… Uttaro thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (16 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | abbahitvāna | abs | having pulled out; having plucked out; having extracted; hav… |
+> | bhāvayitvāna | abs | having cultivated; having developed; having meditated (on) |
+> | jālī | adj | entangling; ensnaring; deceptive |
+> | susamūhata | adj | completely removed; totally eradicated |
+> | nibbāyati | pr | (of fire) is extinguished (from); goes out (because of) |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | pariñña | adj | completely comprehending; fully understanding |
+> | pariññāta | pp | completely comprehended; fully understood |
+> | khandha | masc | mass; heap; pile; volume; aggregation |
+> | sohaṁ | sandhi | that, I; so, I |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | bojjhaṅga | masc | element of awakening; factor of enlightenment |
+> | bhāvita | pp | cultivated; developed |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

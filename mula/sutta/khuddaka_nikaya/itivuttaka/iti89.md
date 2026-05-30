@@ -175,3 +175,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti89_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | maggānuga | adj | following the road; going along the path |
+> | udadhi | masc | river; sea; ocean; (comm) water deposit |
+> | bhesma | adj | terrible; terrifying; fearful |
+> | padūsituṁ | inf | to poison; to pollute; to corrupt |
+> | visakumbha | masc | pot of poison; clay jar of venom |
+> | dubbha | adj |  |
+> | catudvāra | adj |  |
+> | avīciniraya | masc | Avīci hell |
+> | samānamanuciṇṇa | adj | considering oneself equal; equating oneself |
+> | jalaṁva (?) | ? |  |
+> | āpādi | aor | experienced; suffered; met (with); underwent |
+> | vosāna | nt | perfecting; accomplishing; attaining; mastering |
+> | uttarikaraṇīya | nt | more to be done; further to do |
+> | pāpicchatā | fem |  |
+> | duṭṭhacitta | adj | bad-minded; with an evil mind; angry |
+> | bhayānaka | adj | terrifying; alarming |
+> | tadamināpi (?) | ? |  |
+> | visesādhigama | masc | attainment of distinction; acquirement of eminence |
+> | padūseti | pr | spoils; pollutes; corrupts |
+> | yasas | masc | fame; reputation; renown; honour; glory; prestige |
+> | aduṭṭha | pp | not angered; not offended |
+> | rūhati | pr | grows; ascends; increases |
+> | atekiccha | adj | incurable; irremediable; irreparable |
+> | sammaggata | adj | practicing correctly; going the right way; performing correc… |
+> | asaddhamma | masc | unvirtuous practice; vulgar habit |
+> | samaññā | fem | designation; label; name; appellation |
+> | kappaṭṭha | adj | remaining for an aeon; lasting for a world cycle |
+> | oramattaka | adj | small; trifling; insignificant |
+> | pāpuṇāti | pr | reaches; arrives (at); comes (to) |
+> | vihiṁsati | pr | hurts; harms; injures; is cruel |
+> | akubbanta | prp | not doing; not making |
+> | kubbati | pr | does; makes; creates |
+> | vissuta | pp | famous; renowned; heard of far and wide |
+> | jātu | ind | ever; at all; at any time; (comm) certainly; undoubtedly |
+> | devadatta | masc | name of a monk; relative and nemesis of the Buddha |
+> | pariyādinnacitta | adj | mentally overwhelmed; mentally obsessed (by) |
+> | anādara | adj | disrespectful; disdainful; contemptuous |
+> | āpāyika | adj | suffering; wretched; miserable |
+> | pāpamittatā | fem | bad friendship; friendship with bad people |
+> | nerayika | masc | denizen of hell; inhabitant of hell |
+> | santacitta | adj | with calm mind; with peaceful heart |
+> | udapajjā | imperf | appeared; arose |
+> | pāpiccha | masc | who has evil wishes; who has evil desires |
+> | abhibhūta | pp | overcome (by); overpowered (by); overwhelmed (by) |
+> | samudda | masc | sea; ocean |
+> | āsajjati | pr |  |
+> | sevati | pr | associates (with); keeps company (with) |
+> | pāpakamma | nt | bad deed; crime; evil action; wrongdoing; misconduct |
+> | tameva | sandhi | that very; that same; just him; only that |
+> | mitta | masc | friend |
+> | phusati | pr | touches; contacts; feels; experiences |
+> | antara | adj | inside; inner; internal; within |
+> | bhāvitatta | masc | who is awakened; who is holy; who has a developed mind; who … |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | vāda | adj | holding a belief; having a doctrine |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | aṭṭha | card | eight (8) |
+> | ga | adj | who goes; goes after; going; gone; having gone; being |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | maññati | pr | thinks; imagines; conceives; presumes; supposes |
+<!-- pali-nlp:vocab-end -->

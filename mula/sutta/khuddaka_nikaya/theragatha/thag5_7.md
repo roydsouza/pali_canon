@@ -81,3 +81,59 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Gayākassapo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (50 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pavāhayi | aor | washed away; carried away; removed |
+> | ogayhaṭṭhaṅgikaṁ (?) | ? |  |
+> | ninhātasabbapāpomhi (?) | ? |  |
+> | yāthāvaka | adj | perfectly true; how trul it is; (comm) without exception |
+> | dhammatthasahita | adj | endowed with Dhamma and meaning; full of truth and significa… |
+> | dānīdha (?) | ? |  |
+> | otari | aor | descended (into); went down (into); plunged (into) |
+> | divasassahaṁ (?) | ? |  |
+> | gayaphaggu | fem | name of the river running past Gayā; annual sacred bathing f… |
+> | ajjhagamā | imperf | achieved; experienced |
+> | payata | pp | generous; liberal; open |
+> | nimmala | adj | spotless; stainless; shining |
+> | sabbapāpa | nt | all evil deeds; all wrongdoing; all unwholesome action |
+> | pakata | pp | made (by); created (by); produced (by); forged (by) |
+> | pāta | masc | fall |
+> | paccavekkhi | aor | reviewed; reflected (on); contemplated |
+> | pavāheti | pr | causes to be removed (from); makes carry away (from); washes… |
+> | orasa | adj | (of a child) natural; legitimate; own |
+> | majjhanhika | masc | noon; midday; middle of the day |
+> | tikkhattuṁ | ind | three times; thrice |
+> | gayā | fem | name of a village |
+> | suci | adj | clean; pure |
+> | dāyāda | masc | heir (of); inheritor (of) |
+> | evaṁdiṭṭhī | adj | of such view; who holds the theory that; of the opinion that… |
+> | sāsanan (?) | ? |  |
+> | suddha | pp | clean; pure; white |
+> | subhāsita | adj | well spoken; articulate; eloquent |
+> | sohaṁ | sandhi | that, I; so, I |
+> | pada | nt | foot |
+> | sota | masc | stream; river; current |
+> | ahu | aor | was |
+> | putta | masc | son; child |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | pura | nt | fortified town; castle; fortress |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | sutvā | abs | having heard; having listened (to) |
+> | pubba | adj | before; previous; earlier; former |
+> | udaka | nt | water |
+> | vijjanta | prp | existing |
+> | vāca | adj | talking; speaking; of speech |
+> | jāti | fem | birth; rebirth; conception |
+> | kata | pp | done; did; completed |
+> | sa | prefix | with; having; affected with |
+> | tatha | adj | true; real; actual |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | añña | pron | another; other; different; someone else; not oneself |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

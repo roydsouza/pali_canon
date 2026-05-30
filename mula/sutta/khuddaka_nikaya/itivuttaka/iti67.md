@@ -77,3 +77,38 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti67_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (29 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ninhātapāpakan (?) | ? |  |
+> | manomunimanāsavaṁ (?) | ? |  |
+> | vacīmuni | nt | verbal sagacity |
+> | kāyamuni | nt | physical sagacity |
+> | moneyyānī (?) | ? |  |
+> | manomoneyya | nt | mental sage-hood |
+> | vacīmoneyya | nt | verbal sage-hood |
+> | kāyamoneyya | nt | physical sage-hood |
+> | moneyyasampanna | adj | accomplished in sagacity |
+> | moneyya | nt | sage-hood; sagacity; sainthood |
+> | tīṇimāni | sandhi | these three |
+> | āha | perf | said |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

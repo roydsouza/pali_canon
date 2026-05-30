@@ -449,3 +449,69 @@ parallels:
 *Gāthāyo tattha saṅkhātā,*
 *sataṁ pañca ca uttarīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ratanākara | masc |  |
+> | saddhammadhāraka | adj | remembering the good teaching; bearing the true doctrine in … |
+> | amha | pr | we are |
+> | sakaraṇīyomhi (?) | ? |  |
+> | anucaṅkami | aor | followed; walked after |
+> | caṅkamanta | prp | walking in meditation; walking up and down (in meditation) |
+> | dosasaññā | fem | perception of ill-will; conception of aversion |
+> | sotar | masc | hearer; listener |
+> | vārayi | aor | prevented; blocked; hindrered |
+> | vassupetova (?) | ? |  |
+> | atītagatasatthu | adj | whose teacher has passed on |
+> | abbhatītasahāya | adj | whose friend has passed away |
+> | andhakāraṁva (?) | ? |  |
+> | pakkhan (?) | ? |  |
+> | samaṇaphāsutā | fem | comfort in asceticism; pleasntness in monasticism |
+> | sarīrasukhagiddha | adj | greedy for physical pleasure; desiring physical comfort |
+> | anuṭṭhahati | pr | does nor get up; does not arouse oneself |
+> | kāyamaccheragaru | adj | giving importance to bodily selfishness |
+> | dhammaviññāṇamākaṅkhaṁ (?) | ? |  |
+> | buddhasāvaka | masc | disciple of the Buddha; student of the Buddha |
+> | ussahitvā | abs | having made an effort (to); having strived (to) |
+> | chandika | adj |  |
+> | atthañcopaparikkha (?) | ? |  |
+> | suggahītañca (?) | ? |  |
+> | atthaññū | adj |  |
+> | pubbāparaññū | adj | knowing the sequence; understanding the order |
+> | vināsayati | pr | causes the destruction (of); destroys; ruins |
+> | upāsati | pr | attends (to); pays attention (to); sits at the feet (of) |
+> | padīpadhārova (?) | ? |  |
+> | sutenātimañña (?) | ? |  |
+> | balibaddova (?) | ? |  |
+> | pavattī | adj | going on; occurring; continuing; flowing; manifesting |
+> | caturāsītisahassa | card | eighty-four thousand (84 000) |
+> | gaṇhi | aor | grabbed hold; grasped; held tight |
+> | dvāsī (?) | ? |  |
+> | jātimaraṇapāragū | adj | who has gone beyong birth and death |
+> | sunibbuta | adj |  |
+> | saṅgātīta | adj | overcome clinging; surpassed attachment |
+> | vibhūtanandī | adj | who takes pleasure in (others') misfortune; who has schadenf… |
+> | sekhabhūta | adj | being a trainee; being a learner |
+> | nānāverajjaka | adj | from various kingdoms; belonging to different countries |
+> | paricāraka | masc | follower; disciple |
+> | sakhitā | fem |  |
+> | hiyyamāna | prp | is decreasing; is declining is diminishing; is vanishing; is… |
+> | pūjanīya | ptp | worthy of veneration (by); worthy of reverence (by) |
+> | khantyā | fem | than patience; than endurance; than tolerance |
+> | niruttipadakovida | adj | skilled in language; (comm) accomplished in the grammar and … |
+> | jīrati | pr | ages; grows old; gets worn out; declines |
+> | tula | adj |  |
+> | gatimant | adj | (of memory) retentive; having ability to store |
+> | pakkhimant | masc | fowler; bird-catcher |
+> | kosārakkha | masc |  |
+> | buddhassādiccabandhuno (?) | ? |  |
+> | cittakathī | adj | diverse speaker; colourful orator |
+> | añjanīva (?) | ? |  |
+> | aṭṭhapadakata | adj | arranged in eight ways; plaited eightfold |
+> | alattakakata | adj | hennaed; henna-tattooed |
+> | soyaṁ | sandhi | this very |
+> | saṅgama | masc | meeting; coming together; encounter |
+> | desiyamāna | prp | being preached (by); being taught (by); being explained (by) |
+<!-- pali-nlp:vocab-end -->

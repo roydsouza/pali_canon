@@ -155,3 +155,69 @@ parallels:
 
 *Ekādasakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | katañhi (?) | ? |  |
+> | kantasalla | adj | who has cut out the arrow; who has incised the barb |
+> | ahamamhi (?) | ? |  |
+> | avekkhiṁhaṁ (?) | ? |  |
+> | amatagāmī | adj | leading to the deathless; going to immortality |
+> | amatamadhigacchiṁ (?) | ? |  |
+> | matapatikā | fem | widow |
+> | sabbagarahita | adj | blamed by all; condemned by all; critizied by everyone |
+> | hatakulika | adj | whose family is dead; (comm) whose family lineage is destroy… |
+> | susānamajjha | nt | middle of the burial ground; centre of the cemetery |
+> | assu | nt | tears |
+> | anubhūta | pp | experienced; suffered; underwent |
+> | khīṇakulīna | adj | of a ruined family; belonging to a dead family tree |
+> | ekacitakā | fem | one pyre; single funeral fire |
+> | ḍayhan (?) | ? |  |
+> | kapaṇikā | fem | beggar woman; female pauper; destitute woman |
+> | appattāva (?) | ? |  |
+> | vijāyitvāna | abs | having given birth; having delivered |
+> | addasāhaṁ (?) | ? |  |
+> | janamārakamajjhagata | adj | involved in a fatal delivery; in the midst of a lethal child… |
+> | sukhumālinī | fem | refined woman; delicate lady |
+> | kantan (?) | ? |  |
+> | galaka | masc | neck; throat |
+> | sapattikampi (?) | ? |  |
+> | aṭṭhaṅgikañca (?) | ? |  |
+> | sabbehipi (?) | ? |  |
+> | khādita | pp | eaten; consumed |
+> | upavijaññā | fem | woman close to giving birth; woman in an advanced stage of p… |
+> | itthibhāva | masc | being a woman; womanhood |
+> | bhaṇi | aor | spoke; said |
+> | dukkhañca (?) | ? |  |
+> | vasita | pp | living (in); staying (in); residing (in) |
+> | bhajitabba | ptp | should be associated with; should be kept company with; shou… |
+> | kālakata | pp | died; dead |
+> | vaṇṇita | pp | praised (by); commended (by); exalted (by); spoke highly of … |
+> | kapaṇa | adj | poor; wretched; miserable |
+> | aparimāṇa | adj | measureless; boundless |
+> | bhajanta | prp | associating (with); keeping company (with) |
+> | jātisahassa | nt | one thousand lives |
+> | puttamaṁsa | nt | son's flesh; child's meat |
+> | pati | aor | fell; dropped |
+> | ādi | adj | first; starting with |
+> | anubhon (?) | ? |  |
+> | bhajamāna | prp | associating (with); keeping company (with) |
+> | cattāripi (?) | ? |  |
+> | visa | nt | poison; toxin; venom |
+> | dhammādāsa | masc | mirror of the Dhamma |
+> | athopi | sandhi | and too; and even; nor even |
+> | pavatta | pp | begun |
+> | vijāta | pp | given birth; delivered |
+> | pantha | masc | road; path; way |
+> | ubhopi | sandhi | and both; as well as |
+> | gotamī | fem | woman of the Gotama family |
+> | kisa | adj | thin; lean; skinny; scrawny |
+> | vimuttacitta | adj | with liberated mind; with emancipated heart |
+> | byasana | nt | misfortune; disaster; calamity |
+> | pamuccati | pr | is freed (from); is liberated (from) |
+> | vaḍḍha | adj |  |
+> | mata | pp | dead; deceased; departed |
+> | ohitabhāra | adj | who has put down the burden; who has laid down the load; epi… |
+<!-- pali-nlp:vocab-end -->

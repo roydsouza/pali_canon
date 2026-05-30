@@ -110,3 +110,59 @@ parallels:
 *they don’t get carried away by a voice.*
 *… Lakuṇḍakabhaddiyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (50 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vuyhanta | prp | being carried away; being swept away |
+> | phaladassāvī | adj | seeing the fruit |
+> | samantāvaraṇa | adj | blocked from all sides; impeded from every angle |
+> | chandarāgavasūpeta | adj | due to interest and passion; under the influence of desire a… |
+> | anvagā | imperf | followed; went along |
+> | pāmi | aor | measured (by); judged (by); appraised (by) |
+> | gaṇhehaṁ (?) | ? |  |
+> | mudiṅga | masc | kettle drum; timpani |
+> | ramanteke (?) | ? |  |
+> | bhaddova (?) | ? |  |
+> | ambāṭakārāma | masc | name of a monastery |
+> | vuyhati | pr | is carried away (by); is swept away (by) |
+> | anāvaraṇadassāvī | adj |  |
+> | paṇava | masc | small drum; cymbal |
+> | vanasaṇḍa | masc | forest grove; thicket of trees |
+> | dajja | opt |  |
+> | taṇhamabbuyha | sandhi | uprooting desire; pulling out craving; removing thirst |
+> | samūla | adj | with the root; at the source; together with the foundation |
+> | vipassati | pr | sees deeply (into); sees in detail; understands with insight… |
+> | ghosa | masc | sound; voice; utterance |
+> | labbhati | pr | is obtained (among); is acquired (from); is received (from) |
+> | vara | adj | excellent; best; foremost |
+> | ajjhattañca | sandhi | internally and |
+> | vīṇā | fem | veena; Indian lute |
+> | ahañca | sandhi | and I |
+> | sopi | sandhi | he too; that also; that even |
+> | bhaddiya | masc | name of an arahant |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | sabbaloka | masc | whole world; entire universe; all the world; every world |
+> | rukkhamūla | nt | foot of a tree; base of a tree |
+> | kāyagata | adj | related to the body; immersed in the body; focused within |
+> | jānan (?) | ? |  |
+> | jhāyati | pr | thinks; thinks about |
+> | sati | fem | memory; remembering; recollection; keeping in mind |
+> | nicca | adj | permanent; lasting; continuous; ordered; stable; reliable; r… |
+> | sāsana | nt | message; letter |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | jana | masc | man; person; fellow |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | bahiddha | adj | external; outward |
+> | buddha | masc | Buddha; Awakened One |
+> | para | pron | other; another (person) |
+> | rūpa | nt | matter; material thing; materiality; experience of material … |
+> | tattha | ind | there; in that place |
+> | pajāna | adj | knowing; clearly understanding; comprehending |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

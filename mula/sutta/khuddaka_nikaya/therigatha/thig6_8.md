@@ -99,3 +99,58 @@ tags:
 
 *Chakkanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bojjhaṅgaṭṭhaṅgikaṁ (?) | ? |  |
+> | dhātuāyatanāni | nt | elements and sense fields |
+> | paripucchahaṁ (?) | ? |  |
+> | pasāresi | aor | stretched out; straightened; extended |
+> | padāliyā (?) | ? |  |
+> | pañcakkhattuṁ | ind | five times |
+> | catukkhattuṁ | ind | four times |
+> | visodhayi | aor | cleaned; purified; cleansed; (comm) attained |
+> | pubbajātimanussariṁ (?) | ? |  |
+> | uttamattha | masc | ultimate good; summum bonum; supreme goal; epithet of Nibbān… |
+> | sakkaccaṁ | ind | respectfully; carefully; thoroughly; properly |
+> | upanikkhami | aor | left; came out (from); exited |
+> | padālayi | aor | cleaved; broke; shattered; smashed |
+> | upasaṅkamma | ger | approaching; going (to) |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | avasavattī | adj | with no control (of); not wielding power (over); having no a… |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | patti | fem | reaching; attainment (of); acquisition (of); getting |
+> | anusāsanī | fem | advice; instruction; teaching |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | sattama | ordin | seventh (7th) |
+> | tadā | ind | then; at that time |
+> | bala | nt | strength; power; might |
+> | majjhima | adj | middle; middling; medium; medium-sized; moderate |
+> | purima | adj | earlier; past; former; previous |
+> | pharitvā | abs | having suffused; having pervaded; having filled |
+> | vihari | aor | lived; remained; stayed in |
+> | yāma | masc | watch (of the night); one eighth of the day; about three hou… |
+> | karonta | prp | doing; performing |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | pacchima | nt | what was said after; what was stated subsequently |
+> | vacana | nt | word; utterance; talk; statement |
+> | pītisukha | nt | delight and ease; joy and happiness |
+> | indriya | nt | sense; mental faculty; power |
+> | vihāra | masc | dwelling; residence |
+> | sutvā | abs | having heard; having listened (to) |
+> | pāda | masc | foot |
+> | ariyasacca | nt | truth of the Buddha; noble truth |
+> | ratti | fem | night |
+> | santa | prp | existing; being; there is |
+> | magga | masc | road; path; track; way |
+> | cetas | masc | mind; thought; intention |
+> | catu | card | four (4) |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

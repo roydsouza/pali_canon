@@ -93,3 +93,57 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti39_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (48 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pariyāyavacana | nt | paraphrase; re-wording; another way of saying |
+> | vimuccathā (?) | ? |  |
+> | karissathā (?) | ? |  |
+> | sabbabhūtānukampī | adj | compassionate for all beings; sympathetic to all living bein… |
+> | nibbindati | pr | is dis-enchanted (with); is disinterested (in); is disillusi… |
+> | bhavanta | prp |  |
+> | passathā (?) | ? |  |
+> | virattacitta | masc | mind free from desire (for); who is mentally detached (from) |
+> | dhammadesanā | fem | Dhamma talk; teaching the Dhamma |
+> | virajjati | pr | becomes detached (from); loses interest (in); becomes dispas… |
+> | ceta | nt | name of a country |
+> | dukkhassanta | masc | end of suffering |
+> | pakāsita | pp | explained (with); illustrated (by); made known (by); declare… |
+> | cāpi | sandhi | or even; and even; as well as |
+> | bhavan (?) | ? |  |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | pariyāya | masc | way; means; method; figure of speech; way of saying; method … |
+> | dutiya | ordin | second (2nd) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | sammāsambuddha | masc | perfectly awakened one; fully enlightened being |
+> | paṭhama | ordin | first (1st); prime |
+> | passati | pr | sees |
+> | avoca | aor | said (something to somebody) |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | dvi | card | two (2) |
+> | disvā | abs | having seen; having understood; having found out |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | katama | pron | what?; which (of the many)? |
+> | aya | masc | good luck; good fortune |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

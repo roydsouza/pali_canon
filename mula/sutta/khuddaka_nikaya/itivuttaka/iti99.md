@@ -132,3 +132,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti99_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | lapitalāpanan (?) | ? |  |
+> | yove (?) | ? |  |
+> | lapitalāpanamattenā (?) | ? |  |
+> | kathañcāhaṁ (?) | ? |  |
+> | dhammenāhaṁ (?) | ? |  |
+> | ayamassa | sandhi | this is his |
+> | lapitalāpanamatta | nt | mere verbal repetition; mere parrot learning; mere repetitio… |
+> | saggāpāyañca (?) | ? |  |
+> | vivaṭṭakappa | masc | aeon of universal expansion |
+> | saṁvaṭṭakappa | masc | aeon of universal contraction |
+> | jātikkhaya | masc | extinction of birth; wearing away of rebirth |
+> | sammādiṭṭhikammasamādāna | adj | undertaking actions based on correct beliefs |
+> | anupavādaka | masc | who does not blame; who does not insult; who does not abuse |
+> | micchādiṭṭhikammasamādāna | adj | undertaking action based on wrong view; performing deeds due… |
+> | upavādaka | masc | blamer (of); who finds fault (with) |
+> | saṁvaṭṭavivaṭṭakappa | masc | aeon of universal contraction and expansion |
+> | abhiññāvosita | adj | who has attained perfect understanding; who has completely u… |
+> | jātisatasahassampi (?) | ? |  |
+> | jātisahassampi (?) | ? |  |
+> | jātisatampi (?) | ? |  |
+> | catassopi (?) | ? |  |
+> | tissopi (?) | ? |  |
+> | cattālīsampi (?) | ? |  |
+> | paññāsampi (?) | ? |  |
+> | vacīsucarita | nt | good verbal conduct |
+> | manosucarita | nt | good mental conduct; wholesome thought |
+> | kāyasucarita | nt | good physical conduct; virtuous bodily behaviour |
+> | idhūpapanno | sandhi | was reborn here; re-appeared here |
+> | tatrāpāsiṁ | sandhi | there I was |
+> | amutrāsiṁ (?) | ? |  |
+> | sammādiṭṭhika | adj | who has correct belief; who has the right outlook |
+> | micchādiṭṭhika | adj | who has wrong view; who holds a false belief |
+> | viha | masc | sky; air |
+> | duggata | adj | faring badly; poor; miserable; suffering; unfortunate |
+> | vīsampi (?) | ? |  |
+> | upapajjamāna | prp | being reborn; re-arising |
+> | anekepi (?) | ? |  |
+> | cavamāna | prp | falling away; dying |
+> | tiṁsampi (?) | ? |  |
+> | adhigata | pp | got; acquired; attained; achieved |
+> | paññāpeti | pr | teaches; preaches; proclaims |
+> | dubbaṇṇa | adj | ugly; unattractive; bad looking |
+> | suvaṇṇa | adj | beautiful; handsome; of good appearance |
+> | yathākammūpaga | adj | going along according to one's actions |
+> | dvepi (?) | ? |  |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+> | dasapi (?) | ? |  |
+> | vacīduccarita | nt | bad speech; verbal misconduct; misbehaviour in speech |
+> | pañcapi (?) | ? |  |
+> | sauddesa | adj | detailed; elaborate |
+> | sākāraṁ | ind | with characteristics; with its aspects; in general |
+> | kāyaduccarita | nt | physical misconduct; bodily misbehaviour |
+> | evaṁsukhadukkhappaṭisaṁvedī | adj | experiencing such pleasure and pain; feeling such ease and d… |
+> | tamas | masc | darkness; gloom |
+> | evamāyupariyanta | adj | with such a life span |
+> | evamāhāra | adj | eating such food; of such diet |
+> | evaṁvaṇṇa | adj | of such appearance |
+> | hīna | pp | low; inferior; deficient |
+> | ekampi | sandhi | only one; just one; merely a single |
+> | paññāvimutti | fem | liberation by understanding; emancipation by insight |
+<!-- pali-nlp:vocab-end -->

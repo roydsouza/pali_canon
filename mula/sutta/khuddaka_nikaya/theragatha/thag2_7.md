@@ -57,3 +57,21 @@ parallels:
 *a well-developed mind.*
 *… Rādho thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (12 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | samativijjhatī (?) | ? |  |
+> | succhanna | adj | well-thatched; well-roofed |
+> | ducchanna | adj | badly-thatched; poorly-roofed |
+> | samativijjha (?) | ? |  |
+> | abhāvita | pp | not cultivated; undeveloped |
+> | subhāvita | adj | well cultivated; fully developed |
+> | vuṭṭhi | fem | rain; rainfall |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | agāra | nt | dwelling; building; house; hut |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | citta | nt | mind; heart |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+<!-- pali-nlp:vocab-end -->

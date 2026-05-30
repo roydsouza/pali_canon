@@ -111,3 +111,68 @@ parallels:
 
 *Sattakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (59 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vadhabandhapariklesa | masc | hardhsip of beating and binding; pain of punishment and impr… |
+> | chedana | nt | cutting; severing; mutilating |
+> | roceti | pr | approves (of); agrees (with); finds pleasing |
+> | pacchānutāpī | adj | having remorse later; regretting it afterwards |
+> | hatthapāda | masc | hand and foot; hands and feet |
+> | akāpurisasevita | adj | frequented by superior men; not followed by worthless men |
+> | paṭivijjhi | aor | comprehended; understood; penetrated |
+> | māhu | sandhi | may there not be; don't let there be |
+> | bhāvitindriya | adj | with developed faculties |
+> | aparājita | pp | unconquered; undefeated; victorious; triumphant |
+> | caṭṭhaṅgikaṁ (?) | ? |  |
+> | nihata | pp | defeated; slain; destroyed |
+> | dukkhasamuppāda | masc | arising of discomfort; origination of suffering |
+> | kāmarati | fem | delight in sensual pleasure; enjoying sex |
+> | atikkama | masc | surpassing; transcending; going beyond; overcoming (of) |
+> | antaka | masc | Death |
+> | sakyakula | nt | Sakyan family; house of Sakya |
+> | satimant | adj | mindful; fully present; attentive |
+> | dukkhūpasamagāmī | adj | leading to relief from suffering; leading to alleviation of … |
+> | tvamasi | sandhi | you are |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | nigaccha (?) | ? |  |
+> | samatikkama | masc | surpassing (of); overcoming (of); going beyond; transcendenc… |
+> | sabbattha | ind | everywhere; every place |
+> | sambuddha | masc | Awakened One; Buddha; who is wide awake; who has completely … |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | vihari | aor | lived; remained; stayed in |
+> | bhuñjati | pr | eats; consumes |
+> | jāta | pp | born; born (in); born (from) |
+> | pada | nt | foot |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | vacana | nt | word; utterance; talk; statement |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | sāsana | nt | message; letter |
+> | sutvā | abs | having heard; having listened (to) |
+> | vijjanta | prp | existing |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | jāti | fem | birth; rebirth; conception |
+> | santa | prp | existing; being; there is |
+> | kata | pp | done; did; completed |
+> | maraṇa | nt | death; dying |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | atthi | pr | there is; there exists |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | ka | pron | who?; what?; which? |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

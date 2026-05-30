@@ -152,5 +152,71 @@ tags:
 *their good deeds receive them there,*
 **piyaṁ ñātīva āgataṁ.**  
 *as family welcomes home one they love.*
-**Piyavaggo soḷasamo.**  
+**Piyavaggo soḷasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ñātīva (?) | ? |  |
+> | katapuññampi (?) | ? |  |
+> | ñātimittā | masc | family and friends |
+> | sotthimāgataṁ (?) | ? |  |
+> | cirappavāsī | adj | who has lived abroad for a long time; who is long absent fro… |
+> | kubbāna | prp | doing; making; performing |
+> | saccavedī | adj | who knows the truth; who understands the reality; (comm) kno… |
+> | sīladassanasampanna | adj | full of virtue and insight; ethical and wise |
+> | piyāpāya | masc | loss of loved ones; separation from the beloved; absence of … |
+> | appiyānañca (?) | ? |  |
+> | samāgañchi | aor | was united (with); was associated (with); affiliated (with);… |
+> | pihetattānuyoginaṁ (?) | ? |  |
+> | piyaggāhī | adj | grasping after pleasure; grabbing what one loves |
+> | ayojayanta | prp | not joining (in); not engaging (in); not participating (in) |
+> | yogasmiñca (?) | ? |  |
+> | soḷasama | ordin | sixteenth (16th) |
+> | paṭigaṇhan (?) | ? |  |
+> | suhajja | masc | friend; well-wisher; companion |
+> | yuñjamattānaṁ (?) | ? |  |
+> | piyavagga | masc |  |
+> | appaṭibaddhacitta | adj | not infatuated (with); not in love (with); not attracted (to… |
+> | chandajāta | adj | whose interest has arisen (in); whose desire has sprung up (… |
+> | ayoga | masc | (something) unsuitable; to be avoided |
+> | abhinandan (?) | ? |  |
+> | anakkhāta | nt | indescribable; ineffable; indefinable; inexpressible; unspea… |
+> | uddhaṁsota | adj | flowing upstream; going against the flow |
+> | piyāppiya | adj | beloved and unloved; pleasant and unpleasant |
+> | kudācanaṁ | ind | at some time; at any time; ever |
+> | vijjan (?) | ? |  |
+> | gantha | masc | (mental) tie; knot; bond |
+> | phuṭa | pp | permeated (with); pervaded (with); suffused (with); filled (… |
+> | dhammaṭṭha | adj | firmly established in the Dhamma; righteous; just; moral; vi… |
+> | jāyanta | prp |  |
+> | pema | nt | love (for); affection (for); fondness (for); dearness |
+> | rati | fem | love (for); liking (for); enjoyment (of); delight (in) |
+> | āgata | masc | guest; visitor; arriver |
+> | adassana | nt | out of sight (of); disappearance (of); where one cannot be s… |
+> | tatheva | sandhi | likewise; in the same way; as it is; as they are; similarly |
+> | appiya | adj | not dear (to); unloved (by); disliked (by) |
+> | kuto | ind | from where?; where? |
+> | soka | masc | grief; sorrow; sadness (over) |
+> | gata | pp | gone (to); went (for) |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | kayirā | opt | should do; could make |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | dūra | adj | far away (from); distant (from) |
+> | puñña | nt | merit; good deed; spiritual wealth |
+> | bhaya | adj | dangerous; perilous; frightening |
+> | dassana | nt | sight (of); vision (of); appearance (of) |
+> | piya | adj | dear (to); beloved (by); loved (by) |
+> | karoti | pr | does; acts; performs |
+> | jana | masc | man; person; fellow |
+> | kamma | nt | action; deed; doing |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | siyā | opt | could be; may be; might be; should be |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | manas | masc | mind; mental faculty; intellect |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | purisa | masc | man; male; person |
+<!-- pali-nlp:vocab-end -->

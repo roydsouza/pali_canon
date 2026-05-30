@@ -284,5 +284,71 @@ tags:
 *lights up the world,*
 **abbhā muttova candimā.**  
 *like the moon freed from clouds.*
-**Bhikkhuvaggo pañcavīsatimo.**  
+**Bhikkhuvaggo pañcavīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pañcavīsatima | ordin | twenty-fifth (25th) |
+> | bhadraṁva (?) | ? |  |
+> | saṁyamamattānaṁ (?) | ? |  |
+> | vihāhiti | fut | will live |
+> | paṭimaṁsati | pr | reproaches; reprimands; (comm) scrutinizes; investigates |
+> | vantalokāmisa | adj | free from worldliness; disgorged the bait of the world |
+> | santavant | adj | peaceful; calm; tranquil |
+> | santavāca | adj | verbally calm; with calm speech |
+> | vippamuñcati | pr | gets free (from); liberates (oneself) (from) |
+> | vassika | adj | related to the rainy season; for the monsoon |
+> | ācārakusala | adj | well mannered; well behaved |
+> | paṭisanthāravutyassa | sandhi | one should be cordial by nature; one should have a friendly … |
+> | indriyagut (?) | ? |  |
+> | tatrāyamādi (?) | ? |  |
+> | labhanta | prp | getting; acquiring |
+> | sammasa | masc | grasping; understanding; thoroughly knowing |
+> | jhānañca (?) | ? |  |
+> | ajhāyanta | prp | not meditating |
+> | apañña | adj | unwise; without knowledge; without understanding |
+> | dayhamāna | prp | being burned; being scorched |
+> | dukkhamidan (?) | ? |  |
+> | kandi | aor | cried; wept; wailed |
+> | gili | aor | swallowed; gulped down |
+> | lohaguḷa | masc | metal ball; lump of copper |
+> | rameti | pr | gives delight; pleases; makes one happy |
+> | nibbānameti | pr | goes to Nibbāna |
+> | lahumessa (?) | ? |  |
+> | sitta | pp | (of water) bailed out; emptied |
+> | suddhājīvī | adj | clean mode of living; pure in livelihood |
+> | nātimañña (?) | ? |  |
+> | appalābhopi (?) | ? |  |
+> | mukhasaṁyata | adj | who has control of one's mouth; who can keep quiet; verbally… |
+> | saṁyatuttama | adj | fully restrained; completely under control |
+> | vācāsaṁyata | adj | with restrained speech |
+> | pādasaṁyata | adj | with restrained feet |
+> | hatthasaṁyata | adj | with restrained hands |
+> | bhikkhuvagga | masc | Chapter 7 of the Majjhima Nikāya; Chapter on Monks (MN61-70) |
+> | attagutta | adj | self-restrained; self-guarded |
+> | codayattānaṁ (?) | ? |  |
+> | maddava | adj | withered; shrivelled |
+> | nibbānasantike | ind | close to Nibbāna; on the verge of going out |
+> | siñcati | pr | waters; pours; sprinkles; scatters |
+> | pihayanta | prp | envying; being jealous (of); coveting |
+> | salābha | masc | one's own gain |
+> | amānusa | adj | superhuman; non-human; divine |
+> | mettāvihārī | adj | friendly; kind |
+> | pāmojjabahula | adj | full of joy; full of happiness (in) |
+> | cuttari | sandhi | and further; and furthermore |
+> | nātimaññati | pr | does not despise; does not scorn; does not look down (on); d… |
+> | suddhājīva | adj | clean-living; living a pure life; innocent |
+> | pītipāmojja | nt | joy and happiness; enjoyment and delight |
+> | santaka | adj | finite; terminable; having an end |
+> | anuvicintayanta | prp | thinking (about); pondering (over); reflecting (on); meditat… |
+> | dhammārāma | adj | enjoying the Dhamma; taking pleasure in the Dhamma; fond of … |
+> | ajjhattarata | adj | with inner joy; happy within; finding delight inside |
+> | pamuñca | adj | releasing; freeing |
+> | saṅkhārūpasama | masc | stilling of mental activities; quieting of conditions; epith… |
+> | parihāyati | pr | dwindles; decreases; deteriorates; wastes away |
+> | dhammarata | adj | lover of the teaching; devoted to the Dhamma |
+> | vipassanta | prp | seeing deeply (into); seeing discriminatively; understanding… |
+<!-- pali-nlp:vocab-end -->

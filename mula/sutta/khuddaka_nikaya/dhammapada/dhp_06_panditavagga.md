@@ -182,5 +182,71 @@ tags:
 *with defilements ended, brilliant,*
 **te loke parinibbutā.**  
 *they are quenched in this world.*
-**Paṇḍitavaggo chaṭṭho.**  
+**Paṇḍitavaggo chaṭṭho.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ādānapaṭinissagga | masc |  |
+> | samiddhimattano (?) | ? |  |
+> | puttamicche (?) | ? |  |
+> | dassayan (?) | ? |  |
+> | lapayan (?) | ? |  |
+> | cajan (?) | ? |  |
+> | vippasīdan (?) | ? |  |
+> | samiñjan (?) | ? |  |
+> | ekaghana | adj | solid; dense |
+> | ariyappavedita | adj | taught by the Noble One; preached by the Buddha |
+> | dhammapī (?) | ? |  |
+> | paṇḍitavagga | masc |  |
+> | sambodhiyaṅga | masc | element of awakening; factor of enlightenment |
+> | cittaklesa | masc | mental defilement; impurity of mind |
+> | pariyodapeti | pr | cleanses (from); refines (from); purifies (from) |
+> | tatrābhiratimicchati | pr | wishes to find pleasure there; wants to get enjoyment there |
+> | dūrama | adj | difficult to delight (in); hard to enjoy |
+> | anokamāgamma | ger | becoming homeless; (comm) coming to non-clinging |
+> | pāramessan (?) | ? |  |
+> | dhammānuvattī | adj | following the Dhamma; acting according to the teaching |
+> | tīramevānudhāva (?) | ? |  |
+> | attahetu | ind | for one's own sake |
+> | kāmakāma | masc | desire for sensual pleasure; wish for sensual gratification |
+> | nindāpasaṁsā | fem | blame and praise; criticism and approval |
+> | samīrati | pr | moves (with); shakes (with) |
+> | purisādhama | masc | wicked person |
+> | satañhi (?) | ? |  |
+> | ovadeyyānusāseyya (?) | ? |  |
+> | niggayhavādī | adj | who reproves; who rebukes; who blames |
+> | vajjadassī | adj | who sees fault |
+> | nidhīnaṁva (?) | ? |  |
+> | oka | masc | home; abode |
+> | rama | adj | delighting (in); enjoying |
+> | itara | pron | other; another |
+> | tacchaka | masc | carpenter; woodworker |
+> | dāru | nt | wood; plank; timber |
+> | usukāra | masc | arrow-maker; fletcher |
+> | nettika | adj | as guide; as leader |
+> | udakañhi (?) | ? |  |
+> | jutimant | adj | luminous; radiant; brilliant; magnificent |
+> | suduttara | adj | extremely difficult to cross; very hard to escape |
+> | rahada | masc | deep pool; lake |
+> | damayan (?) | ? |  |
+> | nivāraya | adj | restraining; holding back; holding in check |
+> | bhajamāna | prp | associating (with); keeping company (with) |
+> | athāyaṁ | sandhi | but this; then this; and this |
+> | pāragāmī | adj | who crosses over; who goes to the other shore |
+> | pavattar | masc | proclaimer; propagator; disseminator (of) |
+> | vippahāya | ger | completely abandoning; totally renouncing |
+> | nayan (?) | ? |  |
+> | asabbha | adj | (of speech) impolite; vulgar; coarse; rude |
+> | tejana | nt | arrow; shaft of an arrow |
+> | akiñcana | adj | with nothing; is nothing; having no; possession-less; epithe… |
+> | maccudheyya | nt | realm of death; sphere of death; power of death |
+> | uccāvaca | adj | high and low; here and there; good and bad; elation and depr… |
+> | namayan (?) | ? |  |
+> | sukka | adj | pure; bright |
+> | viveka | masc | seclusion; solitude; detachment; disengagement; independence |
+> | raṭṭha | nt | country; land; kingdom; realm |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+<!-- pali-nlp:vocab-end -->

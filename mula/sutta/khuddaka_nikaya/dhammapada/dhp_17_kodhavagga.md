@@ -180,5 +180,71 @@ tags:
 *in thought, too, they are restrained:*
 **te ve suparisaṁvutā.**  
 *they are restrained in every way.*
-**Kodhavaggo sattarasamo.**  
+**Kodhavaggo sattarasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sattarasama | ordin | seventeenth (17th) |
+> | suparisaṁvuta | adj | truly well restrained; self-controlled in every way |
+> | manopakopa | masc | mental agitation; mental irritation; mental disturbance |
+> | vacīpakopa | masc | verbal agitation; verbal irritation; verbal disturbance |
+> | kāyappakopa | masc | physical agitation; physical irritation; physical disturbanc… |
+> | jambonadasseva (?) | ? |  |
+> | nikkha | masc | golden ornament; heavy piece of golden jewellery |
+> | paññāsīlasamāhita | adj | who has wisdom and virtue; who has understanding and integri… |
+> | acchiddavutti | adj | with flawless behaviour; with unbroken lifestyle |
+> | nindita | pp | blamed; criticized |
+> | anindita | pp | blameless; irreproachable; unimpeachable; with clean hands |
+> | mitabhāṇimpi (?) | ? |  |
+> | bahubhāṇī | adj | who speaks a lot; who talks much |
+> | tuṇhimāsīna | adj | sitting silently; who is quietly seated |
+> | ajjatanāmiva (?) | ? |  |
+> | atula | masc | name of a man |
+> | porāṇametaṁ (?) | ? |  |
+> | jāgaramāna | prp | awake; staying awake; alert; watchful; lucid |
+> | kujjhati | pr | is angry (with); gets angry (with); is enraged (with) |
+> | saccenālikavādinaṁ (?) | ? |  |
+> | rasmiggāha | adj | holding the reins |
+> | vārayati | pr | checks; gets under control |
+> | nānupatan (?) | ? |  |
+> | nāmarūpasmimasajjamānaṁ (?) | ? |  |
+> | sabbamatikkameyya (?) | ? |  |
+> | brahmunāpi (?) | ? |  |
+> | ninditumaraha (?) | ? |  |
+> | suva | masc | parrot |
+> | anuvicca | ger | investigating; finding out; learning about; knowing about |
+> | ekanta | adj | absolute; total; perfect; complete; exclusive |
+> | ahiṁsaka | adj | harmless; humane |
+> | bhantaṁva (?) | ? |  |
+> | vippajahati | pr | gives up; abandons; quits |
+> | kodhavagga | masc |  |
+> | nindan (?) | ? |  |
+> | accuta | pp | everlasting; eternal; stable; epithet of Nibbāna |
+> | yācita | pp | asked (for); begged (for); pleaded (for) |
+> | akkodha | masc | freedom from anger; absence of anger; non-enmity; suppressin… |
+> | uppatita | pp | sprung up; jumped up; flared up |
+> | appampi | sandhi | even a little |
+> | dajja | opt |  |
+> | ahorattānusikkhī | adj | training day and night (in); practising (something) continuo… |
+> | kadariya | adj | miserly; stingy; niggardly |
+> | asādhu | adj | bad; wicked; unvirtuous |
+> | itara | pron | other; another |
+> | adhimutta | pp | set (on); intent (on); focused (on); fixed (on); fixated (on… |
+> | cetarahi | sandhi | and now; and at present |
+> | pasaṁsita | pp | praised (by); commended (by); lauded (by) |
+> | jina | masc | conqueror; victor; champion; epithet of the Buddha |
+> | devāpi | sandhi | even the gods |
+> | dāna | nt | giving; offering; charity; generosity |
+> | cāhu | sandhi | and there was |
+> | akaci | pron | nothing |
+> | pasaṁsan (?) | ? |  |
+> | ratha | masc | chariot; coach; carriage |
+> | yan (?) | ? |  |
+> | sārathi | masc | charioteer; driver |
+> | sucarita | adj | good; right; moral |
+> | posa | masc | man |
+> | manoduccarita | nt | mental misconduct; misbehaviour by mind |
+<!-- pali-nlp:vocab-end -->

@@ -59,3 +59,25 @@ tags:
 *that’s how one prospers in happiness.”*
 *… Khujjasobhito thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (16 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | brahmacariyānuciṇṇena (?) | ? |  |
+> | suyiṭṭha | adj | well given; properly offered |
+> | suyuddha | nt | good battle; great fight; well-fought war |
+> | khujjasobhita | masc | name of an arahant monk |
+> | tesaññataroyamāyuvā (?) | ? |  |
+> | pāṭaliputtavāsī | adj | living in Pāṭaliputta; resident in Pāṭaliputta |
+> | sukhamedhatī (?) | ? |  |
+> | saṅgāmavijaya | masc | victory in war; triumph in battle |
+> | cittakathī | adj | diverse speaker; colourful orator |
+> | māluterita | adj | swayed by the breeze; stirred by the wind |
+> | evāyaṁ | sandhi | so this; so like this |
+> | dvāra | nt | door; entrance; gate; gateway |
+> | bahussuta | adj | very learned; well educated; knowledgeable |
+> | tiṭṭhati | pr | stands |
+> | samaṇa | masc | ascetic; renunciant; holy man; monk; recluse |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

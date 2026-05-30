@@ -351,3 +351,69 @@ parallels:
 
 *… Sundarī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vandaka | adj | venerating; paying respect |
+> | āyan (?) | ? |  |
+> | adurāgataṁ | ind | (you are) not unwelcome!; (you are) most welcome |
+> | dhītāmhi (?) | ? |  |
+> | santikamāgata | adj | come into the presence (of); come (to) |
+> | sundarimāyantiṁ (?) | ? |  |
+> | harittaca | adj | with golden skin |
+> | gantave | inf | to go (to); to travel (to) |
+> | sobhana | adj | adorning; beautifying; making resplendent |
+> | pattheti | pr | wishes (for); aspires (for); craves (for); sets ones heart (… |
+> | bhātusoka | masc | sadness over a brother; grief over a brother |
+> | dāyādikā | fem | female heir; heiress; inheritress |
+> | phītañcimaṁ (?) | ? |  |
+> | hotvassaratho (?) | ? |  |
+> | puṇṇapatta | nt | gift; present (made to someone who brings good news) |
+> | assaratha | masc | horse-drawn carriage; chariot |
+> | etañcāhaṁ (?) | ? |  |
+> | brāhmaṇiṁvoca (?) | ? |  |
+> | rathamādāya (?) | ? |  |
+> | niyyādayāhimaṁ (?) | ? |  |
+> | pamocayati | pr | sets free; liberates |
+> | paritappayi | aor | suffered; was troubled; had remorse |
+> | tuyhañca (?) | ? |  |
+> | atītaṁsa | masc | past |
+> | ñātisaṅghasata | nt | one hundred groups of relatives |
+> | puttasata | nt | one hundred sons; a hundred children |
+> | sataputta | nt | one hundred sons; a hundred children |
+> | khāditvā | abs | having chewed; having eaten; having devoured |
+> | khādamāna | prp | chewing; eating; devouring |
+> | sambuddhamakutobhayaṁ (?) | ? |  |
+> | dametar | masc | tamer; trainer (of) |
+> | gahavibhava | masc | domestic wealth; household property |
+> | maṇikuṇḍalañca (?) | ? |  |
+> | gavassa | nt | cows and horses |
+> | vāseṭṭhī | fem | name of an arahant nun |
+> | paritappati | pr | grieved; suffered; had remorse |
+> | sabbadukkhappahāna | nt | giving up all suffering; letting go of all discomfort; aband… |
+> | tuyheva (?) | ? |  |
+> | khādita | pp | eaten; consumed |
+> | nadati | pr | roars; bellows; thunders |
+> | atīva | ind | very; exceedingly; extremely |
+> | ijjhati | pr | is successful; succeeds; thrives; prospers |
+> | katakiccamanāsavaṁ (?) | ? |  |
+> | hemavaṇṇa | adj | golden coloured; with a golden complexion |
+> | adanta | pp | untamed; untrained; unrestrained; wild |
+> | sahassañcāpi (?) | ? |  |
+> | viññātasaddhamma | adj | having understood the true nature of things; having comprehe… |
+> | mithilā | fem | name of a town; capital of the Videha country |
+> | abhisambhonta | prp | overcoming; withstanding; enduring |
+> | uttiṭṭhapiṇḍa | masc | leftover food; food scraps |
+> | byapānudi | aor | removed; dispelled; eradicated |
+> | puttasoka | masc | grief for a son; sadness over (the loss of) a child |
+> | paṁsukūlañca (?) | ? |  |
+> | samarocayi | aor | chose; preferred |
+> | uñcha | masc | gleaning; food gathered for subsistence |
+> | rodati | pr | cries (about); weeps (over); wails |
+> | sāhaṁ | sandhi | then I; and I |
+> | sājja (?) | ? |  |
+> | aṭṭita | pp | troubled (with); afflicted (with) |
+> | aphassayi | aor | experienced; attained |
+<!-- pali-nlp:vocab-end -->

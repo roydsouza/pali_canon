@@ -45,3 +45,33 @@ parallels:
 **Itthaṁ sudaṁ aññatarā therī apaññātā bhikkhunī gāthaṁ abhāsitthāti.**  
 *That is how this verse was recited by a certain unnamed nun.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (24 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | apaññāta | pp | unknown; not well known; anonymous |
+> | kumbhiyan (?) | ? |  |
+> | sukkhaḍāka | masc | leaf vegetables (boiled) dry |
+> | therika | adj |  |
+> | coḷa | masc | cloth; rag |
+> | supati | pr | sleeps |
+> | pāruta | pp | (of an outer garment) wrapped (with); covered (with); clothe… |
+> | abhāsitthā (?) | ? |  |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | namas | masc | reverence (to); veneration (to); homage (to) |
+> | itthaṁ | ind | thus; such; in this way |
+> | gātha | masc |  |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | sudaṁ | ind | indeed; truly; surely |
+> | thera | adj | old; elderly; senior |
+> | katvā | abs | having done |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | sammāsambuddha | masc | perfectly awakened one; fully enlightened being |
+> | aññatara | pron | a certain; a |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

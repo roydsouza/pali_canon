@@ -107,3 +107,65 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Sundarasamuddo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (56 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | yācanta | prp |  |
+> | kaṭaggaha | masc | victory; success |
+> | daṇḍaparāyana | adj | leaning on a staff; supported by a walking stick |
+> | harāmahaṁ (?) | ? |  |
+> | yuvāsi (?) | ? |  |
+> | mhitapubba | adj | with a smile |
+> | oruhitvāna | abs | (of shoes) having taken off |
+> | pādukā | fem | shoes; slippers |
+> | pādukāruyha (?) | ? |  |
+> | alattakakatāpādā (?) | ? |  |
+> | vibhūsita | pp | decorated; adorned; dressed up |
+> | māladhārī | adj | garlanded; wreathed |
+> | vesikā | fem | prostitute; sex worker |
+> | saṇha | adj | (of speech) smooth; soft; gentle; mild; polite |
+> | maccupāsaṁva (?) | ? |  |
+> | oḍḍita | pp | (of snare, net, trap) laid down; planted; set |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | suvasana | adj | well-dressed; beautifully clothed |
+> | pañjalīkata | adj | holding up hands palms together |
+> | ubhopi | sandhi | and both; as well as |
+> | ubhayattha | ind | in both cases; on both sides |
+> | paṭijānāti | pr | agrees; assents; confirms |
+> | vitta | nt | wealth; property; possession |
+> | alaṅkata | pp | dressed up; decorated; adorned (with) |
+> | jiṇṇa | pp | aged; old; ancient |
+> | mānusaka | adj | human; related to human |
+> | pabbajati | pr | ordains as a monastic; renounces the household life |
+> | dadāti | pr | gives; offers; donates; grants (something to someone) |
+> | abhāsi | aor | spoke; said |
+> | mudu | adj | soft; mild |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | sāsanan (?) | ? |  |
+> | aggi | masc | fire |
+> | bhuñjati | pr | eats; consumes |
+> | ubha | pron | both |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | disvāna | abs | having seen |
+> | yadā | ind | when; whenever |
+> | bhavati | pr | is; is being; becomes |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | pura | nt | fortified town; castle; fortress |
+> | sāsana | nt | message; letter |
+> | sacca | adj | true; correct; accurate; honest; reliable |
+> | tiṭṭhati | pr | stands |
+> | kata | pp | done; did; completed |
+> | tañca | sandhi | and that |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | buddha | masc | Buddha; Awakened One |
+> | aha | nt | day |
+> | tvaṁ | pron | you (subject) |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

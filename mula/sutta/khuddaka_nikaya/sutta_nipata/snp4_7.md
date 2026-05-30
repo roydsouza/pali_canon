@@ -171,3 +171,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_7_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ariyānamuttamaṁ (?) | ? |  |
+> | vivekaññeva (?) | ? |  |
+> | parikissa (?) | ? |  |
+> | mandova (?) | ? |  |
+> | athāpi | sandhi | but then; but now; but after |
+> | pagāha (?) | ? |  |
+> | mahāgedha | masc | great blunder; great problem |
+> | paravāda | masc | another's doctrine; philosophical beliefs of others |
+> | vippahātave | inf | to give up; to abandon; to quit |
+> | hāyati | pr | dwindles; diminishes; declines; decreases |
+> | niseva (?) | ? |  |
+> | anāriya | adj | ignoble; vulgar; coarse |
+> | nisevati | pr | pursues; indulges (in); engages (in) |
+> | adhiṭṭhita | pp | committed (to); resolved (to); determined (to) |
+> | methunamanuyuttassa (?) | ? |  |
+> | hīnamāhu (?) | ? |  |
+> | kit (?) | ? |  |
+> | nibbānasantike | ind | close to Nibbāna; on the verge of going out |
+> | pubbāpara | nt | sequence; order |
+> | bhantaṁva (?) | ? |  |
+> | kapaṇa | adj | poor; wretched; miserable |
+> | metteyya | masc |  |
+> | mosavajja | nt | lie; untruth; false speech |
+> | ekacariya | nt | living alone; solitude; being single |
+> | pareta | pp | afflicted (with); overcome (by); attacked (by); overwhelmed … |
+> | mussati | pr | is forgotten; is not heeded; is disregarded |
+> | ritta | pp | empty; emptied; hollow |
+> | samaññā | fem | designation; label; name; appellation |
+> | caritvāna | abs | having lived; having led |
+> | maṅku | adj | humiliated; embarrassed; ashamed; sheepish; despondent |
+> | anapekkhī | adj | indifferent (to); not interested (in); unconcerned (about); … |
+> | nigghosa | adj | silent; soundless; quiet |
+> | gadhita | pp | tied up (by); tied (to); bound (to); enslaved (by) |
+> | tathāvidha | adj | of such character; of such quality; such a kind of |
+> | oghatiṇṇa | adj | who has crossed over the flood; who has overcome the deluge |
+> | pihayan (?) | ? |  |
+> | micchā | ind | false; untrue; wrong |
+> | codita | pp | accused; rebuked; charged; blamed |
+> | yasa | masc | name of an arahant monk |
+> | etampi | sandhi | just this; this alone; this |
+> | viveka | masc | seclusion; solitude; detachment; disengagement; independence |
+> | khvassa | sandhi | for him indeed |
+> | etamādīnavaṁ (?) | ? |  |
+> | vighāta | masc | trouble; annoyance; affliction; irritation; botheration |
+> | yutta | pp | yoked; harnessed; saddled up |
+> | saṅkappa | masc | intention; volition; purpose |
+> | methuna | adj | sexual |
+> | paṭipajjati | pr | follows a path; undertake a journey; travels |
+> | sutvāna | abs | having heard; having listened (to) |
+> | seṭṭha | adj | foremost; best (of); primary; most important; supreme |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | viya | ind | like; as |
+> | brū | root | (gram) √brū (say) |
+> | jhāyati | pr | thinks; thinks about |
+> | kayirā | opt | should do; could make |
+> | daḷha | pp | strong; firm; steady |
+> | mārisa | masc | venerable; sir |
+> | ñatvā | abs | having known; having found out; having understood |
+> | vāpī | fem | reservoir; dam; pond |
+> | pajā | fem | offspring; progeny; child |
+<!-- pali-nlp:vocab-end -->

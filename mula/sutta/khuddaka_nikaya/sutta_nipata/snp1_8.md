@@ -166,3 +166,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_8_att#§152|Mettasuttavaṇṇanā §152]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | punaretī (?) | ? |  |
+> | jātuggabbhaseyya (?) | ? |  |
+> | anupaggamma | ger | avoiding; not going near |
+> | vihāramidhamāhu (?) | ? |  |
+> | brahmametaṁ (?) | ? |  |
+> | adhiṭṭhāti | pr | stands firmly; takes a stand; makes up one's mind; determine… |
+> | vitamiddha | adj | without drowsiness |
+> | yāvatāssa (?) | ? |  |
+> | averamasapattaṁ (?) | ? |  |
+> | asambādha | adj | unobstructed; unhindered; unrestricted |
+> | sabbalokasmi | masc | in the whole world |
+> | ekaputtamanurakkhe (?) | ? |  |
+> | puttam (?) | ? |  |
+> | dukkhamicchati | pr | wants suffering (for); desires discomfort (for) |
+> | nāññamaññassa | sandhi | not one to another; not mutually |
+> | byārosanā | fem | causing anger; infuriating |
+> | katthaci | ind | somewhere; anywhere |
+> | nikubbati | pr | cheats; swindles; defrauds |
+> | aṇukathūla | adj | fine and coarse; subtle and gross; tiny and substantial |
+> | rassaka | adj | short |
+> | vanavasesā (?) | ? |  |
+> | pāṇabhūtatthi (?) | ? |  |
+> | khuddamācare (?) | ? |  |
+> | kulesvananugiddho (?) | ? |  |
+> | sallahukavut (?) | ? |  |
+> | santussaka | adj | who is satisfied; who is pleased; who is content |
+> | sūvaco (?) | ? |  |
+> | suhuju | adj | very straight; very upright |
+> | yanta | nt | machine; mechanism; contraption |
+> | karaṇīyamatthakusalena (?) | ? |  |
+> | diṭṭhiñca (?) | ? |  |
+> | mettañca (?) | ? |  |
+> | mānasa | adj | of such mind; with such a heart |
+> | sukhitatta | adj | happy; easy going; (comm) with pleased mind |
+> | sabbasattā | masc | all beings; all creatures |
+> | upavadati | pr | blames; criticizes; finds fault (with) |
+> | subhara | adj | easy to support; low maintenance |
+> | anatimānī | adj | who is not conceited; who is not arrogant; who is humble |
+> | appakicca | adj | unencumbered; with few obligations; with few duties; with li… |
+> | khemī | adj | at peace; safe; secure |
+> | aparimāṇa | adj | measureless; boundless |
+> | vasan (?) | ? |  |
+> | appagabbha | adj | not cheeky; courteous; respectful; modest; unassuming |
+> | santindriya | adj | calm; at peace |
+> | nātimaññati | pr | does not despise; does not scorn; does not look down (on); d… |
+> | sambhavesī | adj | who is seeking birth |
+> | adiṭṭha | pp | not seen; unseen |
+> | sabbabhūtāni | nt | all beings |
+> | tiriyañca | sandhi | and across; and horizontally |
+> | thāvara | adj | stationary; stable; immobile; arahant; (comm) without cravin… |
+> | tasa | adj | moving; mobile; (comm) with craving |
+> | sayāna | prp | lying down |
+> | gedha | masc | greed (for); desire (for); yearning (for) |
+> | abhisamecca | ger | realising; completely understanding |
+> | bhāvayati | pr | cultivates; develops |
+> | niya | adj | one's own; his own; her own |
+> | paṭighasaññā | fem | recognition of sense impression; perception of sense impact |
+> | mudu | adj | soft; mild |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+<!-- pali-nlp:vocab-end -->

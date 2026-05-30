@@ -70,3 +70,43 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Candano thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (34 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sakaputta | masc | one's own son; my very own child |
+> | puttamādāya (?) | ? |  |
+> | aṅka | masc | lap |
+> | sañchanna | pp | covered (with); shaded (with) |
+> | dāsīgaṇapurakkhata | adj | surrounded by a group of handmaidens |
+> | maccupāsaṁva (?) | ? |  |
+> | oḍḍita | pp | (of snare, net, trap) laid down; planted; set |
+> | āyanta | prp | approaching; coming; arriving |
+> | bhariyā | fem | wife |
+> | upāgami | aor | went (to); came (to); approached; arrived (at) |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | suvasana | adj | well-dressed; beautifully clothed |
+> | udapajjā | imperf | appeared; arose |
+> | alaṅkata | pp | dressed up; decorated; adorned (with) |
+> | pāturahosi | aor | appeared; manifested |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | jātarūpa | nt | gold |
+> | sāsanan (?) | ? |  |
+> | mātar | fem | mother |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | disvāna | abs | having seen |
+> | ādīnava | masc | danger (in); problem (in) |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | tañca | sandhi | and that |
+> | buddha | masc | Buddha; Awakened One |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

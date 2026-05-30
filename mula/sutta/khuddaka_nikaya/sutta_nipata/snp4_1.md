@@ -112,3 +112,60 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_1_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (51 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sitvāva (?) | ? |  |
+> | bhinnamivodakaṁ (?) | ? |  |
+> | maddantenaṁ (?) | ? |  |
+> | balīyan (?) | ? |  |
+> | anugijjhati | pr | is greedy (for); wants; craves |
+> | bandhi | aor | tied (to); bound (to) |
+> | dāsaporisa | nt | slaves and servants; servants and employees |
+> | gavāssa | nt | cows and horses |
+> | sallaviddhova (?) | ? |  |
+> | kāmayāna | prp | wanting; desiring; craving |
+> | kāmayamāna | prp | wanting; desiring; craving |
+> | thī | fem | woman |
+> | samativatta | pp |  |
+> | sappasseva (?) | ? |  |
+> | yadicchati | pr | whatever one wants; what one desires |
+> | chandajāta | adj | whose interest has arisen (in); whose desire has sprung up (… |
+> | dukkhamanve (?) | ? |  |
+> | abala | adj | weak; feeble |
+> | samijjhati | pr | achieves; succeeds; prospers; works out well |
+> | hirañña | nt | gold |
+> | sira | adj | with a head; with a skull |
+> | ruppa | adj | beautiful; attractive; well-formed; (comm) silver |
+> | parissaya | nt | danger; risk; difficulty |
+> | parivajjayati | pr | completely avoids; shuns; keeps away (from) |
+> | soma | masc |  |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | macca | masc | man; mortal man |
+> | nāvā | fem | ship; boat; raft |
+> | tara | adj | crossing; going beyond; passing; surpassing |
+> | khetta | nt | field; plot of land |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | jantu | masc | man; person; being |
+> | puthu | adj | broad; wide; large |
+> | ogha | masc | (of water) flood; deluge; torrent |
+> | pītimana | adj | delighted; exhilarated; thrilled |
+> | pāragū | masc | who has gone beyond; who has crossed over |
+> | laddha | pp | obtained; gained; won; received |
+> | parihāyan (?) | ? |  |
+> | sadā | ind | always; ever; all the time |
+> | pada | nt | foot |
+> | addha | adj | soiled; dirty; moist |
+> | nara | masc | man; person |
+> | vatthu | nt | land; property; ground; site |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | sa | prefix | with; having; affected with |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | loka | masc | world; universe; cosmos |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

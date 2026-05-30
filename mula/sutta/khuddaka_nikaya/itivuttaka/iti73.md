@@ -101,3 +101,52 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti73_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (43 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | amatadhātu | fem |  |
+> | arūpaṭṭhāyī | adj | living in the formless realms; settled in an immaterial stat… |
+> | rūpūpaga | adj | in physical form; with material body |
+> | upadhippaṭinissagga | masc | giving up of acquisition; relinquishing of appropriation; ab… |
+> | phusayitvā | abs | having reached; having attained |
+> | āgantar | masc | arriver; comer; guest; visitor |
+> | santatara | adj | more calm (than); more peaceful (than) |
+> | vimuccan (?) | ? |  |
+> | padan (?) | ? |  |
+> | asaṇṭhita | pp | not fixed (in); not stuck (in); not caught (in); not attache… |
+> | maccuhāyī | adj | who has abandoned death; who has left death behind; who has … |
+> | appajānanta | prp | not knowing; not clearly understanding; not distinguishing |
+> | nirūpadhi | adj | free from attachment; free from grasping; not taking as mine… |
+> | asoka | adj | sorrow-free; free from sadness |
+> | pariñña | adj | completely comprehending; fully understanding |
+> | arūpa | adj | formless; immaterial; insubstantial |
+> | viraja | adj | pure; stainless; untainted |
+> | desa | masc | place; location; region; area |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | sacchikatvā | abs | having personally experienced; having realized for oneself |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | sammāsambuddha | masc | perfectly awakened one; fully enlightened being |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | rūpa | nt | matter; material thing; materiality; experience of material … |
+> | kāya | masc | body; physical body; physical process |
+> | satta | card | seven (7) |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

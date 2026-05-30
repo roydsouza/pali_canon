@@ -87,3 +87,52 @@ parallels:
 *for one who acts on it.*
 *… Subhūto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (43 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sugandhaka | adj | fragrant; perfumed; pleasant smelling |
+> | samavisama | adj | even and uneven; smooth and rough |
+> | sabbānipi (?) | ? |  |
+> | kalīva (?) | ? |  |
+> | ekañce (?) | ? |  |
+> | abbūḷha | pp | pulled out; torn out; plucked out; uprooted |
+> | dubbhagalakkhaṇa | nt | sign of bad luck |
+> | kiccamicchaka | adj | wanting something to be done; wishing to do something |
+> | ossajati | pr |  |
+> | aghagata | adj | hollow; empty; void; vacuous |
+> | andhova (?) | ? |  |
+> | yuñjamattānaṁ (?) | ? |  |
+> | carañce (?) | ? |  |
+> | saphala | adj | fruitful; productive; efficacious |
+> | aphala | adj | useless; empty; in vain; unprofitable |
+> | agandhaka | adj | scentless; odourless; without smell |
+> | ayoga | masc | (something) unsuitable; to be avoided |
+> | parijānan (?) | ? |  |
+> | akaronta | prp | not doing; not performing |
+> | vaṇṇavant | adj | beautiful; good-looking |
+> | akubbanta | prp | not doing; not making |
+> | kubbanta | prp | doing; performing |
+> | rucira | adj | beautiful; gorgeous; attractive; pleasing |
+> | tañhi | sandhi | that truly; that most certainly; that indeed |
+> | nādhigacchati | pr | does not get to; does not attain; does not find; does not ac… |
+> | puppha | nt | flower |
+> | bhāsamāna | prp | speaking (about); talking (about); saying |
+> | vijita | nt | kingdom; realm |
+> | yañhi | sandhi | which certainly; whatever indeed |
+> | adassana | nt | out of sight (of); disappearance (of); where one cannot be s… |
+> | subhāsita | adj | well spoken; articulate; eloquent |
+> | vada | adj | speaking; who talks |
+> | yathāpi | sandhi | just like; just as |
+> | kayirā | opt | should do; could make |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | vāca | adj | talking; speaking; of speech |
+> | siyā | opt | could be; may be; might be; should be |
+> | purisa | masc | man; male; person |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

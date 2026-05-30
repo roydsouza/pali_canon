@@ -70,3 +70,44 @@ tags:
 *they’ve cut the strings, unbound.*
 *… Nandako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (35 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | chinnasutta | adj | who has severed the strings; who has cut the cords |
+> | mārakhitta | adj | thrown by death; cast by Māra |
+> | mohapāruta | adj | shrouded in illusion; cloaked in delusion |
+> | dummantī | adj | taking bad counsel; (or) thinking wrongly |
+> | saggepi (?) | ? |  |
+> | māsādesi (?) | ? |  |
+> | mārapakkha | adj | on Māra's side; part of death's faction |
+> | navasota | adj |  |
+> | abandhana | adj | free; unchained; unshackled; untied |
+> | rajjan (?) | ? |  |
+> | avassuta | pp | seeping (with); oozing (with); overflowing (with); flooded (… |
+> | sandan (?) | ? |  |
+> | virājita | pp | cleansed; purified; removed |
+> | kimaṅgaṁ | ind | how much more so?; how much rather?; what to say of?; why no… |
+> | amaññi | aor | thought; considered; supposed; presumed (to be) |
+> | dhiratthu | sandhi | shame on you!; damn you!; curse you!; to hell with! |
+> | duggandha | adj | foul smelling; fetid; malodorous; stinky |
+> | sabbadā | ind | always; at all times |
+> | dummedha | adj | foolish; stupid; unwise |
+> | mānusa | adj | human |
+> | purāṇa | adj | of old; ancient |
+> | pūra | adj | full (of); filled (with); stuffed (with) |
+> | bandhana | nt | tie; rope; bond; fetter |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | rāga | masc | desire (for); passion (for); infatuation (with); lust (for) |
+> | avijjā | fem | ignorance; illusion; not knowing; not understanding |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | kāya | masc | body; physical body; physical process |
+> | tattha | ind | there; in that place |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

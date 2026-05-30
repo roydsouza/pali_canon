@@ -301,3 +301,69 @@ parallels:
 *let these giants bow to the Teacher.”*
 *… Selo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dantāmha (?) | ? |  |
+> | etañce (?) | ? |  |
+> | tetamanuvatte (?) | ? |  |
+> | bhogī | adj | enjoying; using; experiencing; partaking in |
+> | sattaratta | nt | week; seven days |
+> | saraṇamāgā | imperf | went for refuge; took shelter |
+> | kaṇhābhijātika | adj | of low birth; belonging to a inferior social class |
+> | nappasīdati | pr | does not gain confidence; distrusts |
+> | sabbāmittā | masc | all enemies; every foe |
+> | bhāvetabbañca (?) | ? |  |
+> | abhiññeyya | ptp | should be understood; should be taken; should be interpreted |
+> | anuvatta | nt | chore; task; job |
+> | satthuranvaya | adj | emulating the teacher; following the master |
+> | senāpa (?) | ? |  |
+> | rājāhamasmi (?) | ? |  |
+> | manujinda | masc | lord of men; king; (comm) foremost of men |
+> | rājābhirāja | masc | king of kings; ruler of rulers; lord of lords |
+> | anuyanta | masc | vassal; subordinate; dependent |
+> | bhavituṁ | inf | to be; to become |
+> | uttamavaṇṇī | adj | of supreme beauty; having the finest appearance; most handso… |
+> | samaṇabhāva | masc | ascetic state; monkhood |
+> | kañcanasannibhattaca | adj | with skin like gold; having skin with a golden sheen; eleven… |
+> | kalyāṇadassana | adj | handsome; of good appearance |
+> | samaṇasaṅgha | masc | assembly of ascetics; monastic order |
+> | patāpavant | adj | majestic; powerful; regal |
+> | pasannanetta | adj | with bright eyes; clear-eyed |
+> | viyañjana | nt | distinctive mark; characteristic appearance; feature; (comm)… |
+> | susukkadāṭhosi (?) | ? |  |
+> | suvaṇṇavaṇṇosi (?) | ? |  |
+> | suruci | adj | beautiful; gorgeous; attractive |
+> | paripuṇṇakāya | adj | with a perfect body; (comm) with all the characteristics of … |
+> | yācan (?) | ? |  |
+> | anveti | pr | follows; comes after; approaches |
+> | buddhosmi | sandhi | I am awakened |
+> | jambusaṇḍa | masc | India |
+> | sumukha | adj | handsome |
+> | cārudassana | adj | beautiful to behold; lovely to look at |
+> | samatikkanta | pp | surpassed; surmounted; transcended |
+> | tāresimaṁ (?) | ? |  |
+> | mārābhibhū | masc | conqueror of death; who has vanquished Māra |
+> | tisata | card | three hundred (300) |
+> | nadanta | prp | roaring |
+> | atitula | adj | beyond compare; beyond measure; matchless |
+> | vatteti | pr | (of power) wields (over); displays |
+> | vīriyavant | adj | heroic; brave; vigorous; energetic; persistent |
+> | brahanta | adj | big; huge; large; enormous; (comm) with large girth |
+> | rathesabha | masc | eminent charioteer |
+> | sammāsambuddhasāsana | nt | teachings of the perfectly awakened one; religion of a fully… |
+> | sandiṭṭhikamakālikaṁ (?) | ? |  |
+> | appaṭivattiya | ptp | unstoppable; irrefutable |
+> | vinayati | pr | removes; dispels |
+> | anujā | fem |  |
+> | sallakatta | masc | doctor; field surgeon |
+> | sujāta | adj | well born; nobly born |
+> | varapañña | adj | of excellent understanding; foremost in wisdom |
+> | kāra | masc | deed; action; service |
+> | mahāpurisalakkhaṇa | nt | auspicious marks of a great man; characteristics of an illus… |
+> | pahīnabhayabherava | adj | abandoned fear and dread; (comm) abandoned the causes of fea… |
+> | nisāmeti | pr | pays close attention; listens attentively |
+> | ādiccova (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

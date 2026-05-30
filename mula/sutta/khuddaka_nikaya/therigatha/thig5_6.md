@@ -84,3 +84,51 @@ tags:
 
 *… Mittā kāḷī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (42 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uṭṭhāsi | aor | arose (from); emerged (from); got up (from) |
+> | yathābhūtamavekkhantī (?) | ? |  |
+> | pamajjituṁ | inf | to be carelass; to be heedless; to be negligent; to be inatt… |
+> | purāyaṁ (?) | ? |  |
+> | madda | adj | crushing; grinding; rubbing |
+> | vasamāgata | adj | under the power (of); under the influence (of); controlled (… |
+> | ummaggapaṭipannāmhi (?) | ? |  |
+> | vihāraka | masc | room; apartment; small dwelling |
+> | bujjhihaṁ (?) | ? |  |
+> | hīnamatthaṁ (?) | ? |  |
+> | riñcitvā | abs | having neglected; having abandoned; having disregarded |
+> | lābhasakkāraussuka | adj | zealously desiring gain and honour; anxiously striving for a… |
+> | vicariṁhaṁ (?) | ? |  |
+> | asevihaṁ (?) | ? |  |
+> | bhijjati | pr | is broken; is destroyed |
+> | sāmaññattha | masc | goal of monkhood; purpose of renunciation; epithet of Nibbān… |
+> | byādhi | masc | sickness; disease; illness |
+> | pabbajitvāna | abs | having ordained (in); having renounced the household life |
+> | kilesa | masc | defilement; impurity; unwholesome mental state |
+> | udayabbaya | masc | rising and falling; appearance and disappearance; formation … |
+> | vimuttacitta | adj | with liberated mind; with emancipated heart |
+> | agārasmānagāriyaṁ (?) | ? |  |
+> | saṁvega | masc | dismay; anxiety; sense of urgency |
+> | gantvā | abs | having gone (to); having travelled (to) |
+> | sāsanan (?) | ? |  |
+> | khandha | masc | mass; heap; pile; volume; aggregation |
+> | appaka | adj | small; few; little |
+> | parama | adj | highest; most extreme; very best; ultimate; superior; sublim… |
+> | vasa | masc | wish; desire; will |
+> | jara | adj | old |
+> | ahu | aor | was |
+> | jīvita | nt | life; existence |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | kata | pp | done; did; completed |
+> | kāla | masc | time; occasion |
+> | nisinna | pp | seated (in) |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | ka | pron | who?; what?; which? |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

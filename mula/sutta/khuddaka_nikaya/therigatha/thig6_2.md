@@ -95,3 +95,58 @@ tags:
 
 *… Vāseṭṭhī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | etadantika | adj | ending here; finishing thus; concluding here |
+> | yuñjanta | prp | joining (in); engaging (in); participating (in) |
+> | paṭiladdhāna | abs | having regained; having recovered; having got back |
+> | sacitta | nt | one's own mind |
+> | khuppipāsāsamappita | adj | afflicted with hunger and thirst; stricken by hunger and thi… |
+> | saṅkārakūṭa | masc | rubbish heap; pile of trash |
+> | vicārihaṁ (?) | ? |  |
+> | pakiṇṇakesī | adj | with dishevelled hair; with unkept hair |
+> | nagga | adj | naked; nude |
+> | visaññī | adj | with distorted perception; deranged |
+> | khittacitta | adj | mentally unbalanced; deranged; unhinged; crazy |
+> | puttasokenahaṁ (?) | ? |  |
+> | sacchākāsi | aor | knew for oneself; personally experienced; personally realize… |
+> | vanditvāna | abs | having bowed; having paid respect; having honoured |
+> | sambuddhamakutobhayaṁ (?) | ? |  |
+> | dametar | masc | tamer; trainer (of) |
+> | satthuvacana | nt | master's word; teacher's bidding |
+> | aṭṭa | adj | afflicted (with); suffering (with); hurt (by) |
+> | adanta | pp | untamed; untrained; unrestrained; wild |
+> | mithilā | fem | name of a town; capital of the Videha country |
+> | suṇitvāna | abs | having heard; having listened (to) |
+> | athaddasāsiṁ (?) | ? |  |
+> | vīthi | fem | street; road |
+> | rathiyā | fem | road; street; carriageway |
+> | siva | adj | safe; happy; blessed; auspicious |
+> | acari | aor | acted; behaved; performed; did |
+> | susāna | nt | burial ground for bones of cremated corpses; cemetery |
+> | upāvisi | aor | sat down; took a seat |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | pabbaji | aor | ordained; renounced |
+> | pariññāta | pp | completely comprehended; fully understood |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | sambhava | masc | birth; origin; source (of) |
+> | soka | masc | grief; sorrow; sadness (over) |
+> | nagara | nt | town; city |
+> | pada | nt | foot |
+> | anagāriya | nt | homelessness; homeless state |
+> | vassa | masc | rain; downpour |
+> | vatthu | nt | land; property; ground; site |
+> | sugata | adj | faring well; going well; doing well; fortunate; who has reac… |
+> | pahīna | pp | abandoned; dispelled; eliminated; removed; given up |
+> | gotama | masc | family name of the Buddha |
+> | sabba | pron | all; every |
+> | pa | adj | drinking; who drinks |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

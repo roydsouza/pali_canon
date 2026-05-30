@@ -187,3 +187,69 @@ parallels:
 *I’m liberated in every way.*
 *… Khadiravaniyarevato thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | āmodayāmahaṁ (?) | ? |  |
+> | abyāpajjarata | adj | taking pleasure in kindness; delighting in benevolence |
+> | sabbasakha | adj | everyone's friend; companion to all |
+> | sabbamitta | masc |  |
+> | dīghamantare (?) | ? |  |
+> | vippamuttomhi (?) | ? |  |
+> | sampādethappamādena (?) | ? |  |
+> | abbhamattaṁva (?) | ? |  |
+> | vālaggamatta | adj | size of the tip of a tail hair |
+> | akāpurisasevita | adj | frequented by superior men; not followed by worthless men |
+> | pappoti | pr | obtains; attains; gets; experiences |
+> | vajjhati | pr | be injured; be killed; be slaughtered; be slain |
+> | asaṅkuppa | ptp | immovable; steady |
+> | mettañca (?) | ? |  |
+> | sabbabhūtānukampaka | adj | compassionate towards all beings; sympathetic to all living … |
+> | vedha | masc | hit; strike; piercing blow |
+> | handāhaṁ | sandhi | come on I (must); now I (must) |
+> | mettacittañca (?) | ? |  |
+> | gopeti | pr | guards; watches; protects |
+> | sucigavesī | adj | seeking purity; seeking the good |
+> | pabbatova (?) | ? |  |
+> | tāvade | sandhi | right then; that very instant; instantly; immediately |
+> | nibbisa | nt | payment; wages; earnings; fee |
+> | sabbadhī | ind | everywhere; in every way; in all respects |
+> | asaṁhīra | ptp | unmoveable; unshakeable; unassailable |
+> | dosasaṁhita | adj | faulty; corrupt; defective |
+> | brahmavihāra | masc | sublime state; heavenly state; divine dwelling; collective n… |
+> | bhataka | masc | hired worker; wage labourer |
+> | paṭikaṅkhati | pr | anticipates; expects; awaits; personally wishes (for) |
+> | kālañca (?) | ? |  |
+> | mohakkhaya | masc | wearing away of delusion; extinction of stupidity |
+> | anariya | adj | ignoble; vulgar; coarse |
+> | sammāsambuddhasāvaka | masc | disciple of the perfectly awakened one; follower of the full… |
+> | acala | adj | unshakeable; immobile; stationary; stable |
+> | catthāya | sandhi | and for the purpose (of); and for the sake (of); and for the… |
+> | nābhijānāti | pr | does not know; does not understand |
+> | ohita | pp | put down; placed down; laid down |
+> | sabbasaṁyojanakkhaya | masc | wearing away all bonds; destruction of all fetters |
+> | upeta | pp | endowed (with); possessed (of); having |
+> | abhijānāti | pr | experiences; suffers |
+> | suppatiṭṭhita | adj | well established; firmly grounded; firmly planted; fully cen… |
+> | santarabāhira | adj | inside and outside |
+> | pariciṇṇa | pp | served; attended; waited on (by) |
+> | bhāra | masc | burden; load; weight |
+> | haññati | pr | is struck (by); is stabbed (by); is beaten (by) |
+> | agārasmānagāriyaṁ (?) | ? |  |
+> | upaccagā | imperf | passed by; escaped; went past |
+> | khaṇa | masc | moment; instant; point in time; opportunity |
+> | posa | masc | man |
+> | anusāsanī | fem | advice; instruction; teaching |
+> | gutta | pp | guarded; protected; kept watch (over) |
+> | saṅkappa | masc | intention; volition; purpose |
+> | bhavanet (?) | ? |  |
+> | pabba | nt | elbow; joint; limb |
+> | anupubba | adj | gradual; step-by-step; successive |
+> | patissata | pp | self-aware; thoughtful; mindful |
+> | nābhinandati | pr | does not take delight (in); is not pleased (with); does not … |
+> | paccati | pr | is cooked |
+> | subhāvita | adj | well cultivated; fully developed |
+> | kha | ind | 2nd item in a numerical list |
+<!-- pali-nlp:vocab-end -->

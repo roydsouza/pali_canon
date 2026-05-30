@@ -103,3 +103,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti71_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | puññakara | adj | making merit; performing good deeds |
+> | bhāsiya | ger | speaking; saying; talking |
+> | vācañca (?) | ? |  |
+> | tadevāhaṁ | sandhi | just that I; that very thing I |
+> | sammādiṭṭhikammasamādāna | adj | undertaking actions based on correct beliefs |
+> | anupavādaka | masc | who does not blame; who does not insult; who does not abuse |
+> | upapajjatī (?) | ? |  |
+> | vacīsucarita | nt | good verbal conduct |
+> | manosucarita | nt | good mental conduct; wholesome thought |
+> | kāyasucarita | nt | good physical conduct; virtuous bodily behaviour |
+> | sammādiṭṭhika | adj | who has correct belief; who has the right outlook |
+> | katvāna | abs | having done |
+> | sappañña | adj | wise; intelligent |
+> | sāma | masc | dark colour; brown colour |
+> | panāhaṁ | sandhi | but I; then I; and I |
+> | yadeva | sandhi | any; whichever |
+> | ñāta | pp | known; recognized; understood |
+> | appa | adj | few; not many; not much |
+> | sugati | fem | good destination; happy fate |
+> | nāñña | pron | not another; not different; not someone else; not somewhere … |
+> | upapanna | pp | arose; appeared |
+> | sagga | adj | heavenly |
+> | paṇidhāya | ger | guiding; directing; determining; setting |
+> | bahussuta | adj | very learned; well educated; knowledgeable |
+> | vidita | pp | known; understood; experienced |
+> | diṭṭha | pp | seen; found; visible |
+> | mana | adj | having such a mind; -minded; -hearted |
+> | jīvita | nt | life; existence |
+> | sutvā | abs | having heard; having listened (to) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | puggala | masc | person; individual |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | samaṇa | masc | ascetic; renunciant; holy man; monk; recluse |
+> | para | pron | other; another (person) |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | idha | ind | here; now; in this world |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | satta | card | seven (7) |
+> | loka | masc | world; universe; cosmos |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

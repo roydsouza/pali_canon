@@ -60,3 +60,39 @@ parallels:
 *I’m a scholar and a knowledge master.*
 *… Aṅgaṇikabhāradvājo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (30 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | suddhimagga | masc |  |
+> | paricari | aor |  |
+> | suddhimanvesanta | prp | seeking purity; searching for purification |
+> | ayoni | fem |  |
+> | khomhi | sandhi | I am definitely; I am truly |
+> | amara | adj | endless; unending |
+> | brahmabandhu | masc | nominal Brahman; Brahman merely by birth |
+> | sotti | fem | scourer; scrubber; cleanser |
+> | nhātaka | adj | perfected; purified |
+> | akāsi | aor | did; performed |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | idāni | ind | now; soon; at present |
+> | tapa | adj | hot; warm |
+> | vedagū | masc | who has perfect knowledge; who has complete understanding |
+> | laddha | pp | obtained; gained; won; received |
+> | vana | nt | wood; forest; grove |
+> | ajānanta | prp | not knowing; being ignorant (of) |
+> | āsi | aor | was |
+> | aggi | masc | fire |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | tevijja | adj | knowing the three Vedas |
+> | pura | nt | fortified town; castle; fortress |
+> | sāsana | nt | message; letter |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | pa | adj | drinking; who drinks |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

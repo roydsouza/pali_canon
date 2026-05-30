@@ -475,3 +475,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_9_att#§182|Hemavatasuttavaṇṇanā §182]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dasasata | card |  |
+> | suhuṭṭhita | nt | good rising; good wake up |
+> | suppabhāta | nt | beautiful sunrise; good dawn |
+> | kāmālaya | masc | attachment to sensual pleasures; clinging to the objects of … |
+> | paññādada | adj | giving wisdom; who bestows understanding |
+> | sabbasaṁyojanātiga | adj | who has overcome all bonds; who has transcended all ties; wh… |
+> | anālamba | adj | without support; without a grabhold; (comm) without support … |
+> | ahamakkhāmi (?) | ? |  |
+> | manochaṭṭha | adj | with mind as the sixth |
+> | channameva (?) | ? |  |
+> | maccupāsappamocana | nt | release from the snare of death; freedom from death's trap |
+> | sīhaṁvekacaraṁ | sandhi | solitary like a lion; living alone like a lion; wandering al… |
+> | appāhāra | adj | eating little food; taking little to eat |
+> | eṇijaṅgha | adj | with calves like an antelope; with haunches like a deer; eig… |
+> | sabbamoha | masc | all illusion; every delusion |
+> | sampha | adj | frivolous; foolish; useless |
+> | oghatiṇṇamanāsavaṁ (?) | ? |  |
+> | kamamāna | prp | going along; travelling |
+> | ajjhattacintī | adj | relfecting internally; pondering one's inner being; (comm) c… |
+> | appatiṭṭha | adj | unestablished; without basis; without support; (comm) withou… |
+> | alolupa | adj | not very greedy; free from desire |
+> | kaccissa (?) | ? |  |
+> | saṁsuddhacāraṇa | adj | leading a pure life; with clean conduct |
+> | vebhūtiya | nt |  |
+> | khīṇabyappatha | adj | speaking harshly; using sharp words; speaking critically |
+> | supaṇihita | adj | well orientated; well disposed; correctly inclined |
+> | anomanāma | adj | nobly named; perfectly named |
+> | sabbavidū | adj | all-knowing; omniscient |
+> | sudhammatan (?) | ? |  |
+> | sūdha (?) | ? |  |
+> | anumodati | pr | approves (of); appreciates; applauds; is pleased (by) |
+> | verabhayātīta | adj | beyond hatred and fear; surpassed animosity and danger |
+> | ādiya | ger | taking up |
+> | pavedita | pp | taught; explained; proclaimed; made known |
+> | byappatha | masc | way of speech; mode of speaking |
+> | atthañca (?) | ? |  |
+> | vasīkata | adj | subjugated; under one's control; subject to one's authority |
+> | duttara | adj | hard to cross; hard to overcome |
+> | nandībhavaparikkhīṇa | adj | eradicated enjoyment in existence |
+> | akkhātar | masc | speaker (of); who tells (about); who speaks (about); who exp… |
+> | patha | masc | path; road; way |
+> | nipuṇatthadassī | adj | who sees the subtle truth; who perceives the subtle goal; (c… |
+> | nādiyati | pr | does not take; does not steal |
+> | kāmasaññā | fem | perception connected with sensual pleasure; recognition conc… |
+> | niyyāna | nt | outlet; exit |
+> | riñca (?) | ? |  |
+> | santhava | nt | intimacy (with); close association (with) |
+> | sabbabhūtāni | nt | all beings |
+> | virājetvā | abs | having cleansed; having purified; having removed |
+> | aṇṇava | masc | sea; ocean; body of water |
+> | pavattar | masc | proclaimer; propagator; disseminator (of) |
+> | naga | masc | mountain |
+> | vijjā | fem | knowledge; wisdom; understanding |
+> | sātāgira | masc |  |
+> | uposatha | masc | full moon or new moon observance day |
+> | pasaṁsati | pr | praises; approves (of); commends |
+> | asatta | pp | unattached (to); without clinging (to); not stuck (to) |
+> | gambhīrapañña | adj | with profound understanding; having deep wisdom |
+> | anapekkhī | adj | indifferent (to); not interested (in); unconcerned (about); … |
+> | nāha | perf | did not say |
+<!-- pali-nlp:vocab-end -->

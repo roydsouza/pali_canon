@@ -479,3 +479,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp1_7_att#§142|Aggikabhāradvājasuttavaṇṇanā §142]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | garahā | fem | blame; criticism |
+> | duggatyā | fem | from a state of misery; from a bad destination; from hell |
+> | abhiṇhamupadissare (?) | ? |  |
+> | mantabandhava | masc | who specialize in the Vedas |
+> | ajjhāyakakula | nt | family of a Brahman teacher; household of Vedic reciter |
+> | brahmalokūpapatti | fem | rebirth in Brahma's realm; re-arising in the world of the go… |
+> | abhiruyha | ger | (of a horse, elephant or vehicle) ascending (onto); climbing… |
+> | devayāna | nt | celestial chariot; vehicle of the gods; spaceship |
+> | tassupaṭṭhānaṁ (?) | ? |  |
+> | caṇḍālaputta | masc | son of an outcaste; child of the lowest caste |
+> | nidassana | nt | comparison; example; evidence |
+> | yathāmedaṁ | sandhi | according to this (example) of mine; as per this (illustrati… |
+> | yete (?) | ? |  |
+> | vasalādhama | masc | the lowest of the low; the worst of the worst |
+> | anarahant | masc | not an awakened being; unenlightened person |
+> | anottappī | adj | shameless; without regret; without remorse; without concern |
+> | rosaka | adj | provocative; button pushing; infuriating |
+> | mavajānā (?) | ? |  |
+> | nijigīsāna | prp | desiring; wanting to get |
+> | kiñcikkha | nt | some little thing; trifle |
+> | paliguṇṭhita | pp | entangled; enveloped; covered with |
+> | pabrū (?) | ? |  |
+> | bhattakāla | masc | mealtime |
+> | nappaṭipūje (?) | ? |  |
+> | sucibhojana | nt | fine food; delicious meal |
+> | anatthamanusāsa (?) | ? |  |
+> | sasu | fem | mother-in-law |
+> | sampiyena | ind | by mutual consent |
+> | paṭidissa (?) | ? |  |
+> | sakhi | masc | friend; companion |
+> | dhanahetu | ind | for the sake of wealth |
+> | parahetu | ind | for the sake of another |
+> | kiñcikkhamāde (?) | ? |  |
+> | kiñcikkhakamyatā | fem | desire for some small thing; wanting some trifle |
+> | iṇamatthī (?) | ? |  |
+> | cujjamāna | prp | being pressed to repay (a debt) |
+> | iṇamādāya | ger | taking a loan; taking on a debt; borrowing capital |
+> | adinnamāde (?) | ? |  |
+> | niggāhaka | masc | oppressor; persecutor; tyrant |
+> | parirundhati | pr | surrounds; besieges |
+> | dayā | fem | compassion (for); kindness (towards); mercy (for); pity (on) |
+> | dvija | adj | twice born; born from an egg; oviparous |
+> | ekaja | adj | once born; live born (not from an egg) |
+> | vipannadiṭṭhi | adj | who has wrong view; with perverted belief |
+> | pāpamakkhī | adj | who slanderers badly; who badly denigrates other's worth |
+> | vasalaka | masc | despicable outcast |
+> | paggahita | pp | offering (an oblation) |
+> | sudullabha | adj | extremely difficult to find; very rare to get |
+> | mātaṅga | masc | elephant |
+> | paṭijānanta | prp | claiming; asserting |
+> | samukkaṁsati | pr | exalts; praises |
+> | bhutvāna | abs | having eaten |
+> | tiṭṭhāhī (?) | ? |  |
+> | bhara | adj | supporting; bearing; carrying |
+> | pahu | adj | able; capable |
+> | jiṇṇaka | adj | aged; old |
+> | sakkhipuṭṭha | adj | questioned as eye witness; asked in court |
+> | tadamināpi (?) | ? |  |
+> | paribbāja | masc | homeless spiritual seeker; wandering monk |
+> | attahetu | ind | for one's own sake |
+<!-- pali-nlp:vocab-end -->

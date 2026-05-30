@@ -70,3 +70,43 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Nāgasamālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (34 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | udikkhi | aor | saw; looked up (at) |
+> | paviṭṭhohaṁ (?) | ? |  |
+> | naṭṭakī | fem | dancer; actress |
+> | candanussada | adj | heavily perfumed with sandalwood |
+> | mālī | adj | wearing garlands; wreathed in flowers |
+> | tūriya | nt | musical instrument |
+> | maccupāsaṁva (?) | ? |  |
+> | piṇḍikā | fem | alms food |
+> | mahāpatha | masc | main road; high road; highway |
+> | oḍḍita | pp | (of snare, net, trap) laid down; planted; set |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | suvasana | adj | well-dressed; beautifully clothed |
+> | udapajjā | imperf | appeared; arose |
+> | nārī | fem | woman |
+> | alaṅkata | pp | dressed up; decorated; adorned (with) |
+> | pāturahosi | aor | appeared; manifested |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | nacca | nt | dancing; acting |
+> | gacchanta | prp | going; walking; travelling |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | sāsanan (?) | ? |  |
+> | majjha | adj | middle of; mid- |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | ādīnava | masc | danger (in); problem (in) |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | vijjanta | prp | existing |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

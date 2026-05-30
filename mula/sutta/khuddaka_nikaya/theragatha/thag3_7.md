@@ -59,3 +59,35 @@ tags:
 *and to calm the mind.*
 *… Vāraṇo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (26 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | cittavūpasama | masc | calming the mind; settling the mind |
+> | bahuñhi (?) | ? |  |
+> | sabbapāṇānukampa (?) | ? |  |
+> | parapāṇa | masc | another being; other living beings |
+> | samaṇūpāsana | nt | contemplative practice; monk training; training in the skill… |
+> | ekāsana | adj | sitting alone |
+> | ubhaya | adj | both; referring to two things |
+> | dhaṁsati | pr | falls (from); falls down (from); is deprived (of) |
+> | hiṁsa | adj | harming; injuring; hurting |
+> | tādisaka | adj | of that kind; of such character; of such quality; like |
+> | rahas | masc | private place; secret location |
+> | yodha | masc | soldier; warrior; mercenary |
+> | pasava | masc |  |
+> | subhāsita | adj | well spoken; articulate; eloquent |
+> | metta | adj | friendly; benevolent; kind |
+> | puñña | nt | merit; good deed; spiritual wealth |
+> | nara | masc | man; person |
+> | manussa | masc | human being; man; person |
+> | sikkhati | pr | learns; trains (in); practices |
+> | para | pron | other; another (person) |
+> | atthi | pr | there is; there exists |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | loka | masc | world; universe; cosmos |
+> | citta | nt | mind; heart |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

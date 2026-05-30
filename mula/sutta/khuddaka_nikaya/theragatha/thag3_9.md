@@ -60,3 +60,34 @@ parallels:
 *and more than that is a rabble.”*
 *… Yasojo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (25 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | tatuttarin (?) | ? |  |
+> | kolāhala | nt | rabble; mob; noisy crowd |
+> | dhamanisantha | adj |  |
+> | kālapabbaṅgasaṅkāsa | adj | with limbs looking like the joints of a necklace plant |
+> | adīnamānasa | adj | with an unwavering mind; undaunted in spirit; not depressed |
+> | tatrādhivāsayati | pr | endures there; continues in that place |
+> | saṅgāmasīseva (?) | ? |  |
+> | brahāvana | nt | great wood; mighty forest |
+> | makasa | masc | mosquito; gnat |
+> | ḍaṁsa | masc | gadfly; horsefly; stinging insect |
+> | mattaññū | adj | knowing the correct measure (in); knowing the limit (in); mo… |
+> | kisa | adj | thin; lean; skinny; scrawny |
+> | annapāna | nt | food and drink |
+> | arañña | nt | forest; wood; wild; wilderness |
+> | phuṭṭha | pp | touched (by); contacted (by); experienced |
+> | gāma | masc | village; hamlet |
+> | nāga | masc | noble person; great man; epithet of an arahant; epithet of t… |
+> | nara | masc | man; person |
+> | brahma | masc | God; creator god |
+> | dvi | card | two (2) |
+> | sa | prefix | with; having; affected with |
+> | tatha | adj | true; real; actual |
+> | deva | masc | deity; god |
+> | eka | card | one (1) |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+<!-- pali-nlp:vocab-end -->

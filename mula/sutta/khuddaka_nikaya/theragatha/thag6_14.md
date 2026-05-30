@@ -107,3 +107,65 @@ tags:
 *Gāthāyo caturāsīti,*
 *therā cettha catuddasāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (56 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ācinan (?) | ? |  |
+> | upasevan (?) | ? |  |
+> | itthirūpasmi | nt | in the feminine form; in female appearance |
+> | bādhayan (?) | ? |  |
+> | baḷiseneva (?) | ? |  |
+> | nilīna | pp | hidden; concealed |
+> | nissaṭa | pp | escaped (from); freed (from); released (from) |
+> | kūṭa | adj | false; crooked; corrupt |
+> | samativatta | pp |  |
+> | sappasseva (?) | ? |  |
+> | vissavant | adj | musty; bad smelling; carnal |
+> | nānākuṇapaparipūra | adj | filled with various corpses; full of a variety of disgusting… |
+> | parihīra (?) | ? |  |
+> | dvipādakoyaṁ (?) | ? |  |
+> | rattacitta | adj |  |
+> | ambuja | adj | born in water; living in water; aquatic |
+> | sabbakāma | masc | all sensual pleasure; all objects of sense desire |
+> | ghora | adj | terrible; awful; dreadful |
+> | vānara | masc | monkey |
+> | lepa | masc | sticky stuff; sticky paste; tar |
+> | kaṭasī | fem | cemetery; charnel ground |
+> | kāmesvādīnava | masc | danger in sensual pleasures; drawback of sensuality |
+> | vaḍḍhen (?) | ? |  |
+> | daṭṭhar | masc | who sees; seer; (comm) having seen |
+> | sira | adj | with a head; with a skull |
+> | miga | masc | deer |
+> | nekkhamma | nt | renunciation; rejection of sensual pleasure |
+> | soma | masc |  |
+> | duggandha | adj | foul smelling; fetid; malodorous; stinky |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | āsavakkhaya | masc | wearing away of the effluents; destruction of the defilement… |
+> | manorama | adj | delightful; pleasant; attractive |
+> | dissati | pr | is seen; is observed; is manifest |
+> | parivajjati | pr | avoids; shuns; steers clear (of) |
+> | asuci | adj | impure; unclean; filthy; foul; disgusting |
+> | ceta | nt | name of a country |
+> | khema | adj | well; safe; secure; at peace; at rest |
+> | viya | ind | like; as |
+> | phoṭṭhabba | nt | touch; physical sensation; tactile sensation |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | kāmaguṇa | masc | object of sensual pleasure |
+> | pada | nt | foot |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | rasa | masc | taste; flavour |
+> | gandha | masc | smell; scent; odour |
+> | sadda | masc | sound; noise |
+> | puthujjana | masc | common man; ordinary man; normal person; man in the street |
+> | disvā | abs | having seen; having understood; having found out |
+> | sa | prefix | with; having; affected with |
+> | pañca | card | five (5) |
+> | rūpa | nt | matter; material thing; materiality; experience of material … |
+> | eta | pron | this |
+> | loka | masc | world; universe; cosmos |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

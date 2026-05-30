@@ -439,3 +439,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_5_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | brahmalokan (?) | ? |  |
+> | yajitvā | abs | having offered a sacrifice; have made a sacrificial offering |
+> | brahmasamosi (?) | ? |  |
+> | brahmajjadiṭṭho (?) | ? |  |
+> | kenattanā (?) | ? |  |
+> | bajjhatī | pr | it is bound (by); it is tied up (by); it is caught (by); it … |
+> | satatamappamatto (?) | ? |  |
+> | bhāvayamappamāṇaṁ (?) | ? |  |
+> | pavineyya | ger | removing; getting rid (of) |
+> | vippasādeti | pr | gladdens; makes confident |
+> | tvañhettha (?) | ? |  |
+> | pucchana | nt | (of a question) asking; enquiring; questioning |
+> | sabbamupātivattā (?) | ? |  |
+> | jahitvā | abs |  |
+> | natthidha (?) | ? |  |
+> | akopa | adj |  |
+> | upātipanna | pp |  |
+> | sabbasaṁyojanavippamutta | adj | freed from all the fetters; released from all bondage |
+> | sabbasaṁyojanabandhanacchida | adj | who has cut all the chains and ropes; who has severed all bo… |
+> | kāsāyavāsī | adj |  |
+> | pucchāmahaṁ (?) | ? |  |
+> | pasavāmī (?) | ? |  |
+> | kaccāhaṁ | sandhi | I hope I; I trust I |
+> | paññāsāyapi (?) | ? |  |
+> | cattālīsāyapi (?) | ? |  |
+> | tiṁsāyapi (?) | ? |  |
+> | vīsāyapi (?) | ? |  |
+> | dasannampi (?) | ? |  |
+> | navannampi (?) | ? |  |
+> | aṭṭhannampi (?) | ? |  |
+> | sattannampi (?) | ? |  |
+> | channampi (?) | ? |  |
+> | pañcannampi (?) | ? |  |
+> | catunnampi (?) | ? |  |
+> | tiṇṇampi (?) | ? |  |
+> | dvinnampi (?) | ? |  |
+> | appamaññā | fem |  |
+> | yaññasampadā | fem |  |
+> | pasavanta | prp |  |
+> | pasavati | pr | flows out; pours out; discharges |
+> | satassapi (?) | ? |  |
+> | ekassapi (?) | ? |  |
+> | dhammādhigata | adj | legally acquired; righteously obtained |
+> | pariyesitvā | abs | having sought for; having searched for; having sought out |
+> | rāhuggahaṇa | nt | eclipse |
+> | candova (?) | ? |  |
+> | susaññatatta | adj | fully self-controlled; properly self-restrained |
+> | sambodhipatta | adj | who has attained awakening; who has fully understood |
+> | tividha | adj | three kinds of; three-fold; three-way |
+> | ayamantimā | sandhi | this is the last; this is the final |
+> | samitāvī | adj | who is at peace; who is cooled; (comm) who has cooled evil |
+> | vitarati | pr | crosses beyond; gets past; overcomes |
+> | yajamāna | prp | making sacrifice; sacrificing |
+> | tuvañhi | sandhi | you indeed |
+> | tasaraṁva (?) | ? |  |
+> | susamāhitindriya | adj | with well composed faculties; with a completely collected mi… |
+> | yajanta | prp | making sacrifices; sacrificing; offering alms |
+> | pharati | pr | pervades; suffuses; fills; extends (to) |
+> | sujjhati | pr | is purified; is cleansed; is washed away |
+> | puññatthika | adj | wanting merit; seeking spiritual wealth |
+<!-- pali-nlp:vocab-end -->

@@ -99,3 +99,57 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti37_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (48 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | santavut (?) | ? |  |
+> | vihārī | adj | (of a state of being) living in; who has; being |
+> | saṁvijjetheva (?) | ? |  |
+> | saṁvejanīyaṭṭhāna | nt | which inspires a sense of urgency; which provokes fear |
+> | saṁvejana | nt |  |
+> | samavekkhiya | ger | considering; reflecting (on) |
+> | sukhasomanassabahula | adj | with abundant ease and happiness; full of physical and menta… |
+> | yoni | fem | conception; birth; womb |
+> | khayāyā (?) | ? |  |
+> | padhāna | nt | making effort; exerting; striving; trying (to) |
+> | saṁvigga | pp | agitated; terrified; in awe; awestruck; in shock |
+> | cetosamathamanuyutta | adj | devoted to tranquillity of mind; practising internal peace |
+> | pāpuṇāti | pr | reaches; arrives (at); comes (to) |
+> | saṁvejanīya | ptp | awe inspiring; hallowed; reverential |
+> | anuddhata | pp | not arrogant; not pompous; not puffed up with pride |
+> | nipaka | adj | intelligent; wise; discerning; astute |
+> | ṭhāna | nt | (physical) place |
+> | āraddha | pp | aroused; applied; undertaken |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | khaya | masc | wearing away (of); exhaustion (of); erosion (of); depletion … |
+> | diṭṭheva (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | avoca | aor | said (something to somebody) |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | samannāgata | pp | possessing; endowed (with); having |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | āsava | masc | discharge from a sore; suppuration from a wound |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ima | pron | this |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+<!-- pali-nlp:vocab-end -->

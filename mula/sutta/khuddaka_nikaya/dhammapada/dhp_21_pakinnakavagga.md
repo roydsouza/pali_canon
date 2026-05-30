@@ -204,5 +204,71 @@ tags:
 *one who tames themselves alone*
 **vanante ramito siyā.**  
 *would delight within a forest.*
-**Pakiṇṇakavaggo ekavīsatimo.**  
+**Pakiṇṇakavaggo ekavīsatimo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ekavīsatima | ordin |  |
+> | damayamattānaṁ (?) | ? |  |
+> | caramatandito (?) | ? |  |
+> | asantettha (?) | ? |  |
+> | himavantova (?) | ? |  |
+> | pakāsen (?) | ? |  |
+> | yasobhogasamappita | adj | famous and wealthy; renowned and rich |
+> | dukkhānupatita | adj | afflicted with suffering; stricken by pain; fallen into mise… |
+> | caddhagū (?) | ? |  |
+> | dukkhānupatitaddhagū | masc | a traveller who is afflected with suffering; a wayfarer stri… |
+> | dukkhosamānasaṁvāso | sandhi | living together with others is painful; (comm) living togeth… |
+> | durāvāsa | adj | difficult to live in; hard to stay in |
+> | durabhirama | adj | difficult to enjoy; hard to find pleasure in |
+> | duppabbajja | adj | difficult to ordain; hard to renounce |
+> | saṅghagata | adj | in the midst of the community |
+> | veyagghapañcama | adj | with tiger as the fifth; (comm) with the path of tiger |
+> | sotthiya | masc | learned Brahman; one well versed in sacred knowledge; theolo… |
+> | sānucara | adj | with followers; with attendants; with retinue |
+> | verasaṁsaggasaṁsaṭṭha | adj | entwined with the entanglement of hatred |
+> | sukhamicchati | pr | wants happiness; desires comfort |
+> | paradukkhūpadhāna | nt | imposing suffering on others; causing another discomfort |
+> | mattāsukha | nt | limited happiness; small comfort |
+> | mattāsukhapariccāga | masc | forsaking a small comfort; giving up a limited happiness |
+> | pakiṇṇakavagga | masc |  |
+> | ramita | pp | finding pleasure (in); taking delight (in); making oneself h… |
+> | vananta | nt | forest region; edge of the forest |
+> | dhammagata | adj | immersed in the teaching; focused on the Dhamma |
+> | buddhagata | adj | immersed in the Buddha; focused on the Buddha |
+> | sātaccakārī | adj | persistently doing; persevering (in) |
+> | cajati | pr | gives up; abandons; forsakes |
+> | ekaseyya | adj | sleeping alone; living alone |
+> | ekāsana | adj | sitting alone |
+> | sevan (?) | ? |  |
+> | dissan (?) | ? |  |
+> | akicca | nt | (something which) should be not done; ought not to be made |
+> | ahiṁsā | fem | non-violence (towards); harmlessness (to) |
+> | sampassanta | prp | seeing; looking at; regarding; considering |
+> | karīyati | pr | is done (by); is practised (by) |
+> | pabujjhan (?) | ? |  |
+> | apaviddha | pp | discarded; rejected; abandoned; neglected |
+> | hantvā | abs | having killed; having slain |
+> | yesañca | sandhi | and for whoever |
+> | khitta | pp | thrown; cast; tossed |
+> | gotamasāvaka | masc | Gotama's disciple; Buddha's adherent |
+> | unnaḷa | pp | haughty; arrogant; conceited; proud; (comm) with hollow prid… |
+> | vera | nt | hatred; ill-will; animosity; antagonism; hostility |
+> | kicca | nt | obligation (for); duty (for); work (for) |
+> | raṭṭha | nt | country; land; kingdom; realm |
+> | anīgha | adj | untroubled; undisturbed; calm |
+> | dukha | adj | uncomfortable; painful; unpleasant |
+> | ratta | nt | day; night |
+> | parimuccati | pr | is completely freed (from); is totally liberated (from); esc… |
+> | pabba | nt | elbow; joint; limb |
+> | vaḍḍhan (?) | ? |  |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | yañhi | sandhi | which certainly; whatever indeed |
+> | suppabuddha | masc | name of a leper |
+> | bhajati | pr | associates (with); keeps company (with) |
+> | padesa | masc | place; location; region; area |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+<!-- pali-nlp:vocab-end -->

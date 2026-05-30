@@ -194,3 +194,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti88_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | taman (?) | ? |  |
+> | ādiccovudayaṁ (?) | ? |  |
+> | muyhati | pr | is deluded (by); is fooled (by); is deceived (by) |
+> | tālapakkaṁva (?) | ? |  |
+> | dosaneyya | nt | hateful thing; detestable object |
+> | lubbhati | pr |  |
+> | lobhaneyya | nt | desirable thing; alluring object |
+> | vihan (?) | ? |  |
+> | udabindūva (?) | ? |  |
+> | mohaneyya | adj |  |
+> | andhatama | nt | deep darkness |
+> | bhayamantarato | sandhi | danger from within |
+> | cittappakopana | masc | agitating the mind; disturbing the mind |
+> | anatthajanana | adj |  |
+> | nāvabujjhati | pr | does not know; does not discern; does not understand; doesn'… |
+> | antarāpaccatthika | masc | inner adversary; internal opponent |
+> | antarāvadhaka | masc | inner injurer; which harms one internally |
+> | antarāsapatta | masc | internal enemy; inner foe |
+> | antarāamitta | masc | internal enemy; inner foe |
+> | antarāmala | masc | internal impurity; inner defilement; interior contamination |
+> | duṭṭha | pp | wicked; evil; bad; corrupt |
+> | luddha | pp | who is greedy; who wants |
+> | pokkhara | nt | blue lotus flower; blue lotus petal; Nymphaea nouchali caeru… |
+> | dussa | nt | cloth |
+> | sahati | pr | overpowers; overcomes; conquers; defeats |
+> | pahantvāna | abs | having destroyed; having put an end to; having terminated |
+> | mūḷha | masc | foolish person; deluded man; madman |
+> | tayome | sandhi | these three |
+> | lobha | masc | greed; wanting; desire |
+> | tadā | ind | then; at that time |
+> | bandhana | nt | tie; rope; bond; fetter |
+> | pahīyati | pr | is abandoned; is given up |
+> | moha | masc | illusion; delusion; hallucination |
+> | dosa | masc | aversion; ill-will; hate; hatred |
+> | jāta | pp | born; born (in); born (from) |
+> | nara | masc | man; person |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | jana | masc | man; person; fellow |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | sabba | pron | all; every |
+> | katama | pron | what?; which (of the many)? |
+> | pa | adj | drinking; who drinks |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

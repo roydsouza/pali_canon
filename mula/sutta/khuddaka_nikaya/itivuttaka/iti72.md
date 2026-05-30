@@ -87,3 +87,56 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti72_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (47 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | rūpānañca (?) | ? |  |
+> | kāmanissaraṇa | nt | escape from sensual desire; way out of sensuality |
+> | rūpānametaṁ (?) | ? |  |
+> | kāmānametaṁ (?) | ? |  |
+> | nissaraṇiya | ptp | related to escape; regarding exit |
+> | yogātiga | adj | who has overcome the bond; who has transcended bondage |
+> | āruppa | nt | formless existence; immaterial state |
+> | phusanta | prp | touching; feeling; sensing |
+> | sammaddasa | adj | seeing correctly; understanding perfectly |
+> | abhiññāvosita | adj | who has attained perfect understanding; who has completely u… |
+> | nekkhamma | nt | renunciation; rejection of sensual pleasure |
+> | atikkama | masc | surpassing; transcending; going beyond; overcoming (of) |
+> | sabbadā | ind | always; at all times |
+> | paṭiccasamuppanna | adj | arisen together from a cause; causally produced; dependently… |
+> | sabbasaṅkhārasamatha | masc | stilling of all processes; calming of all activities |
+> | dhātu | fem | state; property; condition; element |
+> | saṅkhata | pp | created; constructed; conditioned; fabricated |
+> | nissaraṇa | nt | escape (from); exit (from); exodus (from); way out (of) |
+> | vimuccati | pr | is released (from); is free (from) |
+> | ñatvā | abs | having known; having found out; having understood |
+> | bhūta | pp | existing; born; living |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | ātāpī | adj | avid; ardent; zealous; with continuous effort |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | yadidaṁ | sandhi | namely; that is |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | tattha | ind | there; in that place |
+> | katama | pron | what?; which (of the many)? |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -1920,3 +1920,69 @@ parallels:
 
 *Sāmaññaphalasuttaṁ niṭṭhitaṁ dutiyaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | uppajjissathā (?) | ? |  |
+> | imasmiññeva | sandhi | in this very; in this exact |
+> | khata | pp | hurt; injured |
+> | voropesi | aor | deprived (of); removed (from); cut off (from); took down (fr… |
+> | issariyakāraṇa | nt |  |
+> | tiṭṭhantipī (?) | ? |  |
+> | carantipi (?) | ? |  |
+> | macchagumbāpi (?) | ? |  |
+> | sakkharakathalāpi (?) | ? |  |
+> | sippisambukāpi (?) | ? |  |
+> | sakkharakathalampi (?) | ? |  |
+> | pabbatasaṅkhepa | masc | mountain range; (comm) mountain peak |
+> | sañcaran (?) | ? |  |
+> | nisinnepi (?) | ? |  |
+> | sañcarati | pr | (gram) is used; appears |
+> | rathikāyapi (?) | ? |  |
+> | nikkhamantepi (?) | ? |  |
+> | pavisantepi (?) | ? |  |
+> | paccāgata | pp | returned (to); went back (to) |
+> | paccāgacchati | pr | returns (to); comes back (to); reverts (to) |
+> | akaṇikan (?) | ? |  |
+> | akaṇika | adj | blemish-free; unspotted |
+> | sakaṇikan (?) | ? |  |
+> | sakaṇika | adj | blemished; blotchy; spotted |
+> | udakapatta | masc | bowl of water |
+> | maṇḍanajātika | adj | who is fond of adornment; who likes beautifying oneself |
+> | saṅkhapaṇavadindimasadda | masc |  |
+> | saṅkhapaṇavadindimasaddampi (?) | ? |  |
+> | mudiṅgasaddampi (?) | ? |  |
+> | bherisaddampi (?) | ? |  |
+> | suvaṇṇavikati | fem | gold design; piece of goldwork |
+> | dantavikati | fem | ivory design; piece of ivory-work |
+> | dantakārantevāsī | masc | ivory carver's apprentice; ivory craftman's understudy |
+> | dantakāra | masc | ivory carver; ivory craftsman |
+> | bhājanavikati | fem | bowl design; piece of pottery work |
+> | kumbhakārantevāsī | masc | potter's apprentice |
+> | ubbhata | pp | lifted up (from); pulled out (from) |
+> | tatrāssa | sandhi | there would be; there could be; there might be |
+> | paṭibaddhan (?) | ? |  |
+> | sammādhārā | fem | good rain; thorough downpour |
+> | paggharaṇī | adj |  |
+> | khemantabhūmi | fem | place of rest; safe place; peaceful land; sanctuary |
+> | bandhanāmokkha | masc | release from imprisonment; emancipation from captivity |
+> | āṇaṇya | nt | freedom from debt; being debt-free; being out of debt |
+> | anupāpuṇāti | pr | reaches; arrives (at); comes (to) |
+> | sabhoga | adj | wealthy; with possessions |
+> | aparādhī | adj |  |
+> | attādhīna | adj | belonging to oneself; depending on one's own will |
+> | parādhīna | adj | belonging to another; subject to another |
+> | anattādhīna | adj | not belonging to oneself; depending on another's will |
+> | abbhaya | adj | without fear; (safe and) sound |
+> | nacchādeti | pr | (food) does not agree (with); does not please; does not give… |
+> | bhattañcassa (?) | ? |  |
+> | dārabharaṇa | nt | maintaining a wife; supporting a family |
+> | iṇamūla | nt | debt money; loan; capital |
+> | payojeti | pr | (of work) engages (in); undertakes; takes (on) |
+> | nihatapaccāmitta | adj |  |
+> | muddhābhisitta | adj | head-anointed; consecrated; inaugurated |
+> | kaṇṇikalakkhaṇa | nt |  |
+> | parisuddhājīva | adj | with pure livelihood; with proper mode of living |
+<!-- pali-nlp:vocab-end -->

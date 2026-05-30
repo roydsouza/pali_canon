@@ -153,3 +153,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti90_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | aggappatta | adj | who has reached the peak level; who has attained the pinnacl… |
+> | aggadhammasamāhita | adj | possessing the top teaching; having the highest doctrine |
+> | virāgūpasama | masc | fading of desire and calming; dispassion and tranquillizatio… |
+> | tathāgatasāvakasaṅgha | masc | community of the Buddha's disciples |
+> | vaṭṭupaccheda | masc |  |
+> | ālayasamugghāta | masc | eradication of attachment; destruction of clinging |
+> | pipāsavinaya | masc |  |
+> | madanimmadana | nt | removing vanity; crushing conceit; subduing pride |
+> | nevasaññināsaññī | adj | neither percipient nor non-percipient; neither conscious nor… |
+> | kit (?) | ? |  |
+> | aggappasāda | masc |  |
+> | pamodatī (?) | ? |  |
+> | devabhūta | adj | become a deity; being a god |
+> | dadanta | prp | giving; offering; bestowing |
+> | dātar | masc | giver; donor (of) |
+> | purisayuga | nt | pair of people; pair of individuals |
+> | apada | adj | footless; legless |
+> | vijānanta | prp | knowing; understanding; comprehending |
+> | añjalikaraṇīya | ptp | worthy of reverence |
+> | pāhuneyya | adj | worthy of hospitality |
+> | bahuppada | adj | many footed; many legged |
+> | dvipada | adj | two footed; with two feet |
+> | āhuneyya | adj | worthy of offerings |
+> | catuppada | masc | four lines of verse; four sentences |
+> | asaṅkhata | pp | unconditioned; not created; unformed; unconstructed; epithet… |
+> | yasa | masc | name of an arahant monk |
+> | gaṇa | masc | group; crowd |
+> | taṇhakkhaya | masc | wearing away of craving; depletion of desire; extinction of … |
+> | puññakkhetta | nt | field of merit |
+> | dakkhiṇeyya | adj | worthy of gifts; worthy of offerings |
+> | pavaḍḍha | adj |  |
+> | tayome | sandhi | these three |
+> | āyu | nt | life |
+> | asaññī | adj | non-percipient; unconscious; unaware |
+> | aggamakkhāya (?) | ? |  |
+> | agga | adj | highest; topmost; foremost; supreme; ultimate |
+> | bala | nt | strength; power; might |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | saṅkhata | pp | created; constructed; conditioned; fabricated |
+> | pasanna | pp | bright; clear; pure |
+> | saññī | adj | percipient (of); conscious (of); aware (of) |
+> | arūpī | adj | formless; shapeless; without material form |
+> | sāvakasaṅgha | masc | community of disciples |
+> | vipāka | masc | (of an action) result; outcome; consequence; fruit |
+> | rūpī | adj | material; physical; having form |
+> | puñña | nt | merit; good deed; spiritual wealth |
+> | purisapuggala | masc | individual; individual person |
+> | aṭṭha | card | eight (8) |
+> | vaṇṇa | masc | beauty; good looks |
+> | virāga | masc | fading of desire (for); dispassion (towards); detachment (fr… |
+> | manussa | masc | human being; man; person |
+> | yāvant | adj | as many as; however many |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | sammāsambuddha | masc | perfectly awakened one; fully enlightened being |
+<!-- pali-nlp:vocab-end -->

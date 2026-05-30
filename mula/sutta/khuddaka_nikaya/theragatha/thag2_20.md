@@ -59,3 +59,17 @@ tags:
 *Nando ca sirimā ceva,*
 *dasa therā mahiddhikāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (8 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | garahan (?) | ? |  |
+> | pasaṁsan (?) | ? |  |
+> | mogha | adj | useless; pointless; futile; ineffective; unprofitable; vain |
+> | asamāhita | pp | distracted; scattered; not composed |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | para | pron | other; another (person) |
+> | atta | masc | self; soul; spirit; essence |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

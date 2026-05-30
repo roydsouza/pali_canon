@@ -48,3 +48,25 @@ tags:
 *even if they are of bad character.*
 *… Ajino thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (16 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pāpadhammopi (?) | ? |  |
+> | hotidha (?) | ? |  |
+> | avajānan (?) | ? |  |
+> | appaññāta | pp | unknown; not known; not famous |
+> | maccuhāyī | adj | who has abandoned death; who has left death behind; who has … |
+> | annapāna | nt | food and drink |
+> | ajānanta | prp | not knowing; being ignorant (of) |
+> | lābhī | adj | who gains; who gets; who has |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | tevijja | adj | knowing the three Vedas |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | puggala | masc | person; individual |
+> | sakka | ptp | able; capable; proficient |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

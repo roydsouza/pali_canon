@@ -172,5 +172,71 @@ tags:
 *you’ll find no place on the planet*
 **Yatthaṭṭhitaṁ nappasaheyya maccu.**  
 *where you won’t be vanquished by death.*
-**Pāpavaggo navamo.**  
+**Pāpavaggo navamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nappasahati | pr | does not overcome; does not overpower; does not conquer |
+> | sugatī | adj | righteous; good; just; fortunate |
+> | gabbhameke (?) | ? |  |
+> | visamanve (?) | ? |  |
+> | nābbaṇaṁ (?) | ? |  |
+> | vaṇa | masc | wound; sore; injury |
+> | jīvitukāmova (?) | ? |  |
+> | appasattha | adj | with small caravan; with few companions |
+> | vāṇijova (?) | ? |  |
+> | bhadropi (?) | ? |  |
+> | pāpopi (?) | ? |  |
+> | pāpañce | sandhi | if evil action; if crime |
+> | dandhañhi (?) | ? |  |
+> | abhittharati | pr | makes haste (to do); is quick (to do) |
+> | yatthaṭṭhita | adj | where standing; where staying; where remaining |
+> | jagatippadesa | masc | place on earth; place in the world |
+> | pavissa | ger | entering; going (into) |
+> | samuddamajjhe | ind | in the middle of the sea; amidst the ocean |
+> | paṭivātaṁva (?) | ? |  |
+> | udakumbhopi (?) | ? |  |
+> | udabindunipāta | masc |  |
+> | māvamaññetha (?) | ? |  |
+> | puññañce (?) | ? |  |
+> | uccaya | masc | heap; pile; accumulation |
+> | pāpavagga | masc |  |
+> | pāpakammī | masc | evil doer; criminal; villain |
+> | appaduṭṭha | pp | without anger; not upset |
+> | thokampi (?) | ? |  |
+> | āgamī | adj |  |
+> | parinibban (?) | ? |  |
+> | navama | ordin | ninth (9th) |
+> | nivāraya | adj | restraining; holding back; holding in check |
+> | visa | nt | poison; toxin; venom |
+> | vivara | nt | opening; open space |
+> | akubbanta | prp | not doing; not making |
+> | harati | pr | carries; carries away; takes away |
+> | mahaddhana | adj | having much money; rich; wealthy |
+> | khitta | pp | thrown; cast; tossed |
+> | parivajjayati | pr | completely avoids; shuns; keeps away (from) |
+> | ramanta | prp |  |
+> | manda | adj | dull; dull-witted; slow; stupid; not bright |
+> | muccati | pr | is free (from); becomes free (from); is released (from) |
+> | dussa | nt | cloth |
+> | yan (?) | ? |  |
+> | ācinanta | prp | accumulating; gathering; collecting; heaping up |
+> | bhadra | adj | fortunate; blessed; lucky; auspicious; good |
+> | raja | adj | dusty; dirty; with dirt |
+> | thoka | adj | little; tiny; minute |
+> | posa | masc | man |
+> | paccati | pr | is cooked |
+> | antalikkha | nt | sky; air |
+> | kalyāṇa | adj | good; favourable; propitious; beneficial; lovely |
+> | pāpakamma | nt | bad deed; crime; evil action; wrongdoing; misconduct |
+> | suddha | pp | clean; pure; white |
+> | maccu | masc | death; Death |
+> | tameva | sandhi | that very; that same; just him; only that |
+> | pāṇi | masc | hand; palm |
+> | pūra | adj | full (of); filled (with); stuffed (with) |
+> | sukhuma | adj | fine; subtle; refined |
+> | punappunaṁ | ind | repeatedly; again and again |
+<!-- pali-nlp:vocab-end -->

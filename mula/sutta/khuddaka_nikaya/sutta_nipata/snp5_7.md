@@ -152,3 +152,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_7_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | vādapathāpi (?) | ? |  |
+> | samohatesu (?) | ? |  |
+> | pamāṇamatthi (?) | ? |  |
+> | sassati | fem | eternity |
+> | vātavega | masc | force of the wind; gust of wind |
+> | sītisiyā | opt | could become cool; could be liberated |
+> | pūgampi (?) | ? |  |
+> | nattamahābhipassa (?) | ? |  |
+> | tārituṁ | inf | to cross; to cross over |
+> | visahati | pr | is able (to) |
+> | mahantamoghaṁ (?) | ? |  |
+> | saññāvimokkha | masc | meditation attainment with sense perception |
+> | vajjā | opt | should say; could speak |
+> | acci | fem | flame |
+> | anānuyāyī | adj | who does not go on; who does not continue; remaining |
+> | viyākaroti | pr | answers; replies |
+> | atthaṅgata | pp | (of the sun) set; gone down |
+> | upasīvā (?) | ? |  |
+> | upasīva | masc | name of a Brahman ascetic |
+> | oghamimaṁ (?) | ? |  |
+> | nāmakāya | masc | name group; mind group; mental body; immaterial constituents… |
+> | tarati | pr | crosses; goes through |
+> | tathāvidha | adj | of such character; of such quality; such a kind of |
+> | khitta | pp | thrown; cast; tossed |
+> | pala | nt | metal weight; measure of metal |
+> | ākiñcañña | adj | with nothingness; empty; void |
+> | pekkhamāna | prp | seeing; observing |
+> | cavati | pr | moves; shifts; falls away (from) |
+> | samantacakkhu | masc | all seeing one; epithet of the Buddha |
+> | nissita | pp | dependent (on); clung (to); attached (to); supported (by); l… |
+> | taṇhakkhaya | masc | wearing away of craving; depletion of desire; extinction of … |
+> | ārammaṇa | nt | base; basis; foundation; support |
+> | virata | pp | stopped; abstained (from); given up; desisted (from) |
+> | natthī | pr | is not; it is not; there is not; there is no |
+> | ogha | masc | (of water) flood; deluge; torrent |
+> | udāhu | ind | or (second part of a question) |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | aroga | adj | healthy; free from disease |
+> | iccāyasmā | sandhi | thus (said) venerable |
+> | tattheva | sandhi | right there; in that place; on the spot; there and then |
+> | vītarāga | adj | free from desire (for); without lust (for); free from passio… |
+> | anissita | pp | detached (from); disengaged (from); separated (from); indepe… |
+> | upeti | pr | comes; approaches; enters |
+> | brū | root | (gram) √brū (say) |
+> | parama | adj | highest; most extreme; very best; ultimate; superior; sublim… |
+> | mañña | masc | thought; conception; imagination |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | saṅkha | masc | conch shell; mother of pearl |
+> | vidita | pp | known; understood; experienced |
+> | vassa | masc | rain; downpour |
+> | vimutta | pp | freed (from); liberated (from); emancipated (from) |
+> | nissāya | ger | leaning (on); depending (on); being supported (by) |
+> | uda | ind | either; or |
+> | sādhu | adj | good; pleasant; auspicious |
+> | satima | adj | one hundredth (1/100th) |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | tiṭṭhati | pr | stands |
+> | sakka | ptp | able; capable; proficient |
+> | tatha | adj | true; real; actual |
+<!-- pali-nlp:vocab-end -->

@@ -97,3 +97,49 @@ tags:
 *Saṭṭhi ca pañca gāthāyo,*
 *therā ca ettha dvādasāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | atthantara | adj |  |
+> | samuddova (?) | ? |  |
+> | paṭisaṅkhayanta | prp | making reflect; causing to carefully consider |
+> | nakkhambhayati | pr | does not cause one to be frozen stiff; does not cause one to… |
+> | bhattimant | adj |  |
+> | janayati | pr |  |
+> | vacanaññu (?) | ? |  |
+> | āpadā | fem | adversity; misfortune; distress; calamity |
+> | atthañca (?) | ? |  |
+> | asaṁhāriya | ptp | unmoveable; unshakeable (by); unassailable (by) |
+> | uppatita | pp | sprung up; jumped up; flared up |
+> | nipuṇatthadassī | adj | who sees the subtle truth; who perceives the subtle goal; (c… |
+> | thāmavant | adj | having stamina; strong; powerful; firm |
+> | ñatvāna | abs | having known; having found out; having understood |
+> | gambhīrapañña | adj | with profound understanding; having deep wisdom |
+> | visesī | adj | better; distinguished; attained; superior |
+> | pema | nt | love (for); affection (for); fondness (for); dearness |
+> | aneja | adj | unperturbed; unmoved; unruffled; unshakeable |
+> | garu | adj | heavy; onerous; weighty |
+> | anudhammacārī | adj | living according to the Dhamma; following the Dhamma; practi… |
+> | uḷāra | adj | excellent; lofty; high; noble |
+> | dhammadhara | adj | who knows the Dhamma by heart |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | vasa | masc | wish; desire; will |
+> | bahussuta | adj | very learned; well educated; knowledgeable |
+> | ñatvā | abs | having known; having found out; having understood |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | kara | adj | doing; making |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | ṭhita | pp | stood; stood still |
+> | bhāsita | nt | saying; speech; statement; utterance; talk; words |
+> | nāma | ind | certainly; truly; for sure |
+> | tatha | adj | true; real; actual |
+> | assa | masc | horse |
+> | dhamma | masc | nature; character |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

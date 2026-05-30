@@ -157,3 +157,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti74_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kulagandhana | adj | who harms the household; who destroys the family |
+> | puttamicchan (?) | ? |  |
+> | puttopi (?) | ? |  |
+> | icchan (?) | ? |  |
+> | anujāta | pp | coming after; taking after; following in the footsteps (of) |
+> | abbhaghana | masc | mass of thunderclouds; heavy cloud cover |
+> | vītamacchara | adj | selfless; not selfish |
+> | atijāta | adj |  |
+> | avajāta | adj |  |
+> | anujā | fem |  |
+> | vadaññū | adj | generous; giving; liberal |
+> | lokasmin (?) | ? |  |
+> | canda | masc | moon |
+> | pāpadhamma | adj | evil-natured; of bad character |
+> | sīlavant | adj | virtuous; ethical; moral |
+> | surāmerayamajjapamādaṭṭhāna | nt | wine, spirits, drugs and states of intoxication |
+> | kalyāṇadhamma | adj | good-natured; upright nature; of solid character; virtuous |
+> | virocati | pr | shines brightly; is brilliant; is radiant (among) |
+> | appaṭivirata | pp | not abstained (from); not desisted (from); not given up |
+> | kāmesumicchācāra | masc | sexual misconduct; wrong behaviour in sexual matters |
+> | saṁvijjamāna | prp | existing (in); being found (in) |
+> | tayome | sandhi | these three |
+> | sampanna | pp | (of crops & fruit) fully grown; ripe |
+> | adinnādāna | nt | theft; stealing |
+> | mutta | nt | urine |
+> | musāvāda | masc | lying; false speech |
+> | mātāpitar | masc | mother and father; parents |
+> | gata | pp | gone (to); went (for) |
+> | pāṇātipāta | masc | killing living beings; destruction of life |
+> | parisā | fem | assembly; meeting; forum; council; gathering |
+> | dussīla | adj | unprincipled; immoral; of bad behaviour |
+> | sīlava | masc | name of an arahant monk |
+> | bhavan (?) | ? |  |
+> | ga | adj | who goes; goes after; going; gone; having gone; being |
+> | putta | masc | son; child |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | saraṇa | adj | harmful; malign; unpeaceful; (comm) defiled |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | paṇḍita | adj | wise; intelligent; astute; learned; knowledgeable; skilled |
+> | kathañca | sandhi | and how? |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | avoca | aor | said (something to somebody) |
+> | upāsaka | masc | lay disciple; lay devotee |
+> | hon (?) | ? |  |
+> | ayampi | sandhi | one too; this too |
+> | sīla | nt | ethical conduct; virtue; moral integrity |
+> | santa | prp | existing; being; there is |
+> | paṭivirata | pp | abstained (from); desisted (from) |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | idha | ind | here; now; in this world |
+> | katama | pron | what?; which (of the many)? |
+> | eta | pron | this |
+<!-- pali-nlp:vocab-end -->

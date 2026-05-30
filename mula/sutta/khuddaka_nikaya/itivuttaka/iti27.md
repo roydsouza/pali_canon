@@ -180,3 +180,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti27_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | kenacī (?) | ? |  |
+> | mettaṁsa | masc | portion of friendliness; share of benevolence |
+> | jāpayati | pr | causes to conquer |
+> | tāragaṇāva (?) | ? |  |
+> | candappabhā | fem | moonlight; light of the moon |
+> | kalampi (?) | ? |  |
+> | yajamānānupariyagā (?) | ? |  |
+> | rājisi | masc | royal seer; kingly sage; wise ruler |
+> | vijitvā | abs | having conquered; having won; having triumphed (over) |
+> | sattasaṇḍa | adj | full of living beings; thronged with beings; packed with peo… |
+> | pakaro (?) | ? |  |
+> | pahūtamariyo (?) | ? |  |
+> | manasānukampaṁ (?) | ? |  |
+> | pāṇamaduṭṭhacitto (?) | ? |  |
+> | tani | aor |  |
+> | abhivihacca | ger | destroying; eradicating; dispelling; dismissing; abolishing |
+> | tamagata | nt | darkness |
+> | abbhussakkamāna | prp | rising; ascending |
+> | candapabhāyeva (?) | ? |  |
+> | candī | adj |  |
+> | tārakarūpa | nt | starlight; twinkling of the stars |
+> | nānubhavan (?) | ? |  |
+> | vājapeyya | nt | soma sacrifice |
+> | sammāpāsa | masc | name of a sacrifice |
+> | purisamedha | masc | human sacrifice |
+> | assamedha | masc | horse sacrifice |
+> | upadhikkhaya | masc | wearing away of attachment; exhaustion of appropriation; des… |
+> | osadhitārakā | fem | planet Venus; morning star |
+> | ākāsagata | adj | empty; hollow; vacuous; spacious |
+> | vigatavalāhaka | adj | cloudless; clear |
+> | saradasamaya | masc | autumn season; autumn time |
+> | viddha | adj | (of sky) clear |
+> | mettāyeva (?) | ? |  |
+> | paccūsasamayaṁ | ind | before dawn; early in the morning |
+> | sabbabhūtāni | nt | all beings |
+> | adhiggahetvā | abs | having exceeded; having surpassed; having transcended |
+> | opadhika | adj |  |
+> | niraggaḷa | adj | unobstructed; unimpeded; free |
+> | nāgghan (?) | ? |  |
+> | ādicca | masc | sun |
+> | nabhas | masc | sky |
+> | puññakiriyavatthu | nt | basis for good deeds; grounds for making merit |
+> | ghāta | masc | destruction; demolition |
+> | soḷasī | fem | one sixteenth (1/16th) |
+> | pabha | adj | radiant; shining; luminous |
+> | han (?) | ? |  |
+> | kala | masc |  |
+> | tapati | pr | shines; radiates; glows; blazes |
+> | bhāvayati | pr | cultivates; develops |
+> | paṭissata | pp | self-aware; thoughtful; mindful |
+> | virocati | pr | shines brightly; is brilliant; is radiant (among) |
+> | ji | adj | winning; victorious; conquering |
+> | ekampi | sandhi | only one; just one; merely a single |
+> | subhāvita | adj | well cultivated; fully developed |
+> | vāti | pr | blows (among); wafts (to) |
+> | cetovimut (?) | ? |  |
+> | pāṇa | masc | breath |
+> | metta | adj | friendly; benevolent; kind |
+> | pathavī | fem | earth; world |
+> | puñña | nt | merit; good deed; spiritual wealth |
+<!-- pali-nlp:vocab-end -->

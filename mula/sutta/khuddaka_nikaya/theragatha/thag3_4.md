@@ -59,3 +59,26 @@ tags:
 *be content with whatever is offered.*
 *… Dhaniyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (17 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ekadhammañca (?) | ? |  |
+> | mūsikasobbhaṁva (?) | ? |  |
+> | saṅghika | adj | belonging to the community |
+> | tussati | pr | is pleased (with); is satisfied (with); is content (with) |
+> | jīvituṁ | inf | to live; to remain alive; to survive |
+> | nātimaññati | pr | does not despise; does not scorn; does not look down (on); d… |
+> | pānabhojana | nt | drink and food |
+> | apekkhava | adj |  |
+> | itarītara | adj | any; any whatsoever; any kind of |
+> | sayanāsana | nt | living place |
+> | sukhañce (?) | ? |  |
+> | bhāvayati | pr | cultivates; develops |
+> | sevati | pr | associates (with); keeps company (with) |
+> | sāmañña | nt | monkhood; state of being a monk; ascetic life |
+> | ahi | masc | snake; serpent |
+> | cīvara | nt | robe; cloth; robe-cloth |
+> | iccha | adj | wishing for; desiring; wanting |
+<!-- pali-nlp:vocab-end -->

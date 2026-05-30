@@ -95,3 +95,62 @@ tags:
 
 *… Sujātā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (53 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | buddhasāsanan (?) | ? |  |
+> | sampaṭivijjhahaṁ (?) | ? |  |
+> | lokapajjota | masc | light of the world; epithet of the Buddha |
+> | daṭṭhuṁ | inf | to see |
+> | kīḷitvā | abs | having played; having had fun; having amused oneself |
+> | ramitvā | abs | having enjoyed; having taken delight (in) |
+> | uyyānamabhihārayiṁ (?) | ? |  |
+> | nikkhamitvāna | abs | having gone out (from); having left |
+> | bhojja | nt | food; staple food |
+> | sabbābharaṇasañchanna | adj | adorned with all jewellery; dripping in bling |
+> | candanokkhita | adj | sprinkled with sandal; perfumed with sandalwood |
+> | phusayi | aor | experienced; attained |
+> | vanditvāna | abs | having bowed; having paid respect; having honoured |
+> | dāsīgaṇapurakkhata | adj | surrounded by a group of handmaidens |
+> | mālī | adj | wearing garlands; wreathed in flowers |
+> | khajja | nt | hard food |
+> | viññātasaddhamma | adj | having understood the true nature of things; having comprehe… |
+> | pānañca (?) | ? |  |
+> | anappaka | adj | great; considerable; not insignificant |
+> | sāketa | masc | name of a town in Kosala; old capital of Kosala |
+> | geha | nt | house; dwelling |
+> | āgacchanta | prp | coming; approaching; arriving |
+> | añjana | nt | collyrium; black pigment; pitch-black colour |
+> | suvasana | adj | well-dressed; beautifully clothed |
+> | alaṅkata | pp | dressed up; decorated; adorned (with) |
+> | upāvisi | aor | sat down; took a seat |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | anna | nt | food |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | pabbaji | aor | ordained; renounced |
+> | amogha | adj | fruitful; efficacious; not in vain; not futile |
+> | ghara | nt | house; home; household |
+> | viraja | adj | pure; stainless; untainted |
+> | mahesi | masc | great sage; mighty seer |
+> | tattheva | sandhi | right there; in that place; on the spot; there and then |
+> | vana | nt | wood; forest; grove |
+> | āda | adj | taking; receiving; accepting |
+> | pāvisi | aor | entered; went (into) |
+> | disvāna | abs | having seen |
+> | amata | nt | deathless state; immortality; epithet of Nibbāna |
+> | pada | nt | foot |
+> | anagāriya | nt | homelessness; homeless state |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | saka | adj | one's own; my own |
+> | sutvā | abs | having heard; having listened (to) |
+> | vijjanta | prp | existing |
+> | sacca | adj | true; correct; accurate; honest; reliable |
+> | tattha | ind | there; in that place |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

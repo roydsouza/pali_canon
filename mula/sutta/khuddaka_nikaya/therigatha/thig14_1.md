@@ -407,3 +407,69 @@ tags:
 
 *Tiṁsanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | purāṇakan (?) | ? |  |
+> | varapuññalakkhaṇa | nt | auspicious marks of excellent merit; marking of spiritual we… |
+> | passiya | ger | seeing |
+> | buddhavara | masc | excellent Buddha |
+> | agami | aor | went |
+> | āsīvisa | masc | poisonous snake |
+> | gaṇhiya | ger | grasping; grabbing hold (of) |
+> | liṅgiya | ger | embracing; clinging; clutching |
+> | pajjalitaṁva (?) | ? |  |
+> | āsādiya | ger | insulting; assaulting; attacking |
+> | puno | ind | again; once more |
+> | khamāpayi | aor | apologised; asked forgiveness |
+> | pajji | aor | experienced suffering; suffered |
+> | uppāṭiya | ger | plucking out; tearing out |
+> | piṇḍita | pp | rolled together; formed into a lump |
+> | cakkhuvidhā | fem | parts of the eye |
+> | pīḷakoḷikā | fem | eye excretions; rheum |
+> | saassuka | adj | with tears; with fluid |
+> | koṭarohita | adj | placed in a hole; set in a cavity; (comm) placed in the holl… |
+> | vaṭṭaniriva (?) | ? |  |
+> | rupparūpaka | nt | attractive form; beautiful figurine; pretty doll |
+> | janamajjheriva (?) | ? |  |
+> | suvaṇṇapādapa | masc | golden tree |
+> | supinanteva (?) | ? |  |
+> | cittika | nt | small painting; little picture; little artwork |
+> | haritāla | nt | yellow pigment; yellow paint made from arsenic trisulphide |
+> | dehaka | nt | body part; limb |
+> | khaṇḍaso | ind | into pieces; into parts; apart |
+> | parikrita | pp | scattered; strewn; dispersed |
+> | vikala | adj | mutilated; maimed; crippled; impaired; defective; (comm) sep… |
+> | tantikhīlaka | masc | (of a marionette) strings and handle |
+> | tamhuddhaṭe | sandhi | when that is removed |
+> | panaccaka | adj | dancing; performing |
+> | vinibaddha | pp | bound (to); tied fast (to); fixed (to); held captive (by) |
+> | khīlaka | masc | peg; stick; handle |
+> | dārukapillaka | nt | wooden puppet; mannequin made of wood |
+> | sombhā | fem | doll; mannequin; puppet |
+> | sucittita | adj | well designed; nicely painted |
+> | ramāmahaṁ | sandhi | I delight (in); I take pleasure (in) |
+> | uddhaṭasalla | adj | who has pulled out the arrow; who has extracted the barb |
+> | maggaṭṭhaṅgikayānayāyī | adj | travelling along in the vehicle of the eightfold path |
+> | sabbattheva (?) | ? |  |
+> | jāniya | ger | knowing; understanding |
+> | saṅkhatamasubhan (?) | ? |  |
+> | mayhañhi (?) | ? |  |
+> | palobhayati | pr | seduces; entices; lures; lusts after |
+> | anupāsita | pp | not attended; not served; not followed |
+> | apaccavekkhita | pp | not considered; not closely examined |
+> | visapattoriva (?) | ? |  |
+> | iṅgālakuyāva (?) | ? |  |
+> | yatthapi | sandhi | anywhere at all |
+> | maggayati | pr | desires; seeks; wants to get |
+> | buddhasutā | fem | daughter of the Buddha; nun |
+> | laṅghetumicchasi | sandhi | you want to jump over; you wish to leap over |
+> | meru | masc | mythical mountain at the centre of the universe |
+> | kīḷanaka | nt | toy; plaything |
+> | payātumicchasi | sandhi | you want to set out (by); you want to head off (on) |
+> | apatha | masc | wrong road; wrong way; off-course; deviation |
+> | visuddhadassana | nt | bright eye |
+> | āyatapamha | adj | with long eyelashes |
+<!-- pali-nlp:vocab-end -->

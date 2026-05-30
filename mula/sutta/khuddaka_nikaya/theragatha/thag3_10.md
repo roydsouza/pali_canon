@@ -60,3 +60,40 @@ parallels:
 *for my legs are strong.*
 *… Sāṭimattiyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (31 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jaṅghabala | nt | strength in one's legs; power to walk |
+> | jiyyati | pr | gets tired of |
+> | virajjan (?) | ? |  |
+> | rajjantipi (?) | ? |  |
+> | tuyhamevetaṁ (?) | ? |  |
+> | mamā (?) | ? |  |
+> | piṇḍikā | fem | alms food |
+> | cala | adj | unsteady; unstable; shaky; fickle |
+> | duccarita | adj | bad; immoral; wicked |
+> | thoka | adj | little; tiny; minute |
+> | paccati | pr | is cooked |
+> | kula | nt | family; house; household; respectable family |
+> | bhatta | nt | food; boiled rice |
+> | ajja | ind | today; now |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | ahu | aor | was |
+> | diṭṭha | pp | seen; found; visible |
+> | pura | nt | fortified town; castle; fortress |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | vijjati | pr | exists (in); is found (in); is present (in) |
+> | anicca | adj | impermanent; inconstant; not lasting; discontinuous; disorde… |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | atthi | pr | there is; there exists |
+> | tattha | ind | there; in that place |
+> | tvaṁ | pron | you (subject) |
+> | ka | pron | who?; what?; which? |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -136,3 +136,69 @@ tags:
 *will be fully quenched.*
 *… Kappo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | parinibbissantināsavā (?) | ? |  |
+> | vamitvāna | abs | having vomited; having ejected |
+> | bhavamūla | nt | source of becoming; reason for being; origin of existence |
+> | pannaga | masc | serpent; snake |
+> | gūthalittaṁva (?) | ? |  |
+> | vivajjen (?) | ? |  |
+> | ādiyan (?) | ? |  |
+> | andhabāla | adj | very stupid; unintelligent |
+> | mamāyan (?) | ? |  |
+> | vipajjati | pr | goes wrong; fails; goes off course; comes to nought |
+> | vipatyanta | adj | ending in disaster; culminating in calamity |
+> | sampat (?) | ? |  |
+> | yantita | pp | mechanized; puppeteered; controlled (by) |
+> | kammayanta | nt |  |
+> | mohacchādanachādita | adj | veiled by delusion; shrouded in illusion |
+> | taṇhāmūlenānugata | adj | accompanied by the source of craving |
+> | anusayajālamotthata | adj | covered with the web of dormant dispositions; caught in the … |
+> | oghasaṁsīdana | adj | sinking in the floods; drowning in the deluges |
+> | ganthita | pp | tied; bound; fastened together (with) |
+> | catugantha | masc | fourfold tie; four knots |
+> | dhuvappayāta | adj | set out towards the certainty (of); surely headed (towards) |
+> | saṅgatībhāvā (?) | ? |  |
+> | nhārusuttanibandhana | adj | bound by strings of sinews; tied with tendon threads |
+> | aṭṭhisaṅghātaghaṭita | adj | joined by an accumualtion of bones; connected by a skeleton |
+> | cammakañcukasannaddha | adj | fastened in a coat of skin; bundled in a leather jacket |
+> | maṁsalepanalepita | adj | smeared with meat; palstered with flesh |
+> | saṭṭhikaṇḍarasambandha | adj | connected by sixty tendons |
+> | āpopaggharaṇa | adj | dripping water; oozing moisture |
+> | gāḷhita | pp | immersed (in); submerged (in); drowned (in) |
+> | pubbaruhirasampuṇṇa | adj | filled with pus and blood; full of suppuration and blood |
+> | mahāvaṇa | masc | large wound; enormous sore |
+> | mahāgaṇḍa | masc | enormous boil; large abscess |
+> | candanikaṁva (?) | ? |  |
+> | mahāukkārasambhava | adj | producing piles of excrement; (comm) born from great excreme… |
+> | nānākulamalasampuṇṇa | adj | filled with different kinds of dirt; full of various types o… |
+> | yemaṁ (?) | ? |  |
+> | chaḍḍayitvāna | abs |  |
+> | neka | adj | many; several |
+> | gūthakūpa | masc | cesspit; long drop |
+> | pañcanīvaraṇa | nt | five obstacles; five barriers; five hindrances |
+> | ghora | adj | terrible; awful; dreadful |
+> | vattati | pr | proceeds; continues; goes forward; practices |
+> | evāyaṁ | sandhi | so this; so like this |
+> | niratthaka | adj | useless; worthless; pointless; meaningless; nonsensical |
+> | yenakāmaṅgama | adj | able to go where one likes; able to go where one wants at wi… |
+> | kaṭasī | fem | cemetery; charnel ground |
+> | paripakka | pp | matured; developed; ripened |
+> | vaḍḍhen (?) | ? |  |
+> | iriyāpatha | masc | motion; course of movement |
+> | nānābhāva | masc | separation (from); parting (from) |
+> | sanda | adj | thick; dense; rich |
+> | maccurāja | masc | King of Death |
+> | nivuta | pp | surrounded (by); enveloped (in); shrouded (with); veiled (wi… |
+> | pūtika | adj | rotten; spoiled; decayed |
+> | samappita | pp | provided (with); appointed (with); filled (with); having |
+> | yutta | pp | yoked; harnessed; saddled up |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | idheva | sandhi | right here; just here; only here |
+> | sadā | ind | always; ever; all the time |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+<!-- pali-nlp:vocab-end -->

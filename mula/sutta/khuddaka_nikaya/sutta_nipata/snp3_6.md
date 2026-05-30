@@ -790,3 +790,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_6_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | upalimpa (?) | ? |  |
+> | nāradapabbatā | masc | Nārada and Pabbata |
+> | devānumodan (?) | ? |  |
+> | nāganāga | masc | greatest of the great; giant among giants |
+> | saccanikkama | adj | firm in truth; steadfast in truth; honest |
+> | viddhasta | pp | destroyed; demolished; crumbled to pieces; collapsed; ruined |
+> | munīsi (?) | ? |  |
+> | soratosi (?) | ? |  |
+> | tārayi | aor | saved; rescued; helped across |
+> | kaṅkhitamaññāsi (?) | ? |  |
+> | atāresi | aor | saved; rescued; helped across |
+> | mutimant | adj | intelligent; clever; wise |
+> | antagūsi (?) | ? |  |
+> | oghatamagā | imperf | crossed the dark deluge; transcended the flood of ignorance |
+> | osaraṇa | nt | wrong view; (comm) beliefs which pull one down |
+> | saññakkharasaññanissita | adj | reliant on verbal expression and perception |
+> | samaṇappavādasita | adj | dependent on the doctrines of ascetics |
+> | pattipattan (?) | ? |  |
+> | paribbājakamāhu (?) | ? |  |
+> | pariyantamakāsi | aor | made a complete end (of); finished (with) |
+> | lobhakodha | nt | greed and anger; desire and wrath |
+> | mānamathopi (?) | ? |  |
+> | pariññacārī | adj | wander with completely comprehension; going around fully und… |
+> | paribbājayitvā | abs | having completely banished; having totally driven out |
+> | dukkhavepakka | adj |  |
+> | sajja | pp | harnessed; prepared; equipped; readied |
+> | sabbadhimāhu (?) | ? |  |
+> | akathaṅkathiṁ (?) | ? |  |
+> | sabbasaṅgamūlabandhana | nt | root of bondage to all attachment; source of attachemnt to a… |
+> | saṅgamūla | nt | root of attachment; source of snares |
+> | luna | pp | cut off; severed; clipped; reaped |
+> | yassassu | sandhi | for whom they may be; whose could be |
+> | viriyavāso (?) | ? |  |
+> | nirayadukkha | nt | suffering of hell; torment in hell |
+> | sabbarogamūlabandhana | nt | root of bondage to all disease; source of attachement to eve… |
+> | rogamūla | nt | root of disease; origin of illness |
+> | papañcanāmarūpa | nt | proliferation, name and form; various opinions, mental and p… |
+> | vedamaticca (?) | ? |  |
+> | sabbavedanā | fem | all felt experience; every feeling; all sensations |
+> | yānidhatthi (?) | ? |  |
+> | viriyavant | adj | heroic; brave; vigorous; energetic |
+> | jālamaticca (?) | ? |  |
+> | asatañca (?) | ? |  |
+> | suddhipañña | adj | having pure wisdom; with perfect understanding |
+> | paṇḍara | adj | pale; white |
+> | sabbakosamūlabandhana | nt | root of bondage to all seeds (of action); source of attachme… |
+> | brahmakosa | nt | action conducive to the Brahma world |
+> | kosa | masc | shell |
+> | sabbakhettamūlabandhana | nt | source of bondage to all planes of existence |
+> | brahmakhetta | nt | Brahma's realm; world of the gods |
+> | sajjatī | pr | is attached; is enmeshed; is entangled |
+> | ninhāya | ger | washing off; rinsing away |
+> | puññapāpa | nt | doing good and evil; merit and sin |
+> | saṁsāramaticca (?) | ? |  |
+> | sādhusamāhita | adj | well composed; completely collected |
+> | buddhan (?) | ? |  |
+> | jātikhaya | masc | extinction of birth; wearing away of rebirth |
+> | vigatarajamanaṅgaṇaṁ (?) | ? |  |
+> | sora | masc | planet Saturn |
+> | parinibbānagata | adj | reached final extinguishing; attained absolute quenching |
+<!-- pali-nlp:vocab-end -->

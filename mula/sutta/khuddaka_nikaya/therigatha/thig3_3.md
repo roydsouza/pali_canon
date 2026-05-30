@@ -63,3 +63,38 @@ parallels:
 
 *… Aparā uttamā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (29 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | lābhinīhaṁ (?) | ? |  |
+> | suññatassānimittassa (?) | ? |  |
+> | nibbānābhirata | adj | taking delight in extinguishing; indulging in going out |
+> | yadicchakaṁ | ind | as one wants; at will; at one's pleasure; (comm) whichever d… |
+> | nibbānapatti | fem | attainment of Nibbāna; reaching extinguishing |
+> | dhītar | fem | daughter |
+> | orasa | adj | (of a child) natural; legitimate; own |
+> | vikkhīṇa | pp | totally annihilated; destroyed |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | mānusa | adj | human |
+> | samucchinna | pp | cut off; uprooted; eradicated; utterly destroyed |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | sadā | ind | always; ever; all the time |
+> | desita | pp | preached (by); taught (by); explained (by); instructed (by) |
+> | dibba | adj | divine; heavenly; celestial |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | bojjhaṅga | masc | element of awakening; factor of enlightenment |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | bhāvita | pp | cultivated; developed |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | sabba | pron | all; every |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | satta | card | seven (7) |
+> | ima | pron | this |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -101,3 +101,63 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti87_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (54 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | samajjhagā | imperf | got; obtained; experienced |
+> | vuṭṭhīva (?) | ? |  |
+> | nirākaroti | pr | rejects; spurns; gets rid (of) |
+> | vitakkayati | pr | thinks (about); reflects (on); ponders (over) |
+> | kusalavitakka | masc | healthy thinking; wholesome thought; skilful thinking |
+> | vicārita | pp | thought about; contemplated; investigated |
+> | abyāpādavitakka | masc | thought of goodwill; kind thought |
+> | vitakkūpasama | masc | calming of thoughts; settling the mind |
+> | akusalavitakka | masc | unhealthy thinking; unwholesome thought; unskilful thinking |
+> | anandhakaraṇa | adj |  |
+> | santipada | nt | state of peace; tranquillity; epithet of Nibbāna |
+> | avihiṁsāvitakka | masc | harmless thinking; thought of helping; thought of non-cruelt… |
+> | nekkhammavitakka | masc | thought of renunciation; thought of letting go of sensual pl… |
+> | avighātapakkhika | adj | trouble-free; not leading to trouble; not afflictive |
+> | paññāvuddhika | adj | which increases understanding; which develops wisdom |
+> | aññāṇakaraṇa | adj | which causes ignorance; which creates a lack of understandin… |
+> | acakkhukaraṇa | adj | which produce lack of vision; which create lack of clarity; … |
+> | andhakaraṇa | adj | blinding; which makes one ignorant |
+> | anibbānasaṁvattanika | adj | not leading to putting out the fire; not conducive to Nibbān… |
+> | vighātapakkhika | adj | troublesome; afflictive |
+> | nibbānasaṁvattanika | adj | leading to putting out the fire; conducive to Nibbāna |
+> | ñāṇakaraṇa | adj | which produces understanding; which generates insight; leadi… |
+> | cakkhukaraṇa | adj | which produces vision; which creates clarity |
+> | paññānirodhika | adj | which obstruct wisdom; which impede understanding |
+> | raja | adj | dusty; dirty; with dirt |
+> | byāpādavitakka | masc | malevolent thought; thought of ill-will |
+> | tayome | sandhi | these three |
+> | vihiṁsāvitakka | masc | thought of harming; idea of hurting; malign thought; thought… |
+> | kāmavitakka | masc | sensual thought; sexual thought |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | idheva | sandhi | right here; just here; only here |
+> | sama | adj | level; even; balanced |
+> | vitakka | masc | thought; reflection; pondering |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | kusala | adj | healthy; beneficial; useful; good; wholesome |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | akusala | adj | unskilful; incompetent; inexperienced |
+> | cetas | masc | mind; thought; intention |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

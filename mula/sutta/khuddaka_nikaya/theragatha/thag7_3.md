@@ -103,3 +103,63 @@ tags:
 *oh, the clear rightness of the teaching!*
 *… Bhaddo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (54 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | paṭisallānavuṭṭhita | adj | come out of solitude; emerged from meditation |
+> | anoggata | pp | not gone down; not set |
+> | pabbājetvāna | abs | having ordained; having made ordain; having given ordination… |
+> | hessatyājāniyo (?) | ? |  |
+> | paṭiggayha | ger |  |
+> | sukhedhita | adj | brought up in comfort; delicately nurtured; cossetted; pampe… |
+> | āyācanā | fem |  |
+> | vatacariyā | fem | observances and activities; rituals and behaviours |
+> | ekaputta | masc | only son |
+> | upanāmayi | aor | presented (to); offered (to); placed before |
+> | paricāraka | masc | follower; disciple |
+> | sukhumāla | adj | delicate; refined; tender |
+> | āsūpasampadā | fem | quick higher ordination; (comm) was one's ordination |
+> | nirākatvā | abs |  |
+> | sattavassa | nt | seven years |
+> | etadabravi | aor | one said this (to) |
+> | sūriya | masc | sun |
+> | nātha | masc | protector; lord; refuge (of) |
+> | pabbājeti | pr | banishes (from); exiles (from); drives away (from) |
+> | hitesī | adj | benevolent (towards); who wishes well (for); who wants the b… |
+> | jina | masc | conqueror; victor; champion; epithet of the Buddha |
+> | kiccha | adj | difficult; troublesome; hard to get |
+> | atthakāma | adj | benevolent (towards); sympathetic (to); wishing well (to); d… |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | ji | adj | winning; victorious; conquering |
+> | dadāti | pr | gives; offers; donates; grants (something to someone) |
+> | khippa | adj | quick; fast |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | āha | perf | said |
+> | upasampadā | fem | undertaking (of); taking up (of) |
+> | laddha | pp | obtained; gained; won; received |
+> | mātar | fem | mother |
+> | pitar | masc | father |
+> | āsi | aor | was |
+> | pāvisi | aor | entered; went (into) |
+> | bhadda | adj | good; excellent; lucky; auspicious |
+> | ubha | pron | both |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | putta | masc | son; child |
+> | piya | adj | dear (to); beloved (by); loved (by) |
+> | vijjanta | prp | existing |
+> | jāti | fem | birth; rebirth; conception |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | sattha | masc | caravan; travel party; convoy |
+> | buddha | masc | Buddha; Awakened One |
+> | aha | nt | day |
+> | aya | masc | good luck; good fortune |
+> | ānanda | masc | happiness; joy |
+> | citta | nt | mind; heart |
+> | ima | pron | this |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

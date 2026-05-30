@@ -57,3 +57,29 @@ parallels:
 *remembering the instructions of the Buddhas.*
 *… Dhammapālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dhammadassana | nt | seeing the Dhamma; understanding the teaching |
+> | saddhañca (?) | ? |  |
+> | anuyuñjati | pr | practices; engages (in); commits (to); does |
+> | yuñjati | pr | joins (in); engages (in); participates (in); practices |
+> | sīlañca (?) | ? |  |
+> | pasāda | masc | inspiration; faith; trust; confidence |
+> | buddhasāsana | nt | Buddha's teaching; Buddha's message |
+> | hu | masc | killer; murderer; slayer |
+> | jāgara | adj | awake; alert; lucid |
+> | dahara | adj | young; youthful; junior |
+> | amogha | adj | fruitful; efficacious; not in vain; not futile |
+> | sāsanan (?) | ? |  |
+> | sara | masc | reed |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | sutta | pp | sleeping; asleep |
+> | jīvita | nt | life; existence |
+> | buddha | masc | Buddha; Awakened One |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

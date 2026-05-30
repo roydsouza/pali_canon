@@ -158,5 +158,71 @@ tags:
 *follow a true and intelligent person such as this,*
 **Bhajetha nakkhattapathaṁva candimā.**  
 *as the moon tracks the path of the stars.*
-**Sukhavaggo pannarasamo.**  
+**Sukhavaggo pannarasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pannarasama | ordin | fifteenth (15th) |
+> | nakkhattapathaṁva (?) | ? |  |
+> | vatavantamariyaṁ (?) | ? |  |
+> | dhorayhasīla | adj | virtuous; enduring; patient |
+> | dhīrañca (?) | ? |  |
+> | ñātīnaṁva (?) | ? |  |
+> | sukhasaṁvāsa | adj | easy to live with |
+> | bālasaṅgatacārī | adj | who goes around with fools |
+> | sannivāsa | masc | living together; living with; community; association |
+> | dassanamariyānaṁ (?) | ? |  |
+> | pivanta | prp | drinking; sipping |
+> | vissāsaparama | adj | trust is the ultimate |
+> | santuṭṭhiparama | adj | contentment is the ultimate |
+> | ārogyaparama | adj | having health as the highest; with freedom from disease as t… |
+> | saṅkhāraparama | adj | formations are the worst |
+> | jighacchāparama | adj | hunger is the very worst |
+> | santipara | adj | higher than tranquillity; greater than peace |
+> | khandhasama | adj | like the aggregates; like the conglomeration of mind and mat… |
+> | jayaparājaya | masc | victory and defeat; conquest and loss; winning and losing |
+> | sukhavagga | masc |  |
+> | bahussutañca (?) | ? |  |
+> | niccameva (?) | ? |  |
+> | sāhu | ind | good; excellent |
+> | dhammapītirasa | masc | flavour of delight in the Dhamma; juice of joy in the teachi… |
+> | nippāpa | adj | sinless; free from evil; stainless |
+> | niddara | adj | fearless; free from anguish; anxiety-free |
+> | pitvā | abs | having drunk; having sipped |
+> | pavivekarasa | masc | flavour of solitude; nectar of seclusion |
+> | dosasama | adj | like hatred; equal to aversion |
+> | rāgasama | adj | like desire; like passion; equal to lust |
+> | anussuka | adj | not zealously desiring; not ambitious; not anxiously strivin… |
+> | verinesu | adj |  |
+> | amitteneva (?) | ? |  |
+> | parājita | pp | conquered; defeated |
+> | ussuka | adj | zealously desiring; ambitious; anxiously striving (for); anx… |
+> | anātura | adj | healthy; free from suffering |
+> | pītibhakkha | adj | feeding on delight; feasting on bliss; indulging in joy |
+> | saṁvāsa | masc | living together (with); co-habitation (with); close associat… |
+> | averī | adj | friendly; free from animosity; without hatred |
+> | ābhassara | adj | radiant; shining; belonging to the radiant heaven; epithet o… |
+> | paññañca (?) | ? |  |
+> | kali | masc | disaster; bad luck; misfortune |
+> | samāgama | masc | assembly (of); meeting (of); gathering (of) |
+> | susukha | adj | extremely pleasant; very comfortable |
+> | jaya | nt | victory; conquest; winning |
+> | ātura | adj | sick; diseased; ill; unhealthy |
+> | sabbadā | ind | always; at all times |
+> | candima | masc | moon |
+> | dukha | adj | uncomfortable; painful; unpleasant |
+> | sumedha | adj | wise; sage |
+> | pasava | masc |  |
+> | ña | ind | 10th item in a numerical list |
+> | adassana | nt | out of sight (of); disappearance (of); where one cannot be s… |
+> | bhajati | pr | associates (with); keeps company (with) |
+> | roga | masc | disease; illness; sickness |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | vāti | pr | blows (among); wafts (to) |
+> | sappurisa | masc | good man; moral man; virtuous man; superior man |
+> | dhana | nt | wealth; riches; treasure |
+> | dīghamaddhāna | nt | long period of time; long duration |
+<!-- pali-nlp:vocab-end -->

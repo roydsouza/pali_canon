@@ -163,3 +163,69 @@ parallels:
 *just as you’d cross a full river by boat.*
 *… Mahākappino thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | puṇṇan (?) | ? |  |
+> | nadiṁva (?) | ? |  |
+> | paññāvibhava | masc | power of wisdom; might of insight |
+> | mati | fem | wisdom; intelligence; mind |
+> | vaṇṇabala | nt | beauty and strength |
+> | nihīya (?) | ? |  |
+> | upahan (?) | ? |  |
+> | lokya | nt | worldly success; (comm) purity |
+> | paraporisa | masc | another man; other men |
+> | jīvitattha | adj | useful for the life (of); beneficial for the livelihood (of) |
+> | hetadatthāya (?) | ? |  |
+> | marantīdha (?) | ? |  |
+> | nacchera | adj | not incredible; not marvelous; not amazing |
+> | paññāsahita | adj | endowed with wisdom; full of insight |
+> | kittisilokavaddhanī | adj | increasing fame and renown; growing celebrity and prestige |
+> | sutavinicchī | adj | investigating what is heard; discrimating what is learned |
+> | obhāsati | pr | speaks coarsely (to); speaks suggestively (to); talks rudely… |
+> | paggahītañca (?) | ? |  |
+> | nibbiddha | pp | pierced; penetrated |
+> | ānāpānasati | fem | mindfulness while breathing in and out; mindfulness during i… |
+> | samekkhamāna | prp |  |
+> | randha | nt | (in an argument) fault; weak-spot; flaw; opening |
+> | viddesī | masc | hater; enemy; foe |
+> | ahitañca (?) | ? |  |
+> | vittavāpi (?) | ? |  |
+> | vittaparikkhaya | masc | loss of possessions; depletion of wealth; financial ruin |
+> | ruṇṇa | nt | wailing; crying |
+> | hitañca (?) | ? |  |
+> | ānandī | adj |  |
+> | vaṇṇita | pp | praised (by); commended (by); exalted (by); spoke highly of … |
+> | ajjatana | adj | modern; related to today |
+> | anantara | adj | (gram) contiguous; adjoining; immediately following |
+> | mīyati | pr | is killed; dies |
+> | taran (?) | ? |  |
+> | hitesī | adj | benevolent (towards); who wishes well (for); who wants the b… |
+> | muttova (?) | ? |  |
+> | abbha | nt | cloud; dark cloud; thundercloud |
+> | pabha | adj | radiant; shining; luminous |
+> | vasati | pr | lives; stays; resides (in) |
+> | alābha | masc | not getting; not obtaining; not finding |
+> | jāyati | pr | is born (in); comes into being (from) |
+> | paṭikacca | ind | previously; beforehand |
+> | paripuṇṇa | pp | accomplished; fulfilled; completed; perfected |
+> | kicca | nt | obligation (for); duty (for); work (for) |
+> | soma | masc |  |
+> | yasa | masc | name of an arahant monk |
+> | candima | masc | moon |
+> | mata | pp | dead; deceased; departed |
+> | nāvā | fem | ship; boat; raft |
+> | passan (?) | ? |  |
+> | anupubba | adj | gradual; step-by-step; successive |
+> | sappañña | adj | wise; intelligent |
+> | odāta | pp | white |
+> | vindati | pr | finds; gets; acquires |
+> | evaṁdhamma | adj | of such nature; of such character |
+> | dvaya | adj | twofold; dual; double |
+> | dhuva | adj | stable; enduring; permanent; eternal; everlasting |
+> | napi | sandhi | not even; nor just |
+> | icchati | pr | wishes; wants; desires (to) |
+> | subhāvita | adj | well cultivated; fully developed |
+<!-- pali-nlp:vocab-end -->

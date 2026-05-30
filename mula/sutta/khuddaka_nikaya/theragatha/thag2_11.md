@@ -50,3 +50,31 @@ parallels:
 *live in the Saṅgha, self-protected and mindful.*
 *… Mahācundo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (22 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | rakkhitatta | adj | self-protected; looking after oneself |
+> | saṁyojanavippamokkha | masc | release from bondage; liberation from the fetters; freedom f… |
+> | vaddhana | nt | growing; increasing; enlarging (of) |
+> | sutavaddhanī | adj | increasing learning; growing knowledge |
+> | sussūsā | fem | wanting to hear; desire to listen |
+> | panta | adj | distant; remote; very far away |
+> | sukhāvaha | adj | bringing happiness (to); bringing comfort (to) |
+> | nādhigacchati | pr | does not get to; does not attain; does not find; does not ac… |
+> | sevati | pr | associates (with); keeps company (with) |
+> | rati | fem | love (for); liking (for); enjoyment (of); delight (in) |
+> | ñāta | pp | known; recognized; understood |
+> | senāsana | nt | housing; living place; lodging |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | vasa | masc | wish; desire; will |
+> | sace | ind | if |
+> | satima | adj | one hundredth (1/100th) |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | tattha | ind | there; in that place |
+<!-- pali-nlp:vocab-end -->

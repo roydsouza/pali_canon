@@ -93,3 +93,63 @@ parallels:
 *and fulfilled the Buddha’s instructions.*
 *… Sappadāso thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (54 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | chettumattano (?) | ? |  |
+> | dhamani | fem | vein |
+> | khura | nt | razor; sharp blade |
+> | parinīta | pp | brought around; placed ready |
+> | khuramādāya (?) | ? |  |
+> | cittassekagga | nt | unification of mind; mental oneness |
+> | cetosantimanajjhagaṁ (?) | ? |  |
+> | tadāhaṁ (?) | ? |  |
+> | kandanta | prp | crying out; wailing |
+> | āharati | pr | brings (for); brings back (for); fetches (for); procures (fo… |
+> | upanikkhami | aor | left; came out (from); exited |
+> | paccakkha | adj | seen; witnessed |
+> | samatiṭṭhā | imperf | set in; became established; established itself |
+> | manasīkāra | masc | attention; bringing-to-mind; observation; noticing; focussin… |
+> | aṭṭita | pp | troubled (with); afflicted (with) |
+> | kubbati | pr | does; makes; creates |
+> | paṇṇavīsativassa | nt | twenty-five years |
+> | accharāsaṅghātamattampi (?) | ? |  |
+> | udapajjā | imperf | appeared; arose |
+> | aladdha | pp | not obtained; not gained; not won; not received |
+> | pāturahosi | aor | appeared; manifested |
+> | paggayha | ger | taking; eating |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | upāvisi | aor | sat down; took a seat |
+> | mādisa | adj | like me; resembling me |
+> | kāmarāga | masc | passion for sensual pleasure; sensual desire; lust for sensu… |
+> | mañcaka | masc | small bed; cot |
+> | vimucci | aor | became free (from); was released (from); was liberated (from… |
+> | sāsanan (?) | ? |  |
+> | bāhā | fem | arm; forearm |
+> | sikkhanta | prp | learning; training (in); practicing |
+> | āsi | aor | was |
+> | nibbidā | fem | dis-enchantment (towards); de-illusionment (with); disintere… |
+> | ādīnava | masc | danger (in); problem (in) |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vihāra | masc | dwelling; residence |
+> | pabbajita | masc | monk; monastic; renunciant; renunciate |
+> | jīvita | nt | life; existence |
+> | yoniso | ind | properly; prudently; thoroughly; carefully; intelligently |
+> | vijjanta | prp | existing |
+> | sattha | masc | caravan; travel party; convoy |
+> | kata | pp | done; did; completed |
+> | kāla | masc | time; occasion |
+> | buddha | masc | Buddha; Awakened One |
+> | katha | adj | with words; having talk; asking |
+> | attha | masc | meaning; sense; significance |
+> | aha | nt | day |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | pa | adj | drinking; who drinks |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

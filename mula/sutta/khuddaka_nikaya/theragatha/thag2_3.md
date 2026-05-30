@@ -48,3 +48,27 @@ tags:
 *you won’t go far.*
 *… Valliyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (18 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | niggahītosi (?) | ? |  |
+> | dhāvi | aor |  |
+> | pasakkiya | ger | entering |
+> | pañcadvāra | nt | five sense doors; eye, ear, nose, tongue and body |
+> | gamissatī (?) | ? |  |
+> | ghaṭṭayanta | prp | colliding; conflicting; clashing; offending |
+> | anupariye (?) | ? |  |
+> | muhuṁ | ind | repeatedly; again and again; moment by moment |
+> | makkaṭa | masc | monkey; ape |
+> | kuṭika | adj | with a little hut; living in a small shack |
+> | dvāra | nt | door; entrance; gate; gateway |
+> | dūra | adj | far away (from); distant (from) |
+> | pura | nt | fortified town; castle; fortress |
+> | tiṭṭhati | pr | stands |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | pañña | adj | wise; intelligent; learned; knowledgeable; skilled |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -67,3 +67,40 @@ parallels:
 
 *Tikanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (31 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pappotumitthiyā (?) | ? |  |
+> | dvaṅgulapañña | adj | with limited wisdom; lacking in understanding |
+> | itthibhāva | masc | being a woman; womanhood |
+> | durabhisambhava | adj | troublesome; hard to endure; difficult to withstand; beset w… |
+> | pattabba | ptp | could be reached (by); could be attained (by); could be foun… |
+> | vipassanta | prp | seeing deeply (into); seeing discriminatively; understanding… |
+> | nihata | pp | defeated; slain; destroyed |
+> | antaka | masc | Death |
+> | vattamāna | prp | existing; happening; taking place |
+> | tvamasi | sandhi | you are |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | isi | masc | seer; sage |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | sabbattha | ind | everywhere; every place |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | kayirā | opt | should do; could make |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | ṭha | adj | living (on); living (in); standing (on); situated (on); rema… |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | sakka | ptp | able; capable; proficient |
+> | samma | ind | friend; brother; sister; term of endearment |
+> | ka | pron | who?; what?; which? |
+> | citta | nt | mind; heart |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

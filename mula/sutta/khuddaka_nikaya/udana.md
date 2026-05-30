@@ -7415,3 +7415,69 @@ tags:
 **Udānapāḷi niṭṭhitā.**  
 *The Heartfelt Sayings are finished.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | udānapāḷi | fem |  |
+> | kāmabandhoghatārī | adj | who has crossed the flood of bondage to sensual desire |
+> | ñāyati | pr | is known; is evident; is perceived |
+> | anupubbūpasanta | adj | gradually cooling |
+> | jātavedas | masc | fire |
+> | ayoghanahatasseva (?) | ? |  |
+> | atthamāgamā | imperf | disappeared; vanished; ceased |
+> | vūpasami | aor | subsided; settled; calmed down |
+> | sītibhavi | aor | cooled down; became cold |
+> | nirodhi | aor | finished; stopped; ceased |
+> | abhedi | aor | broke; shattered |
+> | vītasoka | adj |  |
+> | paṭiccappabhavan (?) | ? |  |
+> | anallakesa | adj | (of a person in mourning) without wet hair |
+> | anallavattha | adj | (of a person in mourning) without wet clothes |
+> | karontehī (?) | ? |  |
+> | chapi (?) | ? |  |
+> | aṭṭhapi (?) | ? |  |
+> | navapi (?) | ? |  |
+> | kīvabahuka | adj | how many? |
+> | iccheyyāhaṁ (?) | ? |  |
+> | ninnagan (?) | ? |  |
+> | aññajana | masc | fool; idiot; ignorant person |
+> | caramekato (?) | ? |  |
+> | vipphālita | pp | torn apart; ripped apart |
+> | vipphālesi | aor | tore apart; ripped apart |
+> | saṅghāṭiñca (?) | ? |  |
+> | bhindi | aor |  |
+> | pattañca (?) | ? |  |
+> | ākoṭesi | aor | knocked; tapped; rapped |
+> | dvidhāpatha | masc | fork in the road |
+> | pabandha | masc |  |
+> | ārocesi | aor | told (to); informed (to); explained (to) |
+> | paccūsasamaye | ind | before dawn; early in the morning |
+> | pāṭaligāmiyāpi (?) | ? |  |
+> | yenāvasathāgāraṁ (?) | ? |  |
+> | upadahati | pr | causes; creates; provokes |
+> | appaṭimodha (?) | ? |  |
+> | sītīkarissatī (?) | ? |  |
+> | viriccamāna | prp |  |
+> | āgatigati | fem | coming and going; arriving and departing |
+> | āgatiga (?) | ? |  |
+> | nati | fem | inclination; tendency; bent; bias |
+> | anata | pp | unbent; without inclination; epithet of Nibbāna |
+> | anārammaṇamevetaṁ (?) | ? |  |
+> | tatrāpāhaṁ | sandhi | only there I |
+> | sassatoriva (?) | ? |  |
+> | upadhibandhana | adj | bound by appropriation; tied by identification |
+> | bhabbarūpova (?) | ? |  |
+> | mohasambandhana | adj | bound by delusion; fettered by illusion |
+> | anipphala | adj | not without fruit; not in vain; not without success |
+> | sāmāvatīpamukha | adj | headed by Sāmāvatī |
+> | itthisata | nt | one hundred women |
+> | uyyānagata | adj | gone to the park; in the pleasure grove |
+> | utena | masc | name of a king |
+> | pūresi | aor | filled up; made full |
+> | kāleneva (?) | ? |  |
+> | anupubbavihārī | adj | dwelling in ever-higher meditation attainments; experiencing… |
+> | sadevakopi (?) | ? |  |
+> | nāvajānā (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

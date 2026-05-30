@@ -55,3 +55,28 @@ parallels:
 *for the result will be bad for them.*
 *… Heraññakānitthero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pacchāssa | sandhi | afterwards for him; later for him |
+> | kunnadīnaṁva (?) | ? |  |
+> | accayan (?) | ? |  |
+> | ahoratta | nt | day and night; days and nights; time |
+> | odaka | nt | water |
+> | bujjhati | pr | knows; understands; is aware (of) |
+> | uparujjhati | pr | is stopped; is ended; is finished |
+> | khīya | masc |  |
+> | macca | masc | man; mortal man |
+> | kaṭuka | adj | severe; sharp; painful |
+> | āyu | nt | life |
+> | vipāka | masc | (of an action) result; outcome; consequence; fruit |
+> | kara | adj | doing; making |
+> | jīvita | nt | life; existence |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | kamma | nt | action; deed; doing |
+> | pāpaka | adj | bad; wicked; evil; wrong; worthless; harmful |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+<!-- pali-nlp:vocab-end -->

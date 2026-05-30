@@ -112,3 +112,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti48_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | idamappahāyā (?) | ? |  |
+> | anuddhaṁsa | adj | invaded (by); infected (with); flooded (with); overwhelmed (… |
+> | amūlaka | adj | groundless; baseless; unfounded; unsupported |
+> | idamappahāya | ger | not giving this up; not abandoning this |
+> | brahmacāripaṭiñña | adj | pretending to be celibate; claiming to be chaste |
+> | raṭṭhapiṇḍamasaññato (?) | ? |  |
+> | tatta | pp | heated; hot; glowing |
+> | kāsāvakaṇṭha | adj | wearing a scrap of cloth on the neck |
+> | aggisikhūpama | adj | like flames of fire |
+> | ayoguḷa | masc | iron ball |
+> | nihīnakamma | adj | base; immoral |
+> | abhūtavādī | masc | liar; who speaks falsely |
+> | abrahmacārī | adj | not celibate; not leading the holy life; sexually active |
+> | āpāyika | adj | suffering; wretched; miserable |
+> | cāha | sandhi | and one said |
+> | nerayika | masc | denizen of hell; inhabitant of hell |
+> | ubhopi | sandhi | and both; as well as |
+> | asaññata | pp | uncontrolled (in); unrestrained (in); hard to control (in) |
+> | parattha | masc | benefit of others |
+> | abrahmacariya | nt | unchastity; uncelibacy |
+> | paripuṇṇa | pp | accomplished; fulfilled; completed; perfected |
+> | bhutta | pp | eaten; finished eating |
+> | manuja | masc | human being; person |
+> | pāpadhamma | adj | evil-natured; of bad character |
+> | dveme | sandhi | these two |
+> | upapajjati | pr | is reborn (in); re-arises (in) |
+> | yañce | sandhi | than if; rather than |
+> | pecca | ind | after death |
+> | upeti | pr | comes; approaches; enters |
+> | seyya | adj | better (than); preferable (to) |
+> | bhuñjati | pr | eats; consumes |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | sama | adj | level; even; balanced |
+> | dussīla | adj | unprincipled; immoral; of bad behaviour |
+> | vāpī | fem | reservoir; dam; pond |
+> | bhavan (?) | ? |  |
+> | parisuddha | pp | clean; pure; bright; perfect |
+> | katvā | abs | having done |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | karoti | pr | does; acts; performs |
+> | sutan (?) | ? |  |
+> | kamma | nt | action; deed; doing |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | brahmacariya | nt | spiritual path; spiritual practice; holy life; celibacy |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | dvi | card | two (2) |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

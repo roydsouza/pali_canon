@@ -48,3 +48,32 @@ tags:
 *where there is no sorrow.*
 *… Gotamo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (23 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | socanta | prp | sorrowing (over); grieving (about); mourning (over) |
+> | rakkhitabba | ptp |  |
+> | supan (?) | ? |  |
+> | sudullabha | adj | extremely difficult to find; very rare to get |
+> | cari | aor | (of cattle) grazed (in) |
+> | bajjhati | pr | is bound (by); is tied up (by); is caught (by); is imprisone… |
+> | anaṇa | adj | debt free; without debt; without obligation |
+> | vadha | masc | beating; punishment |
+> | gantvā | abs | having gone (to); having travelled (to) |
+> | itthi | fem | woman; female |
+> | sadā | ind | always; ever; all the time |
+> | gacchati | pr | goes; walks; moves; wanders around |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | sacca | adj | true; correct; accurate; honest; reliable |
+> | nibbāna | nt | (of fire) extinguishing; quenching; going out |
+> | muni | masc | monk; sage; seer; hermit; silent sage |
+> | yattha | ind | wherever; where; when; in which |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | sukha | adj | easy (on); comfortable (for); pleasant (for); good (for); co… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

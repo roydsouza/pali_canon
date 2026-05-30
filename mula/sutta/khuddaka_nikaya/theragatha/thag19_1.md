@@ -648,3 +648,69 @@ parallels:
 *Gāthāyo tattha paññāsa,*
 *puna pañca ca uttarīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhavābhinandī | adj | who delights in existence; loving life; very happy with life |
+> | māravasānuvattī | adj | under the dominion of death; under Māra's control |
+> | vattī | adj | (of power or control) wielding; exercising |
+> | asaṁsaya | adj | free from doubt; certain |
+> | pāvusaabbhamālī | adj | garlanded with monsoon clouds |
+> | giri | masc | mountain |
+> | sucittakānana | nt | colourful wood; variegated grove |
+> | serī | adj | independent; free; autonomous; going according to pleasure |
+> | saṁsevati | pr | honours; worships |
+> | parinesi | aor | led around; led on; carried around |
+> | gāmaṇḍalaṁva (?) | ? |  |
+> | catubbipallāsavasa | masc | power of the four inversions; influence of the four hallucin… |
+> | aggavādī | masc | highest teacher; highest doctrine |
+> | nivesiya | ger | establishing (in); settling (in) |
+> | vipathānusārī | adj | following the wrong road; going the wrong way |
+> | nāgaṁva (?) | ? |  |
+> | nibandhisaṁ | fut | I myself will bind; I myself shall tie |
+> | balasā | ind | strongly; firmly |
+> | cittānurakkhī | adj | who guards the mind; who protects the mind; who takes care o… |
+> | paṭipajjituṁ | inf | to follow; to go along; to undertake; to practice |
+> | yoggācariyova (?) | ? |  |
+> | haya | masc | horse |
+> | avaṭṭhita | pp | stable; grounded; dependable; reliable; obedient |
+> | kusalaṅkusaggaha | masc | skilled mahout; expert elephant trainer |
+> | gajaṁva (?) | ? |  |
+> | vasānayati | pr | controls; takes command (of) |
+> | sumaddita | adj | thoroughly softened; supple |
+> | biḷārabhastaṁva (?) | ? |  |
+> | tūlasannibha | adj | like cotton; soft as cotton-wool; (comm) (or) white as cotto… |
+> | viṭapisama | adj | like a tree; similar to a tree |
+> | meghanibha | adj | like a cloud; cloud-like |
+> | sampupphita | pp |  |
+> | caturaṅgula | adj | measuring four fingers; four fingers long |
+> | sumañjughosatthanitābhigajjino (?) | ? |  |
+> | sucittapattacchadana | adj | with beautiful ornate wing feathers |
+> | supekhuna | adj | with beautiful tail-feathers |
+> | guhāgehagata | adj | living in a cave dwelling |
+> | pāvusasitthakānana | nt | grove showered (by) in the monsoon |
+> | navambu | nt | fresh water |
+> | sundara | adj | good; pleasant; agreeable; beautiful |
+> | pakateva (?) | ? |  |
+> | pabbhārakuṭṭa | nt | mountain cliff; (comm) mountain peak |
+> | varāhaeṇeyyavigāḷhasevita | adj | plunged into and inhabited by wild boar and black antelope |
+> | sotasandana | adj | flowing streams; oozing rivulets |
+> | chupati | pr | touches; contacts |
+> | vasānuvattaka | masc | obedient follower; subservient follower; subordinate |
+> | kāhiti | fut | will do; will make |
+> | dhitippara | adj | practising determination; (comm) resolved on the ultimate go… |
+> | tibhavā | masc | three states of existence; three realms of being |
+> | vināsadhārī | adj | subject to destruction |
+> | nivattituṁ | inf | to return (to); to turn back (to) |
+> | purāṇaka | nt | before; past; old times; old days |
+> | tāreti | pr | saves; rescues; helps across |
+> | adhiṭṭhahi | aor | fixed attention (on) |
+> | virādhita | pp | failed (by); let down (by); betrayed (by) |
+> | palobhati | pr | entices; seduces; bewilders |
+> | ummattakeneva (?) | ? |  |
+> | dassayanta | prp | showing; exhibiting; displaying; making see |
+> | cāraṇikaṁva (?) | ? |  |
+> | dubbhati | pr | cheats; deceives; plots (against); betrays |
+<!-- pali-nlp:vocab-end -->

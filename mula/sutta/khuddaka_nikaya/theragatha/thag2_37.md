@@ -48,3 +48,26 @@ tags:
 *than to live on in defeat.*
 *… Soṇo poṭiriyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (17 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | anukkama | masc | bridle; reins |
+> | hatthikkhandhāvapatitaṁ (?) | ? |  |
+> | paṭijaggitumevesā (?) | ? |  |
+> | nakkhattamālī | adj |  |
+> | supituṁ | inf | to sleep |
+> | parājita | pp | conquered; defeated |
+> | vijānanta | prp | knowing; understanding; comprehending |
+> | kuñjara | masc | elephant |
+> | saṅgāma | masc | battle; war; fight |
+> | mata | pp | dead; deceased; departed |
+> | yañce | sandhi | than if; rather than |
+> | rat (?) | ? |  |
+> | seyya | adj | better (than); preferable (to) |
+> | tāva | ind | until then; that long |
+> | jīva | nt | soul; life force |
+> | ha | letter | (gram) letter h; 39th letter of the alphabet; guttural semi-… |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

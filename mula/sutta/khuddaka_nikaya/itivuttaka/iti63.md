@@ -103,3 +103,58 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti63_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (49 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | akkheyyasampanna | adj | accomplished in what can be expressed; skilled in the expres… |
+> | santipadamanuttaraṁ (?) | ? |  |
+> | akkheyyañca (?) | ? |  |
+> | yogamāyan (?) | ? |  |
+> | apariññāya | ger | not completely comprehending; not fully understanding |
+> | akkheyya | ptp | could be said; expressible |
+> | akkheyyasaññī | adj | conscious of what can be expressed; percipient of what can b… |
+> | sevi | aor |  |
+> | akkhātar | masc | speaker (of); who tells (about); who speaks (about); who exp… |
+> | santipada | nt | state of peace; tranquillity; epithet of Nibbāna |
+> | nopeti | pr | does not approach |
+> | saṅkhyā | fem | (gram) numeral; number |
+> | akkhāti | pr | says (to); tells (to); explains (to) |
+> | dhammaṭṭha | adj | firmly established in the Dhamma; righteous; just; moral; vi… |
+> | tayome | sandhi | these three |
+> | pariñña | adj | completely comprehending; fully understanding |
+> | vedagū | masc | who has perfect knowledge; who has complete understanding |
+> | maccu | masc | death; Death |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | paccuppanna | pp | present; presently arisen; existing; current |
+> | atīta | nt | past; what is past |
+> | anāgata | pp | not come; not arrived; not present |
+> | patiṭṭhita | pp | firmly grounded (in); well established (in) |
+> | vimokkha | masc | release (of); emancipation (of); deliverance (of); freedom (… |
+> | mañña | masc | thought; conception; imagination |
+> | saṅkha | masc | conch shell; mother of pearl |
+> | phuṭṭha | pp | touched (by); contacted (by); experienced |
+> | addha | adj | soiled; dirty; moist |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | santa | prp | existing; being; there is |
+> | manas | masc | mind; mental faculty; intellect |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | satta | card | seven (7) |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

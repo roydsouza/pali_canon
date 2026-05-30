@@ -829,3 +829,69 @@ parallels:
 *Ekova theragāthāyo,*
 *aṭṭhasaṭṭhi bhavanti tāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saṭṭhinipāta | masc |  |
+> | atajjesi | aor | frightened; startled; alarmed; shocked |
+> | aggiṁva (?) | ? |  |
+> | paḍayha (?) | ? |  |
+> | bālova (?) | ? |  |
+> | ḍahāmī (?) | ? |  |
+> | bhūmisaya | adj | who exist on the earth |
+> | pubbavideha | masc | name of the eastern continent |
+> | mahāneru | masc | great mount Neru |
+> | niccomhi (?) | ? |  |
+> | tyāvuso (?) | ? |  |
+> | saṁvejeti | pr | alarms; frightens; shocks; shakes up |
+> | nānattavaṇṇa | adj | having a variety of colours; with diverse forms |
+> | naccan (?) | ? |  |
+> | accimant | adj | shining; brilliant; flashing |
+> | veḷuriyavaṇṇa | adj | colour of lapis lazuli; deep blue in colour |
+> | kappaṭhāyī | adj | remaining for an aeon; lasting for a world cycle |
+> | majjhesarasmiṁ (?) | ? |  |
+> | paccattavedana | adj | each suffered individually |
+> | ayosaṅku | masc | iron spike; iron stake |
+> | samāhitindriya | adj | with composed faculties; with collected mind |
+> | samucchindi | aor | cut off completely; eradicated; exterminated; brought to an … |
+> | moggallānagotta | nt | Moggallāna family clan |
+> | samādhivijjāvasipāramīgata | adj | attained mastery and perfection of mental composure and wisd… |
+> | vasībhūtomhi (?) | ? |  |
+> | vikubbanā | fem | versatility; skillfulness |
+> | nimmināti | pr |  |
+> | koṭisatasahassa | card | one billion (EU); one trillion (US) (1 000 000 000 000) |
+> | sāriputtova (?) | ? |  |
+> | cutupapāta | masc | falling and arising; death and rebirth |
+> | saṅkhārenupalippa (?) | ? |  |
+> | puṇḍarīkaṁva (?) | ? |  |
+> | maraṇābhibhū | adj | conquered death; defeated death; master of death |
+> | naradeva | masc | male god; man god |
+> | devasahassa | nt | one thousand deities; a thousand gods |
+> | khīṇasaṁyoga | adj | eradicated the bonds; worn away the fetters |
+> | ubhatobhāga | adj | on both sides; in both ways |
+> | poṭṭhila | masc | name of a monk |
+> | lābhasakkāra | masc | gain and honour; acquisitions and esteem; possessions and re… |
+> | mīḷhasallitta | adj | smeared with excrement; soiled with dung |
+> | kimīva (?) | ? |  |
+> | kummaggamanudhāva (?) | ? |  |
+> | jimhapatha | masc | crooked path; windy road |
+> | vijaṭi | aor | untangled; unknotted; untwisted; unravelled; (comm) split |
+> | abhippasāda | masc |  |
+> | khaṇi | aor |  |
+> | māttānaṁ (?) | ? |  |
+> | māsādi (?) | ? |  |
+> | purebhatta | nt |  |
+> | vandanāyetaṁ (?) | ? |  |
+> | ajjhāyakopi (?) | ? |  |
+> | brāhmaṇajāti | fem | priestly caste |
+> | abhivandita | pp |  |
+> | vivaramanupabhan (?) | ? |  |
+> | ayamuttamaporiso (?) | ? |  |
+> | sabbaganthapamocana | adj | freeing one from all bonds; liberating one from all ties |
+> | nibbānamadhigantabbaṁ (?) | ? |  |
+> | sithilamārabbha | ind | by being slack; dues to laziness |
+> | sarīrantimadhārī | adj | carrying the last body; in one's final existence |
+> | paṭivijjhan (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

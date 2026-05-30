@@ -172,3 +172,69 @@ parallels:
 *Dvādasamhi nipātamhi,*
 *gāthāyo catuvīsatīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | brāhmaṇamuttaman (?) | ? |  |
+> | pātukaritvāna | abs | having produced; having manifested; having displayed |
+> | devasaṅghapurakkhata | adj | surrounded by the heavenly host; accompanied by the assembly… |
+> | sūriyassuggamana | nt | sunrise |
+> | ovadi | aor |  |
+> | sabbalokānukampaka | adj | having compassion for the whole world; concerned for all the… |
+> | ahamāyāciṁ (?) | ? |  |
+> | vandituṁ | inf |  |
+> | byābhaṅgī | fem | flail; thresher; beating stick |
+> | vambhita | pp | despised; disparaged; derided; held in contempt |
+> | pupphachaḍḍaka | masc |  |
+> | hīnakamma | nt | lowly job; poor occupation |
+> | appabhojana | adj | with little food; not having much to eat |
+> | jātohaṁ (?) | ? |  |
+> | dakkhiṇeyyosi (?) | ? |  |
+> | paribhūta | pp | insulted; disrespected; abused (by) |
+> | pañjali | adj | holding up hands palms together |
+> | puruttama | nt | ultimate town; best city |
+> | jigucchita | pp | shunned; detested; loathed; repulsed |
+> | namassi | aor | worshipped; venerated; revered; honoured |
+> | āsūpasampadā | fem | quick higher ordination; (comm) was one's ordination |
+> | vivasāna | nt | end; finish; conclusion |
+> | visodhayi | aor | cleaned; purified; cleansed; (comm) attained |
+> | pubbajātimanussariṁ (?) | ? |  |
+> | kāruṇika | adj | compassionate; sympathetic; kind |
+> | sabbasattānamuttama | masc | supreme being; best of all beings |
+> | nikkhipitvāna | abs | having placed down; having dropped; having deposited; having… |
+> | athaddasāsiṁ (?) | ? |  |
+> | inda | masc | lord; king; ruler |
+> | mameva | sandhi | of me alone; only mine; mine alone |
+> | bhikkhusaṅghapurakkhata | adj | at the forefront of the community of monks; surrounded by th… |
+> | imamatthaṁ (?) | ? |  |
+> | padālayi | aor | cleaved; broke; shattered; smashed |
+> | upasaṅkami | aor | approached; drew near; went (to) |
+> | vanditvā | abs | having bowed; having paid respect; having honoured |
+> | karitvāna | abs | having done; having made; having built |
+> | atandita | pp | energetic; effortful; active; alert |
+> | purisājañña | masc | noble man; extraordinary man |
+> | sita | nt | smile |
+> | bahuka | adj | many; lots (of) |
+> | dama | masc | taming; restraint; self-control |
+> | akāsi | aor | did; performed |
+> | saṁyama | masc | restraint (from); abstinence (from); self-control (wrt) |
+> | dalidda | adj | poor; needy; impoverished |
+> | āgantvā | abs | having arrived; having come to; having returned |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | pavisati | pr | enters; goes (into) |
+> | mahāvīra | masc | great hero; epithet of the Buddha |
+> | ji | adj | winning; victorious; conquering |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tapa | adj | hot; warm |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | magadha | masc | name of a country; modern day Bihar |
+> | abhāsi | aor | spoke; said |
+> | nīca | adj | low; short |
+> | arañña | nt | forest; wood; wild; wilderness |
+> | namas | masc | reverence (to); veneration (to); homage (to) |
+> | tadā | ind | then; at that time |
+> | āha | perf | said |
+<!-- pali-nlp:vocab-end -->

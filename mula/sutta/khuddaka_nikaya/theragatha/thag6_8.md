@@ -96,3 +96,52 @@ tags:
 *it’s excellent at the end.*
 *… Migajālo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (43 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pariyosānabhaddaka | adj | excellent at the end; having an auspicious conclusion |
+> | mahākhemaṅgama | adj | going to the great sanctuary |
+> | yathāvālokadassana | adj | having vision of the world as it is; with insight into the r… |
+> | paṭiccuppannadhamma | masc | causally produced phenomena; dependently arisen phenomena |
+> | vipākañca (?) | ? |  |
+> | kamman (?) | ? |  |
+> | dukkhūpasamana | adj | calming discomfort; stilling suffering; settling stress |
+> | jarāmaccunivāraṇa | adj | preventing old age and death; blocking aging and dying |
+> | sugambhīra | adj | very deep |
+> | anupassana | nt | watching; witnessing; following; observing |
+> | aṅgārakāsuṁva (?) | ? |  |
+> | upādānappamocana | adj | freeing one from grasping; liberating one from taking posses… |
+> | ñāṇavajiranipātana | adj | dropping the thunderbolt of knowledge (on) |
+> | kammayantavighāṭana | adj |  |
+> | aññāṇamūlabheda | masc | breaking the root of ignorance; uprooting the source of non-… |
+> | visamūla | adj | with poisonous root; (comm) resulting in suffering |
+> | taṇhāmūlavisosana | adj | drying out the root of craving; making the source of desire … |
+> | uttaraṇa | nt |  |
+> | sabbavaṭṭavināsana | adj | destroying the entire cycle of existence |
+> | āghātana | nt | place of execution; execution block |
+> | sabbasaṁyojanātīta | adj | who has passed beyond all bonds; who has escaped all ties |
+> | mahārasa | adj | very tasty; extremely delicious |
+> | buddhenādiccabandhunā (?) | ? |  |
+> | nibbuti | fem | (of fire) extinguishment; being quenched; being put out; goi… |
+> | siva | adj | safe; happy; blessed; auspicious |
+> | ñatvāna | abs | having known; having found out; having understood |
+> | viññāpana | nt | teaching (of); instruction (of); communication (of) |
+> | sudesita | adj | well preached; well taught; well explained; well instructed |
+> | niyyānika | adj | emancipating; redemptive; leading to deliverance |
+> | chetvā | abs | having cut off; having severed; (comm) having killed |
+> | pariggaha | masc | personal possession; material possession; worldly belongings… |
+> | vipāka | masc | (of an action) result; outcome; consequence; fruit |
+> | cakkhumant | adj | with eyes; who can see; who has vision; gifted with sight |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | ñāṇa | nt | knowing (of); understanding (of); insight (into) |
+> | aṭṭhaṅgika | adj | with eight parts; eight-limbed; eightfold |
+> | kamma | nt | action; deed; doing |
+> | santa | prp | existing; being; there is |
+> | bhava | imp | be!; you must be! |
+> | magga | masc | road; path; track; way |
+> | viññāṇa | nt | awareness; consciousness; mind; fifth of the five aggregates |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | vedanā | fem | (pleasant, unpleasant or neutral) felt experience; feeling; … |
+<!-- pali-nlp:vocab-end -->

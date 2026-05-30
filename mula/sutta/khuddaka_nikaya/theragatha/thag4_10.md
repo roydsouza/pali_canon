@@ -76,3 +76,47 @@ parallels:
 *he’s like the full moon on a bright night.”*
 *… Dhammiko thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (38 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | puṇṇamāsiyan (?) | ? |  |
+> | khīṇasaṁsāra | adj | finished wandering on; dried up the stream of existence |
+> | taṇhājāla | nt | net of craving; snare of desire |
+> | gaṇḍamūla | nt | origin of the problem; (comm) source of suffering |
+> | vipphoṭita | pp | popped; burst open; lanced; (comm) shaken off |
+> | saraṇavaraggagāmī | adj | headed to the excellent supreme refuge |
+> | sugatavara | masc | excellent Fortunate One; epithet of the Buddha |
+> | modamāna | prp |  |
+> | samavipākī | adj | having the same result; with identical consequences; ripenin… |
+> | esānisaṁso | sandhi | this is the benefit (of); this is the advantage (of) |
+> | sukhamāvaha (?) | ? |  |
+> | samūha | masc | mass; accumulation; aggregation |
+> | catthi | sandhi | and there is |
+> | suggati | fem | state of happiness; good destination; heaven |
+> | nīyan (?) | ? |  |
+> | suciṇṇa | adj | well practised; well performed; done correctly |
+> | dhammacārī | adj | who lives the Dhamma; who practices the teaching; who walks … |
+> | dosinā | fem | bright night; moonlit night |
+> | canda | masc | moon |
+> | hu | masc | killer; murderer; slayer |
+> | adhamma | masc | misconduct; immoral behaviour; unjust means; cheating |
+> | rakkha | adj | protecting; guarding |
+> | ubha | pron | both |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | duggati | fem | state of misery; bad destination; hell |
+> | kareyya | opt | would make; could make |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | sāvaka | masc | disciple; pupil; follower |
+> | chanda | masc | interest (in); desire (for); wish (for); intention (to); imp… |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | sugata | adj | faring well; going well; doing well; fortunate; who has reac… |
+> | niraya | masc | hell; hell realm |
+> | ṭhita | pp | stood; stood still |
+> | gaccha | imp | go!; begone!; away with you! |
+> | kaci | pron | someone; something; anyone; anything; whoever |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | dhamma | masc | nature; character |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -52,3 +52,31 @@ tags:
 *now there’ll be no more future lives.*
 *… Kumārakassapo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (22 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | carimoyaṁ (?) | ? |  |
+> | tesamayaṁ (?) | ? |  |
+> | sakkāyādhigatā (?) | ? |  |
+> | asaṅkheyya | nt | incalculable; innumerable (period of time) |
+> | sacchikāhi (?) | ? |  |
+> | sampadā | fem | attainment (of); achievement (of); accomplishment (of); succ… |
+> | jātimaraṇasaṁsāra | masc | birth, death and wandering on |
+> | pacchimaka | adj | very last; final |
+> | etādisa | adj | of this kind; of this type; such as this |
+> | samussaya | masc | body |
+> | satthar | masc | master; teacher |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | ahu | aor | was |
+> | kappa | adj | fitting (to); suitable (to); appropriate (to) |
+> | sāvaka | masc | disciple; pupil; follower |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | yattha | ind | wherever; where; when; in which |
+> | buddha | masc | Buddha; Awakened One |
+> | aha | nt | day |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

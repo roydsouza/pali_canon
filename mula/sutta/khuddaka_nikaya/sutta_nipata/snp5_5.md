@@ -208,3 +208,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp5_5_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | saṅgamimaṁ (?) | ? |  |
+> | vedagumābhijaññā (?) | ? |  |
+> | nūnappajaheyyu (?) | ? |  |
+> | nivesanañca (?) | ? |  |
+> | nandiñca (?) | ? |  |
+> | vitaran (?) | ? |  |
+> | apucchasi | aor |  |
+> | aṭṭhita | adj |  |
+> | gotamanūpadhīkaṁ (?) | ? |  |
+> | sukittita | adj | well explained; well expounded; well elaborated |
+> | etābhinandāmi (?) | ? |  |
+> | sampajānāti | pr | is aware (of); is alert (to); knows; perceives |
+> | tañcāhaṁ | sandhi | and that I |
+> | sokapariddavañca (?) | ? |  |
+> | pabhava | masc | source; origin; cause; coming into being |
+> | samudāgata | pp | arisen (from); resulted (from) |
+> | akaṅkha | adj | free from doubt; rid of uncertainty |
+> | jātippabhavānupassī | adj | observing the birthplace (of); noticing the source (of) |
+> | pabhavan (?) | ? |  |
+> | upadhinidāna | nt | attachment as source; acquisition as foundation; identificat… |
+> | tiriyañcāpi (?) | ? |  |
+> | viyākaroti | pr | answers; replies |
+> | dukkhamupeti | pr | experiences suffering; suffers discomfort |
+> | pavakkhati | fut | will tell; will explain |
+> | panujja | ger | dispelling; driving out; rejecting; pushing away |
+> | ovadati | pr | advises; instructs; admonishes |
+> | abhinandati | pr | delights (in); is pleased (with); approves (of); is happy (w… |
+> | akittayi | aor | explained (to); made known (to); answered |
+> | lokasmimanekarūpā (?) | ? |  |
+> | oghamimaṁ (?) | ? |  |
+> | tadiṅgha | sandhi | please … that!; pray … that!; come now … that! |
+> | dhammamuttamaṁ | sandhi | supreme teaching; highest Dhamma; ultimate reality; ultimate… |
+> | avidvant | masc | fool; who is ignorant |
+> | anītiha | adj | not hearsay; not mere talk; not oral tradition |
+> | visajja | ger | releasing; untying; loosening; setting free |
+> | jātijaran (?) | ? |  |
+> | mettagū | masc | name of a Brahman ascetic |
+> | akhila | adj | soft (towards); open-hearted (towards); warm-hearted (toward… |
+> | asatta | pp | unattached (to); without clinging (to); not stuck (to) |
+> | kāmabhava | masc | existence in the realm of sense desire; sensual existence |
+> | brūmī (?) | ? |  |
+> | kittayati | pr | explains; declares; relates |
+> | samecca | ger | coming together; meeting (with) |
+> | vidvant | masc | who is wise; who is knowing; who is intelligent |
+> | pahari | aor |  |
+> | maheti | pr |  |
+> | evaṁvihārī | adj | who lives in this way; living like this |
+> | manda | adj | dull; dull-witted; slow; stupid; not bright |
+> | atāri | aor | crossed (over); made it across |
+> | mamāyita | nt | (something) treasured; cherished; taken as mine; made mine; … |
+> | akaci | pron | nothing |
+> | namassati | pr | worships; venerates; reveres; honours |
+> | vaca | root | (gram) √vac (say, speak) |
+> | vītataṇha | adj | free from desire (for); free from passion (for); without cra… |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | anīgha | adj | untroubled; undisturbed; calm |
+> | tara | adj | crossing; going beyond; passing; surpassing |
+> | nirāsa | adj | desire-less; free from hope; fulfilled |
+> | upadhi | masc | attachment; taking as mine; appropriation; acquisition; sens… |
+<!-- pali-nlp:vocab-end -->

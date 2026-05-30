@@ -80,3 +80,48 @@ tags:
 *I’ll dwell unperturbed.”*
 *… Tekicchakārī thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (39 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | aniñjita | pp |  |
+> | phusitaggaḷa | adj | with a fitted door |
+> | vihaññi | aor |  |
+> | saṅghamappameyyaṁ (?) | ? |  |
+> | dhammamappameyyaṁ (?) | ? |  |
+> | buddhamappameyyaṁ (?) | ? |  |
+> | kathamahaṁ (?) | ? |  |
+> | khalagata | adj | gone to the threshing floor; taken to the mill |
+> | atihita | pp |  |
+> | appamaññā | fem |  |
+> | satatamudaggo (?) | ? |  |
+> | phuṭasarīra | adj | with a body pervaded (with); having a body suffused (with) |
+> | pareta | pp | afflicted (with); overcome (by); attacked (by); overwhelmed … |
+> | hemantika | adj | winter; for the winter; related to the winter season |
+> | hohiti | fut | will be; will become |
+> | sukhita | pp | pleased; delighted; blessed; comforted; happy |
+> | vīhi | masc | rice paddy; Oryza sativa |
+> | vihaññati | pr | suffers hardship (because of); suffers anguish (from) |
+> | sāli | masc | fine rice |
+> | pavisati | pr | enters; goes (into) |
+> | abbhokāsa | masc | open space; open air; wide open space |
+> | phusati | pr | touches; contacts; feels; experiences |
+> | pasanna | pp | bright; clear; pure |
+> | sīta | adj | cool; cold; chilly |
+> | pīti | fem | delight; heartfelt joy; pleasure; feeling of love |
+> | labha | adj | getting; gaining; acquiring |
+> | vihāra | masc | dwelling; residence |
+> | anussarati | pr | remembers; recollects; bears in mind |
+> | piṇḍa | masc | ball; lump |
+> | nāhaṁ | sandhi | I (am) not; I (do) not |
+> | ratti | fem | night |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | catu | card | four (4) |
+> | tvaṁ | pron | you (subject) |
+> | ka | pron | who?; what?; which? |
+> | viharati | pr | lives (in); dwells (in); stays (in) |
+> | ima | pron | this |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

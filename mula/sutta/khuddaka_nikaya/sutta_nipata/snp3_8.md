@@ -318,3 +318,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_8_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabbasoka | masc | all grief; every sorrow |
+> | domanassañca (?) | ? |  |
+> | pajappañca (?) | ? |  |
+> | dhaṁsayati | pr | causes the ruin of; destroys; brings down |
+> | tūlaṁva (?) | ? |  |
+> | khippamuppatitaṁ (?) | ? |  |
+> | parinibbayati | pr | (of fire) extinguishes; puts out |
+> | saraṇamādittaṁ (?) | ? |  |
+> | ñātisaṅgha | masc | group of relatives; circle of kin |
+> | phandantevidha (?) | ? |  |
+> | vasamāgamma | ger | coming under the power (of); coming under the control (of) |
+> | yathākammupage (?) | ? |  |
+> | gamina | adj |  |
+> | vasamanvagā | imperf | fell under the power of; was under the sway of |
+> | sokamappajahaṁ (?) | ? |  |
+> | hiṁsamattānamattanā (?) | ? |  |
+> | cupahañña (?) | ? |  |
+> | bhiyyassuppajjate (?) | ? |  |
+> | hiṁsamattānaṁ (?) | ? |  |
+> | udabbahati | pr |  |
+> | kiñcidatthaṁ (?) | ? |  |
+> | paridevayamāna | prp | mourning; lamenting; wailing |
+> | paridevati | pr | mourns; laments; wails |
+> | asampassanta | prp | not seeing; not understanding |
+> | lokapariyāya | masc | way of the world; how the world is |
+> | evamabbhāhato (?) | ? |  |
+> | govajjha | masc | cow for the slaughter |
+> | ekamekova (?) | ? |  |
+> | lālapati | pr |  |
+> | pekkhataṁyeva (?) | ? |  |
+> | tāyati | pr |  |
+> | maccupareta | adj |  |
+> | bhedanapariyanta | adj | ending up broken |
+> | mattikabhājana | nt |  |
+> | patana | nt | fall; falling |
+> | phalānamiva (?) | ? |  |
+> | jarampi (?) | ? |  |
+> | parittañca (?) | ? |  |
+> | kasirañca (?) | ? |  |
+> | animittamanaññātaṁ (?) | ? |  |
+> | abbūḷhasalla | adj | with the dart removed; with the barb plucked out |
+> | vivaṇṇa | adj | faded; discoloured; altered in colour |
+> | ruṇṇa | nt | wailing; crying |
+> | nirattha | adj | useless; worthless |
+> | maccuparāyaṇa | adj | subject to death; destined to die |
+> | saṁyuta | pp | fastened together (with); bundled (with); bound (with); fitt… |
+> | upakkama | masc | technique; means; method |
+> | paridevita | nt | mourning; lamenting; wailing; crying |
+> | pakka | pp | decaying; festering; ripe |
+> | miyyati | pr | is killed (by); dies (from) |
+> | maññan (?) | ? |  |
+> | sallamattano | sandhi | barb within oneself |
+> | abbahati | pr |  |
+> | sapañña | adj | wise; intelligent; discerning |
+> | maccuvasa | masc | death's power; control of death |
+> | pālen (?) | ? |  |
+> | anutthunanta | prp | moaning (about); lamenting (over); sighing (about) |
+> | pāta | masc | fall |
+> | paridevanā | fem | mourning; lamentation; wailing; crying |
+> | vini | aor |  |
+<!-- pali-nlp:vocab-end -->

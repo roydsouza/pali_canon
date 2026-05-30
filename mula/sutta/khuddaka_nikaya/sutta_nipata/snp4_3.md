@@ -140,3 +140,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_3_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sabban (?) | ? |  |
+> | diṭṭhimidheva (?) | ? |  |
+> | adhosi | aor | shaken off; tossed off |
+> | māyañca (?) | ? |  |
+> | ādiyanta | prp | taking; stealing |
+> | svātivatta | adj | easily overcome; easily transcended; easy to get past |
+> | diṭṭhīnivesa | masc | fixed view; rigid idea; dogmatic opinion; attachment to view |
+> | kuppapaṭiccasantiṁ (?) | ? |  |
+> | yadattani (?) | ? |  |
+> | avīvadāta | pp | impure; unclean |
+> | tamariyadhammaṁ (?) | ? |  |
+> | akatthamāna | prp | not boasting; not praising oneself (about) |
+> | itihan (?) | ? |  |
+> | anariyadhamma | masc | ignoble nature; poor in character |
+> | paresa | pron | to others; for others |
+> | anānupuṭṭhova (?) | ? |  |
+> | ruci | fem | liking; preference; choice; inclination; approval |
+> | chandānunīta | adj | led by interest (in); pulled along by the impulse (for); led… |
+> | kathamaccayeyya (?) | ? |  |
+> | vādañca (?) | ? |  |
+> | saccamana | adj | with honest mind; with good heart |
+> | duṭṭhamanāpi (?) | ? |  |
+> | yassussadā (?) | ? |  |
+> | pakubbamāna | prp | making; doing; creating; fashioning; forming; constructing |
+> | nirassatī | pr | rejects; discards |
+> | sakañhi (?) | ? |  |
+> | ātuma | masc | self; oneself; personality; individual |
+> | khila | masc | hardness (towards); coldness (towards); hard-heartedness (to… |
+> | niratta | masc | no self; soullessness |
+> | mānañca (?) | ? |  |
+> | anūpaya | adj | not attracted (to); unengaged (with); disinterested (in); un… |
+> | dhona | masc | pure one; purified being |
+> | abhinibbutatta | adj | self-extinguished; self-quenched; with completely cooled min… |
+> | sayameva | sandhi | just by oneself; on one's own accord |
+> | upaya | masc | approach; engagement |
+> | athopi | sandhi | and too; and even; nor even |
+> | nicchati | pr | does not wish; does not want; does not desire |
+> | pakappita | pp | (of an idea or opinion) imagined; fabricated; fashioned; des… |
+> | samuggahīta | pp | embraced; accepted; chosen; taken up |
+> | pāva | perf | spoke (about); told (of); boasted (about); revealed |
+> | sīlavata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | tamāhu | sandhi | they call that |
+> | nissita | pp | dependent (on); clung (to); attached (to); supported (by); l… |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | niviṭṭha | pp | established (in); settled down (in); camped (in) |
+> | purakkhata | pp | given importance; esteemed; honoured |
+> | jantu | masc | man; person; being |
+> | ānisaṁsa | masc | profit (in); benefit (in); advantage (of); good result (of) |
+> | kuhiñci | ind | somewhere; anywhere; wherever |
+> | samatta | pp | completed; finished |
+> | saṅkhata | pp | created; constructed; conditioned; fabricated |
+> | nivesana | nt | house; home |
+> | upeti | pr | comes; approaches; enters |
+> | vadan (?) | ? |  |
+> | vāda | adj | holding a belief; having a doctrine |
+> | jāta | pp | born; born (in); born (from) |
+> | nara | masc | man; person |
+> | diṭṭhi | fem | view; belief; opinion; concept; theory; attitude; philosophy… |
+> | gacchati | pr | goes; walks; moves; wanders around |
+> | saya | adj | lying; resting; existing; residing in |
+<!-- pali-nlp:vocab-end -->

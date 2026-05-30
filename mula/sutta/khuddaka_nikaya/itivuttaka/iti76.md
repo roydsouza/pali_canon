@@ -167,3 +167,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti76_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pāpen (?) | ? |  |
+> | nen (?) | ? |  |
+> | nupasevati | pr | does not associate (with); does not keep company (with) |
+> | sampākamattano (?) | ? |  |
+> | pattapuṭasseva (?) | ? |  |
+> | dhīrūpasevanā | fem |  |
+> | pattāpi (?) | ? |  |
+> | palāsa | masc | leaf; foliage |
+> | tagarañca (?) | ? |  |
+> | bālūpasevanā | fem | keeping company with fools; associating with idiots; being f… |
+> | pū (?) | ? |  |
+> | kusāpi (?) | ? |  |
+> | pūtimaccha | masc | rotten fish; stinking fish |
+> | pāpasakha | masc | bad friend; evil companion |
+> | upalepabhaya | nt | fear of contamination |
+> | alittamupalimpa (?) | ? |  |
+> | kalāpaṁva (?) | ? |  |
+> | diddha | pp | smeared (with poison) |
+> | samphuṭṭha | pp | touched; contacted; had a close relationship with |
+> | sahavāsa | masc | co-habitant; living together |
+> | cūpaseva (?) | ? |  |
+> | saṅkiya | ptp | should be suspected (of); could be doubted (regarding) |
+> | karontamupaseva (?) | ? |  |
+> | akarontopi (?) | ? |  |
+> | vittalābhañca (?) | ? |  |
+> | upapajjissāmī (?) | ? |  |
+> | uppajjantū (?) | ? |  |
+> | āgacchatū (?) | ? |  |
+> | surabhi | adj | fragrant; sweet smelling; perfumed |
+> | upanayhati | pr | resents; bears a grudge (towards); harbours enmity (towards) |
+> | samphusanta | prp | touching; contacting; associating; having a close relationsh… |
+> | pamodanā | fem | delighting; being happy; being joyful |
+> | suggatin (?) | ? |  |
+> | kusagga | nt | tip of a blade of Kusa grass |
+> | sevamāna | prp | associating; connecting; experiencing |
+> | rūhati | pr | grows; ascends; increases |
+> | pasaṁsanta | prp |  |
+> | yādisa | adj | whichever kind of; whatever kind of; of such kind |
+> | patthayāna | prp | wishing (for); aspiring (for); craving (for) |
+> | asanta | prp | untrue; false |
+> | tādisaka | adj | of that kind; of such character; of such quality; like |
+> | patthayamāna | prp | wishing (for); aspiring (for) |
+> | tīṇimāni | sandhi | these three |
+> | sevati | pr | associates (with); keeps company (with) |
+> | vāyan (?) | ? |  |
+> | rakkhati | pr | protects; guards; watches over |
+> | avaṇṇa | masc | blame; dispraise; discredit; disrepute |
+> | sugati | fem | good destination; happy fate |
+> | pecca | ind | after death |
+> | sara | masc | reed |
+> | mitta | masc | friend |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | bhoga | masc | wealth; possessions; property; riches |
+> | asati | prp | when isn't; when not existing |
+> | tādisa | adj | such; like that (of); of such character; of such quality; ki… |
+> | sagga | adj | heavenly |
+> | ñatvā | abs | having known; having found out; having understood |
+> | dhīra | adj | stable; constant; reliable; firm |
+> | nara | masc | man; person |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+<!-- pali-nlp:vocab-end -->

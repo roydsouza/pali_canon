@@ -70,3 +70,39 @@ tags:
 *and fulfilled the Buddha’s instructions.*
 *… Jambuko thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (30 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sādiyi | aor | consented (to); accepted; agreed (to); permitted |
+> | uddesañca (?) | ? |  |
+> | sukkhagūtha | masc | dry dung; dry excrement |
+> | parivajjayi | aor | shunned; avoided; keeps away (from); rejected |
+> | ekapāda | masc | one foot; one leg |
+> | alocayi | aor | plucked out; tore out |
+> | māsika | adj |  |
+> | rajojallamadhārayiṁ (?) | ? |  |
+> | bhuñjanta | prp | eating; consuming |
+> | pañcapaññāsavassa | nt | fifity-five years |
+> | duggatigāmī | adj | leading to a state of misery; going to a bad destination; he… |
+> | saraṇagamana | nt | taking refuge; going for refuge |
+> | saraṇamāgamā | imperf | came to (the Buddha) for refuge |
+> | khādi | aor | chewed; devoured; ate |
+> | vuyhamāna | prp | being carried away (by); being swept along (by) |
+> | mahogha | masc | great flood; great deluge |
+> | karitvāna | abs | having done; having made; having built |
+> | etādisa | adj | of this kind; of this type; such as this |
+> | dhammasudhammatā | fem | excellence of the teaching; superb nature of the Dhamma |
+> | kesamassu | nt | hair and beard |
+> | sāsanan (?) | ? |  |
+> | bhatta | nt | food; boiled rice |
+> | aṭṭhāsi | aor | stood; stayed; remained |
+> | āsana | nt | seat; chair |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | vijjanta | prp | existing |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | kata | pp | done; did; completed |
+> | buddha | masc | Buddha; Awakened One |
+> | pa | adj | drinking; who drinks |
+<!-- pali-nlp:vocab-end -->

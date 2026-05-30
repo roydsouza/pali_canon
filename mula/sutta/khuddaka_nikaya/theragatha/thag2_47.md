@@ -48,3 +48,28 @@ tags:
 *don’t lead me away from the goal.*
 *… Anūpamo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (19 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mānatthe (?) | ? |  |
+> | cittadubbhaka | masc |  |
+> | sūlamāropamānakaṁ (?) | ? |  |
+> | nandamānāgataṁ (?) | ? |  |
+> | niyojayi | aor | urged; impelled; instigated; encouraged (to do) |
+> | cittakali | masc |  |
+> | kaliṅgara | masc | log; piece of wood; straw |
+> | sūla | nt | stake; spike; spear; pike; sharp pointy thing |
+> | vajati | pr | goes; goes to |
+> | tāhaṁ | sandhi | I that; I him; I you |
+> | dullabha | adj | difficult to find (for); hard to obtain (for); rare (for) |
+> | teneva | sandhi | just by that; because of that very thing; by that alone |
+> | laddha | pp | obtained; gained; won; received |
+> | brūti | pr | says; tells; speaks; calls |
+> | sattha | masc | caravan; travel party; convoy |
+> | citta | nt | mind; heart |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -139,3 +139,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp4_4_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | paramuggahītan (?) | ? |  |
+> | virāgaratta | adj | attached to detachment; passionate for dispassion |
+> | rāgarāgī | adj | who is infatuated by infatuation; who desires desire; who is… |
+> | sīmātiga | adj |  |
+> | ādānagantha | masc | knot of grasping; bond of possession |
+> | accantasuddhi | fem | perfect purity; utmost perfection |
+> | dassī | adj | seeing; perceiving; knowing; understanding |
+> | saññasatta | adj | attached to perception; stuck in concepts |
+> | gahāyanta | prp | picking up; grabbing hold (of); grasping |
+> | nirassajan (?) | ? |  |
+> | uggahāyan (?) | ? |  |
+> | attañjaha | adj | abandoning what was picked up; letting go what was grasped |
+> | sopadhīka | adj | who has attachments |
+> | suddhānupassī | adj | seeing the pure; witnessing the faultless |
+> | evābhijānaṁ (?) | ? |  |
+> | saṁsuddhi | fem | purification (of); purity (of); holiness (of) |
+> | tassīdha | sandhi | for that one here; for whom here |
+> | kubban (?) | ? |  |
+> | purekkharon (?) | ? |  |
+> | kappayan (?) | ? |  |
+> | vikappayati | pr | (of concepts and opinions) forms; constructs; defines; theor… |
+> | kenīdha | sandhi | about what here; by what reason in this case |
+> | sākha | adj | with branches |
+> | kapīva (?) | ? |  |
+> | pakubbamāna | prp | making; doing; creating; fashioning; forming; constructing |
+> | visenibhūta | adj | disarmed (wrt); not opposing; at peace (with); (or) disassoc… |
+> | ejānuga | adj | following one's impulses; running after desire |
+> | suddhimāha (?) | ? |  |
+> | gathita | pp | tied; knotted; bound (by) |
+> | sujjhati | pr | is purified; is cleansed; is washed away |
+> | nayidha | sandhi | not here; there isn't; wouldn't be here |
+> | pamuñca | adj | releasing; freeing |
+> | visajja | ger | releasing; untying; loosening; setting free |
+> | paraman (?) | ? |  |
+> | taran (?) | ? |  |
+> | anūpalitta | pp | not smeared (by); not sullied (by); untainted (by); unstaine… |
+> | uccāvaca | adj | high and low; here and there; good and bad; elation and depr… |
+> | samecca | ger | coming together; meeting (with) |
+> | vidvant | masc | who is wise; who is knowing; who is intelligent |
+> | samuggahīta | pp | embraced; accepted; chosen; taken up |
+> | lokasmi | masc | in the world |
+> | pāva | perf | spoke (about); told (of); boasted (about); revealed |
+> | bhūripañña | adj | of extensive understanding; of vast wisdom |
+> | sīlavata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | sita | nt | smile |
+> | pajahanta | prp | giving up; abandoning; letting go (of) |
+> | sabbadhamma | masc | everything; all things; all mental phenomena; all states of … |
+> | āsa | aor | it was |
+> | jantu | masc | man; person; being |
+> | paccati | pr | is cooked |
+> | kuhiñci | ind | somewhere; anywhere; wherever |
+> | muta | pp | sensed; perceived; (or) thought; (comm) smelled; tasted or t… |
+> | samādāya | ger | taking along; taking away |
+> | suddha | pp | clean; pure; white |
+> | aroga | adj | healthy; free from disease |
+> | apara | adj | another; after; further; next |
+> | vivaṭa | pp | uncovered; unconcealed |
+> | vada | adj | speaking; who talks |
+> | tameva | sandhi | that very; that same; just him; only that |
+> | suddhi | fem | purity; purification; holiness |
+<!-- pali-nlp:vocab-end -->

@@ -159,3 +159,69 @@ parallels:
 *is victorious among men and gods.*
 *… Sīlavo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sīlapaññāṇa | nt | characteristic of morality; (comm) ethical conduct and wisdo… |
+> | sīlameva (?) | ? |  |
+> | summana | adj | glad; happy; pleased; satisfied; cheerful |
+> | peccāpāye (?) | ? |  |
+> | ativāha | masc |  |
+> | pātheyyamuttamaṁ (?) | ? |  |
+> | sambalamevaggaṁ (?) | ? |  |
+> | vilepana | nt | oil; unguent; cream; moisturizer |
+> | kavacamabbhutaṁ (?) | ? |  |
+> | sīlamābharaṇaṁ (?) | ? |  |
+> | āvudhamuttamaṁ (?) | ? |  |
+> | sabbabuddhānaṁ (?) | ? |  |
+> | titthañca (?) | ? |  |
+> | abhihāsana | nt |  |
+> | mātuka | nt | producer; creator; generator (of) |
+> | kalyāṇānañca (?) | ? |  |
+> | pasaṁsañca (?) | ? |  |
+> | akittiñca (?) | ? |  |
+> | avaṇṇañca (?) | ? |  |
+> | pāpamācaraṁ (?) | ? |  |
+> | saññamenādhigaccha (?) | ? |  |
+> | vittilābhañca (?) | ? |  |
+> | sabbasampatti | fem | all accomplishments; all achievements |
+> | sīlañhi (?) | ? |  |
+> | sīlamevidha (?) | ? |  |
+> | jayan (?) | ? |  |
+> | disodisaṁ | ind |  |
+> | susikkhita | adj | well trained; thoroughly mastered |
+> | pamodanā | fem | delighting; being happy; being joyful |
+> | nindanta | prp |  |
+> | pamukha | adj | headed by; lead by; at the head |
+> | sevita | pp | served (by); followed (by) |
+> | ādi | adj | first; starting with |
+> | kitti | fem | fame; renown; celebrity |
+> | pasaṁsanta | prp |  |
+> | dhaṁsati | pr | falls (from); falls down (from); is deprived (of) |
+> | visodhayati | pr | cleans; purifies |
+> | upanāmeti | pr | (of food) serves; brings near; takes the next mouthful |
+> | patthayāna | prp | wishing (for); aspiring (for); craving (for) |
+> | appaṭima | adj |  |
+> | uttama | adj | best; highest; ultimate; supreme; top |
+> | dummana | adj | unhappy; sad; disappointed; depressed; dejected; in low spir… |
+> | sumana | adj | glad; happy; pleased; satisfied; cheerful |
+> | sabbadhamma | masc | everything; all things; all mental phenomena; all states of … |
+> | seti | pr | lies; lies around |
+> | mahesakkha | adj | renowned; of great influence; distinguished; important; (com… |
+> | rakkhati | pr | protects; guards; watches over |
+> | paññava | adj | wise; intelligent; insightful; percipient |
+> | seṭṭha | adj | foremost; best (of); primary; most important; supreme |
+> | asamāhita | pp | distracted; scattered; not composed |
+> | patiṭṭha | adj | based (on); supported (by); established (on) |
+> | sabbattha | ind | everywhere; every place |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | agga | adj | highest; topmost; foremost; supreme; ultimate |
+> | pecca | ind | after death |
+> | bala | nt | strength; power; might |
+> | mitta | masc | friend |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | saṁvara | masc | control (according to); restraint (according to); holding ba… |
+> | labhati | pr | gets; receives; obtains (something for someone) |
+<!-- pali-nlp:vocab-end -->

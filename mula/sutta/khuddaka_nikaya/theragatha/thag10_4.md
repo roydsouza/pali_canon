@@ -137,3 +137,69 @@ parallels:
 *he received the religious donation.*
 *… Cūḷapanthako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dakkhiṇan (?) | ? |  |
+> | paṭiggaṇhi | aor | took; accepted; received |
+> | paṭiggahi | aor | took; accepted; received |
+> | nisīdahaṁ (?) | ? |  |
+> | vehāsādupasaṅkamiṁ (?) | ? |  |
+> | kālappavedaka | adj | announcing the time |
+> | kālappavedana | nt | announcing the time |
+> | nisīdambavane (?) | ? |  |
+> | panthaka | masc | name of a monk |
+> | nimminitvāna | abs | having re-duplicated (oneself by psychic power) |
+> | sahassakkhattumattānaṁ (?) | ? |  |
+> | svadhiṭṭhita | adj | firmly committed; strongly resolved; intensely determined |
+> | adhiṭṭheti | pr | determines; resolves; fixes one's attention (on) |
+> | pādapuñchanī | fem | mat for wiping the feet; door mat |
+> | pavesayi | aor | brought (to); led (to); ushered (into) |
+> | parāmasi | aor |  |
+> | koṭṭhaka | masc | fort; stronghold; surrounding wall |
+> | viditvāna | abs | having known; having perceived; having understood |
+> | pādāsi | aor | gave; granted; presented; bestowed |
+> | paṇāmita | pp | dismissed; ejected; rejected |
+> | paribhūta | pp | insulted; disrespected; abused (by) |
+> | āyāga | masc | gift; sacrifice; religious offering |
+> | paṭiggaha | masc | receptacle; container |
+> | āhuti | fem | oblation; offering |
+> | saṅghārāma | masc | monastery belonging to the community |
+> | paṇāmeti | pr | dismisses; ejects; rejects |
+> | pavedita | pp | taught; explained; proclaimed; made known |
+> | āgacchi | aor | came; arrived |
+> | pāheti | pr |  |
+> | dandha | adj | slow; sluggish |
+> | apekkhava | adj |  |
+> | uttamattha | masc | ultimate good; summum bonum; supreme goal; epithet of Nibbān… |
+> | paṭipādesi | aor | practised the path (of); undertook the practice (of) |
+> | vanditvā | abs | having bowed; having paid respect; having honoured |
+> | gahetvāna | abs | having taken; having brought |
+> | ramma | ptp | charming; lovely; wonderful; enjoyable; delightful |
+> | dummana | adj | unhappy; sad; disappointed; depressed; dejected; in low spir… |
+> | visodhita | pp | cleaned; removed |
+> | dūta | masc | messenger |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | anukampā | fem | compassion (for); pity (for); concern (for) |
+> | puññakkhetta | nt | field of merit |
+> | patti | fem | reaching; attainment (of); acquisition (of); getting |
+> | bhātar | masc | brother |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | gati | fem | going; passing on |
+> | suddha | pp | clean; pure; white |
+> | ra | letter | (gram) letter r; 35th letter of the alphabet; retroflex semi… |
+> | ghara | nt | house; home; household |
+> | sabbaloka | masc | whole world; entire universe; all the world; every world |
+> | bāhā | fem | arm; forearm |
+> | sīsa | nt | head |
+> | sohaṁ | sandhi | that, I; so, I |
+> | satthar | masc | master; teacher |
+> | āsi | aor | was |
+> | aṭṭhāsi | aor | stood; stayed; remained |
+> | vihari | aor | lived; remained; stayed in |
+> | pubbenivāsa | masc | previous life; former existence |
+> | vacana | nt | word; utterance; talk; statement |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+<!-- pali-nlp:vocab-end -->

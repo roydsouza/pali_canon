@@ -1018,3 +1018,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp3_9_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | brāhmaṇamuttamaṁ (?) | ? |  |
+> | yāyanta | prp | going; moving forward; proceeding; travelling |
+> | rathassāṇīva (?) | ? |  |
+> | kammanibandhana | adj | bound by actions; pinned down by kamma |
+> | kammavipākakovida | adj | skilled in the results of action; (or) skilled in action and… |
+> | paṭiccasamuppādadassa | adj | seeing the chain of causation; observing dependent originati… |
+> | yodhājīvopi (?) | ? |  |
+> | coropi (?) | ? |  |
+> | pabruvan (?) | ? |  |
+> | diṭṭhigatamajānataṁ (?) | ? |  |
+> | dīgharattamanusayitaṁ (?) | ? |  |
+> | sammuccā | ind | according to common consensus; by popular opinion |
+> | raṭṭhañca (?) | ? |  |
+> | porohicca | nt | office of chief-priest; chief priest-ship; prime minister-sh… |
+> | yodhājīva | masc | warrior; soldier; mercenary; professional soldier |
+> | issattha | nt | archery |
+> | vohāra | masc | verbal expression; naming |
+> | puthusippa | nt | various skills; different crafts |
+> | vokārañca (?) | ? |  |
+> | manussesvetaṁ (?) | ? |  |
+> | paccattañca (?) | ? |  |
+> | nāṅgulīhi (?) | ? |  |
+> | soṇī | fem | bitch; female dog |
+> | bhamu | fem | eyebrow |
+> | oṭṭha | masc | lip; lips |
+> | pattayāna | adj | with wings as vehicle; (comm) going by wing |
+> | pakkhīpi (?) | ? |  |
+> | vārigocara | adj | living in water |
+> | macchepi (?) | ? |  |
+> | dīghapiṭṭhika | masc | snake |
+> | pādūdarepi (?) | ? |  |
+> | khuddaka | adj | small; minute; tiny |
+> | catuppadepi (?) | ? |  |
+> | kunthakipillika | nt | biting ants and large black ants |
+> | paṭaṅga | nt | moth; flying insect |
+> | kīṭa | masc | insect |
+> | tiṇarukkhepi (?) | ? |  |
+> | jātivibhaṅga | masc | division of species; classification of types; taxonomy (of) |
+> | byakkhissati | fut | will explain; will define; will describe (something to someo… |
+> | khayātīta | adj | (of the moon) waxing; (comm) full |
+> | puṭṭhumāgamhā (?) | ? |  |
+> | ācariyasādisa | adj | like the teacher; equal to one's teacher (in) |
+> | padakasma (?) | ? |  |
+> | kevalinosmase (?) | ? |  |
+> | yadakkhātaṁ (?) | ? |  |
+> | tārukkhassāyaṁ (?) | ? |  |
+> | mayamasmubho (?) | ? |  |
+> | anuññātapaṭiññāta | adj | accepted and acknowledged; authorized and approved |
+> | vatasampanna | adj | dutiful; doing one's duty; performing religious practices |
+> | anupakkuṭṭha | pp | blameless; irreproachable |
+> | akkhitta | pp | uncontested (wrt); undisputed (wrt) |
+> | pitāmahayuga | nt | generation of grandparents; generation of ancestors |
+> | saṁsuddhagahaṇika | adj | of good birth; of pure linage |
+> | piti | masc | father |
+> | vijānatan (?) | ? |  |
+> | samudāgata | pp | arisen (from); resulted (from) |
+> | pessika | masc | messenger |
+> | sippika | masc | craftsman; artisan |
+> | ūru | masc | thigh |
+> | māti | fem | mother |
+<!-- pali-nlp:vocab-end -->

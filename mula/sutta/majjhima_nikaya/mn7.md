@@ -411,3 +411,69 @@ parallels:
 
 *Vatthasuttaṁ niṭṭhitaṁ sattamaṁ.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | udapānopi (?) | ? |  |
+> | khematā | fem | safety; security; well-being |
+> | sināti | pr | bathes; washes; ritually cleanses |
+> | suddhassuposatho (?) | ? |  |
+> | phaggu | masc | spring festival in February-March |
+> | sodhayati | pr | cleans; purifies; sanctifies |
+> | payāga | masc | name of a holy bathing place; modern day Allahabad |
+> | kaṇhakamma | masc | evil deed; wrong doing; criminal action |
+> | niccampi (?) | ? |  |
+> | bāhumatī | fem | name of a holy river |
+> | payāgañca (?) | ? |  |
+> | mapi (?) | ? |  |
+> | adhikakkañca (?) | ? |  |
+> | pavāhetī (?) | ? |  |
+> | puññasammata | adj | considered to be meritorious |
+> | lokkhasammata | adj | considered to give purity |
+> | sināyitun (?) | ? |  |
+> | sinānenā (?) | ? |  |
+> | sināta | pp | bathed; washed; ritually cleansed |
+> | panāgamma (?) | ? |  |
+> | paṭinissaṭṭhan (?) | ? |  |
+> | paḷāsa | masc | rivalry; competitiveness; contentiousness |
+> | upanāha | masc | resentment; bearing a grudge; harbouring enmity; rancour |
+> | asaṅkiliṭṭhe (?) | ? |  |
+> | parisuddhatta | nt | purity; cleanliness |
+> | parisuddhavaṇṇamevassa (?) | ? |  |
+> | surattavaṇṇamevassa (?) | ? |  |
+> | saṅkiliṭṭhe (?) | ? |  |
+> | aparisuddhatta | nt | impurity (of); dirtiness (of) |
+> | aparisuddhavaṇṇamevassa (?) | ? |  |
+> | durattavaṇṇamevassa (?) | ? |  |
+> | vicitakāḷaka | adj | (of rice) with black grains picked out |
+> | sālīnañcepi (?) | ? |  |
+> | samannāgatomhī (?) | ? |  |
+> | yathodhi | ind | to whatever degree; so far as; as much as |
+> | mañjiṭṭhaka | adj | crimson red; pink |
+> | pītaka | adj | yellow |
+> | nīlaka | adj | blue |
+> | raṅgajāta | nt | kind of die; type of colour; shade |
+> | sāṭheyya | nt | treachery; fraud; scamming; conning; deviousness |
+> | sarassatī | fem | name of a river |
+> | issa | masc |  |
+> | katakibbisa | adj | who has done wrong; who has done dirty things; who has commi… |
+> | sucikamma | adj | pure in deed |
+> | malaggahita | adj | stained; dirtied |
+> | saṅkiliṭṭha | pp | tarnished; defiled; tainted; corrupted; impure; dirty |
+> | anekabyañjana | adj | with various curries; with many spiced dishes |
+> | anekasūpa | adj | with various sauces; with lentil curries |
+> | hiṁsati | pr | harms; hurts; injures; (comm) kills; destroys |
+> | saddahāna | prp | having faith; having confidence; with conviction |
+> | pāpakammī | masc | evil doer; criminal; villain |
+> | paṭinissaṭṭha | pp | given up; forsaken; renounced; abandoned |
+> | ukkāmukha | nt | furnace; forge |
+> | atimāna | masc | arrogance; pride; haughtiness; self-importance |
+> | sujjhati | pr | is purified; is cleansed; is washed away |
+> | sundarika | adj | handsome; beautiful; charming |
+> | suga (?) | ? |  |
+> | nādiyati | pr | does not take; does not steal |
+> | acirūpasampanna | adj | not long after one ordained; shortly after ordination |
+> | abhijjhāvisamalobha | masc | covetousness and unsuitable greed |
+<!-- pali-nlp:vocab-end -->

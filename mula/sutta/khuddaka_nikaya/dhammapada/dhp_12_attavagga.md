@@ -138,5 +138,71 @@ tags:
 *Knowing well what is good for yourself,*
 **sadatthapasuto siyā.**  
 *be intent upon your heart’s goal.*
-**Attavaggo dvādasamo.**  
+**Attavaggo dvādasamo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sadatthapasuta | adj | intent on one's own benefit; interested in personal welfare |
+> | attadatthamabhiññāya (?) | ? |  |
+> | hāpayati | pr | neglects; omits; forgets |
+> | bahunāpi (?) | ? |  |
+> | attadattha | masc | one's own welfare; personal benefit; personal profit |
+> | saṅkilissa (?) | ? |  |
+> | phallati | pr | bears fruit; produces fruit |
+> | attaghāta | masc | self-destruction; self-annihilation |
+> | kaṭṭhakasseva (?) | ? |  |
+> | paṭikkosati | pr | rejects; refuses to accept; disses; disdains |
+> | paramadukkara | adj | extremely difficult to do; hardest to do |
+> | sādhuñca (?) | ? |  |
+> | sālamivotthataṁ (?) | ? |  |
+> | accantadussilyaṁ (?) | ? |  |
+> | vajiraṁvasmamayaṁ (?) | ? |  |
+> | abhimattha (?) | ? |  |
+> | attasambhava | adj | self-generated; produced by oneself |
+> | attaja | adj | self-created; self-originated |
+> | duddama | adj | difficult to tame; difficult to control; hard to subdue |
+> | yathāññamanusāsa (?) | ? |  |
+> | athaññamanusāseyya (?) | ? |  |
+> | attānameva (?) | ? |  |
+> | paṭijaggati | pr | looks after; takes care (of); watches over |
+> | surakkhita | adj | well guarded; carefully protected |
+> | asuddhi | fem | impurity; unholiness |
+> | visujjhati | pr | is purified; is cleansed; becomes pure |
+> | hitañca (?) | ? |  |
+> | icchanta | prp | wishing; wanting; desiring |
+> | kilissati | pr | is dirtied; is stained (by blame) |
+> | attānañce (?) | ? |  |
+> | attavagga | masc |  |
+> | māluvā | fem | name of a parasitic creeper; Camel's Foot Creeper; Bauhinia … |
+> | dameti | pr | makes tame; masters; control |
+> | dvādasama | ordin | twelfth (12th) |
+> | asādhu | adj | bad; wicked; unvirtuous |
+> | nivesayati | pr | establishes (in); settles (in); makes oneself at home (in) |
+> | visodhayati | pr | cleans; purifies |
+> | nātha | masc | protector; lord; refuge (of) |
+> | dhammajīvī | adj | morally upright; living ethically; righteous |
+> | sudanta | adj | well tamed (by); well trained (by); well controlled (by) |
+> | parattha | masc | benefit of others |
+> | attanāva (?) | ? |  |
+> | maṇi | masc | jewel; gemstone; crystal |
+> | akata | pp | not done; not performed; not acted |
+> | sukara | adj | easily done; easy to do |
+> | dummedha | adj | foolish; stupid; unwise |
+> | dullabha | adj | difficult to find (for); hard to obtain (for); rare (for) |
+> | rakkhati | pr | protects; guards; watches over |
+> | patirūpa | adj | suitable (for); proper (for); appropriate (for); befitting (… |
+> | tathatta | nt | such a state; such a condition |
+> | ahita | pp | not good; unbeneficial; harmful |
+> | paccatta | adj | personal; single; for oneself |
+> | suddhi | fem | purity; purification; holiness |
+> | nāñña | pron | not another; not different; not someone else; not somewhere … |
+> | kayirā | opt | should do; could make |
+> | jañña | adj | lovely; precious; fine |
+> | arahati | pr | is worthy (of); deserves; merits |
+> | yāma | masc | watch (of the night); one eighth of the day; about three hou… |
+> | phala | nt | fruit; nut; berry |
+> | kirati | pr |  |
+<!-- pali-nlp:vocab-end -->

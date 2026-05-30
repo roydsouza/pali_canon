@@ -105,3 +105,66 @@ parallels:
 *pluck out the dart from yourself.*
 *… Mālukyaputto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (57 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pamādānupatita | adj | fallen into negligence; immersed in heedlessness; afflicted … |
+> | buddhavacana | nt | word of the Buddha; Buddha's teaching; discourses |
+> | udabindūva (?) | ? |  |
+> | bhañji | aor | snapped; broke up; destroyed |
+> | sotova (?) | ? |  |
+> | naḷaṁva (?) | ? |  |
+> | usīratthova (?) | ? |  |
+> | abhivaṭṭhaṁva (?) | ? |  |
+> | vanasmi | nt | in the wood; in a forest |
+> | phalamicchaṁva (?) | ? |  |
+> | plavatī | pr | springs; jumps; swings |
+> | pamattacārī | adj | acting heedlessly; behaving negligently; going around carele… |
+> | sallamattano | sandhi | barb within oneself |
+> | abbahati | pr |  |
+> | khaṇati | pr | digs; digs up; uproots |
+> | yāvantettha (?) | ? |  |
+> | vānara | masc | monkey |
+> | hurā | ind | from here; from this world; from this life |
+> | māluvā | fem | name of a parasitic creeper; Camel's Foot Creeper; Bauhinia … |
+> | bīraṇa | nt | vetiver; fragrant grass |
+> | pavaḍḍhan (?) | ? |  |
+> | khaṇātīta | masc | who has missed the chance; who lost the opportunity |
+> | vijjā | fem | knowledge; wisdom; understanding |
+> | pokkhara | nt | blue lotus flower; blue lotus petal; Nymphaea nouchali caeru… |
+> | jammi | adj | wretched; despicable; awful |
+> | duraccaya | adj | difficult to escape; hard to cross; hard to overcome; diffic… |
+> | samāgata | pp | gathered; assembled; met |
+> | socan (?) | ? |  |
+> | sahati | pr | overpowers; overcomes; conquers; defeats |
+> | manuja | masc | human being; person |
+> | upaccagā | imperf | passed by; escaped; went past |
+> | visattika | adj | sticky; entangling; ensnaring |
+> | vaḍḍha | adj |  |
+> | raja | adj | dusty; dirty; with dirt |
+> | samappita | pp | provided (with); appointed (with); filled (with); having |
+> | khaṇa | masc | moment; instant; point in time; opportunity |
+> | huraṁ | ind | there; in another world |
+> | papatan (?) | ? |  |
+> | ceta | nt | name of a country |
+> | mūla | nt | (of a tree) root; base; foot |
+> | pamāda | masc | carelessness; negligence; heedlessness |
+> | appamāda | masc | alertness; care; carefulness; caution; vigilance; diligence;… |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | viya | ind | like; as |
+> | soka | masc | grief; sorrow; sadness (over) |
+> | bhadda | adj | good; excellent; lucky; auspicious |
+> | māra | masc | death; Death; death personified |
+> | karoti | pr | does; acts; performs |
+> | niraya | masc | hell; hell realm |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | tvaṁ | pron | you (subject) |
+> | eta | pron | this |
+> | loka | masc | world; universe; cosmos |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

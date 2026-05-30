@@ -130,3 +130,65 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti81_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (56 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | itī (?) | ? |  |
+> | tamevāhaṁ (?) | ? |  |
+> | upādānakkhayārāma | adj | talking pleasure in the wearing away of grasping; enjoying t… |
+> | sukhumadiṭṭhivipassakaṁ (?) | ? |  |
+> | sakkariyamāna | prp | being honoured; being esteemed; being respected |
+> | vikampati | pr | shakes; trembles; wavers; vacillates |
+> | asakkāra | masc | disrespect; disregard |
+> | appamādavihārī | adj | living with care; dwelling diligently; not living negligentl… |
+> | pariyādinnacitta | adj | mentally overwhelmed; mentally obsessed (by) |
+> | cūbhayaṁ | sandhi | and both; as well as |
+> | abhibhūta | pp | overcome (by); overpowered (by); overwhelmed (by) |
+> | sakkāra | masc | honour; accolade; respect |
+> | tadubhaya | adj | both of those |
+> | sāma | masc | dark colour; brown colour |
+> | panāhaṁ | sandhi | but I; then I; and I |
+> | yadeva | sandhi | any; whichever |
+> | sātatika | adj | diligent; persevering; consistent; practising continuously |
+> | ñāta | pp | known; recognized; understood |
+> | āha | perf | said |
+> | sappurisa | masc | good man; moral man; virtuous man; superior man |
+> | jhāyi | masc | meditator; yogi |
+> | nāñña | pron | not another; not different; not someone else; not somewhere … |
+> | upapanna | pp | arose; appeared |
+> | apāya | masc | state of loss; state of misery |
+> | vinipāta | masc | state of suffering; purgatory; underworld |
+> | duggati | fem | state of misery; bad destination; hell |
+> | vidita | pp | known; understood; experienced |
+> | diṭṭha | pp | seen; found; visible |
+> | sutvā | abs | having heard; having listened (to) |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | bheda | masc | death |
+> | samādhi | masc | perfect peace of mind; stability of mind; stillness of mind;… |
+> | avoca | aor | said (something to somebody) |
+> | niraya | masc | hell; hell realm |
+> | ayampi | sandhi | one too; this too |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | maraṇa | nt | death; dying |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | samaṇa | masc | ascetic; renunciant; holy man; monk; recluse |
+> | para | pron | other; another (person) |
+> | vadati | pr | says (to); speaks (to); tells (to) |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | kāya | masc | body; physical body; physical process |
+> | brāhmaṇa | masc | Brahman; priest; man of the Brahman caste |
+> | satta | card | seven (7) |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

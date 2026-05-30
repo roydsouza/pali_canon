@@ -276,3 +276,69 @@ parallels:
 *curing the damage of poison.*
 *… Telakāni thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | visadosappavāhana | adj | who removes the poisonous humour |
+> | mepānudī (?) | ? |  |
+> | cirarattamadhiṭṭhitaṁ (?) | ? |  |
+> | bhavanettippabhāvita | adj | produced by (that which is) the conduit to existence; caused… |
+> | attasamuṭṭhāna | adj | self-originated; arising from oneself |
+> | titthamaddakkhimuttamaṁ (?) | ? |  |
+> | anadhiṭṭhāya | ger | not fixating (on); not standing (upon); not taking a stand (… |
+> | abhirūhana | nt |  |
+> | maggamaddakkhiṁ (?) | ? |  |
+> | āruyhati | pr |  |
+> | satipaṭṭhānapāsāda | masc | mansion of attending mindfully; stately home of being presen… |
+> | mabravi (?) | ? |  |
+> | dhammasāramaya | adj | constructed of Dhamma hardwood; made of the teaching's heart… |
+> | sopāṇa | masc | staircase; stairs |
+> | isisaṅghanisevita | adj | inhabited by the assembly of sages; lived in by the order of… |
+> | pāramesanta | prp | seeking the far shore; searching for the beyond |
+> | bhayajāta | adj | with arisen fear; terrified |
+> | luvati | pr | cuts down; mows down |
+> | sannivāraṇa | nt | blocking the path (of); obstructing; damming |
+> | ubbhijjati | pr |  |
+> | kuddiṭṭhī | adj | who has wrong views; who has bad beliefs |
+> | vahan (?) | ? |  |
+> | saṁyojanavalāhaka | adj | with fetters lika a thundercloud; with the bonds like a rain… |
+> | uddhaccameghathanita | adj | with agitation like rain and thunder; with the thundering cl… |
+> | thinamiddhamapatthaṭe (?) | ? |  |
+> | māyāusūyasārambha | masc | deceit, jealousy and anger; hypocrisy, envy and violence |
+> | ahāriyarajamattika | adj | with unremovable dirt and clay; with uncleanable filth and m… |
+> | ogāḷha | pp |  |
+> | rahadehamasmi (?) | ? |  |
+> | pāṇiñca (?) | ? |  |
+> | visadosappavāhaka | masc | remover of the poisonous humour |
+> | dhammappa (?) | ? |  |
+> | uddharissa (?) | ? |  |
+> | sabbagattāni | nt | all the limbs; every limb |
+> | sallamabbhantarapassayaṁ (?) | ? |  |
+> | avaṇa | adj |  |
+> | vicikicchita | nt | doubt; uncertainty |
+> | nānārajja | nt |  |
+> | sallamuddhare (?) | ? |  |
+> | tekiccha | adj |  |
+> | chaphassāyatanī | adj | with six fields of contact; having six bases of sense imping… |
+> | pavedhati | pr | shakes; trembles; stresses; is agitated; is afraid |
+> | saṅkappaparatejita | adj | fired up by the intentions of others |
+> | anudiṭṭhi | fem | theory; speculation; opinion; concept |
+> | orasika | adj |  |
+> | pannarasāyuta | adj | connected with fifteen |
+> | taṇhādhanusamuṭṭhāna | adj | arising from the bow of craving |
+> | abhijappappadāraṇa | adj | destroying with desire; tearing with longing |
+> | kodhappattamanatthaddha | adj | stubborn with rage; inflexible as someone who has become ang… |
+> | sārambhabalasaññuta | adj | fastened by the power of aggression; bound with the strength… |
+> | vicikicchākaṅkhāganthita | adj | tied up with doubt and uncertainty |
+> | jarāmaccupavāhana | nt | removing old age and death; taking away aging and dying |
+> | pabhaṅguna | adj | brittle; breakable; fragile; perishable |
+> | vedayissa (?) | ? |  |
+> | muñcanta | prp | releasing (from); emitting (from); giving off |
+> | añchati | pr | turns; cuts (on a lathe) |
+> | vepacityasuro (?) | ? |  |
+> | mahindapāsa | masc | great Inda's trap; Mahinda's snare |
+> | ghasamāmisaṁ (?) | ? |  |
+> | macchova (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

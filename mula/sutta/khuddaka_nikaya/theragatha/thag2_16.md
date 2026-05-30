@@ -50,3 +50,39 @@ tags:
 *may I never again lie with a broken skull!*
 *… Mahākāḷo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (30 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sayissan (?) | ? |  |
+> | bhinnasira | adj | with a broken skull; with head cracked open |
+> | abhisandahitvā | abs | having placed back together; having collected in a pile |
+> | dadhithālakaṁva (?) | ? |  |
+> | sīsañca (?) | ? |  |
+> | bāhañca (?) | ? |  |
+> | satthiñca (?) | ? |  |
+> | dhaṅkarūpa | adj |  |
+> | aparañca (?) | ? |  |
+> | satthi | nt | thigh |
+> | māhaṁ | sandhi | may I not |
+> | dukkhamupeti | pr | experiences suffering; suffers discomfort |
+> | brahanta | adj | big; huge; large; enormous; (comm) with large girth |
+> | bhetvā | abs | having broken; having shattered; having destroyed |
+> | avidvant | masc | fool; who is ignorant |
+> | manda | adj | dull; dull-witted; slow; stupid; not bright |
+> | kāḷa | adj | dark; black |
+> | upadhi | masc | attachment; taking as mine; appropriation; acquisition; sens… |
+> | itthi | fem | woman; female |
+> | bāhā | fem | arm; forearm |
+> | punappunaṁ | ind | repeatedly; again and again |
+> | kayirā | opt | should do; could make |
+> | pajā | fem | offspring; progeny; child |
+> | kara | adj | doing; making |
+> | punāti | pr | cleans; purifies |
+> | nisinna | pp | seated (in) |
+> | eta | pron | this |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

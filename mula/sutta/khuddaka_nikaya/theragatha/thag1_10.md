@@ -49,3 +49,31 @@ tags:
 *Vīro pilindavaccho ca,*
 *puṇṇamāso tamonudoti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (22 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | puṇṇamāsa | masc | name of an arahant monk |
+> | udayabbayañcā (?) | ? |  |
+> | yatatta | adj | self-controlled; self-restrained |
+> | samita | pp | calmed; cooled; tranquillised |
+> | anūpalitta | pp | not smeared (by); not sullied (by); untainted (by); unstaine… |
+> | huraṁ | ind | there; in another world |
+> | abhāsitthā (?) | ? |  |
+> | apekkha | adj | looking (for); longing (for); wanting; desiring |
+> | vedagū | masc | who has perfect knowledge; who has complete understanding |
+> | itthaṁ | ind | thus; such; in this way |
+> | jañña | adj | lovely; precious; fine |
+> | vihari | aor | lived; remained; stayed in |
+> | gātha | masc |  |
+> | sudaṁ | ind | indeed; truly; surely |
+> | thera | adj | old; elderly; senior |
+> | āya | masc | coming in; income; entrance |
+> | idha | ind | here; now; in this world |
+> | sabba | pron | all; every |
+> | loka | masc | world; universe; cosmos |
+> | dhamma | masc | nature; character |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+<!-- pali-nlp:vocab-end -->

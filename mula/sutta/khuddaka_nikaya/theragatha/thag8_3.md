@@ -123,3 +123,69 @@ tags:
 *Ete aṭṭhanipātamhi,*
 *gāthāyo catuvīsatīti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | upāvisin (?) | ? |  |
+> | visosetvā | abs | having dried out; having desiccated; having made wither |
+> | sūriyuggamana | nt | sunrise |
+> | sikkhāsājīvasampanna | adj | undertaken the training and lifestyle (of); engaged in the p… |
+> | chedetvā | abs |  |
+> | chaḍḍayi | aor | discarded; gave up; abandoned |
+> | puttadārañca (?) | ? |  |
+> | ārādhetvā | abs |  |
+> | passitvā | abs | having seen |
+> | paṭhamamaddakkhiṁ (?) | ? |  |
+> | muhuttampi | sandhi | even for a moment; just for an instant |
+> | dhanadhaññañca (?) | ? |  |
+> | tadāhaṁ (?) | ? |  |
+> | satthāramakutobhayaṁ (?) | ? |  |
+> | virādhayati | pr | fails; misses; neglects; loses |
+> | siri | fem |  |
+> | dakkhiṇeyyomhi (?) | ? |  |
+> | vīriyaparakkama | masc | effort and persistence; energy and perseverance |
+> | paṇāmeti | pr | dismisses; ejects; rejects |
+> | vivasāna | nt | end; finish; conclusion |
+> | abhipatthita | pp | longed for; hoped for; wished for |
+> | mevaṁ (?) | ? |  |
+> | anūhata | pp | not destroyed; unimpaired; not uprooted |
+> | aparājita | pp | unconquered; undefeated; victorious; triumphant |
+> | taṇhāsalla | nt | arrow of craving; dart of desire |
+> | susaṁvuta | adj | well restrained (in); well controlled (in); well guarded (in… |
+> | paṇidhi | masc | aspiration (for); intention (to); prayer (for); determinatio… |
+> | etādisa | adj | of this kind; of this type; such as this |
+> | namassamāna | prp | worshipping; venerating; honouring |
+> | visodhita | pp | cleaned; removed |
+> | purisuttama | masc | best of men; highest of men; ultimate man; epithet of the Bu… |
+> | saṁvega | masc | dismay; anxiety; sense of urgency |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | nirūpadhi | adj | free from attachment; free from grasping; not taking as mine… |
+> | kesamassu | nt | hair and beard |
+> | pabbaji | aor | ordained; renounced |
+> | āgata | masc | guest; visitor; arriver |
+> | nisīdati | pr | sits (on); sits down (in) |
+> | hattha | masc | hand |
+> | satthar | masc | master; teacher |
+> | vippamutta | pp | freed (from); released (from); saved (from) |
+> | sambuddha | masc | Awakened One; Buddha; who is wide awake; who has completely … |
+> | āsi | aor | was |
+> | vihari | aor | lived; remained; stayed in |
+> | pubbenivāsa | masc | previous life; former existence |
+> | pallaṅka | masc | couch; seat; sofa |
+> | anagāriya | nt | homelessness; homeless state |
+> | yadā | ind | when; whenever |
+> | indriya | nt | sense; mental faculty; power |
+> | ahu | aor | was |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | sāsana | nt | message; letter |
+> | pāda | masc | foot |
+> | araha | adj | worthy (of); entitled (to); deserving (of) |
+> | vijjanta | prp | existing |
+> | ratti | fem | night |
+> | jānāti | pr | knows; understands |
+> | viharanta | prp | living (in); dwelling (in); staying (at); remaining (in); co… |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | kata | pp | done; did; completed |
+<!-- pali-nlp:vocab-end -->

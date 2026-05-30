@@ -120,3 +120,49 @@ parallels:
 *remembering the instructions of the Buddhas.*
 *… Sirimitto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (40 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | ujubhūtañca (?) | ? |  |
+> | yassatthi (?) | ? |  |
+> | dhammadassana | nt | seeing the Dhamma; understanding the teaching |
+> | akkodhanonupanāhī (?) | ? |  |
+> | rittapesuṇa | adj | devoid of divisive speech; free of slander |
+> | kalyāṇapañña | adj | of good understanding; of excellent wisdom |
+> | adalidda | adj | not poor; not needy; rich; wealthy |
+> | amāya | adj | open; honest; transparent |
+> | pasaṁsita | pp | praised (by); commended (by); lauded (by) |
+> | saddhañca (?) | ? |  |
+> | acala | adj | unshakeable; immobile; stationary; stable |
+> | anuyuñjati | pr | practices; engages (in); commits (to); does |
+> | guttadvāra | adj | guarding the doors (of); with self-restraint (in); protectin… |
+> | kalyāṇasīla | adj | virtuous; ethical |
+> | tādisaka | adj | of that kind; of such character; of such quality; like |
+> | suppatiṭṭhita | adj | well established; firmly grounded; firmly planted; fully cen… |
+> | sīlañca (?) | ? |  |
+> | pasāda | masc | inspiration; faith; trust; confidence |
+> | ariyakanta | adj | pleasing to the noble ones; agreeable to noble beings |
+> | kalyāṇa | adj | good; favourable; propitious; beneficial; lovely |
+> | kalyāṇamitta | adj | with excellent friends; with good spiritual companions |
+> | amogha | adj | fruitful; efficacious; not in vain; not futile |
+> | sāsanan (?) | ? |  |
+> | āha | perf | said |
+> | pecca | ind | after death |
+> | sara | masc | reed |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+> | socati | pr | sorrows (over); grieves (about); mourns (over) |
+> | sadā | ind | always; ever; all the time |
+> | dassana | nt | sight (of); vision (of); appearance (of) |
+> | jīvita | nt | life; existence |
+> | saddha | adj | faithful; confident; believing; devoted; trusting |
+> | saṅgha | masc | community; fellowship; monastic order |
+> | buddha | masc | Buddha; Awakened One |
+> | tathāgata | masc | Such Become; Realised; being in such a state; arrived at the… |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | va | ind | like; as |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -106,3 +106,60 @@ parallels:
 *as one would curb a greedy cow eating grain.*
 *… Brahmadatto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (51 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | duppasun (?) | ? |  |
+> | niggaṇhanta | prp |  |
+> | puttamaṁsūpama | adj | similar to a son's flesh; like a child's meat |
+> | kakacūpama | adj |  |
+> | tikicchati | pr | heals; cures |
+> | saṅkupita | pp | angered; infuriated; enraged |
+> | ubhinnamattha | masc | benefit of both; good of both parties |
+> | dujjaya | adj | hard to win; difficult to succeed (in) |
+> | appaṭikujjhanta | prp | not getting angry back; not being upset in return |
+> | paṭikujjhati | pr | gets angry back; responds angrily; is angry in return |
+> | samajīvī | adj | living in balance |
+> | āvajjati | pr | turns over; upsets; pours out |
+> | maññan (?) | ? |  |
+> | akkodha | masc | freedom from anger; absence of anger; non-enmity; suppressin… |
+> | kuddha | masc | angry person |
+> | upasammati | pr | is calmed; is cooled; is settled |
+> | kiṭṭhāda | adj | crop-eating; grain-munching |
+> | dhāva | masc | (of a horse) galloping; dashing |
+> | saṅgāma | masc | battle; war; fight |
+> | sammadaññāvimutta | adj | who is liberated by perfect understanding; who is freed thro… |
+> | akovida | adj | unskilled (in); not expert (in); not proficient (in); not a … |
+> | khippa | adj | quick; fast |
+> | kodha | masc | anger; wrath; rage; temper |
+> | upasanta | pp | calmed; cooled; composed; still; calm; at peace; tranquil |
+> | sara | masc | reed |
+> | tasseva | sandhi | just for him; even for him; just that alone |
+> | viya | ind | like; as |
+> | kuto | ind | from where?; where? |
+> | ubha | pron | both |
+> | danta | masc | tooth |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | ñatvā | abs | having known; having found out; having understood |
+> | sati | fem | memory; remembering; recollection; keeping in mind |
+> | rasa | masc | taste; flavour |
+> | pāpa | adj | evil; criminal; wrong; bad; vicious |
+> | bāla | adj | foolish; ignorant; stupid; immature |
+> | cara | adj | walking; going; roaming; living |
+> | sace | ind | if |
+> | jana | masc | man; person; fellow |
+> | ja | adj | born (from); produced (by); made (of); caused (by) |
+> | taṇha | adj | with craving (for); having desire (for) |
+> | bhava | imp | be!; you must be! |
+> | sa | prefix | with; having; affected with |
+> | kāma | adj | wishing (to); wanting (to); would be delighted (to) |
+> | uppajjati | pr | appears; arises; occurs; takes place (for) |
+> | para | pron | other; another (person) |
+> | atta | masc | self; soul; spirit; essence |
+> | citta | nt | mind; heart |
+> | dhamma | masc | nature; character |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

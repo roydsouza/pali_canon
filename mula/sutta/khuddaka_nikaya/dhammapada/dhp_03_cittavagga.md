@@ -142,5 +142,71 @@ tags:
 *than your mother or father*
 **seyyaso naṁ tato kare.**  
 *or any other relative.*
-**Cittavaggo tatiyo.**  
+**Cittavaggo tatiyo.**
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | seyyaso | ind | even better (than); even more (than) |
+> | niratthaṁva (?) | ? |  |
+> | adhisessa (?) | ? |  |
+> | anivesana | adj | without attaching; not clinging; without resting |
+> | jitañca (?) | ? |  |
+> | yodheti | pr | fights (against); engages in battle (with); attacks |
+> | nagarūpama | adj | like a town; similar to a city |
+> | kumbhūpama | adj | like a clay pot; similar to a water jar |
+> | puññapāpapahīna | adj | who has abandoned good and evil; who has transcended merit a… |
+> | ananvāhatacetasa | adj |  |
+> | anavassutacitta | adj | whose mind is not oozing (with lust); who is not mentally so… |
+> | pariplavapasāda | adj | whose faith fluctuates; who has wavering conviction |
+> | anavaṭṭhitacitta | adj | who has un unstable mind; who is mentally ungrounded |
+> | mokkhan (?) | ? |  |
+> | saṁyamissan (?) | ? |  |
+> | guhāsaya | adj | hidden in the heart |
+> | asarīra | adj | bodiless; incorporeal; immaterial |
+> | sunipuṇa | adj | very subtle; extremely elusive |
+> | damatha | masc | taming; control; mastery; self-control |
+> | dunniggaha | adj | hard to control; difficult to arrest; tricky to pin down |
+> | pahātave | inf | to give up; to leave; to abandon |
+> | pariphandatidaṁ (?) | ? |  |
+> | okamokataubbhato (?) | ? |  |
+> | vārijova (?) | ? |  |
+> | dūrakkha | adj | hard to protect; difficult to guard |
+> | kaliṅgara | masc | log; piece of wood; straw |
+> | apetaviññāṇa | adj | unconscious; without awareness; insensate |
+> | chuddha | pp | thrown away; discarded; spat out |
+> | vatayaṁ | sandhi | indeed this; truly this |
+> | acira | adj | (of time) not long; soon; recent |
+> | paññāvudha | nt | weapon of wisdom; sword of understanding |
+> | cittamidaṁ | sandhi | this mind |
+> | kāyamimaṁ (?) | ? |  |
+> | yatthakāmanipātī | adj | landing where it likes; alighting wherever it wants |
+> | lahu | adj | quick; fast; swift |
+> | usukārova (?) | ? |  |
+> | dunnivāraya | adj | difficult to restrain; hard to hold back |
+> | phandana | adj | trembling; quivering; shivering; palpitating |
+> | cittavagga | masc |  |
+> | avijānanta | prp | not knowing; not understanding; not comprehending |
+> | ekacara | adj | solitary; living alone; wandering alone |
+> | dūraṅgama | adj | going far; travelling far; wandering far; far-ranging |
+> | sududdasa | adj | extremely difficult to see; very difficult to discern |
+> | sammāpaṇihita | adj | well directed; correctly orientated; at a good angle |
+> | māradheyya | nt | Māra's realm; death's domain; power of death |
+> | micchāpaṇihita | adj | badly directed; wrongly orientated; at a wrong angle |
+> | ñātaka | masc | kin; kinsman; relative; relation; family member |
+> | verī | adj | unfriendly; inimical; hostile |
+> | ṭhapetvā | abs | having placed; having put |
+> | mārabandhana | nt | Māra's bond; shackles of death |
+> | tejana | nt | arrow; shaft of an arrow |
+> | sukhāvaha | adj | bringing happiness (to); bringing comfort (to) |
+> | capala | adj | unsteady; wavering; fickle; inconsistent; moving to and fro |
+> | khitta | pp | thrown; cast; tossed |
+> | gutta | pp | guarded; protected; kept watch (over) |
+> | rakkhati | pr | protects; guards; watches over |
+> | thala | nt | dry land; firm ground; terra firma |
+> | jāgara | adj | awake; alert; lucid |
+> | rakkha | adj | protecting; guarding |
+> | medhāvī | masc | intelligent man; wise man; who has good judgment |
+<!-- pali-nlp:vocab-end -->

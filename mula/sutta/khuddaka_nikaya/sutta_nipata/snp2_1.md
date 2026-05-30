@@ -313,3 +313,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_1_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | nibban (?) | ? |  |
+> | avirūḷhichanda | adj | without interest in growth; with no impulse to grow (seed of… |
+> | khīṇabīja | adj | who has destroyed the seed; with no possibility of rebirth |
+> | virattacittāyatike (?) | ? |  |
+> | varāhara | adj | bringing the best |
+> | varada | adj | giving the best; who gives the finest |
+> | varaññū | adj | who knows the best |
+> | gimhānamāsa | masc | hot month; hottest month |
+> | phussitagga | adj | with a blossoming crest; with flowing tops |
+> | vanappagumba | masc | forest thicket; dense woodland |
+> | abhabbatā | fem | impossibility (for); something incapable of happening (for) |
+> | paṭicchada | masc | covering; concealing; hiding |
+> | chaccābhiṭhānāni | sandhi | and six deadly crimes; and six heinous wrongs |
+> | catūhapāyehi (?) | ? |  |
+> | vicikicchitañca (?) | ? |  |
+> | jahita | pp | given up; left behind; abandoned; deserted |
+> | tayassu | sandhi | exactly three |
+> | dassanasampadā | fem | attainment of vision; success in seeing |
+> | sahāvassa | sandhi | just with his |
+> | aṭṭhamamādiyan (?) | ? |  |
+> | vibhāvayan (?) | ? |  |
+> | avecca | ind | perfectly; absolutely |
+> | asampakampiya | ptp | unshakeable (by); unmoveable (by) |
+> | pathavissita | adj | planted in ground; rooted in earth |
+> | yathindakhīlo (?) | ? |  |
+> | mudha | pp | foolish; stupid; ignorant; confused; deluded |
+> | nikkāmī | adj | engaging (in); persisting (in); striving (in); active (in) |
+> | suppayutta | adj | fully engaged; totally devoted; diligently practising |
+> | pasattha | pp | praised; commended; exalted |
+> | samādhimānantarikaññamāhu | sandhi | they say that stability of mind with immediate results |
+> | parivaṇṇayi | aor | described; recommended; extolled |
+> | samatthi | sandhi | there is equal (to); there is comparable (to) |
+> | yadajjhagā | sandhi | which he attained; which he experienced |
+> | dhammavara | masc | excellent teaching; sublime doctrine |
+> | diṭṭhapada | adj | who has seen the way; who has seen the state (of Nibbāna) |
+> | haran (?) | ? |  |
+> | sakkacca | ind | respectfully; reverentially; carefully |
+> | padīpa | masc | lamp; light; lantern; lighting |
+> | nibbānagāmī | adj | leading to putting out the fire; conducive to Nibbāna |
+> | sakyamuni | masc | Sakyan sage |
+> | devamanussapūjita | adj | revered by gods and men |
+> | yāti | pr | goes; goes to; goes forward; proceeds; travels |
+> | hotū (?) | ? |  |
+> | yadatthi | sandhi | whatever there is; whichever there are |
+> | nibbuti | fem | (of fire) extinguishment; being quenched; being put out; goi… |
+> | yānīdha | sandhi | whichever here |
+> | vigayha | ger | plunging (into); diving (into) |
+> | pattipatta | adj | reached the goal (of) |
+> | adesayi | aor | taught; explained |
+> | bhuñjamāna | prp | eating; consuming |
+> | tathūpama | adj | comparable in the same way; similar to that; like this |
+> | gotamasāsana | nt | Gotama's teaching; Buddha's teaching |
+> | bali | masc | religious offering; sacrifice |
+> | gimha | masc | heat; warmth |
+> | nisāmeti | pr | pays close attention; listens attentively |
+> | bhumma | adj | earthly; terrestrial |
+> | gambhīrapañña | adj | with profound understanding; having deep wisdom |
+> | yathāyaṁ | sandhi | like this; so that this |
+> | sīlabbata | nt | precepts and practices; ethics and observances; rites and ri… |
+> | athopi | sandhi | and too; and even; nor even |
+<!-- pali-nlp:vocab-end -->

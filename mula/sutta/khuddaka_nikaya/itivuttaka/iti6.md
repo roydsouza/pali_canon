@@ -79,3 +79,47 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti6_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (38 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | anāgāmitāyā (?) | ? |  |
+> | kudācanan (?) | ? |  |
+> | punāyan (?) | ? |  |
+> | vipassī | masc | name of the 6th previous Buddha |
+> | pajahan (?) | ? |  |
+> | matta | pp | amount of; as many as; measure of; consisting of |
+> | māna | masc | pride; conceit; egotism; superiority; comparing oneself |
+> | anāgāmitā | fem | non-returning |
+> | sammadaññā | ger | perfectly understanding; completely comprehending |
+> | pāṭibhoga | masc | guarantor; warrantor; assurer |
+> | pajahati | pr | gives up; abandons; lets go (of) |
+> | duggati | fem | state of misery; bad destination; hell |
+> | ekadhamma | masc | one single thing |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | pahāya | ger | leaving behind; giving up; abandoning |
+> | avoca | aor | said (something to somebody) |
+> | ayampi | sandhi | one too; this too |
+> | ma | ve | (gram) ma; verbal ending of the present tense 1st person plu… |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+> | aha | nt | day |
+> | vuccati | pr | is said to be; is called |
+> | vutta | pp | sown; scattered; planted |
+> | katama | pron | what?; which (of the many)? |
+> | satta | card | seven (7) |
+> | tvaṁ | pron | you (subject) |
+> | loka | masc | world; universe; cosmos |
+> | ima | pron | this |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | bhikkhu | masc | monk; monastic; mendicant; fully ordained monk |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

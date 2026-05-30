@@ -124,3 +124,69 @@ parallels:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[snp2_9_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | sāramajjhagā | imperf | obtained the essence; got the essential; reached the heart |
+> | santisoraccasamādhisaṇṭhita | adj | established in calm, kindness and composure; founded on peac… |
+> | ariyapavedita | adj | taught by the Noble One; preached by the Buddha |
+> | viññātasamādhisāra | adj | understanding that perfect peace of mind is essential; knowi… |
+> | viññātasāra | adj | knowing the essence; understanding the essentials |
+> | vītamada | adj | without conceit; (or) not intoxicated (by health, youth, lif… |
+> | kasāvañca (?) | ? |  |
+> | kakkasa | adj | rough; harsh; (comm) rotten |
+> | giddhi | fem | greed; desire |
+> | māyākata | nt | made of magic; created by illusion; imaginary |
+> | padosa | masc | hatred; aversion |
+> | dhammasandosavāda | masc | statement degrading the Dhamma; disparaging the teaching |
+> | nevācare (?) | ? |  |
+> | dhammavinicchayaññū | adj | knowing the discrimination of mental phenomena; understandin… |
+> | nivātavut (?) | ? |  |
+> | niraṅkatvā | abs |  |
+> | sakāsa | masc | presence; vicinity (of) |
+> | khaṇaññū | adj |  |
+> | erayita | pp |  |
+> | kālaññū | adj | knowing the right time (for); know the correct moment (to) |
+> | anusūyaka | adj |  |
+> | uttamatthañca (?) | ? |  |
+> | brūhayanta | prp | developing; practising; furthering; increasing |
+> | kiṁsamācāra | adj |  |
+> | kiṁsīla | adj |  |
+> | kuhana | nt | cheating; deceiving; misleading; creating a false impression |
+> | hassa | nt | laugh; joke; fun |
+> | samācarati | pr | performs; does; behaves; conducts oneself |
+> | sakkacca | ind | respectfully; reverentially; carefully |
+> | vuḍḍhāpacāyī | adj | paying respect to the elderly; honouring the seniors; venera… |
+> | mucchanta | prp |  |
+> | vacas | masc | word (of); statement (of); speech (of); saying (of) |
+> | dhammārāma | adj | enjoying the Dhamma; taking pleasure in the Dhamma; fond of … |
+> | jappa | masc |  |
+> | nīyati | pr | is led (by); is led astray (by); is led about (by) |
+> | dhammarata | adj | lover of the teaching; devoted to the Dhamma |
+> | sāhasa | nt | violence; aggression |
+> | sārambha | masc | anger; violence; aggressiveness; fury; wrath |
+> | pāpuṇāti | pr | reaches; arrives (at); comes (to) |
+> | taccha | adj | truthful; true; authentic; real |
+> | sutañca (?) | ? |  |
+> | ṭhitatta | adj | who is stable; with a stable mind; self-controlled |
+> | saṁyama | masc | restraint (from); abstinence (from); self-control (wrt) |
+> | vaḍḍha | adj |  |
+> | thambha | masc | pillar; post; column |
+> | dhammī | adj | righteous; religious; moral; related to the Dhamma |
+> | niviṭṭha | pp | established (in); settled down (in); camped (in) |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | subhāsita | adj | well spoken; articulate; eloquent |
+> | pamatta | pp | careless; heedless; negligent; inattentive |
+> | garu | adj | heavy; onerous; weighty |
+> | parideva | masc | lamentation; wailing; crying |
+> | hitvā | abs | having left; having left behind; having abandoned |
+> | suṇāti | pr | hears |
+> | nara | masc | man; person |
+> | anussarati | pr | remembers; recollects; bears in mind |
+> | dassana | nt | sight (of); vision (of); appearance (of) |
+> | cara | adj | walking; going; roaming; living |
+> | anuttara | adj | highest (of); unsurpassed (by); incomparable (to); superior … |
+> | kamma | nt | action; deed; doing |
+<!-- pali-nlp:vocab-end -->

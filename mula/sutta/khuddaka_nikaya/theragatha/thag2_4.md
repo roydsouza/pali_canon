@@ -48,3 +48,26 @@ tags:
 *the mass of darkness was shattered.*
 *… Gaṅgātīriyo thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (17 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | chavasittova (?) | ? |  |
+> | gaṅgātīra | nt | bank of the Ganges river |
+> | antaravassa | masc | during the rainy season; within the rains retreat |
+> | tālapatta | nt |  |
+> | paṁsukūlañca (?) | ? |  |
+> | kuṭi | fem | hut; cabin; simple monastic dwelling |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | cīvara | nt | robe; cloth; robe-cloth |
+> | patta | masc | bowl; alms bowl; begging bowl |
+> | tatiya | ordin | third (3rd) |
+> | vāca | adj | talking; speaking; of speech |
+> | dvi | card | two (2) |
+> | kata | pp | done; did; completed |
+> | bhāsita | nt | saying; speech; statement; utterance; talk; words |
+> | eka | card | one (1) |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

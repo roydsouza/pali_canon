@@ -113,3 +113,69 @@ tags:
 > [!info]- Related Commentary
 > - **Commentary (Atthakathā)**: [[iti26_att|Commentary]]
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | amacchara | adj |  |
+> | saggagata | adj | gone to heaven |
+> | dajjā | opt | would give; should give |
+> | yathāvutta | adj | previously mentioned; aforesaid; as was said |
+> | maccheramalañca (?) | ? |  |
+> | asaṁvibhajitvā | abs | having not shared; having not divided; having not distribute… |
+> | tatopi (?) | ? |  |
+> | datvā | abs | having given; having offered; having donated |
+> | bhuñjan (?) | ? |  |
+> | maccheramala | nt | stain of stinginess; tarnish of selfishness |
+> | adatvā | abs | having not given; having not offered |
+> | dānasaṁvibhāga | masc | giving and sharing; offering and distributing |
+> | kabaḷa | masc | lump; morsel; mouthful; lump of food |
+> | annañca (?) | ? |  |
+> | carima | adj | last; final; end |
+> | kāmakāmī | adj |  |
+> | modan (?) | ? |  |
+> | paṭiggāhaka | masc | receiver; recipient |
+> | anubhon (?) | ? |  |
+> | evañce (?) | ? |  |
+> | manussatta | nt | human existence; human state |
+> | saṁvibhāga | masc | sharing; donation; distribution; doling out |
+> | dāyaka | masc | giver; donor; sponsor |
+> | yopi | sandhi | and whichever; even whoever |
+> | yathāhaṁ | sandhi | so that I |
+> | ālopa | masc | (of food) morsel; lump; bit |
+> | dinna | pp | given (to); offered (to) |
+> | dakkhiṇeyya | adj | worthy of gifts; worthy of offerings |
+> | vippasanna | pp | clear; calm; tranquil |
+> | mahesi | masc | great sage; mighty seer |
+> | jānan (?) | ? |  |
+> | vipāka | masc | (of an action) result; outcome; consequence; fruit |
+> | dakkhiṇa | adj | right (hand side) |
+> | tiṭṭhanta | prp | standing (in); standing still |
+> | bhuñjati | pr | eats; consumes |
+> | sagga | adj | heavenly |
+> | cuta | pp | passed away; died |
+> | pariyādāya | ger | wearing away; deteriorating; exhausting |
+> | ita | pp | come; gone |
+> | mahapphala | adj | of great fruit; yielding good results |
+> | vināti | pr |  |
+> | gacchan (?) | ? |  |
+> | tatthetaṁ | sandhi | then this |
+> | vuttamarahatā (?) | ? |  |
+> | vuttañhetaṁ | sandhi | this was indeed said; this was surely spoken |
+> | sutan (?) | ? |  |
+> | sace | ind | if |
+> | jānāti | pr | knows; understands |
+> | yattha | ind | wherever; where; when; in which |
+> | avoca | aor | said (something to somebody) |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | ayampi | sandhi | one too; this too |
+> | tiṭṭhati | pr | stands |
+> | etamatthaṁ | sandhi | meaning of this; significance of this |
+> | kāla | masc | time; occasion |
+> | assa | masc | horse |
+> | cetas | masc | mind; thought; intention |
+> | ariya | adj | noble; distinguished; of an awakened being; of the Buddha |
+> | attha | masc | meaning; sense; significance |
+> | suta | pp | heard |
+<!-- pali-nlp:vocab-end -->

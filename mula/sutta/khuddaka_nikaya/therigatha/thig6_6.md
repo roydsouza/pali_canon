@@ -96,3 +96,68 @@ parallels:
 
 *… Mahāpajāpatigotamī therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (59 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | byādhimaraṇatunna | adj | afflicted by illness and death; hurt by sickness and dying |
+> | janayi | aor | produced; generated; created |
+> | saṁsariṁhaṁ (?) | ? |  |
+> | yathābhuccamajānantī (?) | ? |  |
+> | ayyaka | masc |  |
+> | hetutaṇhā | fem | cause of craving; (or) craving and its cause |
+> | aññañca (?) | ? |  |
+> | pamoceti | pr |  |
+> | phusita | nt | drop |
+> | anibbisanta | prp | not understanding; not penetrating; not finding; not getting… |
+> | visosita | pp | dried; desiccated; withered; evaporated |
+> | vandana | nt | respecting; adoring; worshipping; paying homage |
+> | tyatthu (?) | ? |  |
+> | byapānudi | aor | removed; dispelled; eradicated |
+> | sabbasattānamuttama | masc | supreme being; best of all beings |
+> | antimoyaṁ | sandhi | this (is the) last; this (is the) final |
+> | māya | adj |  |
+> | bahuka | adj | many; lots (of) |
+> | vikkhīṇa | pp | totally annihilated; destroyed |
+> | sabbadukkha | nt | all suffering; all pain; all stress; all discomfort |
+> | daḷhaparakkama | adj | having persistent effort; making continuous effort; striving… |
+> | samussaya | masc | body |
+> | bhātar | masc | brother |
+> | jātisaṁsāra | masc | birth and wandering on; cycle of rebirth; endless rebirth |
+> | pariññāta | pp | completely comprehended; fully understood |
+> | vīra | adj | heroic; brave; (comm) vigorous; energetic |
+> | samagga | adj | (vinaya) unified; united; in concord; harmonious; in agreeme… |
+> | namas | masc | reverence (to); veneration (to); homage (to) |
+> | dukkhakkhandha | masc | heap of suffering; mass of difficulties; mountain of trouble |
+> | mātar | fem | mother |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | pitar | masc | father |
+> | āraddhavīriya | adj | energetic (in); with energy aroused (to); applying energy (t… |
+> | ahu | aor | was |
+> | nicca | adj | permanent; lasting; continuous; ordered; stable; reliable; r… |
+> | pahitatta | adj | resolute; determined; applying oneself |
+> | sāvaka | masc | disciple; pupil; follower |
+> | diṭṭha | pp | seen; found; visible |
+> | putta | masc | son; child |
+> | pura | nt | fortified town; castle; fortress |
+> | passa | nt | (of the body) side; rib |
+> | nirodha | masc | ending (of); cessation (of); termination (of); finishing (of… |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | jana | masc | man; person; fellow |
+> | aṭṭhaṅgika | adj | with eight parts; eight-limbed; eightfold |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | vata | ind | oh!; oh no!; oh dear!; wow! |
+> | magga | masc | road; path; track; way |
+> | buddha | masc | Buddha; Awakened One |
+> | attha | masc | meaning; sense; significance |
+> | bhāvita | pp | cultivated; developed |
+> | gotama | masc | family name of the Buddha |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | eta | pron | this |
+> | dukkha | adj | uncomfortable; unpleasant |
+> | bhagavant | masc | Sublime One; Blessed One; Fortunate One; Auspicious One; epi… |
+> | ahaṁ | pron | I |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

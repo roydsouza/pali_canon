@@ -85,3 +85,54 @@ parallels:
 
 *… Soṇā therī ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (45 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | jamma | adj | wretched; vile; despicable; awful |
+> | tavatthu (?) | ? |  |
+> | anantarāvimokkhāsiṁ (?) | ? |  |
+> | rūpasamussaya | masc | accumualtion of matter; pile of material; (comm) accumulatio… |
+> | vijāyitvā | abs | having given birth (to); having produced |
+> | tatohaṁ | sandhi | after that I; (or) becuase of that I |
+> | chinnamūlaka | adj | with the roots cut off |
+> | khandhāyatanadhātu | fem | aggregates, bases and elements |
+> | suṇitvāna | abs | having heard; having listened (to) |
+> | animittañca (?) | ? |  |
+> | dhi | ind | shame on you!; what!; damn you! |
+> | dubbala | adj | frail; weak; feeble |
+> | upasaṅkami | aor | approached; drew near; went (to) |
+> | pañcakkhandha | masc | five aggregates; five masses; materiality, feeling, percepti… |
+> | sikkhamāna | prp | training (in); practising |
+> | chetvāna | abs | having cut off; having severed |
+> | jiṇṇa | pp | aged; old; ancient |
+> | visodhita | pp | cleaned; removed |
+> | ekagga | adj | unified; collected |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | dibbacakkhu | nt | clairvoyance; supernormal vision |
+> | tiṭṭhan (?) | ? |  |
+> | pabbaji | aor | ordained; renounced |
+> | pariññāta | pp | completely comprehended; fully understood |
+> | kesa | masc | (head) hair |
+> | dasa | card | ten (10) |
+> | susamāhita | adj | (of music) well composed; well put together; well played |
+> | nibbuta | pp | (of mental defilement) quenched; emancipated; cooled |
+> | anupāda | masc | sequence; succession; series |
+> | punabbhava | masc | appearing again; renewed existence; rebirth; future life |
+> | vusita | pp | fulfilled; completed; finished |
+> | pubbenivāsa | masc | previous life; former existence |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | jara | adj | old |
+> | putta | masc | son; child |
+> | pura | nt | fortified town; castle; fortress |
+> | da | letter | (gram) letter d; 26th letter of the alphabet; dental consona… |
+> | bhāveti | pr | cultivates; develops |
+> | jānāti | pr | knows; understands |
+> | yattha | ind | wherever; where; when; in which |
+> | natthi | pr | is not; it is not; there is not; there is no; there is nothi… |
+> | ima | pron | this |
+> | dhamma | masc | nature; character |
+> | ahaṁ | pron | I |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

@@ -52,3 +52,39 @@ parallels:
 **Itthaṁ sudaṁ āyasmā piṇḍolabhāradvājo thero gāthāyo abhāsitthāti.**  
 *That is how these verses were recited by the senior venerable Bhāradvāja the Alms-Gatherer.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (30 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | pavedayi | aor | taught; preached; made known (to) |
+> | nāhāra | masc | food (does) not |
+> | dujjaha | adj | hard to give up; difficult to abandon; hard to let go of |
+> | durubbaha | adj |  |
+> | vandanapūjanā | fem | respect and veneration (from); reverence and homage (among) |
+> | kāpurisa | masc | evil man; despicable person; worthless man |
+> | piṇḍolabhāradvāja | masc | name of an arahant monk |
+> | anaya | masc | trouble; tragedy; misfortune; calamity; (comm) suffering |
+> | āhāraṭṭhitika | adj | subsisting on food; dependent on fuel |
+> | esana | adj | seeking; searching (for); requesting; begging (for) |
+> | paṅka | masc | dirt; mud; mire; swamp |
+> | sakkāra | masc | honour; accolade; respect |
+> | samussaya | masc | body |
+> | hadaya | nt | heart |
+> | nayidaṁ | sandhi | not this; this (is) not; it (is) not |
+> | abhāsitthā (?) | ? |  |
+> | gāthā | fem | verse; poem; stanza |
+> | salla | masc | (any sharp pointed object which causes pain) arrow; spike; d… |
+> | sukhuma | adj | fine; subtle; refined |
+> | kula | nt | family; house; household; respectable family |
+> | itthaṁ | ind | thus; such; in this way |
+> | carati | pr | walks; wanders; goes around; travels; fares on |
+> | disvāna | abs | having seen |
+> | sudaṁ | ind | indeed; truly; surely |
+> | thera | adj | old; elderly; senior |
+> | jīvita | nt | life; existence |
+> | santika | adj | near; close |
+> | āya | masc | coming in; income; entrance |
+> | ya | pron | whoever; whatever; whichever |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

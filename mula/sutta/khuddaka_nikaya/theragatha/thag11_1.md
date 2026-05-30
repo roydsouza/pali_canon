@@ -157,3 +157,69 @@ parallels:
 *Ekādasanipātamhi,*
 *gāthā ekādaseva cāti.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | anapekkhavant | adj | indifferent (to); disinterested (in); unconcerned (about) |
+> | uppādayateva (?) | ? |  |
+> | niketacārika | adj |  |
+> | aṇḍasambhava | adj |  |
+> | apaṇḍara | adj |  |
+> | vivekapaṭisaññuta | adj | connected with seclusion; concerned with solitude; related t… |
+> | abhikiran (?) | ? |  |
+> | ujjuhānova (?) | ? |  |
+> | tavattho (?) | ? |  |
+> | pappoti | pr | obtains; attains; gets; experiences |
+> | vajjhati | pr | be injured; be killed; be slaughtered; be slain |
+> | kandarā | fem | grotto; gorge; gulley; valley; ravine |
+> | vasita | pp | living (in); staying (in); residing (in) |
+> | ambusevālasañchanna | adj | covered with water and aquatic plants |
+> | gonaṅgulamigāyuta | adj | filled with langurs and deer |
+> | puthusilā | fem | flat rock; broad stone |
+> | sandeha | masc | body |
+> | verambha | adj | violent; fierce; furious; (comm) blowing in all four directi… |
+> | vāḷamiganisevita | adj | inhabited by wild beasts; frequented by fierce animals |
+> | nuda | adj | driving out; dispelling; expelling; removing |
+> | rakkhan (?) | ? |  |
+> | sīvathikā | fem | charnel ground |
+> | pāvusa | masc | rainy season; monsoon |
+> | nibbisa | nt | payment; wages; earnings; fee |
+> | dosasaṁhita | adj | faulty; corrupt; defective |
+> | bhataka | masc | hired worker; wage labourer |
+> | paṭikaṅkhati | pr | anticipates; expects; awaits; personally wishes (for) |
+> | kālañca (?) | ? |  |
+> | anariya | adj | ignoble; vulgar; coarse |
+> | panta | adj | distant; remote; very far away |
+> | guhā | fem | cave; cavern |
+> | acchodaka | adj | with clear water; with pure water |
+> | catthāya | sandhi | and for the purpose (of); and for the sake (of); and for the… |
+> | nābhijānāti | pr | does not know; does not understand |
+> | abbha | nt | cloud; dark cloud; thundercloud |
+> | ohita | pp | put down; placed down; laid down |
+> | ramayan (?) | ? |  |
+> | sabbasaṁyojanakkhaya | masc | wearing away all bonds; destruction of all fetters |
+> | pariciṇṇa | pp | served; attended; waited on (by) |
+> | paviveka | masc | solitude; seclusion |
+> | bhāra | masc | burden; load; weight |
+> | haññati | pr | is struck (by); is stabbed (by); is beaten (by) |
+> | agārasmānagāriyaṁ (?) | ? |  |
+> | saṅkappa | masc | intention; volition; purpose |
+> | bhavanet (?) | ? |  |
+> | patissata | pp | self-aware; thoughtful; mindful |
+> | nābhinandati | pr | does not take delight (in); is not pleased (with); does not … |
+> | tāta | masc | father |
+> | arañña | nt | forest; wood; wild; wilderness |
+> | samūhata | pp | removed; uprooted; eradicated; exterminated; destroyed |
+> | senāsana | nt | housing; living place; lodging |
+> | garuka | adj | heavy; onerous; weighty |
+> | pāṇi | masc | hand; palm |
+> | rakkha | adj | protecting; guarding |
+> | jhāyi | masc | meditator; yogi |
+> | vana | nt | wood; forest; grove |
+> | vāta | masc | wind |
+> | sela | adj | rock; rocky; stone; stony |
+> | virāganissita | adj | based on fading of desire; supported by dispassion; by means… |
+> | sati | fem | memory; remembering; recollection; keeping in mind |
+<!-- pali-nlp:vocab-end -->

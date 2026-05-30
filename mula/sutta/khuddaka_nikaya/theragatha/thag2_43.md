@@ -56,3 +56,23 @@ parallels:
 *I am such as envied by even the gods.*
 *… Brahmāli thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (14 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | mayhindriyāni (?) | ? |  |
+> | kassindriyāni (?) | ? |  |
+> | samathaṅgata | adj | stilled; calmed; settled |
+> | pahīnamāna | adj | who has removed conceit; who has abandoned egotism; who has … |
+> | pihayan (?) | ? |  |
+> | sudanta | adj | well tamed (by); well trained (by); well controlled (by) |
+> | devāpi | sandhi | even the gods |
+> | sārathi | masc | charioteer; driver |
+> | tādi | adj | such; of such character; of such quality; like; kind of |
+> | anāsava | adj | free from the effluents; taint-less; undefiled |
+> | assa | masc | horse |
+> | yathā | ind | like; as; as per; according to; how; in whatever way |
+> | ka | pron | who?; what?; which? |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

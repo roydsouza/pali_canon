@@ -546,3 +546,69 @@ tags:
 **Dhammapadapāḷi samattā.**  
 *The Sayings of the Dhamma are completed.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | dhammapadapāḷi | fem |  |
+> | nipāta | masc | fall; descent; drop |
+> | gāthāsatāni (?) | ? |  |
+> | vaggamuttame (?) | ? |  |
+> | ekatālīsagāthāyo (?) | ? |  |
+> | bhikkhuvaggikā (?) | ? |  |
+> | malavaggekavīsa (?) | ? |  |
+> | ṭhārasa (?) | ? |  |
+> | terasa | card | thirteen (13) |
+> | gāthānamuddānaṁ (?) | ? |  |
+> | malañca (?) | ? |  |
+> | sahassañca (?) | ? |  |
+> | yamakappamādo (?) | ? |  |
+> | vaggānamuddāna | nt | summary of the chapters |
+> | pañcādhikaṁ (?) | ? |  |
+> | satattayañca (?) | ? |  |
+> | catusaccavibhāvinā (?) | ? |  |
+> | satevīsacatussatā (?) | ? |  |
+> | vatthusatāni (?) | ? |  |
+> | pañcādhikāni (?) | ? |  |
+> | sabbapaṭhama | adj |  |
+> | chabbīsatima | ordin |  |
+> | sabbavositavosāna | nt | mastering everything to be mastered; perfecting everything t… |
+> | dhamanisanthata | adj | covered with veins |
+> | paṁsukūladhara | adj | wearing rag robes |
+> | gahana | adj | thick; dense |
+> | ajinasāṭi | fem | hide garment (commonly worn by ascetics) |
+> | aggihuttaṁva (?) | ? |  |
+> | sammatimeva (?) | ? |  |
+> | nivatta | pp | turned to the side |
+> | hiṁsamana | masc | intention to harm |
+> | nisedha | masc | restraint (of) (from); prevention (of) (from); prohibition (… |
+> | brāhmaṇassetadakiñci (?) | ? |  |
+> | paharati | pr | strikes; beats; gives a blow (to) |
+> | pabbājayamattano (?) | ? |  |
+> | bāhitapāpa | adj | abolished evil; banished wrongdoing |
+> | sabbamahorattiṁ | ind | throughout the day and night; continually; all the time |
+> | sannaddha | pp | armed; furnished with weapons; in battle regalia |
+> | rattimābhā (?) | ? |  |
+> | akataññūsi (?) | ? |  |
+> | parakkamma | ger | making continuous effort; striving; persevering; persisting |
+> | punāpare (?) | ? |  |
+> | tevīsa | ordin | twenty-third (23rd) |
+> | sattarasa | card | seventeen (17) |
+> | vagga | adj | disunited; divisive; factious; dissentious |
+> | chabbīsa | ordin | twenty-sixth (26th) |
+> | pakiṇṇa | pp | scattered; strewn; dispersed |
+> | brāhmaṇavagga | masc |  |
+> | gandhabbamānusā | masc | demigods and humans |
+> | upapattiñca (?) | ? |  |
+> | sabbalokābhibhū | masc | conqueror of the whole world; master of the entire universe |
+> | aratiñca (?) | ? |  |
+> | kāmabhavaparikkhīṇa | adj | exhausted existence in the realm of sense desire; finished w… |
+> | mohamaccagā | imperf | surpassed illusion; transcended delusion |
+> | palipatha | masc | obstacle; obstruction; blockage; ambush |
+> | yomaṁ | sandhi | whoever this |
+> | vippasannamanāvila | adj | calm and serene; tranquil and undisturbed |
+> | candaṁva (?) | ? |  |
+> | saṅgamupaccagā (?) | ? |  |
+> | amatogadhamanuppattaṁ (?) | ? |  |
+<!-- pali-nlp:vocab-end -->

@@ -48,3 +48,24 @@ tags:
 *who’ve hurt so many people.*
 *… Sabbamitto thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (15 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | janan (?) | ? |  |
+> | heṭhayitvā | abs | having hurt; having harmed; having harassed |
+> | janita | pp | generated; produced; created (by) |
+> | janenattha | masc | need for people; use of men |
+> | heṭhe (?) | ? |  |
+> | heṭhīya (?) | ? |  |
+> | janamevassito (?) | ? |  |
+> | sambaddha | pp | bound together; bonded; connected |
+> | ohāya | ger | leaving; giving up; abandoning |
+> | jana | masc | man; person; fellow |
+> | bahu | adj | many; much; lots (of); a lot (of); great; large |
+> | gaccha | imp | go!; begone!; away with you! |
+> | ka | pron | who?; what?; which? |
+> | va | ind | like; as |
+> | ta | pron | that |
+<!-- pali-nlp:vocab-end -->

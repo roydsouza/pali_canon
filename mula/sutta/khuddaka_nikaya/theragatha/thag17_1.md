@@ -390,3 +390,69 @@ parallels:
 **… Phusso thero ….**  
 *…*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | bhāvethaṭṭhaṅgikaṁ (?) | ? |  |
+> | sakhila | adj | kind; friendly |
+> | subbaca | adj | easy to instruct; obedient; compliant |
+> | paṭipat (?) | ? |  |
+> | anāgataddhānaṁ | ind | in the future |
+> | khaḷuṅka | adj | untrainable; unmanageable; unruly; stubborn |
+> | nādiyissantupajjhāye (?) | ? |  |
+> | suṇissan (?) | ? |  |
+> | cīvaradhāraṇa | nt |  |
+> | sikkhāpentāpi (?) | ? |  |
+> | niggaṇhissantyanāgate (?) | ? |  |
+> | odātaka | adj |  |
+> | odātamanasaṅkappa | adj | with pure mental intentions; clean-hearted |
+> | nissukka | adj | impure; without bright qualities; (comm) (or) without endevo… |
+> | vipannasīla | adj |  |
+> | paridhassa (?) | ? |  |
+> | atthopasaṁhita | adj |  |
+> | gaja | masc | elephant |
+> | chaddanta | adj | (of an elephant) with six tusks |
+> | acintiya | ptp |  |
+> | nāgassāsi (?) | ? |  |
+> | mahāghora | adj | very terrible; very aweful |
+> | dhārissantyavadātakaṁ (?) | ? |  |
+> | milakkhurajana | adj | with foreign dye |
+> | sevissan (?) | ? |  |
+> | supesalepi (?) | ? |  |
+> | alābhī | adj |  |
+> | asaṁyata | pp | uncontrolled; unrestrained |
+> | bhajissan (?) | ? |  |
+> | anusikkhanta | prp | training; practising |
+> | micchājīvarata | adj | taking pleasure in wrong livelihood; delighting in a wrong m… |
+> | labhissan (?) | ? |  |
+> | kicchanta | prp | being troubled (with); having difficulty (with); (comm) grow… |
+> | lābhakāma | adj | wanting material benefit |
+> | samucchita | pp | infatuated (with); enamoured (with); enthralled (by) |
+> | jigucchissan (?) | ? |  |
+> | dantavaṇṇikapāruta | adj | dressed in ivory coloured (robes) |
+> | añjanakkhika | adj |  |
+> | telasaṇṭha | adj | styled with oil; gelled in place |
+> | carissantyariyā (?) | ? |  |
+> | nīlacīvarapāruta | adj | wrapped in blue robes; clothed in blue cloth |
+> | vicarissan (?) | ? |  |
+> | sādiyissantyanāgate (?) | ? |  |
+> | dāsidāsañca (?) | ? |  |
+> | vatthumajeḷakaṁ (?) | ? |  |
+> | jātarūpañca (?) | ? |  |
+> | yathātthato | ind | according to the (correct) meaning; correctly |
+> | guṇavantopi (?) | ? |  |
+> | assutāvī | adj | unlearned; uneducated |
+> | guṇahīnāpi (?) | ? |  |
+> | dummatī | masc |  |
+> | kilesessan (?) | ? |  |
+> | uppajjissantyanāgate (?) | ? |  |
+> | aññamaññamagāravā (?) | ? |  |
+> | tīragocara | adj | knowing (only) the shore; (only) touching the surface |
+> | aññātamānī | adj | imagining one has understood |
+> | ussukī | adj | zealously desiring; ambitious; anxiously striving; (comm) je… |
+> | thambhī | adj |  |
+> | ācikkhissāmyanāgataṁ (?) | ? |  |
+> | upadhāreti | pr | explores; investigates |
+<!-- pali-nlp:vocab-end -->

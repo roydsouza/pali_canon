@@ -48,3 +48,29 @@ tags:
 *the Buddha’s rightful son.*
 *… Nandako thero ….*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (20 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | adīna | pp | undaunted; unwavering; determined; not wearied; (comm) not l… |
+> | orasan (?) | ? |  |
+> | patitiṭṭha (?) | ? |  |
+> | khalitvā | abs |  |
+> | dassanasampanna | adj | endowed with insight; who has vision; wise; epithet of a str… |
+> | ājānīya | adj | thoroughbred; well bred; of good breed; of high pedigree |
+> | vahati | pr | carries; carries away |
+> | dhura | adj | first; nearby |
+> | ājañña | adj | thoroughbred; well bred |
+> | sammāsambuddhasāvaka | masc | disciple of the perfectly awakened one; follower of the full… |
+> | saṁvega | masc | dismay; anxiety; sense of urgency |
+> | dhāreti | pr | holds up; holds out |
+> | bhiyyo | ind | more (than); greater than (than); better than (than); superi… |
+> | laddha | pp | obtained; gained; won; received |
+> | yathāpi | sandhi | just like; just as |
+> | bhadda | adj | good; excellent; lucky; auspicious |
+> | putta | masc | son; child |
+> | buddha | masc | Buddha; Awakened One |
+> | evaṁ | ind | thus; this; like this; similarly; in the same manner; just a… |
+> | ahaṁ | pron | I |
+<!-- pali-nlp:vocab-end -->

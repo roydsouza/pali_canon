@@ -126,3 +126,69 @@ parallels:
 
 *Aṭṭhakanipāto niṭṭhito.*
 
+<!-- pali-nlp:vocab-start -->
+> [!NOTE]- Vocabulary (60 entries, rarest first)
+> 
+> | Headword | POS | Meaning |
+> |---|---|---|
+> | atuliya | ptp | unequalled; incomparable; immeasurable |
+> | akampiya | ptp | unshakeable; unwavering; unassailable |
+> | pakampita | pp | trembling; quaking; shaking |
+> | padīpita | pp | aflame; ablaze; burning; on fire |
+> | jātimaraṇasārī | adj | wandering on to birth and death; flowing along to rebirth an… |
+> | paṇīdheti | pr | sets (one's heart); directs (one's mind) |
+> | asecanakamojavaṁ | sandhi | pure and nourishing; delicious and nutritious |
+> | ādīpita | pp | on fire; in flames; ablaze |
+> | nirata | pp | enjoying; fond (of); taking pleasure (in); indulging (in) |
+> | avītivatta | pp | not overcome; not escaped; not passed through |
+> | aputhujjanasevita | adj | outside the realm of ordinary people; not the purview of com… |
+> | sakkāya | masc | personal existence; individual identity; mind-body complex; … |
+> | pajjalita | pp | burning; blazing; on fire |
+> | nihata | pp | defeated; slain; destroyed |
+> | susaṁvuta | adj | well restrained (in); well controlled (in); well guarded (in… |
+> | nimmānaratino | masc | name of a group of devas |
+> | antaka | masc | Death |
+> | tusita | masc | Tusita heaven |
+> | tvamasi | sandhi | you are |
+> | tassāhaṁ | sandhi | of him I; his I |
+> | padālita | pp | routed; rent; torn apart; smashed; broken to pieces |
+> | bhavābhava | masc | any state of existence; repeated existence |
+> | purakkhata | pp | given importance; esteemed; honoured |
+> | dhammamadesesi | aor | taught the Dhamma; preached the Dhamma |
+> | tamokhandha | masc | mass of darkness; mountain of ignorance |
+> | adhigacchati | pr | gets to; attains; finds; acquires; obtains |
+> | vasavattino | masc | name of a group of deities; gods who wield power over the cr… |
+> | rata | pp | delighted (with); devoted (to); taking pleasure (in); please… |
+> | vihata | pp | killed; destroyed |
+> | nandi | fem | pleasure; enjoyment; relish; delight |
+> | tāvatiṁsa | adj | belonging to the (Heaven of the) Thirty Three |
+> | sabbattha | ind | everywhere; every place |
+> | vusita | pp | fulfilled; completed; finished |
+> | cāpi | sandhi | or even; and even; as well as |
+> | pāpimant | adj | evil; wicked; malevolent |
+> | vihari | aor | lived; remained; stayed in |
+> | yāma | masc | watch (of the night); one eighth of the day; about three hou… |
+> | sīlasampanna | adj | of excellent morality; accomplished in virtue |
+> | pada | nt | foot |
+> | bhikkhunī | fem | nun; fully ordained nun |
+> | vacana | nt | word; utterance; talk; statement |
+> | indriya | nt | sense; mental faculty; power |
+> | anuppatta | pp | reached; arrived (at); come (to) |
+> | mana | adj | having such a mind; -minded; -hearted |
+> | pura | nt | fortified town; castle; fortress |
+> | devatā | fem | deity; god |
+> | sāsana | nt | message; letter |
+> | sutvā | abs | having heard; having listened (to) |
+> | vijjanta | prp | existing |
+> | jāna | adj | knowing; being aware (of); understanding |
+> | yattha | ind | wherever; where; when; in which |
+> | sakka | ptp | able; capable; proficient |
+> | santa | prp | existing; being; there is |
+> | kata | pp | done; did; completed |
+> | kāla | masc | time; occasion |
+> | buddha | masc | Buddha; Awakened One |
+> | deva | masc | deity; god |
+> | sabba | pron | all; every |
+> | tattha | ind | there; in that place |
+> | loka | masc | world; universe; cosmos |
+<!-- pali-nlp:vocab-end -->
