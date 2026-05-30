@@ -70,6 +70,15 @@
 
 ---
 
+## ✦ New to this workstation?
+
+**[[tutorial/INDEX|Dhamma Practice Workstation — Getting Started]]**
+
+Six tutorials taking you from your first sutta to a sustained long-term practice. Begin with the breath:
+→ [[tutorial/01_breath_practice|Tutorial 1: Sitting with the Ānāpānasati Sutta]]
+
+---
+
 ## 🧘 Meditation Techniques
 
 Explore the core meditation techniques documented in the suttas:
