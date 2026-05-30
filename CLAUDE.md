@@ -88,6 +88,8 @@ Bold = Pali. Italic = English (Sujato). Never layer AI translation over Sujato's
 - **Bypass** the pre-commit hook or test suite
 - **Create NLP engine code** inside this vault — the NLP system lives in a separate `pali-nlp` repo (see `meta/VISION.md`)
 - **Use `file://` absolute paths** in embeds or links — use vault-relative wikilinks instead
+- **Use Dataview inline expressions** (`` `$= dv.pages(...)` ``) inside HTML `<div>` blocks in INDEX.md or any dashboard file — they do not render reliably inside HTML and show as raw code strings to users. Use hardcoded counts instead; update them manually when significant content is added. Standard ` ```dataview ``` ` code blocks in Markdown sections are fine.
+- **Add wikilinks to files that do not exist yet** — always verify the target file exists before linking. The pre-commit hook validates links on staged files; creating a link in an existing file without staging the target will not be caught.
 
 ## Key Scripts
 

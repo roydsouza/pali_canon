@@ -13,10 +13,10 @@
       <h3>Discourse Collections</h3>
       <p>Pali root texts interleaved with Bhikkhu Sujato's segment translations.</p>
       <ul class="db-link-list">
-        <li><a class="internal-link" href="mula/sutta/digha_nikaya/INDEX.md">Dīgha Nikāya (Long)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/digha_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/majjhima_nikaya/INDEX.md">Majjhima Nikāya (Middle)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/majjhima_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/samyutta_nikaya/INDEX.md">Saṃyutta Nikāya (Connected)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/samyutta_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/anguttara_nikaya/INDEX.md">Aṅguttara Nikāya (Numerical)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/anguttara_nikaya"').where(p => p.type == "mula").length` Groups</span></li>
+        <li><a class="internal-link" href="mula/sutta/digha_nikaya/INDEX.md">Dīgha Nikāya (Long)</a> <span class="db-badge jhana">8 Suttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/majjhima_nikaya/INDEX.md">Majjhima Nikāya (Middle)</a> <span class="db-badge jhana">22 Suttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/samyutta_nikaya/INDEX.md">Saṃyutta Nikāya (Connected)</a> <span class="db-badge jhana">11 Saṃyuttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/anguttara_nikaya/INDEX.md">Aṅguttara Nikāya (Numerical)</a> <span class="db-badge jhana">35 Groups</span></li>
         <li><a class="internal-link" href="mula/sutta/khuddaka_nikaya/INDEX.md">Khuddaka Nikāya (Minor)</a> <span class="db-badge jhana">Dhp, Ud, Iti, Snp, Thag, Thig</span></li>
       </ul>
     </div>
@@ -38,14 +38,15 @@
 
   <div class="db-card matika">
     <div>
-      <span class="db-badge matika">Mātikā</span>
+      <a class="internal-link" href="matika/INDEX.md"><span class="db-badge matika">Mātikā</span></a>
       <h3>Doctrinal Hub</h3>
       <p>22 core Buddhist lists mapping mental states, practices, and stages of awakening.</p>
       <ul class="db-link-list">
-        <li><a class="internal-link" href="matika/INDEX.md">Explore Doctrinal Lists</a></li>
+        <li><a class="internal-link" href="matika/INDEX.md">📋 All 22 Doctrinal Lists</a></li>
         <li><a class="internal-link" href="matika/four_noble_truths.md">Four Noble Truths</a></li>
         <li><a class="internal-link" href="matika/four_foundations_of_mindfulness.md">Four Satipaṭṭhānā</a></li>
         <li><a class="internal-link" href="matika/noble_eightfold_path.md">Noble Eightfold Path</a></li>
+        <li><a class="internal-link" href="matika/dependent_origination.md">Dependent Origination</a></li>
         <li><a class="internal-link" href="meta/SIMILES.md">Simile Index</a> &amp; <a class="internal-link" href="meta/PERICOPES.md">Pericope Concordance</a></li>
       </ul>
     </div>
