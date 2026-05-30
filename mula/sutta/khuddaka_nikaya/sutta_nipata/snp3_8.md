@@ -14,8 +14,17 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'G3-Dhp 41–50 (g3dhp41-50) · Gandhari · Gāndhārī 3rd Dharmapada Verses 41–50'
+  - 'G-Dhp 139–161 (gdhp139-161) · Gandhari · Jaravagga'
+  - 'Ja 461 (ja461) · Pali · Dasarathajātaka'
+  - 'Ja 538 (ja538) · Pali · Mūgapakkhajātaka'
+  - 'T 210.37 (t210.37) · Chinese · 生死品法句經第三十七十有八章'
+  - 'T 212.1 (t212.1) · Chinese · 無常品第一之一'
+  - 'T 213.1 (t213.1) · Chinese · 法集要頌經有為品第一'
+  - 'Uv Kg 1 (uv-kg1) · Khotanese · Impermanency'
+  - 'UV 1 (uv1) · SAN · Anityavarga'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

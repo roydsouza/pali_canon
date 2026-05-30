@@ -15,8 +15,9 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'SN 6.14 (sn6.14) · Pali · Aruṇavatīsutta'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

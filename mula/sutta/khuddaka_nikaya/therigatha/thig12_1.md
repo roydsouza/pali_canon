@@ -15,8 +15,9 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Thi Ap 38 (thi-ap38) · Pali · Puṇṇikātherīapadāna'
 ---
-
 # Khuddaka Nikāya: Therīgāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]

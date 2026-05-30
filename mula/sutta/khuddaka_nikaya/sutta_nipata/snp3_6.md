@@ -14,8 +14,10 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'San Lo Mvu 103 (san-lo-mvu103) · SAN · The Story of Sabhika'
+  - 'T 190.39 (t190.39) · Chinese · 佛本行集'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

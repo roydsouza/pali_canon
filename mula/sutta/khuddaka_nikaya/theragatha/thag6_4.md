@@ -15,8 +15,10 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'AN 3.90 (an3.90) · Pali · Dutiyasikkhattayasutta'
+  - 'Ne 5 (ne5) · Pali · Vicayahāravibhaṅga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

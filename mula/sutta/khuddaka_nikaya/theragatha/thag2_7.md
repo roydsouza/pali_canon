@@ -15,8 +15,17 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 1–20 (dhp1-20) · Pali · Yamakavagga'
+  - 'G-Dhp 201–223 (gdhp201-223) · Gandhari · Yamakavagga'
+  - 'P-Dhp 342–357 (pdhp342-357) · PRA · Cittavagga'
+  - 'T 210.9 (t210.9) · Chinese · 雙要品法句經第九二十有二章'
+  - 'T 212.32 (t212.32) · Chinese · 心意品第三十二'
+  - 'T 213.31 (t213.31) · Chinese · 法集要頌經護心品第三十一'
+  - 'Uv Kg 31 (uv-kg31) · Khotanese · The Mind'
+  - 'UV 31 (uv31) · SAN · Cittavarga'
+  - 'UVS 31 (uvs31) · SAN · Cittavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

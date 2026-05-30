@@ -14,8 +14,14 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'G3-Dhp 51–60 (g3dhp51-60) · Gandhari · Gāndhārī 3rd Dharmapada Verses 51–60'
+  - 'T 210.1 (t210.1) · Chinese · 無常品第一二十有一章'
+  - 'T 212.1 (t212.1) · Chinese · 無常品第一之一'
+  - 'T 213.1 (t213.1) · Chinese · 法集要頌經有為品第一'
+  - 'Uv Kg 1 (uv-kg1) · Khotanese · Impermanency'
+  - 'UV 1 (uv1) · SAN · Anityavarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

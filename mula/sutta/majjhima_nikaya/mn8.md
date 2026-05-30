@@ -15,8 +15,10 @@ tags:
   - meditation
   - effacement
   - ethics
+parallels:
+  - 'MA 91 (ma91) · Chinese · 周那問見'
+  - 'EA 47.9 (ea47.9) · Chinese · Untitled'
 ---
-
 # Majjhima Nikāya: MN 8 — Sallekhasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]

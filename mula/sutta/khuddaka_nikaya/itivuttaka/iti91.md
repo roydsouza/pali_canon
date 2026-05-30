@@ -14,8 +14,19 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'Dhp 306–319 (dhp306-319) · Pali · Nirayavagga'
+  - 'Iti 48 (iti48) · Pali · Āpāyikasutta'
+  - 'P-Dhp 96–120 (pdhp96-120) · PRA · Kalyāṇīvagga'
+  - 'Bu Pj 4 (pli-tv-bu-vb-pj4) · Pali · Uttarimanussadhamma'
+  - 'T 210.30 (t210.30) · Chinese · 地獄品法句經第三十十有六章'
+  - 'T 210.34 (t210.34) · Chinese · 沙門品法句經第三十四三十有二章'
+  - 'T 212.12 (t212.12) · Chinese · 沙門品第十二'
+  - 'T 213.11 (t213.11) · Chinese · 法集要頌經沙門品第十一'
+  - 'Uv Kg 11 (uv-kg11) · Khotanese · The Sramana'
+  - 'UV 11 (uv11) · SAN · Śramaṇavarga'
+  - 'UVS 11 (uvs11) · SAN · Śramaṇavarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

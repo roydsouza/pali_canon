@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 306–319 (dhp306-319) · Pali · Nirayavagga'
+  - 'G-Dhp 97–134 (gdhp97-134) · Gandhari · Maguvagga'
+  - 'P-Dhp 216–238 (pdhp216-238) · PRA · Śaraṇavagga'
+  - 'T 210.30 (t210.30) · Chinese · 地獄品法句經第三十十有六章'
+  - 'T 212.6 (t212.6) · Chinese · 念品第六'
+  - 'T 213.5 (t213.5) · Chinese · 法集要頌經愛樂品第五'
+  - 'Thag 17.2 (thag17.2) · Pali · Sāriputtattheragāthā'
+  - 'Uv Kg 5 (uv-kg5) · Khotanese · Agreeable things'
+  - 'UV 5 (uv5) · SAN · Priyavarga'
+  - 'UVS 5 (uvs5) · SAN · Priyavarga'
 ---
-
 # Khuddaka Nikāya: Therīgāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]

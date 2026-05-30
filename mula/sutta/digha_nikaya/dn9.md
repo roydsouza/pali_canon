@@ -12,8 +12,11 @@ commentary_file: /atthakatha/sutta/digha_nikaya/dn9_att.md
 sub_commentary_file: /tika/sutta/digha_nikaya/dn9_tik.md
 tags:
   - meditation
+parallels:
+  - 'DA 28 (da28) · Chinese · 布吒婆樓'
+  - 'SF 297 (sf297) · SAN · Untitled'
+  - 'SF 59 (sf59) · SAN · Untitled'
 ---
-
 # Dīgha Nikāya 9: Poṭṭhapādasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]

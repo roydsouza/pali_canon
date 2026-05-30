@@ -14,8 +14,16 @@ tags:
   - ethics
   - conduct
   - virtue
+parallels:
+  - 'Dhp 167–178 (dhp167-178) · Pali · Lokavagga'
+  - 'P-Dhp 278–305 (pdhp278-305) · PRA · Vācāvagga'
+  - 'T 210.21 (t210.21) · Chinese · 世俗品法句經第二十一十有四章'
+  - 'T 212.10 (t212.10) · Chinese · ◎出曜經行品第十'
+  - 'T 213.9 (t213.9) · Chinese · 法集要頌經業品第九'
+  - 'Uv Kg 9 (uv-kg9) · Khotanese · Deeds'
+  - 'UV 9 (uv9) · SAN · Karmavarga'
+  - 'UVS 9 (uvs9) · SAN · Karmavarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

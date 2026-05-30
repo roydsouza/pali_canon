@@ -15,8 +15,9 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'EA 20.12 (ea20.12) · Chinese · Cūḍapanthaka'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

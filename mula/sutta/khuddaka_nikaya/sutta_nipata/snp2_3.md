@@ -14,8 +14,9 @@ tags:
   - ethics
   - conduct
   - lay_practice
+parallels:
+  - 'Ja 363 (ja363) · Pali · Hirijātaka'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

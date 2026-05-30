@@ -14,8 +14,18 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'AN 4.34 (an4.34) · Pali · Aggappasādasutta'
+  - 'AN 5.32 (an5.32) · Pali · Cundīsutta'
+  - 'EA 21.1 (ea21.1) · Chinese · 第一德'
+  - 'SA 904 (sa904) · Chinese · 聲聞第一'
+  - 'SA 903 (sa903) · Chinese · 離貪法第一'
+  - 'SA 902 (sa902) · Chinese · 如來第一'
+  - 'SA901-1000 (sa901-1000) · Chinese · Saṁyuktāgama 901–1000'
+  - 'SN 45.139 (sn45.139) · Pali · Tathāgatasutta'
+  - 'Mil 5.5.3 (mil5.5.3) · Pali · Buddhaappābādhapañha'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

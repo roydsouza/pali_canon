@@ -14,8 +14,10 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'SA 706 (sa706) · Chinese · 蓋'
+  - 'SN 46.40 (sn46.40) · Pali · Nīvaraṇasutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

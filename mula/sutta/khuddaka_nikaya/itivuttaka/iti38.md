@@ -14,8 +14,22 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'DN 14 (dn14) · Pali · Mahāpadānasutta'
+  - 'MN 26 (mn26) · Pali · Pāsarāsisutta'
+  - 'MN 85 (mn85) · Pali · Bodhirājakumārasutta'
+  - 'Kd 1 (pli-tv-kd1) · Pali · Mahākhandhaka'
+  - 'SF 36 (sf36) · SAN · Mahāvadāna'
+  - 'SN 6.1 (sn6.1) · Pali · Brahmāyācanasutta'
+  - 'T 212.22 (t212.22) · Chinese · ◎出曜經如來品第二十二'
+  - 'T 213.21 (t213.21) · Chinese · 法集要頌經如來品第二十一'
+  - 'Uv Kg 21 (uv-kg21) · Khotanese · Tathāgatha'
+  - 'UV 21 (uv21) · SAN · Tathāgatavarga'
+  - 'UVS 21 (uvs21) · SAN · Tathāgatavarga'
+  - 'Cnd 19 (cnd19) · Pali · Mogharājamāṇavapucchāniddesa'
+  - 'Mnd 14 (mnd14) · Pali · Tuvaṭakasuttaniddesa'
+  - 'Mnd 16 (mnd16) · Pali · Sāriputtasuttaniddesa'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

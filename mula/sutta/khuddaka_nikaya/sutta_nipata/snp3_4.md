@@ -14,8 +14,9 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'SN 7.9 (sn7.9) · Pali · Sundarikasutta'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

@@ -172,9 +172,9 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 - [x] **Prosopography Graph** — Seed manual people (`people/`) and place (`places/`) index notes. ✅
 - [x] **Simile Index** — Build a cross-referenced catalogue of canon similes. ✅
 - [x] **Pericope Concordance** — Map out repeated formulas (jhāna cadences, dependent origination chains) with links to occurrences. ✅
-- [ ] **Parallel-Texts Layer** — Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
+- [x] **Parallel-Texts Layer** — Inject SuttaCentral parallel IDs into frontmatter and render via Dataview.
 - [x] **Question-Driven Paths** — Added three paths under `paths/`: `working_with_anger.md`, `understanding_craving.md`, `working_with_hindrances.md`. ✅
-- [ ] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
+- [x] **Dynamic Count Tables** — Replace hardcoded count metrics in `INDEX.md` and `STATUS.md` with dynamic Dataview queries.
 
 ### Phase 17 — Pali NLP Companion Development (External Repo)
 **Repo**: https://github.com/roydsouza/pali-nlp (local: `~/pali-nlp/`)
@@ -196,7 +196,7 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
 
 ### Phase 18 — Text & Doctrinal Expansion (Abhidhamma & Vinaya Future)
 - [ ] **Sutta Piṭaka (Primary)**
-    - [ ] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
+    - [x] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
     - [x] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
     - [x] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses. ✅
     - [x] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.

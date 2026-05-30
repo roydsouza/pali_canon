@@ -14,8 +14,10 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'Sag (sag) · SAN · Śarīrārthagāthā'
+  - 'SN 1.20 (sn1.20) · Pali · Samiddhisutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

@@ -15,8 +15,9 @@ tags:
   - clinging
   - security
   - refuge
+parallels:
+  - 'Mil 5.3.12 (mil5.3.12) · Pali · Bhikkhupaṇāmitapañha'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

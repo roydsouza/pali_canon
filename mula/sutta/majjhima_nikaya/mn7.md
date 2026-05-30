@@ -15,8 +15,13 @@ tags:
   - meditation
   - purification
   - metta
+parallels:
+  - 'EA 13.5 (ea13.5) · Chinese · 孫陀利'
+  - 'MA 93 (ma93) · Chinese · 水淨梵志'
+  - 'T 51 (t51) · Chinese · 梵志計水淨'
+  - 'SA2 98 (sa-2.98) · Chinese · 孫陀利'
+  - 'SA 1185 (sa1185) · Chinese · 孫陀利'
 ---
-
 # Majjhima Nikāya: MN 7 — Vatthasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]

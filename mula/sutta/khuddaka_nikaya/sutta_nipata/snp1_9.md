@@ -15,8 +15,11 @@ tags:
   - devotion
   - refuge
   - moral_conduct
+parallels:
+  - 'SA2 328 (sa-2.328) · Chinese · 七岳雪山'
+  - 'SA 1329 (sa1329) · Chinese · 七岳雪山'
+  - 'T 198 (t198) · Chinese · 佛說義足經'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

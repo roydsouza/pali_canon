@@ -14,8 +14,10 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'Kd 17 (pli-tv-kd17) · Pali · Saṁghabhedakakkhandhaka'
+  - 'Pvr 7 (pli-tv-pvr7) · Pali · Ekuttarikanaya'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

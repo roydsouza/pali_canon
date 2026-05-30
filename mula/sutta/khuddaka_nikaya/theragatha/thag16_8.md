@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 167–178 (dhp167-178) · Pali · Lokavagga'
+  - 'G-Dhp 97–134 (gdhp97-134) · Gandhari · Maguvagga'
+  - 'MN 86 (mn86) · Pali · Aṅgulimālasutta'
+  - 'P-Dhp 14–33 (pdhp14-33) · PRA · Apramādavagga'
+  - 'T 210.10 (t210.10) · Chinese · 放逸品法句經第十有二十章'
+  - 'T 213.16 (t213.16) · Chinese · 法集要頌經清淨品第十六'
+  - 'Uv Kg 16 (uv-kg16) · Khotanese · Miscellaneous'
+  - 'UV 16 (uv16) · SAN · Prakīrṇakavarga'
+  - 'UVS 16 (uvs16) · SAN · Prakīrṇakavarga'
+  - 'Thag 10.3 (thag10.3) · Pali · Mahākappinattheragāthā'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

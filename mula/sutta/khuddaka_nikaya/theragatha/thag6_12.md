@@ -15,8 +15,22 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'SN 7.2 (sn7.2) · Pali · Akkosasutta'
+  - 'T 212.21 (t212.21) · Chinese · ◎恚品第二十一'
+  - 'T 213.20 (t213.20) · Chinese · 法集要頌經瞋恚品第二十'
+  - 'UV 20 (uv20) · SAN · Krodhavarga'
+  - 'UV 20 (uv20) · SAN · Krodhavarga'
+  - 'UVS 20 (uvs20) · SAN · Krodhavarga'
+  - 'Dhp 90–99 (dhp90-99) · Pali · Arahantavagga'
+  - 'P-Dhp 84–95 (pdhp84-95) · PRA · Śokavagga'
+  - 'T 210.15 (t210.15) · Chinese · 羅漢品法句經第十五有十章'
+  - 'T 212.32 (t212.32) · Chinese · 心意品第三十二'
+  - 'T 213.31 (t213.31) · Chinese · 法集要頌經護心品第三十一'
+  - 'Uv Kg 31 (uv-kg31) · Khotanese · The Mind'
+  - 'Uv Kg 20 (uv-kg20) · Khotanese · Anger'
+  - 'UV 31 (uv31) · SAN · Cittavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

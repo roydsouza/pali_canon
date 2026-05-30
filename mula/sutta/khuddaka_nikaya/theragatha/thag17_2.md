@@ -15,8 +15,9 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Mil 7.6.10 (mil7.6.10) · Pali · Ajagaraṅgapañha'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

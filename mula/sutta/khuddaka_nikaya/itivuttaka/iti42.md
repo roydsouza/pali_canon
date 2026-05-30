@@ -14,8 +14,9 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'AN 2.1–10 (an2.1-10) · Pali · Kammakaraṇavagga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

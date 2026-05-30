@@ -14,8 +14,12 @@ tags:
   - ethics
   - conduct
   - virtue
+parallels:
+  - 'AN 10.39 (an10.39) · Pali · Paṭhamaānandasutta'
+  - 'Kd 17 (pli-tv-kd17) · Pali · Saṁghabhedakakkhandhaka'
+  - 'Kv 13.1 (kv13.1) · Pali · Kappaṭṭhakathā'
+  - 'Kv 20.1 (kv20.1) · Pali · Asañciccakathā'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

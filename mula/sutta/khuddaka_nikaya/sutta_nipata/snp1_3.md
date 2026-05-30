@@ -16,8 +16,11 @@ tags:
   - rhinoceros
   - five_hindrances
   - three_marks
+parallels:
+  - 'GF 5B (gf5b) · Gandhari · Rhinoceros Sūtra'
+  - 'San Lo Mvu 33 (san-lo-mvu33) · SAN · The History of the Deer Park'
+  - 'Tha Ap 2 (tha-ap2) · Pali · Paccekabuddhaapadāna'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

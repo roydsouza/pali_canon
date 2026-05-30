@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 334–359 (dhp334-359) · Pali · Taṇhāvagga'
+  - 'G-Dhp 162–181 (gdhp162-181) · Gandhari · Suhavagga'
+  - 'Ja 201 (ja201) · Pali · Bandhanāgārajātaka'
+  - 'P-Dhp 137–156 (pdhp137-156) · PRA · Tahnavagga'
+  - 'SN 3.10 (sn3.10) · Pali · Bandhanasutta'
+  - 'T 210.32 (t210.32) · Chinese · 愛欲品法句經第三十二三十有二章'
+  - 'T 212.2 (t212.2) · Chinese · 欲品第二'
+  - 'T 213.2 (t213.2) · Chinese · 法集要頌經愛欲品第二'
+  - 'Uv Kg 2 (uv-kg2) · Khotanese · Desire'
+  - 'UV 2 (uv2) · SAN · Kāmavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -14,8 +14,14 @@ tags:
   - ethics
   - conduct
   - virtue
+parallels:
+  - 'EA2 30 (ea-2.30) · Chinese · 積骨'
+  - 'SA3 11 (sa-3.11) · Chinese · 骨聚'
+  - 'SA2 340 (sa-2.340) · Chinese · 骨聚'
+  - 'SA 947 (sa947) · Chinese · 骨聚'
+  - 'SN 15.10 (sn15.10) · Pali · Puggalasutta'
+  - 't765.2 (orphan) · UNKNOWN · Untitled'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

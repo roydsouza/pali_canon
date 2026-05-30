@@ -14,8 +14,10 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'SN 5.6 (sn5.6) · Pali · Cālāsutta'
+  - 'Snp 3.12 (snp3.12) · Pali · Dvayatānupassanāsutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

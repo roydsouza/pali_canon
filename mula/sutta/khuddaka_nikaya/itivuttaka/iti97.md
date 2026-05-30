@@ -14,8 +14,17 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'Dhp 383–423 (dhp383-423) · Pali · Brāhmaṇavagga'
+  - 'G-Dhp 1–50 (gdhp1-50) · Gandhari · Brammaṇavagga'
+  - 'P-Dhp 34–49 (pdhp34-49) · PRA · Brāhmaṇavagga'
+  - 'T 210.35 (t210.35) · Chinese · 梵志品法句經第三十五有四十章'
+  - 'T 212.34 (t212.34) · Chinese · ◎出曜經梵志品第三十四'
+  - 'T 213.33 (t213.33) · Chinese · 法集要頌經梵志品第三十三'
+  - 'Uv Kg 33 (uv-kg33) · Khotanese · The Brāhmana'
+  - 'UV 33 (uv33) · SAN · Brahmanavarga'
+  - 'UVS 33 (uvs33) · SAN · Brāhmaṇavarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

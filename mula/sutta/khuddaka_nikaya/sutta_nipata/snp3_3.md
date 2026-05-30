@@ -14,8 +14,11 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'SA2 253 (sa-2.253) · Chinese · 四句讚'
+  - 'SA 1218 (sa1218) · Chinese · 四句讚'
+  - 'SN 8.5 (sn8.5) · Pali · Subhāsitasutta'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

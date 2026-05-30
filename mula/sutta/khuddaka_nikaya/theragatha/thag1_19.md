@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 129–145 (dhp129-145) · Pali · Daṇḍavagga'
+  - 'Dhp 76–89 (dhp76-89) · Pali · Paṇḍitavagga'
+  - 'MN 86 (mn86) · Pali · Aṅgulimālasutta'
+  - 'T 210.14 (t210.14) · Chinese · 明哲品法句經第十四'
+  - 'T 212.18 (t212.18) · Chinese · 出曜經水品第十八'
+  - 'T 213.17 (t213.17) · Chinese · 法集要頌經水喻品第十七'
+  - 'Thag 16.8 (thag16.8) · Pali · Aṅgulimālattheragāthā'
+  - 'Uv Kg 17 (uv-kg17) · Khotanese · Water'
+  - 'UV 17 (uv17) · SAN · Udakavarga'
+  - 'UVS 17 (uvs17) · SAN · Udakavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

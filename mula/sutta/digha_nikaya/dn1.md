@@ -12,8 +12,18 @@ commentary_file: /atthakatha/sutta/digha_nikaya/dn1_att.md
 sub_commentary_file: /tika/sutta/digha_nikaya/dn1_tik.md
 tags:
   - meditation
+parallels:
+  - 'DA 21 (da21) · Chinese · 梵動'
+  - 'SHT Sutta 16 (sht-sutta16) · SAN · Untitled'
+  - 'T 21 (t21) · Chinese · 梵網六十二見'
+  - 'Up 3.050 (up3.050) · Khotanese · Untitled'
+  - 'SF 41 (sf41) · SAN · Untitled'
+  - 'SF 48 (sf48) · SAN · Untitled'
+  - 'T 1548.21 (t1548.21) · Chinese · 煩惱品'
+  - 'Kd 21 (pli-tv-kd21) · Pali · Pañcasatikakkhandhaka'
+  - 'SN 41.3 (sn41.3) · Pali · Dutiyaisidattasutta'
+  - 'Vb 17 (vb17) · Pali · Khuddakavatthuvibhaṅga'
 ---
-
 # Dīgha Nikāya 1: Brahmajālasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]

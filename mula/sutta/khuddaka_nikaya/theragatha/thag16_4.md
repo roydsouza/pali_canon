@@ -15,8 +15,17 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 146–156 (dhp146-156) · Pali · Jarāvagga'
+  - 'MN 82 (mn82) · Pali · Raṭṭhapālasutta'
+  - 'T 210.19 (t210.19) · Chinese · 老耗品法句經第十九十有四章'
+  - 'T 212.28 (t212.28) · Chinese · 觀品第二十八'
+  - 'T 213.27 (t213.27) · Chinese · 法集要頌經觀察品第二十七'
+  - 'Thag 20.1 (thag20.1) · Pali · Mahāmoggallānattheragāthā'
+  - 'Uv Kg 27 (uv-kg27) · Khotanese · Sight'
+  - 'UV 27 (uv27) · SAN · Paśyavarga'
+  - 'UVS 27 (uvs27) · SAN · Paśyavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

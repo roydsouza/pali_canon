@@ -15,8 +15,16 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 90–99 (dhp90-99) · Pali · Arahantavagga'
+  - 'P-Dhp 84–95 (pdhp84-95) · PRA · Śokavagga'
+  - 'T 210.15 (t210.15) · Chinese · 羅漢品法句經第十五有十章'
+  - 'T 210.31 (t210.31) · Chinese · 象喻品法句經第三十一十有八章'
+  - 'T 212.20 (t212.20) · Chinese · 出曜經馬喻品第二十'
+  - 'T 213.19 (t213.19) · Chinese · 法集要頌經馬喻品第十九'
+  - 'Uv Kg 19 (uv-kg19) · Khotanese · The Horse'
+  - 'UV 19 (uv19) · SAN · Aśvavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

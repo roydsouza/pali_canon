@@ -15,8 +15,13 @@ tags:
   - questions
   - wisdom
   - four_noble_truths
+parallels:
+  - 'Sag (sag) · SAN · Śarīrārthagāthā'
+  - 'Cnd 2 (cnd2) · Pali · Pucchā'
+  - 'Cnd 5 (cnd5) · Pali · Ajitamāṇavapucchāniddesa'
+  - 'Ne 16 (ne16) · Pali · Sodhanahāravibhaṅga'
+  - 'Ne 5 (ne5) · Pali · Vicayahāravibhaṅga'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

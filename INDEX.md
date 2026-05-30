@@ -13,10 +13,10 @@
       <h3>Discourse Collections</h3>
       <p>Pali root texts interleaved with Bhikkhu Sujato's segment translations.</p>
       <ul class="db-link-list">
-        <li><a class="internal-link" href="mula/sutta/digha_nikaya/INDEX.md">Dīgha Nikāya (Long)</a> <span class="db-badge jhana">8 Suttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/majjhima_nikaya/INDEX.md">Majjhima Nikāya (Middle)</a> <span class="db-badge jhana">22 Suttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/samyutta_nikaya/INDEX.md">Saṃyutta Nikāya (Connected)</a> <span class="db-badge jhana">11 Saṃyuttas</span></li>
-        <li><a class="internal-link" href="mula/sutta/anguttara_nikaya/INDEX.md">Aṅguttara Nikāya (Numerical)</a> <span class="db-badge jhana">35 Groups</span></li>
+        <li><a class="internal-link" href="mula/sutta/digha_nikaya/INDEX.md">Dīgha Nikāya (Long)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/digha_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/majjhima_nikaya/INDEX.md">Majjhima Nikāya (Middle)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/majjhima_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/samyutta_nikaya/INDEX.md">Saṃyutta Nikāya (Connected)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/samyutta_nikaya"').where(p => p.type == "mula").length` Suttas</span></li>
+        <li><a class="internal-link" href="mula/sutta/anguttara_nikaya/INDEX.md">Aṅguttara Nikāya (Numerical)</a> <span class="db-badge jhana">`$= dv.pages('"mula/sutta/anguttara_nikaya"').where(p => p.type == "mula").length` Groups</span></li>
         <li><a class="internal-link" href="mula/sutta/khuddaka_nikaya/INDEX.md">Khuddaka Nikāya (Minor)</a> <span class="db-badge jhana">Dhp, Ud, Iti, Snp, Thag, Thig</span></li>
       </ul>
     </div>

@@ -8,11 +8,11 @@ This document captures the current status of the Pali Canon Obsidian Vault migra
 
 | Layer | Files | Nikāyas Active | Notes |
 |---|---|---|---|
-| **Mūla (Root Texts)** | 607 files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
-| **Aṭṭhakathā (Commentaries)** | 329 files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
-| **Ṭīkā (Sub-commentaries)** | 106 files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
-| **Mātikā (Doctrinal Lists)** | 109 files (22 lists + sub-files) | — | Pali/English, cross-linked |
-| **Paths (Reading Sequences)** | 10 files | — | 7 practice-domain paths + 3 question-driven paths |
+| **Mūla (Root Texts)** | `$= dv.pages().where(p => p.type == "mula").length` files | MN, DN, SN, AN, KN | Interleaved Pali/English (Sujato) |
+| **Aṭṭhakathā (Commentaries)** | `$= dv.pages().where(p => p.type == "atthakatha").length` files | MN, DN, SN, AN, KN | CSCD Pali + Sujato notes |
+| **Ṭīkā (Sub-commentaries)** | `$= dv.pages().where(p => p.type == "tika").length` files | MN, DN, SN, AN | CSCD Pali (Udāna, Snp, Iti have no Ṭīkā) |
+| **Mātikā (Doctrinal Lists)** | `$= dv.pages().where(p => p.type == "matika").length` files | — | Pali/English, cross-linked |
+| **Paths (Reading Sequences)** | `$= dv.pages().where(p => p.type == "path").length` files | — | 7 practice-domain paths + 3 question-driven paths |
 | **Scripts** | 136 Python scripts | — | 56 generators, 13 crosslinkers, 50 inspectors, 10 tests, 2 refactors, 1 lib |
 
 ---

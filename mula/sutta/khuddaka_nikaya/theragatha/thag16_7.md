@@ -15,8 +15,10 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Ja 539 (ja539) · Pali · Mahājanakajātaka'
+  - 'Thag 1.97 (thag1.97) · Pali · Tissattheragāthā'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -14,8 +14,13 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'EA 49.6 (ea49.6) · Chinese · Untitled'
+  - 'Dg Kd 7 (lzh-dg-kd7) · Chinese · Bhesajja Khandhaka'
+  - 'MN 92 (mn92) · Pali · Selasutta'
+  - 'Kd 6 (pli-tv-kd6) · Pali · Bhesajjakkhandhaka'
+  - 'SF 12 (sf12) · SAN · Untitled'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

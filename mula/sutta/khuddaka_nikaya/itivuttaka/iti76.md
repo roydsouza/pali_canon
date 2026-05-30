@@ -14,8 +14,10 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'Ja 503 (ja503) · Pali · Sattigumbajātaka'
+  - 'Ja 545 (ja545) · Pali · Mahānāradakassapajātaka'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

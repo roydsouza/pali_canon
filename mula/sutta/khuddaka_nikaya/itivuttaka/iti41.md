@@ -14,8 +14,17 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'T 210.28 (t210.28) · Chinese · 道行品法句經第二十八二十有八章'
+  - 'T 212.13 (t212.13) · Chinese · 出曜經道品第十三'
+  - 'T 213.12 (t213.12) · Chinese · 法集要頌經正道品第十二'
+  - 'Uv Kg 12 (uv-kg12) · Khotanese · The Way'
+  - 'UV 12 (uv12) · SAN · Mārgavarga'
+  - 'UVS 12 (uvs12) · SAN · Mārgavarga'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
+  - 'Pe 2 (pe2) · Pali · Sāsanapaṭṭhānadutiyabhūmi'
+  - 'Pe 3 (pe3) · Pali · Suttādhiṭṭhānatatiyabhūmi'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

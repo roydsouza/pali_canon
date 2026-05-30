@@ -14,8 +14,10 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'San Lo Mvu 55 (san-lo-mvu55) · SAN · The Temptation by Māra'
+  - 'Lal 18 (lal18) · SAN · Nairañjanāparivartaḥ'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

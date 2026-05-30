@@ -15,8 +15,14 @@ tags:
   - meditation
   - defilements
   - sabbasava
+parallels:
+  - 'AN 6.58 (an6.58) · Pali · Āsavasutta'
+  - 'EA 40.6 (ea40.6) · Chinese · Untitled'
+  - 'MA 10 (ma10) · Chinese · 漏盡'
+  - 'T 31 (t31) · Chinese · 一切流攝守因'
+  - 'Up 2.069 (up2.069) · Khotanese · Untitled'
+  - 'Mnd 16 (mnd16) · Pali · Sāriputtasuttaniddesa'
 ---
-
 # Majjhima Nikāya: MN 2 — Sabbāsavasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/majjhima_nikaya/INDEX|Majjhima Nikāya]]

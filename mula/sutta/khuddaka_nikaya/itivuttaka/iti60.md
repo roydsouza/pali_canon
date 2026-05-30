@@ -14,8 +14,9 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'AN 8.36 (an8.36) · Pali · Puññakiriyavatthusutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

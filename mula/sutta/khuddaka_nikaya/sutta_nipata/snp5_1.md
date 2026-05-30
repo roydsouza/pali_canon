@@ -15,8 +15,9 @@ tags:
   - questions
   - wisdom
   - four_noble_truths
+parallels:
+  - 'Cnd 1 (cnd1) · Pali · Vatthugāthā'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

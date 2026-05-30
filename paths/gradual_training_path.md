@@ -26,11 +26,13 @@ graph TD
     B --> C["The Four Types of Persons <br> (MN 51)"]
     C --> D["The Simile of the Elephant Footprint <br> (MN 27)"]
     D --> E["The Monastic Gradual Training <br> (DN 2)"]
+    E --> F["Vital Conditions & Natural Law <br> (AN 7.65, AN 11.1–2)"]
     style A fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff
     style B fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff
     style C fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
     style D fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff
     style E fill:#8b5cf6,stroke:#6d28d9,stroke-width:2px,color:#fff
+    style F fill:#ec4899,stroke:#be185d,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -71,6 +73,21 @@ The classic, fully-expanded canonical gradual training.
 *   **[[dn2|DN 2: Sāmaññaphalasutta]]**  
     *Practice Focus*: The classic gradual training sutta. The Buddha outlines for King Ajātasattu the visible fruits of the ascetic life, describing every step of the gradual training with beautiful, memorable similes.  
     *Commentaries*: [[dn2_att|Commentary]] · [[dn2_tik|Sub-commentary]]
+
+---
+
+## 5. Vital Conditions: The Natural Causation of Progress
+How the gradual path functions as a sequence of natural cause and effect (*dhammatā*).
+
+*   **[[an7_65|AN 7.65: Hirīottappasutta]]**  
+    *Practice Focus*: Shame and fear of wrongdoing (*hirī-ottappa*) as the absolute foundation for the entire chain of liberation, leading sequentially through sense restraint, ethics, right concentration, and dispassion.  
+    *Commentaries*: [[an7_65_att|Commentary]] · [[an7_65_tik|Sub-commentary]]
+*   **[[an8_53|AN 8.53: Gotamīsutta]]**  
+    *Practice Focus*: The eight criteria given to Mahāpajāpatī Gotamī to distinguish the true Dhamma-Vinaya (leading to dispassion, energy, fewness of wishes, etc.) from what is not the Teacher's instruction.  
+    *Commentaries*: [[an8_53_att|Commentary]] · [[an8_53_tik|Sub-commentary]]
+*   **[[an11_1|AN 11.1: Kimatthiyasutta]]** & **[[an11_2|AN 11.2: Cetanākaraṇīyasutta]]** (with **[[an11_3|AN 11.3]]**–**[[an11_5|5]]**)  
+    *Practice Focus*: The Buddha explains that progress from virtue up to liberation is a natural law (*dhammatā*). For an ethical person, there is no need to make a wish ("may I be free"); the mind naturally moves from joy to tranquility, immersion, true vision, and freedom.  
+    *Commentaries*: [[an11_1_att|Commentary 11.1]], [[an11_2_att|11.2]], [[an11_3_5_att|11.3–5]] · [[an11_1_tik|Sub-commentary 11.1]], [[an11_2_5_tik|11.2–5]]
 
 ---
 

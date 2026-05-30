@@ -14,8 +14,15 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'SF 199 (sf199) · SAN · Ekottarikāgama 14'
+  - 'UV 3 (uv3) · SAN · Tṛṣṇavarga'
+  - 'UVS 3 (uvs3) · SAN · Tŗṣņāvarga'
+  - 'AN 4.49 (an4.49) · Pali · Vipallāsasutta'
+  - 'T 212.3 (t212.3) · Chinese · ◎愛品第三'
+  - 'T 213.3 (t213.3) · Chinese · 法集要頌經貪品第三'
+  - 'Uv Kg 3 (uv-kg3) · Khotanese · Lust'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

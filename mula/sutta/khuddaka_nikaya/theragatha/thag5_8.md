@@ -15,8 +15,10 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'G3-Dhp 21–30 (g3dhp21-30) · Gandhari · Gāndhārī 3rd Dharmapada Verses 21–30'
+  - 'Thig 6.6 (thig6.6) · Pali · Mahāpajāpatigotamītherīgāthā'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

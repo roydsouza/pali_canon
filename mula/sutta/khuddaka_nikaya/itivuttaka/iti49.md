@@ -14,8 +14,9 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'Ps 1.2 (ps1.2) · Pali · Diṭṭhikathā'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

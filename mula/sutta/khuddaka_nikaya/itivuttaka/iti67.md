@@ -14,8 +14,12 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'AN 3.122 (an3.122) · Pali · Moneyyasutta'
+  - 'Cnd 8 (cnd8) · Pali · Mettagūmāṇavapucchāniddesa'
+  - 'Mnd 13 (mnd13) · Pali · Mahābyūhasuttaniddesa'
+  - 'Mnd 2 (mnd2) · Pali · Guhaṭṭhakasuttaniddesa'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

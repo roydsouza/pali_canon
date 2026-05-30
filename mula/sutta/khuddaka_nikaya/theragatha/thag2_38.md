@@ -15,8 +15,11 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Thag 11.1 (thag11.1) · Pali · Saṅkiccattheragāthā'
+  - 'Thag 14.1 (thag14.1) · Pali · Khadiravaniyarevatattheragāthā'
+  - 'Thag 17.2 (thag17.2) · Pali · Sāriputtattheragāthā'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -17,3 +17,4 @@ __pycache__/
 
 # Local XML cache
 scratch/xml_cache/
+scratch/parallels_cache/

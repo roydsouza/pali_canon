@@ -15,8 +15,13 @@ tags:
   - faith
   - wisdom
   - five_spiritual_faculties
+parallels:
+  - 'SA3 1 (sa-3.1) · Chinese · 耕田'
+  - 'SA2 264 (sa-2.264) · Chinese · 耕田'
+  - 'SA 98 (sa98) · Chinese · 耕田'
+  - 'SF 25 (sf25) · SAN · Untitled'
+  - 'SN 7.11 (sn7.11) · Pali · Kasibhāradvājasutta'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

@@ -15,8 +15,10 @@ tags:
   - paritta
   - ethics
   - five_precepts
+parallels:
+  - 'Kp 5 (kp5) · Pali · Maṅgalasutta'
+  - 'T 211.39 (t211.39) · Chinese · 法句譬喻經吉祥品第三十九'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

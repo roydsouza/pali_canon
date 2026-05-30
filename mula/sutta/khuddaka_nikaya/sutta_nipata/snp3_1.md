@@ -14,8 +14,11 @@ tags:
   - monastic
   - going_forth
   - path
+parallels:
+  - 'Dg Kd 1 (lzh-dg-kd1) · Chinese · Pabbajja Khandhaka'
+  - 'San Mu Kd 17 (san-mu-kd17) · SAN · Sanghabhedavastu'
+  - 'San Lo Mvu 52 (san-lo-mvu52) · SAN · Gotama’s Early Wanderings'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

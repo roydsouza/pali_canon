@@ -15,8 +15,11 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Thag 3.3 (thag3.3) · Pali · Bākulattheragāthā'
+  - 'Ja 71 (ja71) · Pali · Varuṇajātaka'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

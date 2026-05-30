@@ -16,8 +16,10 @@ tags:
   - conduct
   - pride
   - five_precepts
+parallels:
+  - 'SA2 268 (sa-2.268) · Chinese · 旃陀羅'
+  - 'SA 102 (sa102) · Chinese · 旃陀羅'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

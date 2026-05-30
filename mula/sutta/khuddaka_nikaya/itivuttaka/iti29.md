@@ -14,8 +14,13 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'T 212.8 (t212.8) · Chinese · 學品第八'
+  - 'T 213.7 (t213.7) · Chinese · 法集要頌經善行品第七'
+  - 'Uv Kg 7 (uv-kg7) · Khotanese · Virtuous conduct'
+  - 'UV 7 (uv7) · SAN · Sucaritavarga'
+  - 'UVS 7 (uvs7) · SAN · Sucaritavarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

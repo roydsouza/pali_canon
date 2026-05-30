@@ -14,8 +14,19 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'Dhp 306–319 (dhp306-319) · Pali · Nirayavagga'
+  - 'G-Dhp 259–273 (gdhp259-273) · Gandhari · Prakīrṇakavagga'
+  - 'P-Dhp 96–120 (pdhp96-120) · PRA · Kalyāṇīvagga'
+  - 'Snp 3.10 (snp3.10) · Pali · Kokālikasutta'
+  - 'T 210.30 (t210.30) · Chinese · 地獄品法句經第三十十有六章'
+  - 'T 213.8 (t213.8) · Chinese · 法集要頌經語言品第八'
+  - 'Ud 4.8 (ud4.8) · Pali · Sundarīsutta'
+  - 'Uv Kg 8 (uv-kg8) · Khotanese · Speech'
+  - 'UV 8 (uv8) · SAN · Vācavarga'
+  - 'UVS 8 (uvs8) · SAN · Vācavarga'
+  - 'T 212.9 (t212.9) · Chinese · 誹謗品第九'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

@@ -14,8 +14,10 @@ tags:
   - feeling
   - five_aggregates
   - three_marks
+parallels:
+  - 'SN 36.5 (sn36.5) · Pali · Daṭṭhabbasutta'
+  - 'Thag 17.2 (thag17.2) · Pali · Sāriputtattheragāthā'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

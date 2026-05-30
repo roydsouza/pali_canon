@@ -14,8 +14,12 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'AN 3.58 (an3.58) · Pali · Tikaṇṇasutta'
+  - 'AN 3.59 (an3.59) · Pali · Jāṇussoṇisutta'
+  - 'SN 7.8 (sn7.8) · Pali · Aggikasutta'
+  - 'Thig 4.1 (thig4.1) · Pali · Bhaddākāpilānītherīgāthā'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

@@ -63,8 +63,8 @@ def load_cscd_paras(filename, base_url="https://tipitaka.org/romn/cscd/{}"):
         body = m.group(2)
         rend_m = re.search(r'rend="([^"]+)"', attrs)
         rend = rend_m.group(1) if rend_m else ''
-        pnum_m = re.search(r'<hi rend="paranum">\s*(\d+)\s*</hi>', body)
-        paranum = pnum_m.group(1) if pnum_m else ''
+        pnum_m = re.search(r'<hi rend="paranum">\s*([\d\-]+)\s*</hi>', body)
+        paranum = pnum_m.group(1).strip() if pnum_m else ''
         body = re.sub(r'<hi rend="(?:paranum|dot)">[^<]*</hi>', '', body)
         text = clean_xml(body)
         if text:

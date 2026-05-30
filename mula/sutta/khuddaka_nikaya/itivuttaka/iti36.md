@@ -14,8 +14,10 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'AN 4.25 (an4.25) · Pali · Brahmacariyasutta'
+  - 'Iti 35 (iti35) · Pali · Paṭhamajananakuhanasutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

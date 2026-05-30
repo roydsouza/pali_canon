@@ -14,8 +14,10 @@ tags:
   - ethics
   - conduct
   - virtue
+parallels:
+  - 'AN 10.40 (an10.40) · Pali · Dutiyaānandasutta'
+  - 'Kd 17 (pli-tv-kd17) · Pali · Saṁghabhedakakkhandhaka'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

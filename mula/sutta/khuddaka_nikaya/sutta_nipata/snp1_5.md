@@ -15,8 +15,13 @@ tags:
   - disciple
   - monks
   - ethical_conduct
+parallels:
+  - 'DA 2 (da2) · Chinese · 遊行'
+  - 'SF 245 (sf245) · SAN · Mahāparinirvāṇa'
+  - 'T 5 (t5) · Chinese · 佛般泥洹'
+  - 'T 6 (t6) · Chinese · 般泥洹'
+  - 'T 7 (t7) · Chinese · 大般涅槃'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

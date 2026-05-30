@@ -14,8 +14,11 @@ tags:
   - ethics
   - conduct
   - virtue
+parallels:
+  - 'AN 5.43 (an5.43) · Pali · Iṭṭhasutta'
+  - 'SN 3.17 (sn3.17) · Pali · Appamādasutta'
+  - 'SN 3.18 (sn3.18) · Pali · Kalyāṇamittasutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

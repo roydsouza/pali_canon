@@ -14,8 +14,10 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'Iti 64 (iti64) · Pali · Duccaritasutta'
+  - 'AN 6.45 (an6.45) · Pali · Iṇasutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

@@ -15,8 +15,12 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Iti 78 (iti78) · Pali · Dhātusosaṁsandanasutta'
+  - 'SN 14.16 (sn14.16) · Pali · Sagāthāsutta'
+  - 'Thag 2.14 (thag2.14) · Pali · Somamittattheragāthā'
+  - 'Mil 7.7.4 (mil7.7.4) · Pali · Pavanaṅgapañha'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

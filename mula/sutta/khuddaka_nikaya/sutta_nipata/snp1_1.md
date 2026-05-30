@@ -17,8 +17,15 @@ tags:
   - conceit
   - three_unwholesome_roots
   - ten_fetters
+parallels:
+  - 'G-Dhp 51–90 (gdhp51-90) · Gandhari · Bhikhuvagga'
+  - 'P-Dhp 398–414 (pdhp398-414) · PRA · Uragavagga'
+  - 'T 213.18 (t213.18) · Chinese · 法集要頌經華喻品第十八'
+  - 'Uv Kg 18 (uv-kg18) · Khotanese · The Flower'
+  - 'UV 18 (uv18) · SAN · Puṣpavarga'
+  - 'UV 32 (uv32) · SAN · Bhikṣuvarga'
+  - 'UVS 18 (uvs18) · SAN · Puṣpavarga'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

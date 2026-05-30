@@ -15,8 +15,10 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'AN 6.43 (an6.43) · Pali · Nāgasutta'
+  - 'MA 118 (ma118) · Chinese · 龍象'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

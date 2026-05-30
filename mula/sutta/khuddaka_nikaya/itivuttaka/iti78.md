@@ -14,8 +14,14 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'SA 446 (sa446) · Chinese · 偈'
+  - 'SA 448 (sa448) · Chinese · 偈'
+  - 'SN 14.16 (sn14.16) · Pali · Sagāthāsutta'
+  - 'Thag 2.14 (thag2.14) · Pali · Somamittattheragāthā'
+  - 'Thag 3.16 (thag3.16) · Pali · Vimalattheragāthā'
+  - 'Mil 7.7.4 (mil7.7.4) · Pali · Pavanaṅgapañha'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

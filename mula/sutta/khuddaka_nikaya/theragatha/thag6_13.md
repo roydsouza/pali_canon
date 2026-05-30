@@ -15,8 +15,17 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Kd 19 (pli-tv-kd19) · Pali · Pātimokkhaṭṭhapanakkhandhaka'
+  - 'T 212.7 (t212.7) · Chinese · ◎戒品第七'
+  - 'T 213.6 (t213.6) · Chinese · 法集要頌經持戒品第六'
+  - 'Ud 5.5 (ud5.5) · Pali · Uposathasutta'
+  - 'Uv Kg 6 (uv-kg6) · Khotanese · Morality'
+  - 'UV 6 (uv6) · SAN · Śīlavarga'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
+  - 'Pe 2 (pe2) · Pali · Sāsanapaṭṭhānadutiyabhūmi'
+  - 'Pvr 10 (pli-tv-pvr10) · Pali · Gāthāsaṅgaṇika'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

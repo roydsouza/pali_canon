@@ -14,8 +14,13 @@ tags:
   - ativuttaka
   - tika
   - path
+parallels:
+  - 'AN 7.64 (an7.64) · Pali · Kodhanasutta'
+  - 'Cnd 23 (cnd23) · Pali · Khaggavisāṇasuttaniddesa'
+  - 'Mnd 1 (mnd1) · Pali · Kāmasuttaniddesa'
+  - 'Mnd 14 (mnd14) · Pali · Tuvaṭakasuttaniddesa'
+  - 'Mnd 16 (mnd16) · Pali · Sāriputtasuttaniddesa'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

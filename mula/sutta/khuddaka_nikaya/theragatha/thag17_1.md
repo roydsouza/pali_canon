@@ -15,8 +15,19 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 1–20 (dhp1-20) · Pali · Yamakavagga'
+  - 'G-Dhp 182–200 (gdhp182-200) · Gandhari · Theravagga'
+  - 'Ja 221 (ja221) · Pali · Kāsāvajātaka'
+  - 'Ja 514 (ja514) · Pali · Chaddantajātaka'
+  - 'P-Dhp 84–95 (pdhp84-95) · PRA · Śokavagga'
+  - 'T 210.9 (t210.9) · Chinese · 雙要品法句經第九二十有二章'
+  - 'T 212.30 (t212.30) · Chinese · 雙要品第三十'
+  - 'T 213.29 (t213.29) · Chinese · 法集要頌經相應品第二十九'
+  - 'Uv Kg 29 (uv-kg29) · Khotanese · Day and Night'
+  - 'UV 29 (uv29) · SAN · Yugavarga'
+  - 'UVS 29 (uvs29) · SAN · Yugavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -12,8 +12,30 @@ commentary_file: /atthakatha/sutta/digha_nikaya/dn2_att.md
 sub_commentary_file: /tika/sutta/digha_nikaya/dn2_tik.md
 tags:
   - meditation
+parallels:
+  - 'Other Tibetan 1 (d1) · Khotanese · འདུལ་བ་གཞི།  (Vinaya-vastu)'
+  - 'DA 27 (da27) · Chinese · 沙門果'
+  - 'EA 43.7 (ea43.7) · Chinese · 無根信'
+  - 'San Mu Kd 17 (san-mu-kd17) · SAN · Sanghabhedavastu'
+  - 'SHT Sutta 58 (sht-sutta58) · SAN · Untitled'
+  - 'T 22 (t22) · Chinese · 寂志果'
+  - 'SA 159 (sa159) · Chinese · 無因無緣'
+  - 'SA101-200 (sa101-200) · Chinese · Saṁyuktāgama 101–200'
+  - 'SA 154 (sa154) · Chinese · 無施'
+  - 'SA 155 (sa155) · Chinese · 無力'
+  - 'SA 156 (sa156) · Chinese · 死後斷壤'
+  - 'SA 157 (sa157) · Chinese · 無因無緣'
+  - 'SA 158 (sa158) · Chinese · 無因無緣'
+  - 'SA 160 (sa160) · Chinese · 無因無緣'
+  - 'SA 161 (sa161) · Chinese · 七身'
+  - 'SA 162 (sa162) · Chinese · 作教'
+  - 'SA 163 (sa163) · Chinese · 十四'
+  - 'SF 1 (sf1) · SAN · Untitled'
+  - 'SF 288 (sf288) · SAN · Untitled'
+  - 'T 1442.13 (t1442.13) · Chinese · 根本說一切有部毘奈耶'
+  - 'T 1444.1 (t1444.1) · Chinese · 根本說一切有部毘奈耶:出家事'
+  - 'T 1450.10 (t1450.10) · Chinese · 根本說一切有部毘奈耶:破僧事'
 ---
-
 # Dīgha Nikāya 2: Sāmaññaphalasutta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/digha_nikaya/INDEX|Dīgha Nikāya]]

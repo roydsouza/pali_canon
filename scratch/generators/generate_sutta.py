@@ -68,29 +68,32 @@ def filter_cscd_paras(paras, pattern_str):
     return results if results else paras
 
 def generate_mula(vault, sutta_id, data):
+    sutta_id_sc = sutta_id.replace("_", ".")
+    sutta_id_vault = sutta_id.replace(".", "_")
+    
     root = data.get("root_text", {})
     tr = data.get("translation_text", {})
     keys = data.get("keys_order", [])
     
-    nikaya_dir, nikaya_label, nav_abbr = get_nikaya_details(sutta_id)
+    nikaya_dir, nikaya_label, nav_abbr = get_nikaya_details(sutta_id_vault)
     
     # Try to extract titles
-    title_pali = root.get(f"{sutta_id}:0.2", root.get(f"{sutta_id}:0.3", "Untitled")).strip()
-    title_en = tr.get(f"{sutta_id}:0.2", tr.get(f"{sutta_id}:0.3", "Untitled")).strip()
+    title_pali = root.get(f"{sutta_id_sc}:0.2", root.get(f"{sutta_id_sc}:0.3", "Untitled")).strip()
+    title_en = tr.get(f"{sutta_id_sc}:0.2", tr.get(f"{sutta_id_sc}:0.3", "Untitled")).strip()
     
     out_dir = os.path.join(vault, "mula/sutta", nikaya_dir)
     os.makedirs(out_dir, exist_ok=True)
-    out_path = os.path.join(out_dir, f"{sutta_id}.md")
+    out_path = os.path.join(out_dir, f"{sutta_id_vault}.md")
     
     lines = [
         "---",
-        f"id: {sutta_id.upper()}",
+        f"id: {sutta_id_vault.upper()}",
         f"title_pali: {title_pali}",
         f"title_en: {title_en}",
         "type: mula",
         "pitaka: sutta",
         f"nikaya: {nav_abbr}",
-        f"sutta_number: {sutta_id}",
+        f"sutta_number: {sutta_id_sc}",
         "translator: Bhikkhu Sujato",
         "source: https://suttacentral.net",
         "---",
@@ -98,7 +101,7 @@ def generate_mula(vault, sutta_id, data):
         f"# {nikaya_label}: {title_pali}",
         "",
         f"**Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/{nikaya_dir}/INDEX|{nikaya_label}]]",
-        f"**Related Texts**: [[{sutta_id}_att|Commentary (Atthakathā)]] | [[{sutta_id}_tik|Sub-commentary (Tīkā)]]",
+        f"**Related Texts**: [[{sutta_id_vault}_att|Commentary (Atthakathā)]] | [[{sutta_id_vault}_tik|Sub-commentary (Tīkā)]]",
         "",
         f"## {title_pali} ({title_en})",
         "",
@@ -132,11 +135,14 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
     if not mapping_info:
         return
         
-    nikaya_dir, nikaya_label, nav_abbr = get_nikaya_details(sutta_id)
+    sutta_id_sc = sutta_id.replace("_", ".")
+    sutta_id_vault = sutta_id.replace(".", "_")
+    
+    nikaya_dir, nikaya_label, nav_abbr = get_nikaya_details(sutta_id_vault)
     
     filename = mapping_info.get("file")
     pattern = mapping_info.get("pattern")
-    heading = mapping_info.get("heading", f"{sutta_id.upper()} {layer_name.capitalize()}")
+    heading = mapping_info.get("heading", f"{sutta_id_vault.upper()} {layer_name.capitalize()}")
     
     print(f"Loading {layer_name.upper()} from {filename}...")
     try:
@@ -151,20 +157,20 @@ def generate_layer(vault, sutta_id, layer_name, mapping_info, has_tika=False):
     out_folder = "atthakatha" if layer_name == "att" else "tika"
     out_dir = os.path.join(vault, out_folder, "sutta", nikaya_dir)
     os.makedirs(out_dir, exist_ok=True)
-    out_path = os.path.join(out_dir, f"{sutta_id}_{suffix}.md")
+    out_path = os.path.join(out_dir, f"{sutta_id_vault}_{suffix}.md")
     
-    mula_ref = f"{sutta_id}"
-    other_ref = f"{sutta_id}_tik" if suffix == "att" else f"{sutta_id}_att"
+    mula_ref = f"{sutta_id_vault}"
+    other_ref = f"{sutta_id_vault}_tik" if suffix == "att" else f"{sutta_id_vault}_att"
     other_label = "Tīkā" if suffix == "att" else "Atthakathā"
     
     lines = [
         "---",
-        f"id: {sutta_id.upper()}_{suffix}",
+        f"id: {sutta_id_vault.upper()}_{suffix}",
         f"title_pali: {heading}",
         f"type: {out_folder}",
         "pitaka: sutta",
         f"nikaya: {nav_abbr}",
-        f"sutta_number: {sutta_id}",
+        f"sutta_number: {sutta_id_sc}",
         f"mula_file: [[{mula_ref}]]",
     ]
     if suffix == "att":
@@ -296,15 +302,18 @@ def main():
     args = parser.parse_args()
     
     sutta_id = args.sutta.lower().strip()
+    sutta_id_sc = sutta_id.replace("_", ".")
+    sutta_id_vault = sutta_id.replace(".", "_")
+    
     vault = get_vault_path()
     
-    print(f"Unified Generator starting for Sutta ID: {sutta_id}")
+    print(f"Unified Generator starting for Sutta ID: {sutta_id_sc} (Vault ID: {sutta_id_vault})")
     
     # 1. Generate Mūla
     try:
         print("Fetching SuttaCentral segments...")
-        sc_data = fetch_suttacentral(sutta_id)
-        generate_mula(vault, sutta_id, sc_data)
+        sc_data = fetch_suttacentral(sutta_id_sc)
+        generate_mula(vault, sutta_id_vault, sc_data)
     except Exception as e:
         print(f"Failed to generate Mūla layer from SuttaCentral: {e}")
         
@@ -314,36 +323,36 @@ def main():
         with open(mapping_path, "r", encoding="utf-8") as f:
             mappings = json.load(f)
             
-        sutta_map = mappings.get(sutta_id)
+        sutta_map = mappings.get(sutta_id_sc)
         if sutta_map:
             att_maps = sutta_map.get("att", [])
             tika_maps = sutta_map.get("tika", [])
             has_tika = bool(tika_maps)
             
             if att_maps:
-                generate_layer(vault, sutta_id, "att", att_maps[0], has_tika=has_tika)
+                generate_layer(vault, sutta_id_vault, "att", att_maps[0], has_tika=has_tika)
             if tika_maps:
-                generate_layer(vault, sutta_id, "tika", tika_maps[0])
+                generate_layer(vault, sutta_id_vault, "tika", tika_maps[0])
         else:
-            print(f"No CSCD mappings found for {sutta_id} in cscd_mappings_all.json. Skipping commentary layers.")
+            print(f"No CSCD mappings found for {sutta_id_sc} in cscd_mappings_all.json. Skipping commentary layers.")
     else:
         print("Mappings file cscd_mappings_all.json not found. Skipping commentary layers.")
         
     # 3. Post-generation: Auto-crosslink Mūla and Aṭṭhakathā/Ṭīkā
-    nikaya_dir, _, _ = get_nikaya_details(sutta_id)
-    mula_file_path = os.path.join(vault, "mula/sutta", nikaya_dir, f"{sutta_id}.md")
-    att_file_path = os.path.join(vault, "atthakatha/sutta", nikaya_dir, f"{sutta_id}_att.md")
-    tika_file_path = os.path.join(vault, "tika/sutta", nikaya_dir, f"{sutta_id}_tik.md")
+    nikaya_dir, _, _ = get_nikaya_details(sutta_id_vault)
+    mula_file_path = os.path.join(vault, "mula/sutta", nikaya_dir, f"{sutta_id_vault}.md")
+    att_file_path = os.path.join(vault, "atthakatha/sutta", nikaya_dir, f"{sutta_id_vault}_att.md")
+    tika_file_path = os.path.join(vault, "tika/sutta", nikaya_dir, f"{sutta_id_vault}_tik.md")
     
     if os.path.exists(mula_file_path) and os.path.exists(att_file_path):
-        print(f"Post-processing cross-links for {sutta_id}...")
+        print(f"Post-processing cross-links for {sutta_id_vault}...")
         with open(att_file_path, "r", encoding="utf-8") as f:
             att_content = f.read()
         att_anchors = extract_anchors_from_att(att_content)
         if att_anchors:
             print(f"Found {len(att_anchors)} paragraph anchors for cross-linking.")
-            att_base = f"{sutta_id}_att"
-            tik_base = f"{sutta_id}_tik" if os.path.exists(tika_file_path) else ""
+            att_base = f"{sutta_id_vault}_att"
+            tik_base = f"{sutta_id_vault}_tik" if os.path.exists(tika_file_path) else ""
             crosslink_mula(mula_file_path, att_anchors, att_base, tik_base)
         else:
             print("No paragraph anchors found in Atthakathā for auto-linking.")

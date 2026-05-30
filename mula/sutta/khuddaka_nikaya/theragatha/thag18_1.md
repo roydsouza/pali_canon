@@ -15,8 +15,11 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Thag 2.2 (thag2.2) · Pali · Piṇḍolabhāradvājattheragāthā'
+  - 'Thag 8.1 (thag8.1) · Pali · Mahākaccāyanattheragāthā'
+  - 'Sūyagadamgasuttam 1 (orphan) · UNKNOWN · Untitled'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

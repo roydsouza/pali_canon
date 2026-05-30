@@ -14,8 +14,9 @@ tags:
   - ethics
   - conduct
   - lay_practice
+parallels:
+  - 'Mil 7.7.7 (mil7.7.7) · Pali · Maṇiratanaṅgapañha'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

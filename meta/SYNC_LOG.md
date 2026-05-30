@@ -1,5 +1,17 @@
 # Sync Log
 
+## [2026-05-29 20:40:00-07:00 — Phase 16 & 18 Remaining Study Station & AN Commentary Completions (Antigravity)]
+
+### Session Accomplishments
+- **Commentary Mapping Mismatch Resolved**: Fixed the CSCD mapping discrepancy in `scratch/cscd_mappings_all.json` for `an7.65` (pointing to `s0403a.att45.xml` and `s0403t.tik39.xml` instead of the Book of Eights files). Corrected the paragraph parser in `scratch/lib/pali_utils.py` to allow hyphenated paragraph numbers (e.g., `65-66`), which enabled proper extraction and generation of subcommentary section headers and collapsible paragraph callouts.
+- **Aṅguttara Nikāya Commentary Generation**: Successfully regenerated the three-layer text and commentary files for AN 7.65 across Mūla, Atthakathā, and Ṭīkā layers. Verified that AN 8.53 and AN 11.1–5 commentaries are also fully migrated, complete, and valid.
+- **Thematic Paths Integration**: Integrated the newly migrated AN suttas (AN 7.65, AN 8.53, AN 11.1–5) into the "Gradual Training" reading path (`paths/gradual_training_path.md`) under a new section "Vital Conditions: The Natural Causation of Progress", along with an updated Mermaid flowchart mapping their relationships.
+- **Parallel-Texts Layer**: Created `scratch/inject_parallels.py` to fetch SuttaCentral parallel traditions and successfully injected parallel IDs (Chinese Āgama equivalents, Sanskrit fragments, Tibetan translations) into the frontmatter of all 590 mūla files. Created a new concordance dashboard `meta/PARALLELS.md` containing nested-vault compatible Dataview tables querying these parallels across all four main Nikāyas.
+- **Dynamic Count Tables**: Replaced hardcoded file and sutta counts in the root `INDEX.md` dashboard cards and the `meta/STATUS.md` metrics table with dynamic Dataview inline JS queries (e.g. `dv.pages().where(...)`), ensuring they stay up-to-date automatically as suttas are added or modified.
+- **Verification**: Ran `validate_links.py` and the unit test suite (`run_all_tests.py`), confirming that all 14,500+ links vault-wide resolve with 0 errors and all unit tests pass.
+
+---
+
 ## [2026-05-29 16:30:00-07:00 — Phase 18 Doctrinal, Vinaya & Study Station Expansions Complete (Antigravity)]
 
 ### Session Accomplishments

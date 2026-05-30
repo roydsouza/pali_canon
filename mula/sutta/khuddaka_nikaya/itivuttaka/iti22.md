@@ -14,8 +14,10 @@ tags:
   - metta
   - loving-kindness
   - four_sublime_states
+parallels:
+  - 'AN 7.62 (an7.62) · Pali · Mettasutta'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

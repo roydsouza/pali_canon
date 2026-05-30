@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 290–305 (dhp290-305) · Pali · Pakiṇṇakavagga'
+  - 'P-Dhp 261–277 (pdhp261-277) · PRA · Āsavavagga'
+  - 'T 210.29 (t210.29) · Chinese · 廣衍品法句經第二十九十有四章'
+  - 'T 212.5 (t212.5) · Chinese · 放逸品第五之初'
+  - 'T 213.4 (t213.4) · Chinese · 法集要頌經放逸品第四'
+  - 'Uv Kg 4 (uv-kg4) · Khotanese · Purity'
+  - 'UV 4 (uv4) · SAN · Apramādavarga'
+  - 'UVS 4 (uvs4) · SAN · Apramādavarga'
+  - 'G-Dhp 332–340 (gdhp332-340) · Gandhari · Kr̥tyavagga'
+  - 'Pe 8 (pe8) · Pali · Hārasampātabhūmi'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

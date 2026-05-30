@@ -15,8 +15,22 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 179–196 (dhp179-196) · Pali · Buddhavagga'
+  - 'Divy (divy) · SAN · Divyāvadāna'
+  - 'Iti 24 (iti24) · Pali · Aṭṭhipuñjasutta'
+  - 'SN 15.10 (sn15.10) · Pali · Puggalasutta'
+  - 'T 210.22 (t210.22) · Chinese · 述佛品法句經第二十二二十有一章'
+  - 'T 212.28 (t212.28) · Chinese · 觀品第二十八'
+  - 'T 213.27 (t213.27) · Chinese · 法集要頌經觀察品第二十七'
+  - 'Thag 21.1 (thag21.1) · Pali · Vaṅgīsattheragāthā'
+  - 'Thig 13.3 (thig13.3) · Pali · Cāpātherīgāthā'
+  - 'Thig 13.4 (thig13.4) · Pali · Sundarītherīgāthā'
+  - 'Thig 7.3 (thig7.3) · Pali · Upacālātherīgāthā'
+  - 'Uv Kg 27 (uv-kg27) · Khotanese · Sight'
+  - 'UV 27 (uv27) · SAN · Paśyavarga'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-
 # Khuddaka Nikāya: Therīgāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/therigatha/INDEX|Therīgāthā]]

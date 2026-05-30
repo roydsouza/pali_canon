@@ -13,8 +13,15 @@ subcollection: itivuttaka
 tags:
   - roots
   - three_unwholesome_roots
+parallels:
+  - 'G3-Dhp 61–70 (g3dhp61-70) · Gandhari · Gāndhārī 3rd Dharmapada Verses 61–70'
+  - 'SN 3.2 (sn3.2) · Pali · Purisasutta'
+  - 'SN 3.23 (sn3.23) · Pali · Lokasutta'
+  - 'Cnd 23 (cnd23) · Pali · Khaggavisāṇasuttaniddesa'
+  - 'Mnd 1 (mnd1) · Pali · Kāmasuttaniddesa'
+  - 'Mnd 14 (mnd14) · Pali · Tuvaṭakasuttaniddesa'
+  - 'Mnd 16 (mnd16) · Pali · Sāriputtasuttaniddesa'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

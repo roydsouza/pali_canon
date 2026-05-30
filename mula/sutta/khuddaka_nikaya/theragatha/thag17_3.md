@@ -15,8 +15,15 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'G3-Dhp 11–20 (g3dhp11-20) · Gandhari · Gāndhārī 3rd Dharmapada Verses 11–20'
+  - 'G-Dhp 224–242 (gdhp224-242) · Gandhari · Paṇḍitavagga'
+  - 'T 212.26 (t212.26) · Chinese · 出曜經親品第二十六'
+  - 'T 213.25 (t213.25) · Chinese · 法集要頌經善友品第二十五'
+  - 'Uv Kg 25 (uv-kg25) · Khotanese · Friendship'
+  - 'UV 25 (uv25) · SAN · Mitravarga'
+  - 'UVS 25 (uvs25) · SAN · Mitravarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

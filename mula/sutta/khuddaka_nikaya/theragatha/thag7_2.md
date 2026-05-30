@@ -15,8 +15,15 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'AN 4.65 (an4.65) · Pali · Rūpasutta'
+  - 'Sag (sag) · SAN · Śarīrārthagāthā'
+  - 'T 212.23 (t212.23) · Chinese · 出曜經聞品第二十三'
+  - 'T 213.22 (t213.22) · Chinese · 法集要頌經多聞品第二十二'
+  - 'Uv Kg 22 (uv-kg22) · Khotanese · The Hearer'
+  - 'UV 22 (uv22) · SAN · Srutavarga'
+  - 'UVS 22 (uvs22) · SAN · Śrutavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -15,8 +15,10 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'G3-Dhp 31–40 (g3dhp31-40) · Gandhari · Gāndhārī 3rd Dharmapada Verses 31–40'
+  - 'G-Dhp 139–161 (gdhp139-161) · Gandhari · Jaravagga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

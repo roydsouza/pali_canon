@@ -14,8 +14,10 @@ tags:
   - ratana
   - paritta
   - three_refuges
+parallels:
+  - 'Kp 6 (kp6) · Pali · Ratanasutta'
+  - 'San Lo Mvu 29 (san-lo-mvu29) · SAN · The Buddha in Veśālī'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

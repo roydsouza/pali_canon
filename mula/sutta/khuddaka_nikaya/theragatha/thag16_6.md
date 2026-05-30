@@ -15,8 +15,11 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'MN 92 (mn92) · Pali · Selasutta'
+  - 'Snp 3.6 (snp3.6) · Pali · Sabhiyasutta'
+  - 'Snp 3.7 (snp3.7) · Pali · Selasutta'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

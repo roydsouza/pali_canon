@@ -14,8 +14,10 @@ tags:
   - ethics
   - conduct
   - lay_practice
+parallels:
+  - 'Sag (sag) · SAN · Śarīrārthagāthā'
+  - 'SN 10.3 (sn10.3) · Pali · Sūcilomasutta'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

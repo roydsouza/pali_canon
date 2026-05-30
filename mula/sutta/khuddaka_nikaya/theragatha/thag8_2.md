@@ -15,8 +15,14 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'AN 4.52 (an4.52) · Pali · Dutiyapuññābhisandasutta'
+  - 'AN 5.47 (an5.47) · Pali · Dhanasutta'
+  - 'SN 11.14 (sn11.14) · Pali · Daliddasutta'
+  - 'SN 55.26 (sn55.26) · Pali · Paṭhamaanāthapiṇḍikasutta'
+  - 'Pe 3 (pe3) · Pali · Suttādhiṭṭhānatatiyabhūmi'
+  - 'Tha Ap 65 (tha-ap65) · Pali · Paccāgamaniyattheraapadāna'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

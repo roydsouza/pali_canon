@@ -15,8 +15,19 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Mūlasarvāstivādivinaya (Gilgit III.ii.183) (orphan) · UNKNOWN · Untitled'
+  - 'Dhp 1–20 (dhp1-20) · Pali · Yamakavagga'
+  - 'Ja 428 (ja428) · Pali · Kosambiyajātaka'
+  - 'MN 128 (mn128) · Pali · Upakkilesasutta'
+  - 'P-Dhp 239–260 (pdhp239-260) · PRA · Khāntivagga'
+  - 'Kd 10 (pli-tv-kd10) · Pali · Kosambakakkhandhaka'
+  - 'T 210.9 (t210.9) · Chinese · 雙要品法句經第九二十有二章'
+  - 'T 213.14 (t213.14) · Chinese · 法集要頌經怨家品第十四'
+  - 'Thag 8.1 (thag8.1) · Pali · Mahākaccāyanattheragāthā'
+  - 'Uv Kg 14 (uv-kg14) · Khotanese · Hatred'
+  - 'UV 14 (uv14) · SAN · Drohavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

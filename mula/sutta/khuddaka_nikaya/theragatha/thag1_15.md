@@ -15,8 +15,13 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Dhp 360–382 (dhp360-382) · Pali · Bhikkhuvagga'
+  - 'G-Dhp 51–90 (gdhp51-90) · Gandhari · Bhikhuvagga'
+  - 'SN 1.5 (sn1.5) · Pali · Katichindasutta'
+  - 'T 210.34 (t210.34) · Chinese · 沙門品法句經第三十四三十有二章'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

@@ -527,16 +527,16 @@
   "an7.65": {
     "att": [
       {
-        "file": "s0403a.att46.xml",
-        "heading": "9. Satthus\u0101sananasuttava\u1e47\u1e47an\u0101",
-        "pattern": "9\\.\\s+Satthus\u0101sananasuttava\u1e47\u1e47an\u0101"
+        "file": "s0403a.att45.xml",
+        "heading": "1. Hiriottappasuttava\u1e47\u1e47an\u0101",
+        "pattern": "1\\.\\s+Hiriottappasuttava\u1e47\u1e47an\u0101"
       }
     ],
     "tika": [
       {
-        "file": "s0403t.tik40.xml",
-        "heading": "9. Satthus\u0101sananasuttava\u1e47\u1e47an\u0101",
-        "pattern": "9\\.\\s+Satthus\u0101sananasuttava\u1e47\u1e47an\u0101"
+        "file": "s0403t.tik39.xml",
+        "heading": "1-2. Hiriottappasutt\u0101diva\u1e47\u1e47an\u0101",
+        "pattern": "1-2\\.\\s+Hiriottappasutt\u0101diva\u1e47\u1e47an\u0101"
       }
     ]
   },

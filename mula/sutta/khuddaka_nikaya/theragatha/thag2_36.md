@@ -15,8 +15,18 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'sa1330 (orphan) · UNKNOWN · Untitled'
+  - 'T 212.32 (t212.32) · Chinese · 心意品第三十二'
+  - 'T 213.31 (t213.31) · Chinese · 法集要頌經護心品第三十一'
+  - 'Ud 4.4 (ud4.4) · Pali · Yakkhapahārasutta'
+  - 'Uv Kg 31 (uv-kg31) · Khotanese · The Mind'
+  - 'UV 31 (uv31) · SAN · Cittavarga'
+  - 'UVS 31 (uvs31) · SAN · Cittavarga'
+  - 'Ne 37 (ne37) · Pali · Sāsanapaṭṭhāna'
+  - 'Pe 2 (pe2) · Pali · Sāsanapaṭṭhānadutiyabhūmi'
+  - 'Pe 8 (pe8) · Pali · Hārasampātabhūmi'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

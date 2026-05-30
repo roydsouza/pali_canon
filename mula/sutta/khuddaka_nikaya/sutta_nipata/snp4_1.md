@@ -15,8 +15,10 @@ tags:
   - non-clinging
   - views
   - three_marks
+parallels:
+  - 'Sag (sag) · SAN · Śarīrārthagāthā'
+  - 'T 198 (t198) · Chinese · 佛說義足經'
 ---
-
 # Khuddaka Nikāya: Sutta Nipāta
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/sutta_nipata/INDEX|Sutta Nipāta]]

@@ -15,8 +15,14 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Ja 447 (ja447) · Pali · Mahādhammapālajātaka'
+  - 'Ja 510 (ja510) · Pali · Ayogharajātaka'
+  - 'Ne 10 (ne10) · Pali · Āvaṭṭahāravibhaṅga'
+  - 'Ne 4 (ne4) · Pali · Desanāhāravibhaṅga'
+  - 'Ne 9 (ne9) · Pali · Catubyūhahāravibhaṅga'
+  - 'Pe 2 (pe2) · Pali · Sāsanapaṭṭhānadutiyabhūmi'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

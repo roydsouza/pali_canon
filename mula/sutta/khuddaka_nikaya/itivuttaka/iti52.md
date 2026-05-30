@@ -14,8 +14,11 @@ tags:
   - feeling
   - five_aggregates
   - three_marks
+parallels:
+  - 'Iti 54 (iti54) · Pali · Paṭhamaesanāsutta'
+  - 'Iti 56 (iti56) · Pali · Paṭhamaāsavasutta'
+  - 'SN 36.1 (sn36.1) · Pali · Samādhisutta'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]

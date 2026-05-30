@@ -15,8 +15,31 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'T 210.6 (t210.6) · Chinese · 惟念品法句經第六十有二章'
+  - 'T 212.16 (t212.16) · Chinese · 惟念品第十六'
+  - 'T 213.15 (t213.15) · Chinese · 法集要頌經憶念品第十五'
+  - 'Uv Kg 15 (uv-kg15) · Khotanese · Reflection'
+  - 'UV 15 (uv15) · SAN · Smṛtivarga'
+  - 'UVS 15 (uvs15) · SAN · Smṛtivarga'
+  - 'Dhp 167–178 (dhp167-178) · Pali · Lokavagga'
+  - 'Dhp 167–178 (dhp167-178) · Pali · Lokavagga'
+  - 'G-Dhp 97–134 (gdhp97-134) · Gandhari · Maguvagga'
+  - 'MN 86 (mn86) · Pali · Aṅgulimālasutta'
+  - 'MN 86 (mn86) · Pali · Aṅgulimālasutta'
+  - 'P-Dhp 14–33 (pdhp14-33) · PRA · Apramādavagga'
+  - 'T 210.10 (t210.10) · Chinese · 放逸品法句經第十有二十章'
+  - 'T 210.10 (t210.10) · Chinese · 放逸品法句經第十有二十章'
+  - 'T 212.17 (t212.17) · Chinese · 出曜經◎雜品第十七'
+  - 'T 213.16 (t213.16) · Chinese · 法集要頌經清淨品第十六'
+  - 'Thag 16.8 (thag16.8) · Pali · Aṅgulimālattheragāthā'
+  - 'Thag 16.8 (thag16.8) · Pali · Aṅgulimālattheragāthā'
+  - 'Uv Kg 16 (uv-kg16) · Khotanese · Miscellaneous'
+  - 'Uv Kg 16 (uv-kg16) · Khotanese · Miscellaneous'
+  - 'UV 16 (uv16) · SAN · Prakīrṇakavarga'
+  - 'UV 16 (uv16) · SAN · Prakīrṇakavarga'
+  - 'UVS 16 (uvs16) · SAN · Prakīrṇakavarga'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

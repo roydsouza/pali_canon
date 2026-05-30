@@ -15,8 +15,14 @@ tags:
   - renunciation
   - liberation
   - path
+parallels:
+  - 'Ja 320 (ja320) · Pali · Succajajātaka'
+  - 'Ja 363 (ja363) · Pali · Hirijātaka'
+  - 'Ja 380 (ja380) · Pali · Āsaṅkajātaka'
+  - 'SN 1.35 (sn1.35) · Pali · Ujjhānasaññisutta'
+  - 'Thag 3.15 (thag3.15) · Pali · Hāritattheragāthā'
+  - 'Thag 3.3 (thag3.3) · Pali · Bākulattheragāthā'
 ---
-
 # Khuddaka Nikāya: Theragāthā
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/theragatha/INDEX|Theragāthā]]

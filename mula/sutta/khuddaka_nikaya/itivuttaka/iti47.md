@@ -14,8 +14,14 @@ tags:
   - virtue
   - ethical_conduct
   - monastic
+parallels:
+  - 'T 210.6 (t210.6) · Chinese · 惟念品法句經第六十有二章'
+  - 'T 212.16 (t212.16) · Chinese · 惟念品第十六'
+  - 'T 213.15 (t213.15) · Chinese · 法集要頌經憶念品第十五'
+  - 'Uv Kg 15 (uv-kg15) · Khotanese · Reflection'
+  - 'UV 15 (uv15) · SAN · Smṛtivarga'
+  - 'UVS 15 (uvs15) · SAN · Smṛtivarga'
 ---
-
 # Khuddaka Nikāya: Itivuttaka
 
 **Navigation**: [[INDEX|Pali Canon Vault]] / [[mula/INDEX|Mūla]] / [[mula/sutta/INDEX|Sutta]] / [[mula/sutta/khuddaka_nikaya/INDEX|Khuddaka Nikāya]] / [[mula/sutta/khuddaka_nikaya/itivuttaka/INDEX|Itivuttaka]]
