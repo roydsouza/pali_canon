@@ -9,7 +9,7 @@
 
   <div class="db-card jhana">
     <div>
-      <span class="db-badge jhana">Mūla (Root Texts)</span>
+      <a class="internal-link" href="mula/sutta/INDEX.md"><span class="db-badge jhana">Mūla (Root Texts)</span></a>
       <h3>Discourse Collections</h3>
       <p>Pali root texts interleaved with Bhikkhu Sujato's segment translations.</p>
       <ul class="db-link-list">
@@ -24,7 +24,7 @@
 
   <div class="db-card vipassana">
     <div>
-      <span class="db-badge vipassana">Aṭṭhakathā & Tīkā</span>
+      <a class="internal-link" href="atthakatha/INDEX.md"><span class="db-badge vipassana">Aṭṭhakathā & Tīkā</span></a>
       <h3>Traditional Exegesis</h3>
       <p>Classical commentaries and sub-commentaries linked paragraph-by-paragraph to Mūla suttas.</p>
       <ul class="db-link-list">
@@ -54,7 +54,7 @@
 
   <div class="db-card practice">
     <div>
-      <span class="db-badge practice">Practice Center</span>
+      <a class="internal-link" href="practice/INDEX.md"><span class="db-badge practice">Practice Center</span></a>
       <h3>Daily Practice & Support</h3>
       <p>Interactive tools to track sessions, recollections, protective chanting, and verse memorization.</p>
       <ul class="db-link-list">
