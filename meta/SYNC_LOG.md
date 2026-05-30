@@ -1,5 +1,27 @@
 # Sync Log
 
+## [2026-05-30 — Phase 17 Stage 1 Complete: Vocabulary Tables + Graded Reader (Claude Sonnet 4.6)]
+
+### Accomplishments
+**Performance fix (pali-nlp repo)**:
+- Corpus build was 2.8h due to unindexed `WHERE lemma_clean=?` full table scans on dpd_headwords
+- Fix: load all 78k headwords into in-memory dict on connect (0.9s); all lookups now O(1)
+- Tokenizer: strip curly apostrophes and Pali `'ti` suffix before lookup
+- Result: **2.3s** corpus build (214,819 tokens, 21,091 unique headwords)
+
+**Written to vault**:
+- **508 mūla files** updated with collapsible DPD vocabulary callouts (`pali-write`)
+- **`paths/graded_reader.md`** created: 518 suttas ranked easiest→hardest by lexical difficulty (`pali-grade`)
+
+### Vault State
+- **Validator**: 15,022 wikilinks / **0 errors** ✅
+- **Unit tests**: 10/10 pass ✅
+
+### Phase 17 Stage 1 Remaining
+- Stage 1D: SRS card generation (not started)
+
+---
+
 ## [2026-05-29 20:40:00-07:00 — Phase 16 & 18 Remaining Study Station & AN Commentary Completions (Antigravity)]
 
 ### Session Accomplishments
