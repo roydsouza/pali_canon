@@ -2,7 +2,7 @@
 
 This file tracks granular task progress for the Pali Canon Vault.
 See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for scope/principles.
-**Last updated**: 2026-05-29
+**Last updated**: 2026-05-30
 
 ---
 
@@ -195,18 +195,28 @@ See [ROADMAP.md](ROADMAP.md) for phase sequencing and [VISION.md](VISION.md) for
     - [ ] Re-write performance-critical tokenizer and sandhi-splitting layers in Rust.
 
 ### Phase 18 — Text & Doctrinal Expansion (Abhidhamma & Vinaya Future)
-- [ ] **Sutta Piṭaka (Primary)**
+- [x] **Sutta Piṭaka (Primary)** — All items complete. ✅
     - [x] Migrate remaining high-value suttas in Aṅguttara Nikāya (AN) for practice reading paths (e.g., AN 7.65, 8.53, 11.1–5).
     - [x] Migrate SN 51 (Iddhipādasaṃyutta) (lower priority).
-    - [x] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses. ✅
+    - [x] Migrate Theragāthā and Therīgāthā commentary (Paramatthadīpanī) for migrated verses.
     - [x] Compile continuous, Pali-only paritta recitation texts in the `paritta/` folder.
-- [ ] **Abhidhamma Piṭaka (Secondary)**
-    - [x] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual). ✅
-    - [x] Add Abhidhamma-style mātikā cross-links for the five aggregates. ✅
-- [ ] **Vinaya Piṭaka (Tertiary)**
-    - [x] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules). ✅
-    - [x] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*. ✅
-    - [x] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā. ✅
+- [x] **Abhidhamma Piṭaka (Secondary)** — All items complete. ✅
+    - [x] Scaffold and migrate the *Abhidhammatthasaṅgaha* mūla (Bhikkhu Bodhi's manual).
+    - [x] Add Abhidhamma-style mātikā cross-links for the five aggregates.
+- [x] **Vinaya Piṭaka (Tertiary)** — All items complete. ✅
+    - [x] Integrate the *Kaṅkhāvitaraṇī* (commentary on the Pātimokkha rules).
+    - [x] Create Vinaya indexes for the *Suttavibhaṅga*, *Khandhaka*, and *Parivāra*.
+    - [x] Link Vinaya Pātimokkha notes to the `five_precepts` / `eight_precepts` mātikā.
+
+### Phase 19 — Tutorials and Pakaraṇa Layer (completed 2026-05-30)
+- [x] **Tutorial series** — Six integrated practice tutorials in `tutorial/`: breath practice (MN 118), satipaṭṭhāna (MN 10/DN 22), three layers, mātikā web, Pali reading tools, building a sustained practice. Contextual callouts on MN 118 and MN 10. ✅
+- [x] **Pakaraṇa layer** — `pakarana/` directory with Visuddhimagga Chapters VIII (ānāpānasati) and XI (jhānas). Full cross-linking to vault suttas and mātikā. ✅
+- [x] **README overhaul** — Updated to reflect current vault state (5 layers, tutorials, pali-nlp, accurate counts), links throughout, Obsidian entry-point nudge. ✅
+- [x] **INDEX.md UX fixes** — All four card badges made clickable; Dataview inline expressions replaced with hardcoded counts; regression tests added to pre-commit suite. ✅
+
+### Phase 20 — Remaining Visuddhimagga (Pending)
+- [ ] **Vsm Samādhi section** — Ch. III (taking a meditation subject), Ch. IX (brahmavihārā as jhāna basis), Ch. X (formless attainments), and remaining samādhi chapters (IV–VII)
+- [ ] **Vsm Paññā section** — Ch. XIV–XXII (insight knowledges through liberation; only after samatha practice is well-established)
 
 ---
 

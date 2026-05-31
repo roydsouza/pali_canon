@@ -1,74 +1,128 @@
-# Pali Canon Vault
+# Dhamma Practice Workstation
 
-A personal Obsidian study vault for the Theravāda Buddhist Pali Canon — built for meditation practice and precepts study, not academic coverage.
+A personal Obsidian vault for deep study and sitting practice with the Theravāda Pali Canon — built around meditation, not academic coverage.
 
-The vault pairs **root texts** (mūla) with **traditional commentaries** (atthakathā) and **sub-commentaries** (ṭīkā), weaving everything together through a **mātikā web** of 22 doctrinal cross-reference lists. The goal is a practitioner's canonical library: a place to read suttas alongside the classical exegesis, trace doctrines across the canon, and support an active sitting practice — all offline, in plain Markdown.
+> **If you have this vault open in Obsidian, your entry point is [INDEX.md](INDEX.md).**  
+> Start there. Everything below is a map of what you will find once you do.
 
 ---
 
-## What Is Here
+## What This Is
 
-### Three-Layer Structure
+The **Dhamma Practice Workstation** pairs every sutta with its classical commentary and sub-commentary, weaves the whole together through a bidirectional doctrinal cross-reference web, and adds NLP reading aids — vocabulary glosses, a graded reader, and a Pali word lookup — that support a serious, ongoing meditation practice.
 
-Every sutta has up to three layers, stored in separate directories:
+The organizing question for every piece of content is: *does a practitioner in the Theravāda tradition need this for their sitting practice or precepts study?* If not, it doesn't belong here.
 
-| Layer | Directory | Content | Source |
+---
+
+## Five Layers of Text
+
+| Layer | Folder | Content | Source |
 |---|---|---|---|
-| **Mūla** (root text) | `mula/` | Interleaved **bold Pali** / *italic English* segments | SuttaCentral/Bilara (CC0) + Bhikkhu Sujato translations |
-| **Aṭṭhakathā** (commentary) | `atthakatha/` | Classical Pali commentary with `§NNN` paragraph anchors | CSCD tipitaka.org XML |
-| **Ṭīkā** (sub-commentary) | `tika/` | Classical Pali sub-commentary with `§NNN` paragraph anchors | CSCD tipitaka.org XML |
+| **Mūla** (root texts) | [`mula/`](mula/) | Interleaved **bold Pali** / *italic English* | SuttaCentral/Bilara (CC0) + Bhikkhu Sujato |
+| **Aṭṭhakathā** (commentaries) | [`atthakatha/`](atthakatha/) | Classical Pali, `§NNN` paragraph anchors | CSCD tipitaka.org XML |
+| **Ṭīkā** (sub-commentaries) | [`tika/`](tika/) | Classical Pali, `§NNN` paragraph anchors | CSCD tipitaka.org XML |
+| **Pakaraṇa** (treatises) | [`pakarana/`](pakarana/) | Visuddhimagga Chs. VIII & XI; later: Abhidhamma | Buddhaghosa, 5th c. CE |
+| **Mātikā** (doctrinal lists) | [`matika/`](matika/) | 22 cross-referenced canonical lists | Pali + English |
 
-Each segment in a mūla file looks like this:
+Every mūla sutta looks like this:
 
 ```
 **Evaṁ me sutaṁ—**
 *So I have heard.*
 ```
 
-The commentaries are anchored to corresponding mūla paragraphs with collapsible callout blocks so you can read commentary in context without breaking the flow of the root text.
+Bold = Pali. Italic = Bhikkhu Sujato's translation. Press **Cmd+R** in Obsidian to hide the English and read Pali alone.
 
-### Mātikā Web
+---
 
-Twenty-two canonical Buddhist lists — the Four Noble Truths, the Noble Eightfold Path, the Five Aggregates, the Seven Awakening Factors, and so on — live as standalone notes in `matika/`. Each list note links forward to every sutta in the vault that treats that doctrine, and each sutta links back. This creates a bidirectional doctrinal index: start from any list, navigate to the canonical treatments; start from any sutta, follow its doctrinal threads outward.
+## Current Inventory
 
-### Current Inventory (May 2026)
-
-| Collection | Suttas / Texts | Layers |
+| Nikāya | Suttas in vault | Layers |
 |---|---|---|
-| Dīgha Nikāya | 8 suttas | Mūla + Aṭṭhakathā + Ṭīkā |
-| Majjhima Nikāya | 22 suttas | Mūla + Aṭṭhakathā + Ṭīkā |
-| Saṃyutta Nikāya | 11 saṃyuttas (225 suttas) | Mūla + Aṭṭhakathā + Ṭīkā |
-| Aṅguttara Nikāya | 35 sutta groups (~662 suttas) | Mūla + Aṭṭhakathā + Ṭīkā |
-| Dhammapada | 423 verses (26 vaggas) | Mūla + Aṭṭhakathā |
-| Udāna | 80 suttas (8 vaggas) | Mūla + Aṭṭhakathā |
-| Itivuttaka | 112 suttas (4 nipātas) | Mūla + Aṭṭhakathā |
-| Sutta Nipāta | 73 suttas (5 chapters) | Mūla + Aṭṭhakathā |
-| Theragāthā | 203 poems (21 nipātas) | Mūla |
-| Therīgāthā | 73 poems (16 nipātas) | Mūla |
-| Vinaya Piṭaka | Bhikkhu + Bhikkhunī Pātimokkha | Selected rules |
-| **Mātikā lists** | **22 lists** | Pali + English, fully cross-linked |
+| Dīgha Nikāya | [8 suttas](mula/sutta/digha_nikaya/) | Mūla + Aṭṭhakathā + Ṭīkā |
+| Majjhima Nikāya | [22 suttas](mula/sutta/majjhima_nikaya/) | Mūla + Aṭṭhakathā + Ṭīkā |
+| Saṃyutta Nikāya | [11 saṃyuttas (225 suttas)](mula/sutta/samyutta_nikaya/) | Mūla + Aṭṭhakathā + Ṭīkā |
+| Aṅguttara Nikāya | [35 groups (~662 suttas)](mula/sutta/anguttara_nikaya/) | Mūla + Aṭṭhakathā + Ṭīkā |
+| Dhammapada | [423 verses, 26 vaggas](mula/sutta/khuddaka_nikaya/dhammapada/) | Mūla + Aṭṭhakathā |
+| Udāna | [80 suttas](mula/sutta/khuddaka_nikaya/) | Mūla + Aṭṭhakathā |
+| Itivuttaka | [112 suttas](mula/sutta/khuddaka_nikaya/itivuttaka/) | Mūla + Aṭṭhakathā |
+| Sutta Nipāta | [73 suttas, 5 chapters](mula/sutta/khuddaka_nikaya/sutta_nipata/) | Mūla + Aṭṭhakathā |
+| Theragāthā | [203 poems](mula/sutta/khuddaka_nikaya/theragatha/) | Mūla |
+| Therīgāthā | [73 poems](mula/sutta/khuddaka_nikaya/therigatha/) | Mūla |
+| Vinaya Piṭaka | [Bhikkhu + Bhikkhunī Pātimokkha](mula/vinaya/) | Selected rules + Kaṅkhāvitaraṇī |
+| **Visuddhimagga** | [Chapters VIII & XI](pakarana/visuddhimagga/) | Pakaraṇa (Buddhaghosa) |
+| **Mātikā lists** | [22 lists](matika/) | Pali + English, fully cross-linked |
 
-Total: ~1,162 validated Markdown files, ~14,000 internal wikilinks, 0 broken links.
+**~1,200 Markdown files · ~15,200 wikilinks · 0 broken links**
 
-### Practice Infrastructure
+---
 
-- **`paths/`** — Thematic reading sequences organized by practice domain (entering jhāna, vipassanā, brahmavihāra, gradual training, maraṇasati, anussati, paritta)
-- **`paritta/`** — Protective chanting texts in recitation order
-- **`practice/`** — Meditation session log, verse memorization tracker, daily practice dashboard
-- **`matika/`** — Individual sub-files for all 22 lists and all 8 Noble Eightfold Path factors
-- **Obsidian plugins** — Simsapa DPD (double-click Pali word lookup), Dataview (live query tables), Templater, CSS translation toggle (hide English to read Pali only)
+## Practice & Study Support
+
+### Seven Practice Domains
+Content is organized around seven practice domains. Each has a dedicated reading path in [`paths/`](paths/):
+
+| Domain | Key suttas | Reading path |
+|---|---|---|
+| Jhāna | [MN 118](mula/sutta/majjhima_nikaya/mn118.md), [AN 9.36](mula/sutta/anguttara_nikaya/an9_36.md), [MN 111](mula/sutta/majjhima_nikaya/mn111.md) | [Entering Jhāna](paths/entering_jhana_path.md) |
+| Vipassanā | [MN 10](mula/sutta/majjhima_nikaya/mn10.md), [DN 22](mula/sutta/digha_nikaya/dn22.md), [MN 148](mula/sutta/majjhima_nikaya/mn148.md) | [Vipassanā Practice](paths/vipassana_practice.md) |
+| Brahmavihāra | [MN 7](mula/sutta/majjhima_nikaya/mn7.md), [DN 13](mula/sutta/digha_nikaya/dn13.md), [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md) | [Brahmavihāra](paths/brahmavihara_cultivation.md) |
+| Anussati | [AN 6.10](mula/sutta/anguttara_nikaya/an6_10.md), [AN 11.12](mula/sutta/anguttara_nikaya/an11_12.md) | [Anussati Practice](paths/anussati_practice.md) |
+| Gradual Training | [MN 27](mula/sutta/majjhima_nikaya/mn27.md), [DN 2](mula/sutta/digha_nikaya/dn2.md), [AN 8.54](mula/sutta/anguttara_nikaya/an8_54.md) | [Gradual Training](paths/gradual_training_path.md) |
+| Maraṇasati | [AN 6.19](mula/sutta/anguttara_nikaya/an6_19.md), [AN 6.20](mula/sutta/anguttara_nikaya/an6_20.md) | [Maraṇasati](paths/maranasati_path.md) |
+| Paritta | [Snp 1.8](mula/sutta/khuddaka_nikaya/sutta_nipata/snp1_8.md), [Snp 2.1](mula/sutta/khuddaka_nikaya/sutta_nipata/snp2_1.md) | [Paritta Index](paritta/INDEX.md) |
+
+Three additional **question-driven paths** answer specific practice situations:
+[Working with the Hindrances](paths/working_with_hindrances.md) ·
+[Working with Anger](paths/working_with_anger.md) ·
+[Understanding Craving](paths/understanding_craving.md)
+
+### The Mātikā Web
+Twenty-two canonical Buddhist lists — [Four Noble Truths](matika/four_noble_truths.md), [Noble Eightfold Path](matika/noble_eightfold_path.md), [Five Aggregates](matika/five_aggregates.md), [Seven Awakening Factors](matika/seven_awakening_factors.md), and 18 more — each link forward to every sutta in the vault that treats that doctrine, and every sutta links back. Start at any list, navigate to the canonical treatments; start at any sutta, follow its doctrinal threads outward.
+
+### NLP Reading Aids (pali-nlp companion)
+A separate [`pali-nlp`](https://github.com/roydsouza/pali-nlp) repository processes the vault corpus and writes reading aids back in:
+
+- **Vocabulary callouts** — every mūla sutta has a collapsible `[!NOTE]- Vocabulary` block at the bottom listing the 60 rarest Pali headwords with DPD glosses (508 suttas updated)
+- **[Graded reader](paths/graded_reader.md)** — 518 suttas ranked easiest to hardest by lexical difficulty; a structured reading ladder for Pali learners
+- **DPD double-click lookup** — Simsapa plugin: double-click any bold Pali word to open the Digital Pāli Dictionary sidebar
+
+### Study Tools
+- [People index](people/) — Prosopography: Sāriputta, Ānanda, Mahāmoggallāna, and others, each linked to every sutta they appear in
+- [Places index](places/) — Geographic index: Sāvatthī, Rājagaha, Vesālī, and others
+- [Simile Index](meta/SIMILES.md) — Cross-referenced catalogue of the canon's major similes
+- [Pericope Concordance](meta/PERICOPES.md) — Map of repeated stock formulas (jhāna cadences, dependent origination chains)
+- [Paritta texts](paritta/) — Continuous Pali-only recitation texts for protective chanting
+
+---
+
+## Tutorials
+
+The [`tutorial/`](tutorial/) folder contains six integrated practice tutorials — written *inside* the vault rather than as external documentation, so every step links directly to the relevant sutta, commentary, or mātikā note:
+
+| Tutorial | What it covers |
+|---|---|
+| [01 — Sitting with the Ānāpānasati Sutta](tutorial/01_breath_practice.md) | The sixteen steps, how to use the commentary, how to carry it into a sitting session |
+| [02 — Satipaṭṭhāna as a Practice Map](tutorial/02_satipatthana_as_map.md) | Four foundations, the refrain, MN 10 vs DN 22 |
+| [03 — The Three Layers](tutorial/03_reading_the_layers.md) | When and how to use commentary and sub-commentary |
+| [04 — Following a Doctrine](tutorial/04_matika_web.md) | Using the mātikā web as a live practice tool |
+| [05 — Reading Pali](tutorial/05_pali_reading.md) | Toggle, DPD, vocabulary callouts, graded reader |
+| [06 — Building a Sustained Practice](tutorial/06_building_a_practice.md) | Reading paths and long-term practice structure |
+
+→ **[Open the tutorial index in Obsidian](tutorial/INDEX.md)**
 
 ---
 
 ## Design Principles
 
-**Practice first, study second.** Content decisions are guided by seven practice domains in priority order: Jhāna, Vipassanā, Brahmavihāra, Anussati, Gradual Training, Maraṇasati, and Paritta. A sutta is added because a practitioner working in the Theravāda tradition needs it — not to fill gaps in coverage.
+**Practice first, study second.** A sutta is added because a practitioner working in the Theravāda tradition needs it — not to fill gaps in coverage. Seven practice domains set the priority order; everything else follows.
 
-**Three-layer or nothing.** A sutta without its commentary is half a text. The mūla/atthakathā/ṭīkā structure is the unit of work. Commentary paragraphs are cross-linked to root-text paragraphs at the `§NNN` level so study stays in context.
+**Four layers, not one.** Mūla for practice, Aṭṭhakathā for precision, Ṭīkā for edge cases, Pakaraṇa (Visuddhimagga) for systematic synthesis. Commentary paragraphs are cross-linked to root-text paragraphs at the `§NNN` level so study stays in context.
 
-**Markdown-native.** No plugins required to read the texts. No database. No server. An Obsidian vault is a folder of plain `.md` files; this one will be readable by any Markdown editor, even if the cross-links require Obsidian to navigate.
+**Markdown-native.** An Obsidian vault is a folder of plain `.md` files. No database, no server, no lock-in. Every file is readable in any Markdown editor; the cross-links and plugins enhance the experience but are not required to read the texts.
 
-**One canonical translation.** Sujato's SuttaCentral translations (CC0) are the authoritative English text. No AI translation is layered over them.
+**One canonical translation.** [Bhikkhu Sujato's SuttaCentral translations](https://suttacentral.net) (CC0) are the authoritative English text. No AI translation is layered over them.
 
 ---
 
@@ -76,7 +130,8 @@ Total: ~1,162 validated Markdown files, ~14,000 internal wikilinks, 0 broken lin
 
 ```
 pali_canon/
-├── mula/            # Root texts (interleaved Pali/English)
+├── INDEX.md             ← Vault home — start here in Obsidian
+├── mula/                # Root texts (interleaved Pali/English)
 │   ├── sutta/
 │   │   ├── digha_nikaya/
 │   │   ├── majjhima_nikaya/
@@ -84,27 +139,31 @@ pali_canon/
 │   │   ├── anguttara_nikaya/
 │   │   └── khuddaka_nikaya/
 │   └── vinaya/
-├── atthakatha/      # Classical commentaries (CSCD Pali, §-anchored)
-├── tika/            # Classical sub-commentaries (CSCD Pali, §-anchored)
-├── matika/          # Doctrinal cross-reference lists (22 lists + sub-files)
-├── paths/           # Thematic reading sequences
-├── paritta/         # Protective chanting index
-├── practice/        # Meditation log, memorization tracker
-├── templates/       # Obsidian Templater templates
-├── meta/            # Project coordination (TASKS, ROADMAP, STATUS, SYNC_LOG)
-└── scratch/         # Python tooling (generators, validators, crosslinkers)
-    ├── generators/
-    ├── crosslinkers/
-    ├── inspect/
-    ├── lib/
-    └── tests/
+├── atthakatha/          # Classical commentaries (CSCD Pali, §-anchored)
+├── tika/                # Classical sub-commentaries (CSCD Pali, §-anchored)
+├── pakarana/            # Post-canonical treatises (Visuddhimagga)
+├── matika/              # 22 doctrinal lists + 8 path-factor sub-files
+├── paths/               # 7 practice-domain + 3 question-driven reading sequences
+├── tutorial/            # 6 integrated practice tutorials
+├── paritta/             # Protective chanting texts (continuous Pali)
+├── practice/            # Meditation log, memorization tracker, practice dashboard
+├── people/              # Prosopography index
+├── places/              # Geographic index
+├── meta/                # TASKS, ROADMAP, STATUS, SYNC_LOG, SIMILES, PERICOPES
+├── templates/           # Obsidian Templater templates
+└── scratch/             # Python tooling
+    ├── generators/      #   Sutta file generators (SuttaCentral API + CSCD XML)
+    ├── crosslinkers/    #   Paragraph-level commentary alignment
+    ├── inspect/         #   Frontmatter linter, link validator
+    ├── lib/             #   Shared utilities (pali_utils.py)
+    └── tests/           #   Unit tests (run before every commit)
 ```
 
 ---
 
 ## Tooling
 
-All scripts live in `scratch/` and require Python 3.10+. Set `PALI_VAULT` to the vault root before running.
+All scripts require Python 3.11+. Set `PALI_VAULT` to the vault root:
 
 ```bash
 export PALI_VAULT=/path/to/pali_canon
@@ -112,49 +171,42 @@ export PALI_VAULT=/path/to/pali_canon
 
 | Script | Purpose |
 |---|---|
-| `scratch/validate_links.py` | Validate all wikilinks and HTML links vault-wide (must be 0 errors before every commit) |
-| `scratch/tests/run_all_tests.py` | Run the full unit-test suite (must all pass before every commit) |
-| `scratch/generators/generate_sutta.py` | Generate mūla + atthakathā + ṭīkā files for any sutta ID via SuttaCentral API + CSCD XML cache |
-| `scratch/crosslinkers/crosslink_generic.py` | Inject paragraph-level cross-links between commentary and root text |
-| `scratch/lib/pali_utils.py` | Shared utilities: XML parsing, frontmatter I/O, Pali normalization |
+| [`scratch/validate_links.py`](scratch/validate_links.py) | Validate all wikilinks vault-wide — must be 0 errors before every commit |
+| [`scratch/tests/run_all_tests.py`](scratch/tests/run_all_tests.py) | Full unit-test suite — must all pass before every commit |
+| [`scratch/generators/generate_sutta.py`](scratch/generators/generate_sutta.py) | Generate mūla + atthakathā + ṭīkā for any sutta ID via SuttaCentral API + CSCD XML |
+| [`scratch/crosslinkers/crosslink_generic.py`](scratch/crosslinkers/crosslink_generic.py) | Inject paragraph-level cross-links between commentary and root text |
+| [`scratch/lib/pali_utils.py`](scratch/lib/pali_utils.py) | Shared utilities: XML parsing, frontmatter I/O, Pali normalization |
 
-A git pre-commit hook runs the link validator automatically. Never commit with `--no-verify`.
+A git pre-commit hook (`scratch/validate_links.py`) runs automatically on every commit. A `post-commit` hook pushes to `origin/main`. Never commit with `--no-verify`.
+
+The companion **[pali-nlp](https://github.com/roydsouza/pali-nlp)** repository handles corpus analysis and writes vocabulary/grading artefacts back into the vault.
 
 ---
 
-## Where This Is Going
+## Roadmap
 
-### Near-Term: Phase 16 — Study Station Enhancements
+### Done
+- ✅ Phases 1–16: All practice-domain suttas (three layers), 22 mātikā lists, 10 reading paths, prosopography, simile index, pericope concordance, parallel texts, Vinaya, Abhidhamma stubs
+- ✅ Phase 17 Stage 1: pali-nlp companion — vocabulary callouts (508 suttas), graded reader (518 suttas), DPD lemmatizer
+- ✅ Tutorial series: 6 integrated practice tutorials in `tutorial/`
+- ✅ Visuddhimagga: Chapters VIII (ānāpānasati) and XI (jhānas) in `pakarana/`
 
-These are vault-internal improvements that deepen the reading environment without adding new raw texts:
+### In Progress / Planned
+- Phase 17 Stage 1D: SRS vocabulary card generation
+- Phase 17 Stage 2: Concordance index, NER → prosopography
+- Phase 17 Stage 3: Local vector search + RAG
+- Visuddhimagga: Remaining samādhi chapters (III–VII, IX–X) and wisdom section (XIV–XXII)
+- Phase 21 (gated): Systematic canonical breadth expansion — begins only after practice domains feel saturated
 
-- **Prosopography** — Manual index notes for key persons (`people/`) and places (`places/`) appearing across the suttas, with links to every sutta they appear in
-- **Simile Index** — A cross-referenced catalogue of the canon's major similes (the raft, the blind men, the elephant footprint, the lute strings, …) linking to their source suttas
-- **Pericope Concordance** — A map of the canon's repeated stock formulas (jhāna cadences, dependent origination chains, the gradual training sequence) with links to every occurrence
-- **Parallel-Texts Layer** — SuttaCentral parallel IDs injected into frontmatter and surfaced via Dataview, so each sutta shows its Chinese/Sanskrit parallels
-- **Question-Driven Paths** — New thematic reading paths answering practice questions: *"working with anger"*, *"facing death"*, *"understanding craving"*
-
-### Medium-Term: Phase 17 — Pali NLP Companion (External Repo)
-
-A separate `pali-nlp` repository will treat this vault as its corpus and write reading aids back into it. The vault itself remains plain Markdown; the NLP system produces artifacts — vocabulary concordance tables, spaced-repetition cards, concordance index pages — that are committed back as ordinary notes.
-
-Planned stages:
-1. **Graded Reader** — Lemmatize tokens against the Digital Pāli Dictionary (DPD) SQLite database; append per-sutta vocabulary tables; build a reading ladder ordered by lexical difficulty
-2. **Linguistic Pipeline** — Offline concordance and collocation search; NER tagger to auto-populate prosopography pages
-3. **Semantic Search & RAG** — Local-first vector search with citation links to `§NNN` paragraph anchors; offline LLM generation (MLX/llama.cpp) as the default backend
-4. **Performance Porting** — Tokenizer and sandhi-splitting layers rewritten in Rust for the M-series hardware
-
-### Longer-Term: Abhidhamma and Fuller Vinaya
-
-The Abhidhammatthasaṅgaha (Bhikkhu Bodhi's manual) and a fuller Vinaya index are conditional additions — only if the canonical sutta content reaches saturation in actual practice use.
+See [`meta/TASKS.md`](meta/TASKS.md) and [`meta/ROADMAP.md`](meta/ROADMAP.md) for granular tracking.
 
 ---
 
 ## What This Is Not
 
-- **Not a public resource.** The vault is personal; format and density are optimized for one reader.
+- **Not a public resource.** Format and density are optimized for one reader.
 - **Not an academic database.** No paper annotations, citation management, or research metadata.
-- **Not a translation project.** Sujato's translations are the text; this vault adds structure and commentary, not new English renderings.
+- **Not a translation project.** Sujato's translations are the text; this vault adds structure and commentary.
 - **Not mobile-first or cloud-synced.** Designed for a single macOS machine with local storage.
 
 ---
@@ -163,19 +215,22 @@ The Abhidhammatthasaṅgaha (Bhikkhu Bodhi's manual) and a fuller Vinaya index a
 
 | Source | Usage | License |
 |---|---|---|
-| SuttaCentral / Bilara | Mūla segments + Sujato translations | CC0 |
-| CSCD (tipitaka.org) | Commentary and sub-commentary XML | — (personal use; cached in `scratch/xml_cache/`, git-ignored) |
-| Digital Pāli Dictionary (DPD) | Lexicon SQLite for the NLP companion | Mixed CC0 / CC BY-NC-SA (git-ignored; verify before redistribution) |
+| [SuttaCentral / Bilara](https://github.com/suttacentral/bilara-data) | Mūla segments + Sujato translations | CC0 |
+| [CSCD (tipitaka.org)](https://tipitaka.org) | Commentary and sub-commentary XML | Personal use; cached in `scratch/xml_cache/` (git-ignored) |
+| [Digital Pāli Dictionary](https://digitalpalidictionary.github.io) | Lexicon SQLite for pali-nlp | Mixed CC0 / CC BY-NC-SA (git-ignored) |
 
-Audio files, the XML cache, and the DPD database are all git-ignored and must not be committed.
+Audio files, the XML cache, and the DPD database are git-ignored and must not be committed.
 
 ---
 
 ## Coordination
 
-Active session work is tracked in `meta/`:
+Multi-agent session work is tracked in [`meta/`](meta/):
 
-- `meta/TASKS.md` — Granular task checklist; never mark done unless verified
-- `meta/ROADMAP.md` — Phase sequencing with evaluation checkpoints
-- `meta/STATUS.md` — Vault metrics snapshot
-- `meta/SYNC_LOG.md` — Timestamped session log (ISO-8601 with UTC offset); entries older than 30 days rotate to `meta/sync_archive/`
+| File | Purpose |
+|---|---|
+| [`meta/TASKS.md`](meta/TASKS.md) | Granular task checklist — never mark done unless verified |
+| [`meta/ROADMAP.md`](meta/ROADMAP.md) | Phase sequencing with evaluation checkpoints |
+| [`meta/STATUS.md`](meta/STATUS.md) | Vault metrics snapshot |
+| [`meta/SYNC_LOG.md`](meta/SYNC_LOG.md) | Timestamped session log; entries >30 days rotate to `meta/sync_archive/` |
+| [`CLAUDE.md`](CLAUDE.md) | Agent guardrails — read before making any changes |

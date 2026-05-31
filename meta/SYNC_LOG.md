@@ -1,5 +1,37 @@
 # Sync Log
 
+## [2026-05-30 — Phase 19: Tutorials, Pakaraṇa, UX Fixes, README Overhaul (Claude Sonnet 4.6)]
+
+### Accomplishments
+
+**Tutorial series (Phase 19)**
+- Created `tutorial/` with six integrated practice tutorials: breath practice (MN 118 / Vsm Ch. VIII), satipaṭṭhāna as practice map (MN 10 / DN 22), three-layer navigation, mātikā web, Pali reading tools, building a sustained practice
+- Contextual `[!INFO]` callouts added to MN 118 and MN 10 mūla files linking to tutorials and quick-access wikilinks
+- "New here?" entry point added to INDEX.md
+
+**Pakaraṇa layer (Phase 19)**
+- Created `pakarana/` as a fourth textual tier (post-canonical treatises)
+- Visuddhimagga Chapters VIII (Ānāpānasatikathā) and XI (Samādhikathā) — section-by-section with key Pali terms, collapsed `[!QUOTE]` blocks for Bhikkhu Bodhi translation, full cross-links
+- `pakarana/INDEX.md` and `pakarana/visuddhimagga/INDEX.md` with full 23-chapter table
+- Vsm callout added to MN 118; Pakaraṇa entry added to INDEX.md card
+
+**INDEX.md UX fixes**
+- Replaced Dataview inline `$=` expressions (don't render in HTML) with hardcoded counts
+- Made all four card badges clickable links (Mūla, Aṭṭhakathā & Tīkā, Mātikā, Practice Center)
+- Added `TestIndexDashboard` unit tests to pre-commit suite (3 tests; 13 total now)
+- Deleted obsolete `START.md` bootstrap prompt
+
+**README overhaul**
+- Rewrote README.md to reflect current vault state: 5 text layers, updated inventory (~1,200 files, ~15,200 links), tutorial table, pali-nlp companion section, full repository layout, links throughout
+- Prominent Obsidian entry-point nudge at top: "your entry point is INDEX.md"
+
+### Vault State
+- **Validator**: 15,235 wikilinks / **0 errors** ✅
+- **Unit tests**: 13/13 pass ✅
+- **Git**: Clean on `main`, fully pushed to `https://github.com/roydsouza/pali-canon.git`
+
+---
+
 ## [2026-05-30 — Phase 17 Stage 1 Complete: Vocabulary Tables + Graded Reader (Claude Sonnet 4.6)]
 
 ### Accomplishments
