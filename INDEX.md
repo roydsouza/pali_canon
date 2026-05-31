@@ -30,6 +30,7 @@
       <ul class="db-link-list">
         <li><a class="internal-link" href="atthakatha/INDEX.md">Aṭṭhakathā (Commentaries)</a></li>
         <li><a class="internal-link" href="tika/INDEX.md">Tīkā (Sub-commentaries)</a></li>
+        <li><a class="internal-link" href="pakarana/INDEX.md">Pakaraṇa (Treatises — Visuddhimagga)</a></li>
         <li><a class="internal-link" href="mula/vinaya/INDEX.md">Vinaya Piṭaka (Monastic Rules)</a></li>
         <li><a class="internal-link" href="people/INDEX.md">People (Prosopography)</a> &amp; <a class="internal-link" href="places/INDEX.md">Places (Geography)</a></li>
       </ul>
